@@ -23,11 +23,11 @@ sed -i "/live_tvi_ficcao/ c https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_
 
 # TVI AFRICA - update the stream URL of TVI AFRICA
 
-sed -i "/live_tvi_africa/ c https://video-auth1.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-720p/chunks.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
+sed -i "/live_tvi_africa/ c https://video-auth1.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
 
 # TVI REALITY - update the stream URL of TVI REALITY
 
-sed -i "/live_tvi_reality/ c https://video-auth1.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720p/chunks.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
+sed -i "/live_tvi_reality/ c https://video-auth1.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" m3upt.m3u
 
 
 
