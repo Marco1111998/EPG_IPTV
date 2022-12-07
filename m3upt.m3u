@@ -3,33 +3,33 @@
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth1.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
 
 #EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN PORTUGAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth1.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI INTERNACIONAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth1.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI FICCAO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Africa.png",TVI AFRICA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth1.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
+https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
 
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI REALITY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth1.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
+https://video-auth1.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDQ6MjU6NTAgUE0maGFzaF92YWx1ZT15dHEvQnFYTkJSTDIwSkI2ZWhzdTVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0NDg2MGMtYmQ2Yi00YzE4LTk0ZDItOWYxYjA2MzVkZjU0/
 
 
 
