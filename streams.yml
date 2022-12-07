@@ -21,6 +21,6 @@ jobs:
       - name: commit
         run: |
           git pull
-          git add daily_pt.m3u
+          git add m3upt.m3u
           git commit -m "Update streams"
           git push origin main
