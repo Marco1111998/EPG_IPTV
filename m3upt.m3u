@@ -5,17 +5,16 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDg6MTg6MTMgUE0maGFzaF92YWx1ZT1wRU5qWlZYZkdpM2pxSmRIbHVtYzBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTEyYTQwOGQtZGYyMS00ZTNiLWJlM2MtNDQzYTkxYzYwMzg2/
 
-#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN PORTUGAL
+#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDg6MTg6MTMgUE0maGFzaF92YWx1ZT0yWTBzU0t5eFd5WG9JOGh3R0NnOXVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzY5ZmMxZDMtZjZjYi00MDdjLTliZGEtN2Y4MmFlMjUwNjJj/
 
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI INTERNACIONAL
+#EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDIyIDg6MTg6MTQgUE0maGFzaF92YWx1ZT01YkQyVURDeTJocTJxUUMyUXJxWXF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODhiM2ZhYTctNDRkYS00MGVjLWJlMTMtNGQ2ZDhmNTg2OWQw/
-
 
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC INTERNACIONAL" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2018/10/sic-internacional-logotipo-2019.png",SIC INTERNACIONAL
