@@ -3,18 +3,18 @@
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMiAxMToxMjo0MyBQTSZoYXNoX3ZhbHVlPUxreXc1YkQxK3plWmN4V2xnSDNJSVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZmZjYWQ2Yy0xM2RiLTQ2YjUtOTVjNC04ZTVkODM0ZDdjZDk=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiAxOjY6NSBBTSZoYXNoX3ZhbHVlPTdMMFpTaEtzWEtMa0JIWFd4UjVJSVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MGI3NGQxMy03ZWQwLTQxMDktOTY3NS04MDMyYWYyM2U0MDc=/
 
 #EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMiAxMToxMjo0MyBQTSZoYXNoX3ZhbHVlPWQxWmZRZjYrb3VHSWRPUGx1OFYzN3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMGM5YzMwYy1mMDVhLTQxNzktOTM2My02ZmQzNDI5YmE5MzM=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiAxOjY6NiBBTSZoYXNoX3ZhbHVlPWhVVk1aMDVSeEVudWE0WklVSnliWXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZWNjMmM1ZC0yMzU2LTRkMTUtYjZhMS0wZGM3MzAxOTU5ZGM=/
 
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMiAxMToxMjo0NCBQTSZoYXNoX3ZhbHVlPUZjRmZjM3FLNTRjck9IcGVUcCtTaFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00ZjFkOWJkOS1jNjM5LTRiYWYtYTY0NS1hMmEyOTExZTQyMmI=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiAxOjY6NiBBTSZoYXNoX3ZhbHVlPTZTQ1dxZTRUOEhya1JpeVNxSzUwdVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zNzQ3MmY4Ny04NGNiLTRhYjktOGVlMy0yYmUxOWViNGY3OTM=/
 
 
 #EXTINF:-1 group-title="TV" tvg-id="SIC INTERNACIONAL" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2018/10/sic-internacional-logotipo-2019.png",SIC INTERNACIONAL
