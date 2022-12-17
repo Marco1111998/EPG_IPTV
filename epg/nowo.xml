@@ -37,6 +37,22 @@
     <display-name lang="pt">GLOBO</display-name>
     <icon src="https://www.meo.pt/PublishingImages/canais/globo.png" />
   </channel>
+  <channel id="SportTVPlus.pt">
+    <display-name lang="pt">SPORT TV +</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv+.png" />
+  </channel>
+  <channel id="Canal11.pt">
+    <display-name lang="pt">CANAL 11</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/c-11.png" />
+  </channel>
+  <channel id="CanalQ.pt">
+    <display-name lang="pt">CANAL Q</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/q.png" />
+  </channel>  
+  <channel id="ABolaTV.pt">
+    <display-name lang="pt">A BOLA TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" />
+  </channel>
   <channel id="TVIFiccao.pt">
     <display-name lang="pt">TVI FICCAO</display-name>
     <icon src="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" />
@@ -1483,6 +1499,44 @@ Globo Portugal
   <programme start="20221218093000 +0000" stop="20221218150000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
   <programme start="20221218150000 +0000" stop="20221218200000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
   <programme start="20221218200000 +0000" stop="20221218203000 +0000" channel="RedeGlobo.br"><title lang="pt">Tô De Graça</title></programme>
-  <programme start="20221218203000 +0000" stop="20221219145000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>	
+  <programme start="20221218203000 +0000" stop="20221219145000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+	
+  SPORT TV +
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="SportTVPlus.pt"><title lang="pt">SPORT TV +</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="SportTVPlus.pt"><title lang="pt">SPORT TV +</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="SportTVPlus.pt"><title lang="pt">SPORT TV +</title></programme> 
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="SportTVPlus.pt"><title lang="pt">SPORT TV +</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="SportTVPlus.pt"><title lang="pt">SPORT TV +</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="SportTVPlus.pt"><title lang="pt">SPORT TV +</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="SportTVPlus.pt"><title lang="pt">SPORT TV +</title></programme>
+
+ 
+Canal 11
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="Canal11.pt"><title lang="pt">Canal 11</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="Canal11.pt"><title lang="pt">Canal 11</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="Canal11.pt"><title lang="pt">Canal 11</title></programme>
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="Canal11.pt"><title lang="pt">Canal 11</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="Canal11.pt"><title lang="pt">Canal 11</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="Canal11.pt"><title lang="pt">Canal 11</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="Canal11.pt"><title lang="pt">Canal 11</title></programme>
+
+CANAL Q
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="CanalQ.pt"><title lang="pt">CANAL Q</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="CanalQ.pt"><title lang="pt">CANAL Q</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="CanalQ.pt"><title lang="pt">CANAL Q</title></programme>
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="CanalQ.pt"><title lang="pt">CANAL Q</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="CanalQ.pt"><title lang="pt">CANAL Q</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="CanalQ.pt"><title lang="pt">CANAL Q</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="CanalQ.pt"><title lang="pt">CANAL Q</title></programme>
+
+
+A BOLA TV
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="ABolaTV.pt"><title lang="pt">A BOLA TV</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="ABolaTV.pt"><title lang="pt">A BOLA TV</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="ABolaTV.pt"><title lang="pt">A BOLA TV</title></programme>
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="ABolaTV.pt"><title lang="pt">A BOLA TV</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="ABolaTV.pt"><title lang="pt">A BOLA TV</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="ABolaTV.pt"><title lang="pt">A BOLA TV</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="ABolaTV.pt"><title lang="pt">A BOLA TV</title></programme>	
 
 </tv>
