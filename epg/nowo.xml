@@ -200,8 +200,112 @@
   <programme start="20221219213000 +0000" stop="20221219224500 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
   <programme start="20221219224500 +0000" stop="20221219234500 +0000" channel="RTP1.pt"><title lang="pt">O Ano Da Morte De Ricardo Reis</title></programme>
   <programme start="20221219234500 +0000" stop="20221220013000 +0000" channel="RTP1.pt"><title lang="pt">Catar 2022 - Noites Do Mundial</title></programme>
-	
-	
+  <!-- Terça-Feira -->
+  <programme start="20221220013000 +0000" stop="20221220023000 +0000" channel="RTP1.pt"><title lang="pt">Tubarões Do Norte Gelado</title></programme> 
+  <programme start="20221220023000 +0000" stop="20221220040000 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>   
+  <programme start="20221220040000 +0000" stop="20221220060900 +0000" channel="RTP1.pt"><title lang="pt">Televendas</title></programme>
+  <programme start="20221220060900 +0000" stop="20221220063000 +0000" channel="RTP1.pt"><title lang="pt">Manchetes 3</title></programme>
+  <programme start="20221220063000 +0000" stop="20221220100000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal</title></programme>
+  <programme start="20221220100000 +0000" stop="20221220125900 +0000" channel="RTP1.pt"><title lang="pt">Praça da Alegria</title></programme>
+  <programme start="20221220125900 +0000" stop="20221220141500 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme>
+  <programme start="20221220141500 +0000" stop="20221220150500 +0000" channel="RTP1.pt"><title lang="pt">Os Nossos Dias</title></programme>
+  <programme start="20221220150500 +0000" stop="20221220173000 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>
+  <programme start="20221220173000 +0000" stop="20221220190000 +0000" channel="RTP1.pt"><title lang="pt">Portugal em Direto</title></programme>
+  <programme start="20221220190000 +0000" stop="20221220195900 +0000" channel="RTP1.pt"><title lang="pt">O Preço Certo</title></programme>
+  <programme start="20221220195900 +0000" stop="20221220210000 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
+  <programme start="20221220210000 +0000" stop="20221220220000 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
+  <programme start="20221220220000 +0000" stop="20221220234500 +0000" channel="RTP1.pt"><title lang="pt">É Ou Não É? - O Grande Debate</title></programme>
+  <programme start="20221220234500 +0000" stop="20221221011500 +0000" channel="RTP1.pt"><title lang="pt">Catar 2022 - Noites Do Mundial</title></programme>
+ 
+<!-- Quarta-Feira -->
+  <programme start="20221221011500 +0000" stop="20221221024500 +0000" channel="RTP1.pt"><title lang="pt">Tralala</title></programme>
+  <programme start="20221221024500 +0000" stop="20221221033000 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>
+  <programme start="20221221033000 +0000" stop="20221221034500 +0000" channel="RTP1.pt"><title lang="pt">Europa Minha</title></programme>
+  <programme start="20221221034500 +0000" stop="20221221060900 +0000" channel="RTP1.pt"><title lang="pt">Televendas</title></programme>
+  <programme start="20221221060900 +0000" stop="20221221063000 +0000" channel="RTP1.pt"><title lang="pt">Manchetes 3</title></programme>
+  <programme start="20221221063000 +0000" stop="20221221100000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal</title></programme>
+  <programme start="20221221100000 +0000" stop="20221221125900 +0000" channel="RTP1.pt"><title lang="pt">Praça da Alegria</title></programme>
+  <programme start="20221221125900 +0000" stop="20221221141500 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme>
+  <programme start="20221221141500 +0000" stop="20221221150500 +0000" channel="RTP1.pt"><title lang="pt">Os Nossos Dias</title></programme>
+  <programme start="20221221150500 +0000" stop="20221221173000 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>
+  <programme start="20221221173000 +0000" stop="20221221190000 +0000" channel="RTP1.pt"><title lang="pt">Portugal em Direto</title></programme>
+  <programme start="20221221190000 +0000" stop="20221221195900 +0000" channel="RTP1.pt"><title lang="pt">O Preço Certo</title></programme>
+  <programme start="20221221195900 +0000" stop="20221221204500 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
+  <programme start="20221221210000 +0000" stop="20221221220000 +0000" channel="RTP1.pt"><title lang="pt">A Traição Do Padre Martinho</title></programme>
+  <programme start="20221221220000 +0000" stop="20221221230000 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
+  <programme start="20221221230000 +0000" stop="20221222000000 +0000" channel="RTP1.pt"><title lang="pt">Cá Por Casa Com Herman José</title></programme>
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222013000 +0000" channel="RTP1.pt"><title lang="pt">Catar 2022 - Noites Do Mundial</title></programme>
+  <programme start="20221222013000 +0000" stop="20221222021500 +0000" channel="RTP1.pt"><title lang="pt">Janela Indiscreta</title></programme>
+  <programme start="20221222021500 +0000" stop="20221222040000 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>
+  <programme start="20221222040000 +0000" stop="20221222060900 +0000" channel="RTP1.pt"><title lang="pt">Televendas</title></programme>
+  <programme start="20221222060900 +0000" stop="20221222063000 +0000" channel="RTP1.pt"><title lang="pt">Manchetes 3</title></programme>
+  <programme start="20221222063000 +0000" stop="20221222100000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal</title></programme>
+  <programme start="20221222100000 +0000" stop="20221222125900 +0000" channel="RTP1.pt"><title lang="pt">Praça da Alegria</title></programme>
+  <programme start="20221222125900 +0000" stop="20221222141500 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme>
+  <programme start="20221222141500 +0000" stop="20221222150500 +0000" channel="RTP1.pt"><title lang="pt">Os Nossos Dias</title></programme>
+  <programme start="20221222150500 +0000" stop="20221222171500 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>
+  <programme start="20221222171500 +0000" stop="20221222173000 +0000" channel="RTP1.pt"><title lang="pt">Fatura da Sorte</title></programme>
+  <programme start="20221222173000 +0000" stop="20221222190000 +0000" channel="RTP1.pt"><title lang="pt">Portugal em Direto</title></programme>
+  <programme start="20221222190000 +0000" stop="20221222195900 +0000" channel="RTP1.pt"><title lang="pt">O Preço Certo</title></programme>
+  <programme start="20221222195900 +0000" stop="20221222213000 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
+  <!-- <programme start="20221222210000 +0000" stop="20221222213000 +0000" channel="RTP1.pt"><title lang="pt">Linha da Frente</title></programme> -->
+  <programme start="20221222213000 +0000" stop="20221222223000 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
+  <programme start="20221222223000 +0000" stop="20221223000000 +0000" channel="RTP1.pt"><title lang="pt">Got Talent Portugal - Melhores Momentos</title></programme>
+  
+<!-- Sexta-Feira   -->
+  <programme start="20221223000000 +0000" stop="20221223013000 +0000" channel="RTP1.pt"><title lang="pt">Catar 2022 - Noites Do Mundial</title></programme>
+  <programme start="20221223013000 +0000" stop="20221223023000 +0000" channel="RTP1.pt"><title lang="pt">Grande Entrevista</title></programme>
+  <programme start="20221223023000 +0000" stop="20221223041500 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme> 
+  <programme start="20221223041500 +0000" stop="20221223060900 +0000" channel="RTP1.pt"><title lang="pt">Televendas</title></programme>
+  <programme start="20221223060900 +0000" stop="20221223063000 +0000" channel="RTP1.pt"><title lang="pt">Manchetes 3</title></programme>
+  <programme start="20221223063000 +0000" stop="20221223100000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal</title></programme>
+  <programme start="20221223100000 +0000" stop="20221223125900 +0000" channel="RTP1.pt"><title lang="pt">Praça da Alegria</title></programme>
+  <programme start="20221223125900 +0000" stop="20221223141500 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme>
+  <programme start="20221223141500 +0000" stop="20221223150500 +0000" channel="RTP1.pt"><title lang="pt">Os Nossos Dias</title></programme>
+  <programme start="20221223150500 +0000" stop="20221223173000 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>
+  <programme start="20221223173000 +0000" stop="20221223190000 +0000" channel="RTP1.pt"><title lang="pt">Portugal em Direto</title></programme>
+  <programme start="20221223190000 +0000" stop="20221223195900 +0000" channel="RTP1.pt"><title lang="pt">O Preço Certo</title></programme>
+  <programme start="20221223195900 +0000" stop="20221223213000 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
+  <programme start="20221223213000 +0000" stop="20221223224500 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
+  <programme start="20221223224500 +0000" stop="20221223234500 +0000" channel="RTP1.pt"><title lang="pt">Em Casa d' Amália</title></programme>
+  <programme start="20221222234500 +0000" stop="20221224011800 +0000" channel="RTP1.pt"><title lang="pt">Catar 2022 - Noites Do Mundial</title></programme>
+  
+<!-- Sábado -->
+  <programme start="20221217020000 +0000" stop="20221217030000 +0000" channel="RTP1.pt"><title lang="pt">Auga Seca</title></programme>
+  <programme start="20221217030000 +0000" stop="20221217044500 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>
+  <programme start="20221217044500 +0000" stop="20221217061600 +0000" channel="RTP1.pt"><title lang="pt">Televendas</title></programme>
+  <programme start="20221217061600 +0000" stop="20221217063000 +0000" channel="RTP1.pt"><title lang="pt">A Vida Privada dos Livros</title></programme>  
+  <programme start="20221217063000 +0000" stop="20221217080000 +0000" channel="RTP1.pt"><title lang="pt">Zig Zag</title></programme>
+  <programme start="20221217080000 +0000" stop="20221217100000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal - Fim de Semana</title></programme>
+  <programme start="20221217100000 +0000" stop="20221217110000 +0000" channel="RTP1.pt"><title lang="pt">Tubarões Do Norte Gelado</title></programme>
+  <programme start="20221217110000 +0000" stop="20221217125900 +0000" channel="RTP1.pt"><title lang="pt">Aqui Portugal</title></programme>
+  <programme start="20221217125900 +0000" stop="20221217141500 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme> 
+  <programme start="20221217141500 +0000" stop="20221217144500 +0000" channel="RTP1.pt"><title lang="pt">Voz do Cidadão</title></programme>
+  <programme start="20221217144500 +0000" stop="20221217190000 +0000" channel="RTP1.pt"><title lang="pt">Aqui Portugal</title></programme>
+  <programme start="20221217190000 +0000" stop="20221217195900 +0000" channel="RTP1.pt"><title lang="pt">O Preço Certo</title></programme>
+  <programme start="20221217195900 +0000" stop="20221217210000 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
+  <programme start="20221217210000 +0000" stop="20221217220000 +0000" channel="RTP1.pt"><title lang="pt">Viagem a Portugal</title></programme>
+  <programme start="20221217220000 +0000" stop="20221217230000 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
+  <programme start="20221217230000 +0000" stop="20221218000000 +0000" channel="RTP1.pt"><title lang="pt">Desliga a Televisão</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218020000 +0000" channel="RTP1.pt"><title lang="pt">O Carrasco</title></programme> 
+  <programme start="20221218020000 +0000" stop="20221218024500 +0000" channel="RTP1.pt"><title lang="pt">Janela Indiscreta</title></programme> 
+  <programme start="20221218024500 +0000" stop="20221218034500 +0000" channel="RTP1.pt"><title lang="pt">Tubarões Do Norte Gelado</title></programme> 
+  <programme start="20221218034500 +0000" stop="20221218060000 +0000" channel="RTP1.pt"><title lang="pt">Televendas</title></programme> 
+  <programme start="20221218060000 +0000" stop="20221218063000 +0000" channel="RTP1.pt"><title lang="pt">Todas as Palavras </title></programme> 
+  <programme start="20221218063000 +0000" stop="20221218080000 +0000" channel="RTP1.pt"><title lang="pt">Zig Zag</title></programme> 
+  <programme start="20221218080000 +0000" stop="20221218103000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal - Fim de Semana</title></programme> 
+  <programme start="20221218103000 +0000" stop="20221218122100 +0000" channel="RTP1.pt"><title lang="pt">Eucaristia Dominical</title></programme> 
+  <programme start="20221218122100 +0000" stop="20221218120000 +0000" channel="RTP1.pt"><title lang="pt">Babuínos: Uma Família Muito Selvagem</title></programme> 
+  <programme start="20221218120000 +0000" stop="20221218125900 +0000" channel="RTP1.pt"><title lang="pt">Hora dos Portugueses</title></programme> 
+  <programme start="20221218125900 +0000" stop="20221218142300 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme> 
+  <programme start="20221218142300 +0000" stop="20221218150500 +0000" channel="RTP1.pt"><title lang="pt">Faz Faísca</title></programme>
+  <programme start="20221218150500 +0000" stop="20221218195900 +0000" channel="RTP1.pt"><title lang="pt">Aqui Portugal</title> </programme>
+  <programme start="20221218195900 +0000" stop="20221218212300 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
+  <programme start="20221218212300 +0000" stop="20221219000000 +0000" channel="RTP1.pt"><title lang="pt">The Voice Portugal</title></programme>
 	
   
 </tv>
