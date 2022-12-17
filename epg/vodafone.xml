@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv>
+  <channel id="tvireality.pt">
+    <display-name lang="pt">TVI REALITY</display-name>
+    <icon src="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" />
+  </channel>
+  <channel id="ADVNCE.pt">
+	<display-name>SIC ADVNCE</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/advnce.png"/>
+  </channel>
+  <channel id="PortoCanal.pt">
+    <display-name lang="pt">PORTO CANAL</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/porto-canal.png" />
+  </channel>
+  <channel id="Eleven1.pt">
+    <display-name lang="pt">ELEVEN 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Eleven-1.png" />
+  </channel>
+  <channel id="Eleven2.pt">
+    <display-name lang="pt">ELEVEN 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Eleven-2.png" />
+  </channel>
+  <channel id="Eleven3.pt">
+    <display-name lang="pt">ELEVEN 3</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Eleven-3.png" />
+  </channel>
+  <channel id="Eleven4.pt">
+    <display-name lang="pt">ELEVEN 4</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Eleven-4.png" />
+  </channel>
+   <channel id="Eleven5.pt">
+    <display-name lang="pt">ELEVEN 5</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Eleven-5.png" />
+  </channel>
+  <channel id="Eleven6.pt">
+    <display-name lang="pt">ELEVEN 6</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Eleven-6.png" />
+  </channel>  
+  <channel id="SportTV1.pt">
+    <display-name lang="pt">SPORT TV 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv1.png" />
+  </channel>
+  <channel id="SportTV2.pt">
+    <display-name lang="pt">SPORT TV 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv2.png" />
+  </channel>
+  <channel id="SportTV3.pt">
+    <display-name lang="pt">SPORT TV 3</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv3.png" />
+  </channel>
+   <channel id="SportTV4.pt">
+    <display-name lang="pt">SPORT TV 4</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv4.png" />
+  </channel>
+  <channel id="SportTV5.pt">
+    <display-name lang="pt">SPORT TV 5</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv5.png" />
+  </channel>
+  <channel id="SportTV6.pt">
+    <display-name lang="pt">SPORT TV 6</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv6.png" />
+  </channel>  
+  <channel id="Eurosport1.fr">
+    <display-name lang="pt">EUROSPORT 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/eurosport-1.png" />
+  </channel>
+  <channel id="Eurosport2.fr">
+    <display-name lang="pt">EUROSPORT 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/eurosport-2.png" />
+  </channel>  
+  <channel id="BenficaTV.pt">
+    <display-name lang="pt">BENFICA TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/btv.png" />
+  </channel>
+  <channel id="SportingTV.pt">
+    <display-name lang="pt">SPORTING TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sporting-tv.png" />
+  </channel>  
+  <channel id="Tlc.pt">
+    <display-name lang="pt">TLC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tlc.png" />
+  </channel>
+  <channel id="Saude.pt">
+    <display-name lang="pt">SAUDE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/s-mais.png" />
+  </channel>  
+  <channel id="Mezzo.fr">
+    <display-name lang="pt">MEZZO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/mezzo.png" />
+  </channel>
+  <channel id="MTV00s.uk">
+    <display-name lang="pt">MTV 00S</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/mtv00s.png" />
+  </channel>
+  <channel id="MCMTop.fr">
+    <display-name lang="pt">MCM TOP</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/mcm-top.png" />
+  </channel>
+  <channel id="MCMPop.fr">
+    <display-name lang="pt">MCM POP</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/mcm-pop.png" />   
+  </channel>  
+  <channel id="AfroMusicChannel.pt">
+    <display-name lang="pt">AFRO MUSIC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/afro-music.png" />
+  </channel>
+  <channel id="TraceToca.fr">
+    <display-name lang="pt">TRACE TOCA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/trace-toca.png" />
+  </channel>
+  <channel id="TraceUrban.fr">
+    <display-name lang="pt">TRACE URBAN</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/trace-urban.png" />
+  </channel>
+  <channel id="TraceBrazuca.fr">
+    <display-name lang="pt">TRACE BRAZUCA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/trace-brazuca.png" />
+  </channel> 
+  <channel id="FTV.fr">
+    <display-name lang="pt">FASHION TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/ftv-hd.png" />
+  </channel>
+  <channel id="LocalvisaoTV.pt">
+    <display-name lang="pt">LOCALVISAO TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/localvisao-tv.png" />
+  </channel>  
+  <channel id="DogTV.us">
+    <display-name lang="pt">DOG TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/dogtv.png" />
+  </channel>
+  <channel id="Cacavision.es">
+	<display-name>CACAVISION</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/cacavision.png"/>   
+  </channel>
+    <channel id="CazayPesca.es">
+	<display-name>CACA E PESCA</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/caca-e-pesca.png"/>   
+  </channel>  
+
+
+
+TVI REALITY
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  
+<!-- Terca-Feira   -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+
+<!-- Quinta-Feira   -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  
+<!-- Sexta-Feira   -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  
+<!-- Sábado   -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  
+<!-- Domingo   -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="tvireality.pt"><title lang="pt">Big Brother</title></programme>
+
+
+ADVNCE
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+ 
+<!-- Terca-Feira  -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  
+<!-- Quarta-Feira   -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  
+<!-- Quinta-Feira   -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+ 
+<!-- Sexta-Feira  -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+ 
+<!-- Sábado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme> 
+
+<!-- Domingo  -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="ADVNCE.pt"><title lang="pt">World of Gaming - Esports</title></programme>  
+  
+  
+Eleven 1
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+  
+  
+Eleven 2
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+ 
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+  
+  
+Eleven 3
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+ 
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+  
+  
+Eleven 4
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme> 
+
+
+Eleven 5
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+  
+  
+Eleven 6
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+ 
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+
+
+SPORT TV 1
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+
+
+SPORT TV 2
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+
+
+SPORT TV 3
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+  
+  
+SPORT TV 4
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+
+
+SPORT TV 5
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+
+
+SPORT TV 6
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+
+
+Benfica TV
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+ 
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+  
+  
+Sporting TV
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+ 
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+  
+
+Eurosport 1
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+
+
+Eurosport 2
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+ 
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218050000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+  <programme start="20221218200000 +0000" stop="20221219000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+
+  
+TLC
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218050000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+  <programme start="20221218200000 +0000" stop="20221219000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+
+
+FTV 
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>  
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>  
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218050000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+  <programme start="20221218200000 +0000" stop="20221219000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+
+  
+Saude
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+  
+  
+Mezzo
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  <programme start="20221221200000 +0000" stop="20221222000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  
+<!-- Quinta-Feira -->
+  <programme start="20221221120000 +0000" stop="20221222120000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+
+
+Dog TV
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  <programme start="20221221120000 +0000" stop="20221221000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>  
+  
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  
+<!-- Sexta-Feira -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>  
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+  
+  
+MTV 00S
+<!-- Segunda-Feira -->
+  <programme start="20221219010000 +0000" stop="20221219140000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+  <programme start="20221219140000 +0000" stop="20221219150000 +0000" channel="MTV00s.uk"><title lang="en">Worldwide Hits From The Boys!</title></programme>
+  <programme start="20221219150000 +0000" stop="20221219130000 +0000" channel="MTV00s.uk"><title lang="en">We Love The 00s!</title></programme>
+  <programme start="20221219130000 +0000" stop="20221219140000 +0000" channel="MTV00s.uk"><title lang="en">Worldwide Hits From The Boys!</title></programme>
+  <programme start="20221219140000 +0000" stop="20221219180000 +0000" channel="MTV00s.uk"><title lang="en">Hits Don't Lie</title></programme>
+  <programme start="20221219180000 +0000" stop="20221219190000 +0000" channel="MTV00s.uk"><title lang="en">Chillout Zone</title></programme>
+  <programme start="20221219190000 +0000" stop="20221220010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220010000 +0000" stop="20221220070000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+  <programme start="20221220070000 +0000" stop="20221220080000 +0000" channel="MTV00s.uk"><title lang="en">Worldwide Hits From The Boys!</title></programme>
+  <programme start="20221220080000 +0000" stop="20221220130000 +0000" channel="MTV00s.uk"><title lang="en">We Love The 00s!</title></programme>
+  <programme start="20221220130000 +0000" stop="20221220140000 +0000" channel="MTV00s.uk"><title lang="en">Worldwide Hits From The Boys!</title></programme>
+  <programme start="20221220140000 +0000" stop="20221220180000 +0000" channel="MTV00s.uk"><title lang="en">Hits Don't Lie</title></programme>
+  <programme start="20221220180000 +0000" stop="20221220190000 +0000" channel="MTV00s.uk"><title lang="en">Chillout Zone</title></programme>
+  <programme start="20221220190000 +0000" stop="20221221010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>  
+
+<!-- Quarta-Feira -->
+  <programme start="20221102190000 +0000" stop="20221103010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222010000 +0000" stop="20221222070000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+  <programme start="20221222070000 +0000" stop="20221222080000 +0000" channel="MTV00s.uk"><title lang="en">Class Of 2001!</title></programme>
+  <programme start="20221222080000 +0000" stop="20221222207000 +0000" channel="MTV00s.uk"><title lang="en">We Love The 00s!</title></programme>
+  <programme start="20221222207000 +0000" stop="20221222140000 +0000" channel="MTV00s.uk"><title lang="en">Class Of 2001!</title></programme>
+  <programme start="20221222140000 +0000" stop="20221222180000 +0000" channel="MTV00s.uk"><title lang="en">Hits Don't Lie</title></programme>
+  <programme start="20221222180000 +0000" stop="20221222190000 +0000" channel="MTV00s.uk"><title lang="en">Rap & R'n'B Jamz</title></programme>
+  <programme start="20221222190000 +0000" stop="20221223010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223010000 +0000" stop="20221223070000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+  <programme start="20221223070000 +0000" stop="20221223080000 +0000" channel="MTV00s.uk"><title lang="en">Maroon 5 X Coldplay</title></programme>
+  <programme start="20221223080000 +0000" stop="20221223130000 +0000" channel="MTV00s.uk"><title lang="en">We Love The 00s!</title></programme>
+  <programme start="20221223130000 +0000" stop="20221223140000 +0000" channel="MTV00s.uk"><title lang="en">Maroon 5 X Coldplay</title></programme>
+  <programme start="20221223140000 +0000" stop="20221223180000 +0000" channel="MTV00s.uk"><title lang="en">Hits Don't Lie</title></programme>
+  <programme start="20221223180000 +0000" stop="20221223190000 +0000" channel="MTV00s.uk"><title lang="en">Dancefloor Fillers!</title></programme>
+  <programme start="20221223190000 +0000" stop="20221223220000 +0000" channel="MTV00s.uk"><title lang="en">The 40 Greatest Groups!</title></programme>
+  <programme start="20221223220000 +0000" stop="20221217010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+
+<!-- Sabado -->
+  <programme start="20221217010000 +0000" stop="20221223070000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+  <programme start="20221217070000 +0000" stop="20221217100000 +0000" channel="MTV00s.uk"><title lang="en">Boys In Love! Top 40</title></programme>
+  <programme start="20221217100000 +0000" stop="20221217130000 +0000" channel="MTV00s.uk"><title lang="en">We Love The 00s!</title></programme>
+  <programme start="20221217130000 +0000" stop="20221217140000 +0000" channel="MTV00s.uk"><title lang="en">2 4 1 Hits!</title></programme>
+  <programme start="20221217140000 +0000" stop="20221217180000 +0000" channel="MTV00s.uk"><title lang="en">Hits Don't Lie</title></programme>
+  <programme start="20221217180000 +0000" stop="20221217190000 +0000" channel="MTV00s.uk"><title lang="en">Rock'N'Roll Anthems!</title></programme>
+  <programme start="20221217190000 +0000" stop="20221218010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+ 
+<!-- Domingo -->
+  <programme start="20221218010000 +0000" stop="20221219120000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+  <programme start="20221219120000 +0000" stop="20221219130000 +0000" channel="MTV00s.uk"><title lang="en">Class Of 2002!</title></programme>
+  <programme start="20221219130000 +0000" stop="20221218100000 +0000" channel="MTV00s.uk"><title lang="en">We Love The 00s!</title></programme>
+  <programme start="20221218100000 +0000" stop="20221218130000 +0000" channel="MTV00s.uk"><title lang="en">Mega Hits From The Boys! Top 40</title></programme>
+  <programme start="20221218130000 +0000" stop="20221218140000 +0000" channel="MTV00s.uk"><title lang="en">Class Of 2001!</title></programme>
+  <programme start="20221218140000 +0000" stop="20221218180000 +0000" channel="MTV00s.uk"><title lang="en">Hits Don't Lie</title></programme>
+  <programme start="20221218180000 +0000" stop="20221218190000 +0000" channel="MTV00s.uk"><title lang="en">Crazy In Love!</title></programme>
+  <programme start="20221218190000 +0000" stop="20221219010000 +0000" channel="MTV00s.uk"><title lang="en">Non-Stop Nostalgia</title></programme>
+
+
+MCM TOP
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+  
+<!-- Sexta-Feira   -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme> 
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+
+
+MCM POP
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  
+<!-- Sexta-Feira   -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme> 
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+  
+  
+Afro Music
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  <programme start="20221219120000 +0000" stop="20221220000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  <programme start="20221220120000 +0000" stop="20221221000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  <programme start="20221221120000 +0000" stop="20221222000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  <programme start="20221222120000 +0000" stop="20221223000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  
+<!-- Sexta-Feira   -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  <programme start="20221223120000 +0000" stop="20221217000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme> 
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  <programme start="20221217120000 +0000" stop="20221218000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  <programme start="20221218120000 +0000" stop="20221219000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+  
+  
+Trace Toca
+<!-- Segunda-Feira -->
+  <programme start="20221219000000 +0000" stop="20221219120000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+  <programme start="20221219200000 +0000" stop="20221220000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220000000 +0000" stop="20221220120000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+  <programme start="20221220200000 +0000" stop="20221221000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221000000 +0000" stop="20221221120000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+  <programme start="20221221200000 +0000" stop="20221101000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222000000 +0000" stop="20221222120000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+  <programme start="20221222200000 +0000" stop="20221223000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+  
+<!-- Sexta-Feira   -->
+  <programme start="20221223000000 +0000" stop="20221223120000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+  <programme start="20221223200000 +0000" stop="20221217000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme> 
+
+<!-- Sabado -->
+  <programme start="20221217000000 +0000" stop="20221217120000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+  <programme start="20221217200000 +0000" stop="20221218000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218000000 +0000" stop="20221218120000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+  <programme start="20221218200000 +0000" stop="20221219000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+
+
+Trace Urban
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+ 
+
+Trace Brazuca
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+
+
+Localvisao TV
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+
+
+Cacavision  
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+ 
+ 
+Caza e Pesca  
+  <programme start="20221219000000 +0000" stop="20221220000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+  <programme start="20221220000000 +0000" stop="20221221000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+  <programme start="20221221000000 +0000" stop="20221222000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+  <programme start="20221222000000 +0000" stop="20221223000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+  <programme start="20221223000000 +0000" stop="20221217000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+  <programme start="20221218000000 +0000" stop="20221219000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+  
+</tv>
