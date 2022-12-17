@@ -1130,5 +1130,359 @@ CNN PORTUGAL
   <programme start="20221219140000 +0000" stop="20221219141500 +0000" channel="CNNPortugal.pt"><title lang="pt">Notícias CNN</title></programme>
   <programme start="20221219141500 +0000" stop="20221219145000 +0000" channel="CNNPortugal.pt"><title lang="pt">O Princípio Da Incerteza</title></programme>
   <programme start="20221219145000 +0000" stop="20221219020000 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Meia Noite</title></programme>
+	
+  CMTV
+<!-- Segunda-Feira -->
+  <programme start="20221219003000 +0000" stop="20221219013000 +0000" channel="CMTV.pt"><title lang="pt">Jornal Da Meia-Noite</title></programme>
+  <programme start="20221219013000 +0000" stop="20221219023000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221219023000 +0000" stop="20221219025700 +0000" channel="CMTV.pt"><title lang="pt">Reportagem CM</title></programme>
+  <programme start="20221219025700 +0000" stop="20221219032200 +0000" channel="CMTV.pt"><title lang="pt">Investigação Sábado</title></programme>
+  <programme start="20221219032200 +0000" stop="20221219032900 +0000" channel="CMTV.pt"><title lang="pt">Falar Global</title></programme>
+  <programme start="20221219032900 +0000" stop="20221219033900 +0000" channel="CMTV.pt"><title lang="pt">Sábado Viajante</title></programme>
+  <programme start="20221219033900 +0000" stop="20221219130000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+  <programme start="20221219130000 +0000" stop="20221219091500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221219091500 +0000" stop="20221219175300 +0000" channel="CMTV.pt"><title lang="pt">Manhã CM</title></programme>
+  <programme start="20221219175300 +0000" stop="20221219125300 +0000" channel="CMTV.pt"><title lang="pt">Jornal De Portugal</title></programme>
+  <programme start="20221219125300 +0000" stop="20221219145300 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Tarde</title></programme>
+  <programme start="20221219145300 +0000" stop="20221219150800 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221219150800 +0000" stop="20221219155300 +0000" channel="CMTV.pt"><title lang="pt">Rua Segura</title></programme>
+  <programme start="20221219155300 +0000" stop="20221219161500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221219161500 +0000" stop="20221219165000 +0000" channel="CMTV.pt"><title lang="pt">Tarde CM</title></programme>
+  <programme start="20221219165000 +0000" stop="20221219171800 +0000" channel="CMTV.pt"><title lang="pt">Direto CM</title></programme>
+  <programme start="20221219171800 +0000" stop="20221219185000 +0000" channel="CMTV.pt"><title lang="pt">Mercado</title></programme>
+  <programme start="20221219185000 +0000" stop="20221219194500 +0000" channel="CMTV.pt"><title lang="pt">Jornal Às 7</title></programme>
+  <programme start="20221219194500 +0000" stop="20221219213000 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Noite</title></programme>
+  <programme start="20221219213000 +0000" stop="20221219215300 +0000" channel="CMTV.pt"><title lang="pt">Investigação CM</title></programme>
+  <programme start="20221219215300 +0000" stop="20221220003000 +0000" channel="CMTV.pt"><title lang="pt">Pé Em Riste</title></programme>
+  
+<!-- Terca-Feira -->  
+  <programme start="20221220003000 +0000" stop="20221220013000 +0000" channel="CMTV.pt"><title lang="pt">Jornal Da Meia-Noite</title></programme>
+  <programme start="20221220013000 +0000" stop="20221220023000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221220023000 +0000" stop="20221220040000 +0000" channel="CMTV.pt"><title lang="pt">Mercado</title></programme>
+  <programme start="20221220040000 +0000" stop="20221220060000 +0000" channel="CMTV.pt"><title lang="pt">Pé Em Riste</title></programme>
+  <programme start="20221220060000 +0000" stop="20221220091500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221220091500 +0000" stop="20221220105300 +0000" channel="CMTV.pt"><title lang="pt">Manhã CM</title></programme>
+  <programme start="20221220105300 +0000" stop="20221220125300 +0000" channel="CMTV.pt"><title lang="pt">Jornal De Portugal</title></programme>
+  <programme start="20221220125300 +0000" stop="20221220145300 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Tarde</title></programme>
+  <programme start="20221220145300 +0000" stop="20221220150800 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221220150800 +0000" stop="20221220155300 +0000" channel="CMTV.pt"><title lang="pt">Rua Segura</title></programme>
+  <programme start="20221220155300 +0000" stop="20221220161500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221220161500 +0000" stop="20221220165000 +0000" channel="CMTV.pt"><title lang="pt">Tarde CM</title></programme>
+  <programme start="20221220165000 +0000" stop="20221220171800 +0000" channel="CMTV.pt"><title lang="pt">Direto CM</title></programme>
+  <programme start="20221220171800 +0000" stop="20221220185000 +0000" channel="CMTV.pt"><title lang="pt">Mercado</title></programme>
+  <programme start="20221220185000 +0000" stop="20221220194500 +0000" channel="CMTV.pt"><title lang="pt">Jornal Às 7</title></programme>
+  <programme start="20221220194500 +0000" stop="20221220223000 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Noite</title></programme>
+  <programme start="20221220223000 +0000" stop="20221221003000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221003000 +0000" stop="20221221013000 +0000" channel="CMTV.pt"><title lang="pt">Jornal Da Meia-Noite</title></programme>
+  <programme start="20221221013000 +0000" stop="20221221023000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221221023000 +0000" stop="20221221025400 +0000" channel="CMTV.pt"><title lang="pt">Investigação CM</title></programme>
+  <programme start="20221221025400 +0000" stop="20221221032900 +0000" channel="CMTV.pt"><title lang="pt">Doa a Quem Doer</title></programme>
+  <programme start="20221221032900 +0000" stop="20221221035400 +0000" channel="CMTV.pt"><title lang="pt">Investigação CM</title></programme>
+  <programme start="20221221035400 +0000" stop="20221221040900 +0000" channel="CMTV.pt"><title lang="pt">Falar Global</title></programme>
+  <programme start="20221221040900 +0000" stop="20221221041900 +0000" channel="CMTV.pt"><title lang="pt">Sábado Viajante</title></programme>
+  <programme start="20221221041900 +0000" stop="20221221054500 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+  <programme start="20221221054500 +0000" stop="20221221054500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221221060000 +0000" stop="20221221091500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221221091500 +0000" stop="20221221105300 +0000" channel="CMTV.pt"><title lang="pt">Manhã CM</title></programme>
+  <programme start="20221221105300 +0000" stop="20221221125300 +0000" channel="CMTV.pt"><title lang="pt">Jornal De Portugal</title></programme>
+  <programme start="20221221125300 +0000" stop="20221221145300 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Tarde</title></programme>
+  <programme start="20221221145300 +0000" stop="20221221150800 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221221150800 +0000" stop="20221221155300 +0000" channel="CMTV.pt"><title lang="pt">Rua Segura</title></programme>
+  <programme start="20221221155300 +0000" stop="20221221161500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221221161500 +0000" stop="20221221165000 +0000" channel="CMTV.pt"><title lang="pt">Tarde CM</title></programme>
+  <programme start="20221221165000 +0000" stop="20221221171800 +0000" channel="CMTV.pt"><title lang="pt">Direto CM</title></programme>
+  <programme start="20221221171800 +0000" stop="20221221185000 +0000" channel="CMTV.pt"><title lang="pt">Mercado</title></programme>
+  <programme start="20221221185000 +0000" stop="20221221194500 +0000" channel="CMTV.pt"><title lang="pt">Jornal Às 7</title></programme>
+  <programme start="20221221194500 +0000" stop="20221221223000 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Noite</title></programme>
+  <programme start="20221221223000 +0000" stop="20221222003000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222003000 +0000" stop="20221222013000 +0000" channel="CMTV.pt"><title lang="pt">Jornal Da Meia-Noite</title></programme>
+  <programme start="20221222013000 +0000" stop="20221222023000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221222023000 +0000" stop="20221222025400 +0000" channel="CMTV.pt"><title lang="pt">Investigação Sábado</title></programme>
+  <programme start="20221222025400 +0000" stop="20221222032900 +0000" channel="CMTV.pt"><title lang="pt">Investigação CM</title></programme>
+  <programme start="20221222032900 +0000" stop="20221222035400 +0000" channel="CMTV.pt"><title lang="pt">Investigação CM</title></programme>
+  <programme start="20221222035400 +0000" stop="20221222040900 +0000" channel="CMTV.pt"><title lang="pt">Falar Global</title></programme>
+  <programme start="20221222040900 +0000" stop="20221222041900 +0000" channel="CMTV.pt"><title lang="pt">Sábado Viajante</title></programme>
+  <programme start="20221222041900 +0000" stop="20221222054500 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+  <programme start="20221222054500 +0000" stop="20221222054500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221222060000 +0000" stop="20221222091500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221222091500 +0000" stop="20221222105300 +0000" channel="CMTV.pt"><title lang="pt">Manhã CM</title></programme>
+  <programme start="20221222105300 +0000" stop="20221222122300 +0000" channel="CMTV.pt"><title lang="pt">Jornal De Portugal</title></programme>
+  <programme start="20221222122300 +0000" stop="20221222145300 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Tarde</title></programme>
+  <programme start="20221222145300 +0000" stop="20221222150800 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221222150800 +0000" stop="20221222155300 +0000" channel="CMTV.pt"><title lang="pt">Rua Segura</title></programme>
+  <programme start="20221222155300 +0000" stop="20221222161500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221222161500 +0000" stop="20221222165000 +0000" channel="CMTV.pt"><title lang="pt">Tarde CM</title></programme>
+  <programme start="20221222165000 +0000" stop="20221222171800 +0000" channel="CMTV.pt"><title lang="pt">Direto CM</title></programme>
+  <programme start="20221222171800 +0000" stop="20221222185000 +0000" channel="CMTV.pt"><title lang="pt">Mercado</title></programme>
+  <programme start="20221222185000 +0000" stop="20221222194500 +0000" channel="CMTV.pt"><title lang="pt">Jornal Às 7</title></programme>
+  <programme start="20221222194500 +0000" stop="20221222213000 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Noite</title></programme>
+  <programme start="20221222213000 +0000" stop="20221222223000 +0000" channel="CMTV.pt"><title lang="pt">Doa a Quem Doer</title></programme>
+  <programme start="20221222223000 +0000" stop="20221223003000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223003000 +0000" stop="20221223013000 +0000" channel="CMTV.pt"><title lang="pt">Jornal Da Meia-Noite</title></programme>
+  <programme start="20221223013000 +0000" stop="20221223023000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221223023000 +0000" stop="20221223034500 +0000" channel="CMTV.pt"><title lang="pt">Mercado</title></programme>
+  <programme start="20221223034500 +0000" stop="20221223054500 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+  <programme start="20221223054500 +0000" stop="20221223054500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221223060000 +0000" stop="20221223091500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221223091500 +0000" stop="20221223105300 +0000" channel="CMTV.pt"><title lang="pt">Manhã CM</title></programme>
+  <programme start="20221223105300 +0000" stop="20221223125300 +0000" channel="CMTV.pt"><title lang="pt">Jornal De Portugal</title></programme>
+  <programme start="20221223125300 +0000" stop="20221223145300 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Tarde</title></programme>
+  <programme start="20221223145300 +0000" stop="20221223150800 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221223150800 +0000" stop="20221223155300 +0000" channel="CMTV.pt"><title lang="pt">Rua Segura</title></programme>
+  <programme start="20221223155300 +0000" stop="20221223161500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221223161500 +0000" stop="20221223165000 +0000" channel="CMTV.pt"><title lang="pt">Tarde CM</title></programme>
+  <programme start="20221223165000 +0000" stop="20221223171800 +0000" channel="CMTV.pt"><title lang="pt">Direto CM</title></programme>
+  <programme start="20221223171800 +0000" stop="20221223185000 +0000" channel="CMTV.pt"><title lang="pt">Mercado</title></programme>
+  <programme start="20221223185000 +0000" stop="20221223194500 +0000" channel="CMTV.pt"><title lang="pt">Jornal Às 7</title></programme>
+  <programme start="20221223194500 +0000" stop="20221223213000 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Noite</title></programme>
+  <programme start="20221223213000 +0000" stop="20221223223000 +0000" channel="CMTV.pt"><title lang="pt">Investigação Sábado</title></programme>
+  <programme start="20221223223000 +0000" stop="20221217003000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+
+<!-- Sábado -->
+  <programme start="20221217003000 +0000" stop="20221217013000 +0000" channel="CMTV.pt"><title lang="pt">Jornal Da Meia-Noite</title></programme>
+  <programme start="20221217013000 +0000" stop="20221217023000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221217023000 +0000" stop="20221217034500 +0000" channel="CMTV.pt"><title lang="pt">Mercado</title></programme>
+  <programme start="20221217034500 +0000" stop="20221217060000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+  <programme start="20221217060000 +0000" stop="20221217102000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221217102000 +0000" stop="20221217103000 +0000" channel="CMTV.pt"><title lang="pt">Sábado Viajante</title></programme>
+  <programme start="20221217103000 +0000" stop="20221217105300 +0000" channel="CMTV.pt"><title lang="pt">Aquela Máquina</title></programme>
+  <programme start="20221217105300 +0000" stop="20221217111500 +0000" channel="CMTV.pt"><title lang="pt">Jornal De Portugal</title></programme>
+  <programme start="20221217111500 +0000" stop="20221217122100 +0000" channel="CMTV.pt"><title lang="pt">Falar Global</title></programme>
+  <programme start="20221217122100 +0000" stop="20221217115300 +0000" channel="CMTV.pt"><title lang="pt">GPS - Guia Para Sair</title></programme>
+  <programme start="20221217115300 +0000" stop="20221217125300 +0000" channel="CMTV.pt"><title lang="pt">Jornal De Portugal</title></programme>
+  <programme start="20221217125300 +0000" stop="20221217143500 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Tarde</title></programme>
+  <programme start="20221217143500 +0000" stop="20221217145300 +0000" channel="CMTV.pt"><title lang="pt">Investigação CM</title></programme>
+  <programme start="20221217145300 +0000" stop="20221217150800 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221217150800 +0000" stop="20221217153500 +0000" channel="CMTV.pt"><title lang="pt">Investigação CM</title></programme>
+  <programme start="20221217153500 +0000" stop="20221217175300 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221217175300 +0000" stop="20221217184500 +0000" channel="CMTV.pt"><title lang="pt">Golos</title></programme>
+  <programme start="20221217184500 +0000" stop="20221217190000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221217190000 +0000" stop="20221217191500 +0000" channel="CMTV.pt"><title lang="pt">Golos</title></programme>
+  <programme start="20221217191500 +0000" stop="20221217193000 +0000" channel="CMTV.pt"><title lang="pt">Jogadas Decisivas</title></programme>
+  <programme start="20221217193000 +0000" stop="20221217194500 +0000" channel="CMTV.pt"><title lang="pt">Duelo Final</title></programme>
+  <programme start="20221217194500 +0000" stop="20221217202500 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Noite</title></programme>
+  <programme start="20221217202500 +0000" stop="20221217211500 +0000" channel="CMTV.pt"><title lang="pt">Golos</title></programme>
+  <programme start="20221217211500 +0000" stop="20221217213000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221217213000 +0000" stop="20221217214500 +0000" channel="CMTV.pt"><title lang="pt">Golos</title></programme>
+  <programme start="20221217214500 +0000" stop="20221217220000 +0000" channel="CMTV.pt"><title lang="pt">Jogadas Decisivas</title></programme>
+  <programme start="20221217220000 +0000" stop="20221217221500 +0000" channel="CMTV.pt"><title lang="pt">Duelo Final</title></programme>
+  <programme start="20221217221500 +0000" stop="20221218003000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218003000 +0000" stop="20221218023000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221218023000 +0000" stop="20221218040400 +0000" channel="CMTV.pt"><title lang="pt">Odor Do Sangue</title></programme>
+  <programme start="20221218040400 +0000" stop="20221218060000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+  <programme start="20221218060000 +0000" stop="20221218102500 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221218102500 +0000" stop="20221218105300 +0000" channel="CMTV.pt"><title lang="pt">Falar Global</title></programme>
+  <programme start="20221218105300 +0000" stop="20221218111500 +0000" channel="CMTV.pt"><title lang="pt">Jornal De Portugal</title></programme>
+  <programme start="20221218111500 +0000" stop="20221218122100 +0000" channel="CMTV.pt"><title lang="pt">Língua Mãe</title></programme>
+  <programme start="20221218122100 +0000" stop="20221218115300 +0000" channel="CMTV.pt"><title lang="pt">Sábado Viajante</title></programme>
+  <programme start="20221218115300 +0000" stop="20221218145300 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Tarde</title></programme>
+  <programme start="20221218145300 +0000" stop="20221218150800 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221218150800 +0000" stop="20221218153500 +0000" channel="CMTV.pt"><title lang="pt">Reportagem CM</title></programme>
+  <programme start="20221218153500 +0000" stop="20221218160800 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221218160800 +0000" stop="20221218163500 +0000" channel="CMTV.pt"><title lang="pt">Investigação CM</title></programme>
+  <programme start="20221218163500 +0000" stop="20221218175300 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221218175300 +0000" stop="20221218185000 +0000" channel="CMTV.pt"><title lang="pt">Jornal Às 6 - Fim-De-Semana</title></programme>
+  <programme start="20221218185000 +0000" stop="20221218194500 +0000" channel="CMTV.pt"><title lang="pt">Jornal Às 7</title></programme>
+  <programme start="20221218194500 +0000" stop="20221218202500 +0000" channel="CMTV.pt"><title lang="pt">Grande Jornal da Noite</title></programme>
+  <programme start="20221218202500 +0000" stop="20221218211500 +0000" channel="CMTV.pt"><title lang="pt">Golos</title></programme>
+  <programme start="20221218211500 +0000" stop="20221218213000 +0000" channel="CMTV.pt"><title lang="pt">Notícias CM</title></programme>
+  <programme start="20221218213000 +0000" stop="20221218214500 +0000" channel="CMTV.pt"><title lang="pt">Golos</title></programme>
+  <programme start="20221218214500 +0000" stop="20221219230000 +0000" channel="CMTV.pt"><title lang="pt">Jogadas Decisivas</title></programme>
+  <programme start="20221218230000 +0000" stop="20221218231500 +0000" channel="CMTV.pt"><title lang="pt">Duelo Final</title></programme>
+  <programme start="20221218231500 +0000" stop="20221219003000 +0000" channel="CMTV.pt"><title lang="pt">Liga D´Ouro</title></programme>
+
+
+Globo Portugal
+<!-- Segunda-Feira -->
+  <programme start="20221219235000 +0000" stop="20221219013000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+  <programme start="20221219013000 +0000" stop="20221219020000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221219020000 +0000" stop="20221219040000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221219040000 +0000" stop="20221219050000 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221219050000 +0000" stop="20221219060000 +0000" channel="RedeGlobo.br"><title lang="pt">Mais Você</title></programme>
+  <programme start="20221219060000 +0000" stop="20221219065000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221219065000 +0000" stop="20221219173000 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221219173000 +0000" stop="20221219181500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221219181500 +0000" stop="20221219121700 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221219121700 +0000" stop="20221219130000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221219130000 +0000" stop="20221219133000 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221219133000 +0000" stop="20221219142000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221219142000 +0000" stop="20221219153000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221219153000 +0000" stop="20221219163500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221219163500 +0000" stop="20221219170500 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221219170500 +0000" stop="20221219180000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221219180000 +0000" stop="20221219184500 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221219184500 +0000" stop="20221219193000 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221219193000 +0000" stop="20221219203000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221219203000 +0000" stop="20221219212500 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221219212500 +0000" stop="20221219223500 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221219223500 +0000" stop="20221219234500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221219234500 +0000" stop="20221220004500 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220004500 +0000" stop="20221220012500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221220012500 +0000" stop="20221220021500 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221220021500 +0000" stop="20221220030000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221220030000 +0000" stop="20221220035000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+  <programme start="20221220035000 +0000" stop="20221220043500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221220043500 +0000" stop="20221220052000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221220052000 +0000" stop="20221220060000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221220060000 +0000" stop="20221220070000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221220070000 +0000" stop="20221220080000 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221220080000 +0000" stop="20221220090000 +0000" channel="RedeGlobo.br"><title lang="pt">Mais Você</title></programme>
+  <programme start="20221220090000 +0000" stop="20221220095000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221220095000 +0000" stop="20221220103000 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221220103000 +0000" stop="20221220111500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221220111500 +0000" stop="20221220121700 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221220121700 +0000" stop="20221220130000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221220130000 +0000" stop="20221220133000 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221220133000 +0000" stop="20221220142000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221220142000 +0000" stop="20221220153000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221220153000 +0000" stop="20221220163500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221220163500 +0000" stop="20221220170500 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221220170500 +0000" stop="20221220180000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221220180000 +0000" stop="20221220184500 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221220184500 +0000" stop="20221220193000 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221220193000 +0000" stop="20221220203000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221220203000 +0000" stop="20221220212500 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221220212500 +0000" stop="20221220223500 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221220223500 +0000" stop="20221220234500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221220234500 +0000" stop="20221221004500 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+
+<!-- Quarta-Feira -->
+  <programme start="20221221004500 +0000" stop="20221221012500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221221012500 +0000" stop="20221221021500 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221221021500 +0000" stop="20221221030000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221221030000 +0000" stop="20221221035000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+  <programme start="20221221035000 +0000" stop="20221221043500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221221043500 +0000" stop="20221221052000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221221052000 +0000" stop="20221221060000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221221060000 +0000" stop="20221221070000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221221070000 +0000" stop="20221221080000 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221221080000 +0000" stop="20221221090000 +0000" channel="RedeGlobo.br"><title lang="pt">Mais Você</title></programme>
+  <programme start="20221221090000 +0000" stop="20221221095000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221221095000 +0000" stop="20221221103000 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221221103000 +0000" stop="20221221111500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221221111500 +0000" stop="20221221121700 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221221121700 +0000" stop="20221221130000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221221130000 +0000" stop="20221221133000 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221221133000 +0000" stop="20221221142000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221221142000 +0000" stop="20221221153000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221221153000 +0000" stop="20221221163500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221221163500 +0000" stop="20221221170500 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221221170500 +0000" stop="20221221180000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221221180000 +0000" stop="20221221184500 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221221184500 +0000" stop="20221221193000 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221221193000 +0000" stop="20221221203000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221221203000 +0000" stop="20221221212500 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221221212500 +0000" stop="20221221223500 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221221223500 +0000" stop="20221221234500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221221234500 +0000" stop="20221222004500 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+
+<!-- Quinta-Feira -->
+  <programme start="20221222004500 +0000" stop="20221222012500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221222012500 +0000" stop="20221222021500 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221222021500 +0000" stop="20221222030000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221222030000 +0000" stop="20221222035000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+  <programme start="20221222035000 +0000" stop="20221222043500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221222043500 +0000" stop="20221222052000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221222052000 +0000" stop="20221222060000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221222060000 +0000" stop="20221222070000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221222070000 +0000" stop="20221222080000 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221222080000 +0000" stop="20221222090000 +0000" channel="RedeGlobo.br"><title lang="pt">Mais Você</title></programme>
+  <programme start="20221222090000 +0000" stop="20221222095000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221222095000 +0000" stop="20221222103000 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221222103000 +0000" stop="20221222111500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221222111500 +0000" stop="20221222121700 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221222121700 +0000" stop="20221222130000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221222130000 +0000" stop="20221222133000 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221222133000 +0000" stop="20221222142000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221222142000 +0000" stop="20221222153000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221222153000 +0000" stop="20221222163500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221222163500 +0000" stop="20221222170500 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221222170500 +0000" stop="20221222180000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221222180000 +0000" stop="20221222184500 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221222184500 +0000" stop="20221222193000 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221222193000 +0000" stop="20221222203000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221222203000 +0000" stop="20221222212500 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221222212500 +0000" stop="20221222223500 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221222223500 +0000" stop="20221222234500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221222234500 +0000" stop="20221223004500 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+
+<!-- Sexta-Feira -->
+  <programme start="20221223004500 +0000" stop="20221223012500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221223012500 +0000" stop="20221223021500 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221223021500 +0000" stop="20221223030000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221223030000 +0000" stop="20221223035000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+  <programme start="20221223035000 +0000" stop="20221223043500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221223043500 +0000" stop="20221223052000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221223052000 +0000" stop="20221223060000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221223060000 +0000" stop="20221223070000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221223070000 +0000" stop="20221223080000 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221223080000 +0000" stop="20221223090000 +0000" channel="RedeGlobo.br"><title lang="pt">Mais Você</title></programme>
+  <programme start="20221223090000 +0000" stop="20221223095000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221223095000 +0000" stop="20221223103000 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221223103000 +0000" stop="20221223111500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221223111500 +0000" stop="20221223121700 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221223121700 +0000" stop="20221223130000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221223130000 +0000" stop="20221223133000 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221223133000 +0000" stop="20221223142000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221223142000 +0000" stop="20221223153000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221223153000 +0000" stop="20221223163500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221223163500 +0000" stop="20221223170500 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221223170500 +0000" stop="20221223180000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221223180000 +0000" stop="20221223184500 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221223184500 +0000" stop="20221223193000 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221223193000 +0000" stop="20221223203000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221223203000 +0000" stop="20221223212500 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221223212500 +0000" stop="20221223223500 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221223223500 +0000" stop="20221223234500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221223234500 +0000" stop="20221217004500 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+
+<!-- Sábado -->
+  <programme start="20221217004500 +0000" stop="20221217012500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221217012500 +0000" stop="20221217021500 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221217021500 +0000" stop="20221217030000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221217030000 +0000" stop="20221217035000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+  <programme start="20221217035000 +0000" stop="20221217043500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221217043500 +0000" stop="20221217052000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221217052000 +0000" stop="20221217060000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221217060000 +0000" stop="20221217070000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221217070000 +0000" stop="20221217080000 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221217080000 +0000" stop="20221217084500 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221217084500 +0000" stop="20221217092500 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221217092500 +0000" stop="20221217101000 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221217101000 +0000" stop="20221217110000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221217110000 +0000" stop="20221217114500 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221217114500 +0000" stop="20221217125000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221217125000 +0000" stop="20221217140000 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221217140000 +0000" stop="20221217163500 +0000" channel="RedeGlobo.br"><title lang="pt">Caldeirão Com Mion</title></programme>
+  <programme start="20221217163500 +0000" stop="20221217170500 +0000" channel="RedeGlobo.br"><title lang="pt">Malhação</title></programme>
+  <programme start="20221217170500 +0000" stop="20221217180000 +0000" channel="RedeGlobo.br"><title lang="pt">Top Model</title></programme>
+  <programme start="20221217180000 +0000" stop="20221217184500 +0000" channel="RedeGlobo.br"><title lang="pt">Nos Tempos do Imperador</title></programme>
+  <programme start="20221217184500 +0000" stop="20221217193000 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221217193000 +0000" stop="20221217203000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221217203000 +0000" stop="20221217212500 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221217212500 +0000" stop="20221217223500 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221217223500 +0000" stop="20221217234500 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221217234500 +0000" stop="20221218004500 +0000" channel="RedeGlobo.br"><title lang="pt">Ilha De Ferro</title></programme>
+
+<!-- Domingo -->
+  <programme start="20221218004500 +0000" stop="20221218012500 +0000" channel="RedeGlobo.br"><title lang="pt">Mar Do Sertão</title></programme>
+  <programme start="20221218012500 +0000" stop="20221218021500 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221218021500 +0000" stop="20221218030000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221218030000 +0000" stop="20221218040000 +0000" channel="RedeGlobo.br"><title lang="pt">Segundo Sol</title></programme>
+  <programme start="20221218040000 +0000" stop="20221218093000 +0000" channel="RedeGlobo.br"><title lang="pt">Mulheres Apaixonadas</title></programme>
+  <programme start="20221218093000 +0000" stop="20221218150000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
+  <programme start="20221218150000 +0000" stop="20221218200000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
+  <programme start="20221218200000 +0000" stop="20221218203000 +0000" channel="RedeGlobo.br"><title lang="pt">Tô De Graça</title></programme>
+  <programme start="20221218203000 +0000" stop="20221219145000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>	
 
 </tv>
