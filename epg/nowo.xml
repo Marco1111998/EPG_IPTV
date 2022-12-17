@@ -179,6 +179,29 @@
     <channel id="CazayPesca.es">
 	<display-name>CACA E PESCA</display-name>
 	<icon src="https://www.meo.pt/PublishingImages/canais/caca-e-pesca.png"/>   
-  </channel>  
+  </channel>
+	
+	
+  RTP 1
+  <!-- Segunda-Feira -->
+  <programme start="20221219003700 +0000" stop="20221219021400 +0000" channel="RTP1.pt"><title lang="pt">Catar 2022 - Noites Do Mundial</title></programme>
+  <programme start="20221219021400 +0000" stop="20221219033000 +0000" channel="RTP1.pt"><title lang="pt">Mongólia: Um Inverno Tsaatan</title></programme>  
+  <programme start="20221219033000 +0000" stop="20221219060900 +0000" channel="RTP1.pt"><title lang="pt">Televendas</title></programme>
+  <programme start="20221219060900 +0000" stop="20221219063000 +0000" channel="RTP1.pt"><title lang="pt">Manchetes 3</title></programme>
+  <programme start="20221219063000 +0000" stop="20221219170000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal</title></programme>
+  <programme start="20221219170000 +0000" stop="20221219125900 +0000" channel="RTP1.pt"><title lang="pt">Praça da Alegria</title></programme>
+  <programme start="20221219125900 +0000" stop="20221219141500 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme>
+  <programme start="20221219141500 +0000" stop="20221219150500 +0000" channel="RTP1.pt"><title lang="pt">Os Nossos Dias</title></programme>
+  <programme start="20221219150500 +0000" stop="20221219173000 +0000" channel="RTP1.pt"><title lang="pt">A Nossa Tarde</title></programme>
+  <programme start="20221219173000 +0000" stop="20221219190000 +0000" channel="RTP1.pt"><title lang="pt">Portugal em Direto</title></programme>
+  <programme start="20221219190000 +0000" stop="20221219195900 +0000" channel="RTP1.pt"><title lang="pt">O Preço Certo</title></programme>
+  <programme start="20221219195900 +0000" stop="20221219210000 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
+  <programme start="20221219210000 +0000" stop="20221219213000 +0000" channel="RTP1.pt"><title lang="pt">Outras Histórias</title></programme>
+  <programme start="20221219213000 +0000" stop="20221219224500 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
+  <programme start="20221219224500 +0000" stop="20221219234500 +0000" channel="RTP1.pt"><title lang="pt">O Ano Da Morte De Ricardo Reis</title></programme>
+  <programme start="20221219234500 +0000" stop="20221220013000 +0000" channel="RTP1.pt"><title lang="pt">Catar 2022 - Noites Do Mundial</title></programme>
+	
+	
+	
   
 </tv>
