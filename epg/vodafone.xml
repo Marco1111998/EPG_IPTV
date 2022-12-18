@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv>   
+
+SIC Caras  
+<!-- Segunda-Feira -->
+  <!-- <programme start="2022121900 +0000" stop="2022122000 +0000" channel="SICCaras.pt"><title lang="pt"></title></programme> -->
+  <programme start="20221219184500 +0000" stop="20221219201900 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221219201900 +0000" stop="20221219210000 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221219210000 +0000" stop="20221219215100 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221219215100 +0000" stop="20221219223500 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+  <programme start="20221219223500 +0000" stop="20221220000600 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+
+<!-- Terca-Feira -->
+  <programme start="20221220000600 +0000" stop="20221220013400 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221220013400 +0000" stop="20221220021700 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221220021700 +0000" stop="20221220024200 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221220024200 +0000" stop="20221220032500 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221220032500 +0000" stop="20221220045500 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221220045500 +0000" stop="20221220050500 +0000" channel="SICCaras.pt"><title lang="pt">Boa Cama, Boa Mesa</title></programme>
+  <programme start="20221220050500 +0000" stop="20221220052400 +0000" channel="SICCaras.pt"><title lang="pt">Posso Entrar?</title></programme>
+  <programme start="20221220052400 +0000" stop="20221220062300 +0000" channel="SICCaras.pt"><title lang="pt">E-Especial</title></programme>
+  <programme start="20221220062300 +0000" stop="20221220092700 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221220092700 +0000" stop="20221220095200 +0000" channel="SICCaras.pt"><title lang="pt">Fama Show</title></programme>
+  <programme start="20221220095200 +0000" stop="20221220101800 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221220101800 +0000" stop="20221220113700 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221220113700 +0000" stop="20221220130300 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221220130300 +0000" stop="20221220134500 +0000" channel="SICCaras.pt"><title lang="pt">De Artista A Ídolo</title></programme>
+  <programme start="20221220134500 +0000" stop="20221220142800 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221220142800 +0000" stop="20221220150600 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221220150600 +0000" stop="20221220163000 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221220163000 +0000" stop="20221220171500 +0000" channel="SICCaras.pt"><title lang="pt">Miúdos Ricos No Fio Da Navalha</title></programme>
+  <programme start="20221220171500 +0000" stop="20221220184500 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221220184500 +0000" stop="20221220201900 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221220201900 +0000" stop="20221220210000 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221220210000 +0000" stop="20221220215100 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221220215100 +0000" stop="20221220223500 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+  <programme start="20221220223500 +0000" stop="20221221000600 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme> 
+  
+<!-- Quarta-Feira   -->
+  <programme start="20221221000600 +0000" stop="20221221013400 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221221013400 +0000" stop="20221221021700 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221221021700 +0000" stop="20221221024200 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221221024200 +0000" stop="20221221032500 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221221032500 +0000" stop="20221221045500 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221221045500 +0000" stop="20221221060000 +0000" channel="SICCaras.pt"><title lang="pt">Alta Definição</title></programme>
+  <programme start="20221221060000 +0000" stop="20221221084500 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221221084500 +0000" stop="20221221091500 +0000" channel="SICCaras.pt"><title lang="pt">Posso Entrar?</title></programme>
+  <programme start="20221221091500 +0000" stop="20221221100000 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221221100000 +0000" stop="20221221113700 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221221113700 +0000" stop="20221221122200 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221221122200 +0000" stop="20221221130000 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+  <programme start="20221221130000 +0000" stop="20221221143000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221221143000 +0000" stop="20221221150000 +0000" channel="SICCaras.pt"><title lang="pt">Look@Me</title></programme>
+  <programme start="20221221150000 +0000" stop="20221221154500 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221221154500 +0000" stop="20221221171500 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221221171500 +0000" stop="20221221180000 +0000" channel="SICCaras.pt"><title lang="pt">Miúdos Ricos No Fio Da Navalha</title></programme>
+  <programme start="20221221180000 +0000" stop="20221221184500 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221221184500 +0000" stop="20221221201900 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221221201900 +0000" stop="20221221210000 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221221210000 +0000" stop="20221221222100 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221221222100 +0000" stop="20221221223500 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+  <programme start="20221221223500 +0000" stop="20221222000600 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  
+<!-- Quinta-Feira   -->  
+  <programme start="20221222000600 +0000" stop="20221222013400 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221222013400 +0000" stop="20221222021700 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221222021700 +0000" stop="20221222024200 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221222024200 +0000" stop="20221222032500 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221222032500 +0000" stop="20221222053000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221222053000 +0000" stop="20221222060000 +0000" channel="SICCaras.pt"><title lang="pt">Look@Me</title></programme>
+  <programme start="20221222060000 +0000" stop="20221222083000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221222083000 +0000" stop="20221222084500 +0000" channel="SICCaras.pt"><title lang="pt">Boa Cama, Boa Mesa</title></programme>
+  <programme start="20221222084500 +0000" stop="20221222091500 +0000" channel="SICCaras.pt"><title lang="pt">E-Especial</title></programme>
+  <programme start="20221222091500 +0000" stop="20221222100000 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221222100000 +0000" stop="20221222113700 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221222113700 +0000" stop="20221222130000 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+  <programme start="20221222130000 +0000" stop="20221222143000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221222143000 +0000" stop="20221222154500 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221222154500 +0000" stop="20221222171500 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221222171500 +0000" stop="20221222180000 +0000" channel="SICCaras.pt"><title lang="pt">Miúdos Ricos No Fio Da Navalha</title></programme>
+  <programme start="20221222180000 +0000" stop="20221222184500 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221222184500 +0000" stop="20221222201900 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221222201900 +0000" stop="20221222210000 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221222210000 +0000" stop="20221222215100 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221222215100 +0000" stop="20221222223500 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+  <programme start="20221222223500 +0000" stop="20221223000600 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+
+<!-- Sexta-Feira   -->
+  <programme start="20221223000600 +0000" stop="20221223013400 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221223013400 +0000" stop="20221223021700 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221223021700 +0000" stop="20221223024200 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221223024200 +0000" stop="20221223032500 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221223032500 +0000" stop="20221223050000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221223050000 +0000" stop="20221223053000 +0000" channel="SICCaras.pt"><title lang="pt">Fama Show</title></programme>
+  <programme start="20221223053000 +0000" stop="20221223060000 +0000" channel="SICCaras.pt"><title lang="pt">Posso Entrar?</title></programme>
+  <programme start="20221223060000 +0000" stop="20221223084500 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221223084500 +0000" stop="20221223091500 +0000" channel="SICCaras.pt"><title lang="pt">Look@Me</title></programme>
+  <programme start="20221223091500 +0000" stop="20221223100000 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221223100000 +0000" stop="20221223113700 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221223113700 +0000" stop="20221223130000 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+  <programme start="20221223130000 +0000" stop="20221223143000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221223143000 +0000" stop="20221223150000 +0000" channel="SICCaras.pt"><title lang="pt">Alta Definição</title></programme>
+  <programme start="20221223150000 +0000" stop="20221223154500 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221223154500 +0000" stop="20221223171500 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221223171500 +0000" stop="20221223180000 +0000" channel="SICCaras.pt"><title lang="pt">Miúdos Ricos No Fio Da Navalha</title></programme>
+  <programme start="20221223180000 +0000" stop="20221223184500 +0000" channel="SICCaras.pt"><title lang="pt">The Block Australia</title></programme>
+  <programme start="20221223184500 +0000" stop="20221223201900 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>  
+  <programme start="20221222201900 +0000" stop="20221222214500 +0000" channel="SICCaras.pt"><title lang="pt">Icons</title></programme>
+  <programme start="20221222214500 +0000" stop="20221222223000 +0000" channel="SICCaras.pt"><title lang="pt">Dubai De Luxo</title></programme>
+  <programme start="20221222223000 +0000" stop="20221223000600 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+
+<!-- Sabado   -->
+  <programme start="20221217000600 +0000" stop="20221217013000 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221217013000 +0000" stop="20221217021500 +0000" channel="SICCaras.pt"><title lang="pt">Fantasmas das Celebridades</title></programme>
+  <programme start="20221217021500 +0000" stop="20221217030000 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221217030000 +0000" stop="20221217041500 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221217041500 +0000" stop="20221217050000 +0000" channel="SICCaras.pt"><title lang="pt">Alta Definição</title></programme>
+  <programme start="20221217050000 +0000" stop="20221217053000 +0000" channel="SICCaras.pt"><title lang="pt">Look@Me</title></programme>
+  <programme start="20221217053000 +0000" stop="20221217060000 +0000" channel="SICCaras.pt"><title lang="pt">Posso Entrar?</title></programme>
+  <programme start="20221217060000 +0000" stop="20221217073000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221217073000 +0000" stop="20221217090000 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221217090000 +0000" stop="20221217101500 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221217101500 +0000" stop="20221217104500 +0000" channel="SICCaras.pt"><title lang="pt">Alta Definição</title></programme>
+  <programme start="20221217104500 +0000" stop="20221217111500 +0000" channel="SICCaras.pt"><title lang="pt">E-Especial</title></programme>
+  <programme start="20221217111500 +0000" stop="20221217114500 +0000" channel="SICCaras.pt"><title lang="pt">Fama Show</title></programme>
+  <programme start="20221217114500 +0000" stop="20221217122200 +0000" channel="SICCaras.pt"><title lang="pt">Posso Entrar?</title></programme> 
+  <programme start="20221217122200 +0000" stop="20221217130000 +0000" channel="SICCaras.pt"><title lang="pt">Segredos Do Palácio Real</title></programme> 
+  <programme start="20221217130000 +0000" stop="20221217143000 +0000" channel="SICCaras.pt"><title lang="pt">Fantasmas das Celebridades</title></programme> 
+  <programme start="20221217143000 +0000" stop="20221217160000 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme> 
+  <programme start="20221217160000 +0000" stop="20221217173000 +0000" channel="SICCaras.pt"><title lang="pt">Miúdos Ricos No Fio Da Navalha</title></programme>
+  <programme start="20221217173000 +0000" stop="20221217180000 +0000" channel="SICCaras.pt"><title lang="pt">Dubai De Luxo</title></programme> 
+  <programme start="20221217180000 +0000" stop="20221217184500 +0000" channel="SICCaras.pt"><title lang="pt">Look@Me</title></programme>
+  <programme start="20221217184500 +0000" stop="20221217191500 +0000" channel="SICCaras.pt"><title lang="pt">Posso Entrar?</title></programme>
+  <programme start="20221217191500 +0000" stop="20221217200000 +0000" channel="SICCaras.pt"><title lang="pt">E-Especial</title></programme> 
+  <programme start="20221217200000 +0000" stop="20221217211500 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme> 
+  <programme start="20221217211500 +0000" stop="20221217220000 +0000" channel="SICCaras.pt"><title lang="pt">Segredos Do Palácio Real</title></programme>
+  <programme start="20221217220000 +0000" stop="20221217224500 +0000" channel="SICCaras.pt"><title lang="pt">Dubai De Luxo</title></programme>
+  <programme start="20221217224500 +0000" stop="20221217233000 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221217233000 +0000" stop="20221218010000 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme>
+  
+<!-- Domingo   --> 
+  <programme start="20221218010000 +0000" stop="20221218023000 +0000" channel="SICCaras.pt"><title lang="pt">Fantasmas das Celebridades</title></programme> 
+  <programme start="20221218023000 +0000" stop="20221218040000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221218040000 +0000" stop="20221218050000 +0000" channel="SICCaras.pt"><title lang="pt">Dance Moms</title></programme>
+  <programme start="20221218050000 +0000" stop="20221218053000 +0000" channel="SICCaras.pt"><title lang="pt">E-Especial</title></programme>
+  <programme start="20221218053000 +0000" stop="20221218060000 +0000" channel="SICCaras.pt"><title lang="pt">Fama Show</title></programme>
+  <programme start="20221218060000 +0000" stop="20221218073000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221218073000 +0000" stop="20221218090000 +0000" channel="SICCaras.pt"><title lang="pt">Ellen</title></programme>
+  <programme start="20221218090000 +0000" stop="20221218101500 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221218101500 +0000" stop="20221218104500 +0000" channel="SICCaras.pt"><title lang="pt">Posso Entrar?</title></programme>
+  <programme start="20221218104500 +0000" stop="20221218113000 +0000" channel="SICCaras.pt"><title lang="pt">Look@Me</title></programme>
+  <programme start="20221218113000 +0000" stop="20221218121500 +0000" channel="SICCaras.pt"><title lang="pt">Alta Definição</title></programme>
+  <programme start="20221218121500 +0000" stop="20221218130000 +0000" channel="SICCaras.pt"><title lang="pt">Segredos Do Palácio Real</title></programme>
+  <programme start="20221218130000 +0000" stop="20221218131500 +0000" channel="SICCaras.pt"><title lang="pt">Boa Cama, Boa Mesa</title></programme>
+  <programme start="20221218131500 +0000" stop="20221218140000 +0000" channel="SICCaras.pt"><title lang="pt">Fantasmas das Celebridades</title></programme>
+  <programme start="20221218140000 +0000" stop="20221218153000 +0000" channel="SICCaras.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+  <programme start="20221218153000 +0000" stop="20221218161500 +0000" channel="SICCaras.pt"><title lang="pt">Barcos Com Amor</title></programme>
+  <programme start="20221218161500 +0000" stop="20221218170000 +0000" channel="SICCaras.pt"><title lang="pt">Miúdos Ricos No Fio Da Navalha</title></programme>
+  <programme start="20221218170000 +0000" stop="20221218174500 +0000" channel="SICCaras.pt"><title lang="pt">Dubai De Luxo</title></programme>
+  <programme start="20221218174500 +0000" stop="20221218181500 +0000" channel="SICCaras.pt"><title lang="pt">Posso Entrar?</title></programme>
+  <programme start="20221218181500 +0000" stop="20221218184500 +0000" channel="SICCaras.pt"><title lang="pt">Look@Me</title></programme>
+  <programme start="20221218184500 +0000" stop="20221218191500 +0000" channel="SICCaras.pt"><title lang="pt">Alta Definição</title></programme>
+  <programme start="20221218191500 +0000" stop="20221218200000 +0000" channel="SICCaras.pt"><title lang="pt">Fama Show</title></programme>
+  <programme start="20221218200000 +0000" stop="20221218211500 +0000" channel="SICCaras.pt"><title lang="pt">Casa Do Ano Irlanda</title></programme>
+  <programme start="20221218211500 +0000" stop="20221218220000 +0000" channel="SICCaras.pt"><title lang="pt">Segredos Do Palácio Real</title></programme>
+  <programme start="20221218220000 +0000" stop="20221218224500 +0000" channel="SICCaras.pt"><title lang="pt">Dubai De Luxo</title></programme>
+  <programme start="20221218224500 +0000" stop="20221219001500 +0000" channel="SICCaras.pt"><title lang="pt">Botched</title></programme> 
+
+SIC Mulher  
+<!-- Segunda-Feira -->
+  <programme start="2022121900 +0000" stop="2022121900 +0000" channel="SICMulher.pt"><title lang="pt"></title></programme>
+00:00 às 01:30 Masterchef Austrália T14 - Ep. 59
+01:30 às 03:45 Dr. House T3 - Ep. 7
+03:45 às 06:00 Bolívar T1 - Ep. 63
+06:00 às 06:45 Dr. Phil T17 - Ep. 121
+06:45 às 07:15 Médico Da Casa Com Dr. Almeida Nunes T1 - Ep. 69
+07:15 às 08:45 My Dream Home T3 - Ep. 24
+08:45 às 09:30 Dr. Phil T17 - Ep. 124
+09:30 às 10:30 Lucky Dog T9 - Ep. 23
+10:30 às 11:15 Masterchef Colombia Júnior T1 - Ep. 16
+11:15 às 12:00 Mother T1 - Ep. 3
+12:00 às 12:45 Médico Da Casa Com Dr. Almeida Nunes T1 - Ep. 70
+12:45 às 13:45 Joias TV - Televendas
+13:45 às 14:00 Espaços E Casas T14 - Ep. 45
+14:00 às 14:30 My Dream Home T3 - Ep. 22
+14:30 às 15:15 Secret Celebrity Renovations T1 - Ep. 7
+15:15 às 16:00 Bolívar T1 - Ep. 68
+16:00 às 16:45 La Reina Del Flow T1 - Ep. 3
+16:45 às 18:30 Mother T1 - Ep. 46
+18:30 às 19:15 America's Got Talent T17 - Ep. 38
+19:15 às 20:00 Secret Celebrity Renovations T1 - Ep. 9
+20:00 às 20:45 Love It Or List It USA T10 - Ep. 3
+
+20:45 às 21:30
+Mother T1 - Ep. 47
+
+21:30 às 22:15
+Mother T1 - Ep. 48
+
+22:15 às 23:00
+Masterchef Austrália T14 - Ep. 70
+
+23:00 às 23:30
+Masterchef Austrália T14 - Ep. 71
+
+23:30 às 00:00
+America's Got Talent T17 - Ep. 38
+
+00:00 às 00:30
+America's Got Talent T17 - Ep. 39  
+  
+<!-- Terca-Feira -->  
+  <programme start="2022122000 +0000" stop="2022122000 +0000" channel="SICMulher.pt"><title lang="pt"></title></programme>  
+  
+<!-- Quarta-Feira   -->  
+0040 às 0137 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Married At First Sight Italy</title></programme>
+0137 às 0303 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Mother</title></programme>
+0303 às 0345 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Bolívar</title></programme>
+0345 às 0419 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Masterchef Colombia Júnior</title></programme>
+0419 às 0504 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Dr. House</title></programme>
+0504 às 0632 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">My Dream Home</title></programme>
+0632 às 0722 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Dr. House</title></programme>
+0722 às 0856 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">My Dream Home</title></programme>
+0856 às 0942 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Dr. Phil</title></programme>
+0942 às 1023 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Lucky Dog</title></programme>
+1023 às 1059 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">E Se Fosse Consigo?</title></programme>
+1059 às 1141 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Masterchef Colombia Júnior</title></programme>
+1141 às 1222 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Mother</title></programme>
+1222 às 1245 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Mudar Para Melhor</title></programme>
+1245 às 1347 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Joias TV - Televendas</title></programme>
+1347 às 1438 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">My Dream Home</title></programme>
+1438 às 1521 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Secret Celebrity Renovations</title></programme>
+
+1521 às 1609 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Bolívar</title></programme>
+1609 às 1811 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Mother</title></programme>
+1811 às 1914 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">America's Got Talent</title></programme>
+1914 às 2043 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Secret Celebrity Renovations</title></programme>
+2043 às 2227 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Mother</title></programme>
+2227 às 2343 <programme start="2022122100 +0000" stop="2022122100 +0000" channel="SICMulher.pt"><title lang="pt">Masterchef Austrália</title></programme>
+2343 às 0040 <programme start="2022122100 +0000" stop="2022122200 +0000" channel="SICMulher.pt"><title lang="pt">America's Got Talent</title></programme>
+  
+<!-- Quinta-Feira   -->  
+  <programme start="2022122200 +0000" stop="2022122300 +0000" channel="SICMulher.pt"><title lang="pt"></title></programme>
+00:40 às 01:40 Married At First Sight Italy
+01:40 às 02:58 Mother
+02:58 às 03:42 Bolívar
+03:42 às 04:13 Masterchef Colombia Júnior T1 - Ep. 10
+04:13 às 04:56 Dr. House T2 - Ep. 23
+04:56 às 06:00 My Dream Home T3 - Ep. 9
+06:00 às 06:45 Dr. Phil T17 - Ep. 119
+06:45 às 07:15 Dr. House T2 - Ep. 22
+07:15 às 08:30 My Dream Home T3 - Ep. 22
+08:30 às 09:00 Dr. Phil T17 - Ep. 122
+09:00 às 10:00 Lucky Dog T9 - Ep. 21
+10:00 às 10:30 Mudar Para Melhor T1 - Ep. 4
+10:30 às 11:15 Masterchef Colombia Júnior T1 - Ep. 14
+11:15 às 12:00 Mother T1 - Ep. 30
+12:00 às 12:45 Irresistível T2 - Ep. 9
+12:45 às 13:45 Joias TV - Televendas
+13:45 às 14:30 My Dream Home T3 - Ep. 20
+14:30 às 15:15 Secret Celebrity Renovations T1 - Ep. 6
+15:15 às 16:00 Bolívar T1 - Ep. 66
+16:00 às 16:45 La Reina Del Flow T1 - Ep. 1
+16:45 às 18:30 Mother T1 - Ep. 42
+18:30 às 19:15 America's Got Talent T17 - Ep. 37
+19:15 às 20:00 Secret Celebrity Renovations T1 - Ep. 8
+20:00 às 20:45 Love It Or List It USA T10 - Ep. 1
+20:45 às 22:15 Mother T1 - Ep. 44
+22:15 às 23:30 Masterchef Austrália T14 - Ep. 69
+23:30 às 00:30 America's Got Talent T17 - Ep. 38  
+  
+<!-- Sexta-Feira   -->  
+  <programme start="2022122300 +0000" stop="2022121700 +0000" channel="SICMulher.pt"><title lang="pt"></title></programme>
+00:30 às 00:52
+Married At First Sight Italy T5 - Ep. 11
+
+00:52 às 01:15
+Married At First Sight Italy T5 - Ep. 12
+
+01:15 às 01:45
+Mother T1 - Ep. 27
+
+01:45 às 02:15
+Mother T1 - Ep. 28
+
+02:15 às 03:00
+Bolívar T1 - Ep. 51
+
+03:00 às 03:45
+Masterchef Colombia Júnior T1 - Ep. 11
+
+03:45 às 04:30
+Dr. House T2 - Ep. 24
+
+04:30 às 05:15
+My Dream Home T3 - Ep. 9
+
+05:15 às 06:00
+My Dream Home T3 - Ep. 10
+
+06:00 às 06:45
+Dr. Phil T17 - Ep. 120
+
+06:45 às 07:15
+Dr. House T2 - Ep. 23
+
+07:15 às 07:45
+My Dream Home T3 - Ep. 18
+
+07:45 às 08:30
+My Dream Home T3 - Ep. 23
+
+08:30 às 09:15
+Dr. Phil T17 - Ep. 123
+
+09:15 às 09:45
+Lucky Dog T9 - Ep. 22
+
+09:45 às 10:30
+Masterchef Colombia Júnior T1 - Ep. 15
+
+10:30 às 11:00
+E Se Fosse Consigo? T2 - Ep. 6
+
+
+11:00 às 11:15
+Espaços E Casas T14 - Ep. 44
+
+11:15 às 12:00
+Mother T1 - Ep. 31
+
+12:00 às 12:45
+What's Up? TV T2 - Ep. 15
+
+12:45 às 13:45
+Joias TV - Televendas
+
+13:45 às 14:30
+My Dream Home T3 - Ep. 21
+
+14:30 às 15:15
+Secret Celebrity Renovations T1 - Ep. 7
+
+15:15 às 16:00
+Bolívar T1 - Ep. 67
+
+16:00 às 16:45
+La Reina Del Flow T1 - Ep. 2
+
+16:45 às 17:15
+Mother T1 - Ep. 42
+
+17:15 às 18:00
+Mother T1 - Ep. 43
+
+18:00 às 18:30
+Mother T1 - Ep. 44
+
+18:30 às 19:00
+America's Got Talent T17 - Ep. 37
+
+19:00 às 19:15
+America's Got Talent T17 - Ep. 38
+
+19:15 às 20:00
+Secret Celebrity Renovations T1 - Ep. 9
+
+20:00 às 20:45
+Love It Or List It USA T10 - Ep. 2
+
+20:45 às 21:30
+Mother T1 - Ep. 45
+
+21:30 às 22:15
+Mother T1 - Ep. 46
+
+22:15 às 23:00
+Masterchef Austrália T14 - Ep. 70
+
+23:00 às 23:45
+America's Got Talent T17 - Ep. 38
+
+23:45 às 01:15
+Angel Eyes  
+  
+<!-- Sabado   -->  
+01:15 às 02:30 Final Shot<programme start="2022122400 +0000" stop="2022122400 +0000" channel="SICMulher.pt"><title lang="pt"></title></programme>
+02:30 às 04:30 Dr. House T3 - Ep. 3
+04:30 às 06:00 Bolívar T1 - Ep. 57
+06:00 às 08:00 My Dream Home T3 - Ep. 19
+08:00 às 08:15 Boa Cama, Boa Mesa T19 - Ep. 13
+08:15 às 08:30 Espaços E Casas T14 - Ep. 44
+08:30 às 09:00 Médico Da Casa Com Dr. Almeida Nunes T1 - Ep. 69
+09:00 às 10:15 Lucky Dog T9 - Ep. 14
+10:15 às 10:45 Mudar Para Melhor T1 - Ep. 2
+10:45 às 11:15 E Se Fosse Consigo? T2 - Ep. 7
+11:15 às 12:00 That Animal Rescue Show T1 - Ep. 1
+12:00 às 12:45 Irresistível T2 - Ep. 9
+12:45 às 13:45 Joias TV - Televendas
+13:45 às 15:15 Gordon, Gino And Fred Road Trip T3 - Ep. 2
+15:15 às 17:15 Friends With Money
+  <programme start="20221217171500 +0000" stop="20221217190000 +0000" channel="SICMulher.pt"><title lang="pt">Angel Eyes</title></programme>
+  <programme start="20221217190000 +0000" stop="20221217203000 +0000" channel="SICMulher.pt"><title lang="pt">One Delicious Christmas</title></programme>
+  <programme start="20221217203000 +0000" stop="20221217220000 +0000" channel="SICMulher.pt"><title lang="pt">America's Got Talent</title></programme>
+  <programme start="20221217220000 +0000" stop="20221217000000 +0000" channel="SICMulher.pt"><title lang="pt">Friends With Beneficts</title></programme>
+  <programme start="20221217000000 +0000" stop="20221218014500 +0000" channel="SICMulher.pt"><title lang="pt">America's Sweethearts</title></programme>  
+  
+<!-- Domingo   -->  
+  <programme start="2022121800 +0000" stop="2022121800 +0000" channel="SICMulher.pt"><title lang="pt"></title></programme>
+  
+  
+  
+  <programme start="2022121800 +0000" stop="2022121900 +0000" channel="SICMulher.pt"><title lang="pt"></title></programme>  
+
+
+SIC Radical  
+  <programme start="2022121900 +0000" stop="2022122000 +0000" channel="SICRadical.pt"><title lang="pt"></title></programme>
+  <programme start="2022122000 +0000" stop="2022122100 +0000" channel="SICRadical.pt"><title lang="pt"></title></programme>
+  <programme start="2022122100 +0000" stop="2022122200 +0000" channel="SICRadical.pt"><title lang="pt"></title></programme>
+  <programme start="2022122200 +0000" stop="2022122300 +0000" channel="SICRadical.pt"><title lang="pt"></title></programme>
+  <programme start="2022122300 +0000" stop="2022121700 +0000" channel="SICRadical.pt"><title lang="pt"></title></programme>
+  <programme start="2022121700 +0000" stop="2022121800 +0000" channel="SICRadical.pt"><title lang="pt"></title></programme>
+  <programme start="2022121800 +0000" stop="2022121900 +0000" channel="SICRadical.pt"><title lang="pt"></title></programme>   
+
+  
+</tv>
