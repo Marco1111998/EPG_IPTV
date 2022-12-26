@@ -1,0 +1,1091 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV",RTP 1
+http://cineapp.org:8000/Fernando/Fernando/8075
+#EXTINF:-1 group-title="TV",RTP 1
+http://cineapp.org:8000/Fernando/Fernando/28498
+#EXTINF:-1 group-title="TV",RTP 1
+http://cineapp.org:8000/Fernando/Fernando/2321
+#EXTINF:-1 group-title="TV",RTP 1
+http://7go.xyz:8080/juliano2022/2022juliano/64412
+#EXTINF:-1 group-title="TV",RTP 1 
+http://7go.xyz:8080/juliano2022/2022juliano/64313
+#EXTINF:-1 group-title="TV",RTP 1
+http://7go.xyz:8080/juliano2022/2022juliano/111747
+#EXTINF:-1 group-title="TV",RTP 1
+http://red.ipfox.org:8080/osama2022/osama2023/49354
+#EXTINF:-1 group-title="TV",RTP 1
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25064.ts
+#EXTINF:-1 group-title="TV",RTP 2
+http://cineapp.org:8000/Fernando/Fernando/2320
+#EXTINF:-1 group-title="TV",RTP 2
+http://cineapp.org:8000/Fernando/Fernando/8076
+#EXTINF:-1 group-title="TV",RTP 2
+http://cineapp.org:8000/Fernando/Fernando/28499
+#EXTINF:-1 group-title="TV",RTP 2 
+http://7go.xyz:8080/juliano2022/2022juliano/64411
+#EXTINF:-1 group-title="TV",RTP 2 
+http://7go.xyz:8080/juliano2022/2022juliano/64314
+#EXTINF:-1 group-title="TV",RTP 2
+http://7go.xyz:8080/juliano2022/2022juliano/111748
+#EXTINF:-1 group-title="TV",RTP 2
+http://red.ipfox.org:8080/osama2022/osama2023/49353
+#EXTINF:-1 group-title="TV",RTP 2
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25065.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt",RTP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC
+https://sic.live.impresa.pt/sic540p.m3u8
+#EXTINF:-1 group-title="TV",SIC
+http://cineapp.org:8000/Fernando/Fernando/3410
+#EXTINF:-1 group-title="TV",SIC 
+http://cineapp.org:8000/Fernando/Fernando/8112
+#EXTINF:-1 group-title="TV",SIC 
+http://cineapp.org:8000/Fernando/Fernando/28500
+#EXTINF:-1 group-title="TV",SIC 
+http://7go.xyz:8080/juliano2022/2022juliano/64410
+#EXTINF:-1 group-title="TV",SIC 
+http://7go.xyz:8080/juliano2022/2022juliano/64316
+#EXTINF:-1 group-title="TV",SIC 
+http://7go.xyz:8080/juliano2022/2022juliano/64341
+#EXTINF:-1 group-title="TV",SIC 
+http://7go.xyz:8080/juliano2022/2022juliano/111754
+#EXTINF:-1 group-title="TV",SIC
+http://red.ipfox.org:8080/osama2022/osama2023/49352
+#EXTINF:-1 group-title="TV",SIC
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25073.ts
+#EXTINF:-1 group-title="TV",TVI
+http://cineapp.org:8000/Fernando/Fernando/2317
+#EXTINF:-1 group-title="TV",TVI
+http://cineapp.org:8000/Fernando/Fernando/28501
+#EXTINF:-1 group-title="TV",TVI
+http://cineapp.org:8000/Fernando/Fernando/28502
+#EXTINF:-1 group-title="TV",TVI
+http://7go.xyz:8080/juliano2022/2022juliano/64409
+#EXTINF:-1 group-title="TV",TVI
+http://7go.xyz:8080/juliano2022/2022juliano/163564
+#EXTINF:-1 group-title="TV",TVI
+http://7go.xyz:8080/juliano2022/2022juliano/163563
+#EXTINF:-1 group-title="TV",TVI
+http://red.ipfox.org:8080/osama2022/osama2023/49351
+#EXTINF:-1 group-title="TV",TVI
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25085.ts
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+https://sicnot.live.impresa.pt/sicnot540p.m3u8
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://cineapp.org:8000/Fernando/Fernando/3426
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://cineapp.org:8000/Fernando/Fernando/28511
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://cineapp.org:8000/Fernando/Fernando/28512
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://7go.xyz:8080/juliano2022/2022juliano/64282
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://7go.xyz:8080/juliano2022/2022juliano/111757
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://7go.xyz:8080/juliano2022/2022juliano/111758
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://red.ipfox.org:8080/osama2022/osama2023/49350
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25078.ts
+#EXTINF:-1 group-title="TV",RTP 3
+http://cineapp.org:8000/Fernando/Fernando/3412
+#EXTINF:-1 group-title="TV",RTP 3
+http://cineapp.org:8000/Fernando/Fernando/8077
+#EXTINF:-1 group-title="TV",RTP 3
+http://cineapp.org:8000/Fernando/Fernando/28510
+#EXTINF:-1 group-title="TV",RTP 3 
+http://7go.xyz:8080/juliano2022/2022juliano/64315
+#EXTINF:-1 group-title="TV",RTP 3
+http://7go.xyz:8080/juliano2022/2022juliano/111749
+#EXTINF:-1 group-title="TV",RTP 3
+http://red.ipfox.org:8080/osama2022/osama2023/49349
+#EXTINF:-1 group-title="TV",RTP 3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25066.ts
+#EXTINF:-1 group-title="TV",RTP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",CNN PORTUGAL
+http://cineapp.org:8000/Fernando/Fernando/28507
+#EXTINF:-1 group-title="TV",CNN PORTUGAL
+http://cineapp.org:8000/Fernando/Fernando/28508
+#EXTINF:-1 group-title="TV",CNN PORTUGAL
+http://cineapp.org:8000/Fernando/Fernando/28509
+#EXTINF:-1 group-title="TV",CNN PORTUGAL
+http://7go.xyz:8080/juliano2022/2022juliano/64340
+#EXTINF:-1 group-title="TV",CNN PORTUGAL
+http://7go.xyz:8080/juliano2022/2022juliano/163565
+#EXTINF:-1 group-title="TV",CNN PORTUGAL
+http://red.ipfox.org:8080/osama2022/osama2023/49348
+#EXTINF:-1 group-title="TV",CNN PORTUGAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25086.ts
+#EXTINF:-1 group-title="TV",CMTV
+http://cineapp.org:8000/Fernando/Fernando/28504
+#EXTINF:-1 group-title="TV",CMTV
+http://cineapp.org:8000/Fernando/Fernando/28505
+#EXTINF:-1 group-title="TV",CMTV
+http://cineapp.org:8000/Fernando/Fernando/28506
+#EXTINF:-1 group-title="TV",CMTV
+http://7go.xyz:8080/juliano2022/2022juliano/64294
+#EXTINF:-1 group-title="TV",CMTV
+http://7go.xyz:8080/juliano2022/2022juliano/64371
+#EXTINF:-1 group-title="TV",CMTV
+http://red.ipfox.org:8080/osama2022/osama2023/49347
+#EXTINF:-1 group-title="TV",CMTV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25017.ts
+#EXTINF:-1 group-title="TV",GLOBO
+http://cineapp.org:8000/Fernando/Fernando/9822
+#EXTINF:-1 group-title="TV",GLOBO
+http://cineapp.org:8000/Fernando/Fernando/28571
+#EXTINF:-1 group-title="TV",GLOBO
+http://cineapp.org:8000/Fernando/Fernando/28572
+#EXTINF:-1 group-title="TV",GLOBO
+http://cineapp.org:8000/Fernando/Fernando/28573
+#EXTINF:-1 group-title="TV",GLOBO
+http://7go.xyz:8080/juliano2022/2022juliano/64373
+#EXTINF:-1 group-title="TV",GLOBO
+http://red.ipfox.org:8080/osama2022/osama2023/49345
+#EXTINF:-1 group-title="TV",GLOBO
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25038.ts
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://cineapp.org:8000/Fernando/Fernando/5150
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://cineapp.org:8000/Fernando/Fernando/28536
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://cineapp.org:8000/Fernando/Fernando/28537
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/29668.ts
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
+#EXTINF:-1 group-title="TV",CANAL 11
+http://cineapp.org:8000/Fernando/Fernando/28564
+#EXTINF:-1 group-title="TV",CANAL 11
+http://cineapp.org:8000/Fernando/Fernando/28565
+#EXTINF:-1 group-title="TV",CANAL 11
+http://cineapp.org:8000/Fernando/Fernando/28566
+#EXTINF:-1 group-title="TV",CANAL 11 
+http://pro.ipcover.tv:8080/jaja/Jajafoot/45636
+#EXTINF:-1 group-title="TV",CANAL 11
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36651
+#EXTINF:-1 group-title="TV",CANAL 11
+http://red.ipfox.org:8080/osama2022/osama2023/49344
+#EXTINF:-1 group-title="TV",CANAL 11
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25004.ts
+#EXTINF:-1 group-title="TV",CANAL 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="TV",CANAL Q
+http://cineapp.org:8000/Fernando/Fernando/28582
+#EXTINF:-1 group-title="TV",CANAL Q 
+http://7go.xyz:8080/juliano2022/2022juliano/64407
+#EXTINF:-1 group-title="TV",CANAL Q
+http://red.ipfox.org:8080/osama2022/osama2023/49316
+#EXTINF:-1 group-title="TV",CANAL Q
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25006.ts
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://cineapp.org:8000/Fernando/Fernando/8070
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://cineapp.org:8000/Fernando/Fernando/28561
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://cineapp.org:8000/Fernando/Fernando/28562
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24987.ts
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://cineapp.org:8000/Fernando/Fernando/77430
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://cineapp.org:8000/Fernando/Fernando/3435
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://cineapp.org:8000/Fernando/Fernando/28568
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://cineapp.org:8000/Fernando/Fernando/28569
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://cineapp.org:8000/Fernando/Fernando/28570
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://7go.xyz:8080/juliano2022/2022juliano/64304
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://7go.xyz:8080/juliano2022/2022juliano/163566
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://red.ipfox.org:8080/osama2022/osama2023/49343
+#EXTINF:-1 group-title="TV",TVI FICCAO 
+http://ziyadiptv.net:80/05519648407TT/05519648407/56905
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://ziyadiptv.net:80/05519648407TT/05519648407/56906
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25087.ts
+#EXTINF:-1 group-title="TV",TVI FICCAO
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 group-title="TV",TVI AFRICA
+https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://cineapp.org:8000/Fernando/Fernando/3430
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://7go.xyz:8080/juliano2022/2022juliano/64281
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://7go.xyz:8080/juliano2022/2022juliano/111755
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://red.ipfox.org:8080/osama2022/osama2023/49306
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25074.ts
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://cineapp.org:8000/Fernando/Fernando/3423
+#EXTINF:-1 group-title="TV",SIC MULHER 
+http://7go.xyz:8080/juliano2022/2022juliano/64408
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://7go.xyz:8080/juliano2022/2022juliano/111756
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://red.ipfox.org:8080/osama2022/osama2023/49346
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25077.ts
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://cineapp.org:8000/Fernando/Fernando/2370
+#EXTINF:-1 group-title="TV",SIC RADICAL 
+http://7go.xyz:8080/juliano2022/2022juliano/64283
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://7go.xyz:8080/juliano2022/2022juliano/111759
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://7go.xyz:8080/juliano2022/2022juliano/111760
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://red.ipfox.org:8080/osama2022/osama2023/49315
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25079.ts
+#EXTINF:-1 group-title="TV",ADVANCE SIC
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9822
+#EXTINF:-1 group-title="TV",PORTO CANAL
+http://cineapp.org:8000/Fernando/Fernando/28581
+#EXTINF:-1 group-title="TV",PORTO CANAL 
+http://7go.xyz:8080/juliano2022/2022juliano/64406
+#EXTINF:-1 group-title="TV",PORTO CANAL 
+http://7go.xyz:8080/juliano2022/2022juliano/64405
+#EXTINF:-1 group-title="TV",PORTO CANAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25062.ts
+#EXTINF:-1 group-title="TV",PORTO CANAL
+https://stream-11.dc3.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0kNTyA_RCXk57fSYgaSTgkICrnKEEq0kc1FNGNdgoCGk)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://cineapp.org:8000/Fernando/Fernando/3411
+#EXTINF:-1 group-title="TV",TVI REALITY 
+http://cineapp.org:8000/Fernando/Fernando/8065
+#EXTINF:-1 group-title="TV",TVI REALITY 
+http://7go.xyz:8080/juliano2022/2022juliano/64386
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://7go.xyz:8080/juliano2022/2022juliano/64288
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://7go.xyz:8080/juliano2022/2022juliano/163567
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://7go.xyz:8080/juliano2022/2022juliano/163568
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://red.ipfox.org:8080/osama2022/osama2023/49318
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25088.ts
+#EXTINF:-1 group-title="TV",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 group-title="TV",CANAL NOS
+http://pro.ipcover.tv:8080/jaja/Jajafoot/45634
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://cineapp.org:8000/Fernando/Fernando/7182
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://cineapp.org:8000/Fernando/Fernando/28517
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://cineapp.org:8000/Fernando/Fernando/28518
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://7go.xyz:8080/juliano2022/2022juliano/64356
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25057.ts
+#EXTINF:-1 group-title="TV",BIGGS
+http://cineapp.org:8000/Fernando/Fernando/3439
+#EXTINF:-1 group-title="TV",BIGGS
+http://7go.xyz:8080/juliano2022/2022juliano/64312
+#EXTINF:-1 group-title="TV",BIGGS
+http://red.ipfox.org:8080/osama2022/osama2023/49297
+#EXTINF:-1 group-title="TV",BIGGS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24998.ts
+#EXTINF:-1 group-title="TV",SIC K
+http://cineapp.org:8000/Fernando/Fernando/5110
+#EXTINF:-1 group-title="TV",SIC K
+http://cineapp.org:8000/Fernando/Fernando/8114
+#EXTINF:-1 group-title="TV",SIC K
+http://7go.xyz:8080/juliano2022/2022juliano/64317
+#EXTINF:-1 group-title="TV",SIC K
+http://red.ipfox.org:8080/osama2022/osama2023/49296
+#EXTINF:-1 group-title="TV",SIC K
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25075.ts
+#EXTINF:-1 group-title="TV",NICK JR
+http://cineapp.org:8000/Fernando/Fernando/28567
+#EXTINF:-1 group-title="TV",NICK JR
+http://7go.xyz:8080/juliano2022/2022juliano/64352
+#EXTINF:-1 group-title="TV",NICK JR
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25055.ts
+#EXTINF:-1 group-title="TV",BOOMERANG
+http://7go.xyz:8080/juliano2022/2022juliano/64350
+#EXTINF:-1 group-title="TV",BOOMERANG
+http://red.ipfox.org:8080/osama2022/osama2023/49292
+#EXTINF:-1 group-title="TV",BOOMERANG
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/516343.ts
+#EXTINF:-1 group-title="TV",PANDA KIDS
+http://red.ipfox.org:8080/osama2022/osama2023/49289
+#EXTINF:-1 group-title="TV",PANDA KIDS
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/516332.ts
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://cineapp.org:8000/Fernando/Fernando/7750
+#EXTINF:-1 group-title="TV",NICKELODEON 
+http://7go.xyz:8080/juliano2022/2022juliano/64351
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://red.ipfox.org:8080/osama2022/osama2023/49295
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://red.ipfox.org:8080/osama2022/osama2023/49210
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25056.ts
+#EXTINF:-1 group-title="TV",CANAL PANDA 
+http://cineapp.org:8000/Fernando/Fernando/8113
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://7go.xyz:8080/juliano2022/2022juliano/64311
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://red.ipfox.org:8080/osama2022/osama2023/49293
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25005.ts
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://cineapp.org:8000/Fernando/Fernando/2324
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://7go.xyz:8080/juliano2022/2022juliano/64303
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://red.ipfox.org:8080/osama2022/osama2023/49294
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25022.ts
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://cineapp.org:8000/Fernando/Fernando/2368
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL 
+http://7go.xyz:8080/juliano2022/2022juliano/64319
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL 
+http://7go.xyz:8080/juliano2022/2022juliano/64353
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://red.ipfox.org:8080/osama2022/osama2023/49299
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25021.ts
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://cineapp.org:8000/Fernando/Fernando/2323
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://7go.xyz:8080/juliano2022/2022juliano/64293
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://red.ipfox.org:8080/osama2022/osama2023/49298
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24985.ts
+#EXTINF:-1 group-title="TV",FOX
+http://cineapp.org:8000/Fernando/Fernando/2312
+#EXTINF:-1 group-title="TV",FOX
+http://cineapp.org:8000/Fernando/Fernando/28531
+#EXTINF:-1 group-title="TV",FOX
+http://cineapp.org:8000/Fernando/Fernando/28532
+#EXTINF:-1 group-title="TV",FOX
+http://7go.xyz:8080/juliano2022/2022juliano/64327
+#EXTINF:-1 group-title="TV",FOX
+http://7go.xyz:8080/juliano2022/2022juliano/64291
+#EXTINF:-1 group-title="TV",FOX
+http://7go.xyz:8080/juliano2022/2022juliano/166611
+#EXTINF:-1 group-title="TV",FOX 
+http://7go.xyz:8080/juliano2022/2022juliano/166606
+#EXTINF:-1 group-title="TV",FOX
+http://red.ipfox.org:8080/osama2022/osama2023/49332
+#EXTINF:-1 group-title="TV",FOX
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25031.ts
+#EXTINF:-1 group-title="TV",AXN
+http://cineapp.org:8000/Fernando/Fernando/2308
+#EXTINF:-1 group-title="TV",AXN
+http://cineapp.org:8000/Fernando/Fernando/8053
+#EXTINF:-1 group-title="TV",AXN
+http://cineapp.org:8000/Fernando/Fernando/28526
+#EXTINF:-1 group-title="TV",AXN 
+http://7go.xyz:8080/juliano2022/2022juliano/64324
+#EXTINF:-1 group-title="TV",AXN 
+http://7go.xyz:8080/juliano2022/2022juliano/64298
+#EXTINF:-1 group-title="TV",AXN
+http://7go.xyz:8080/juliano2022/2022juliano/166613
+#EXTINF:-1 group-title="TV",AXN
+http://7go.xyz:8080/juliano2022/2022juliano/166615
+#EXTINF:-1 group-title="TV",AXN
+http://red.ipfox.org:8080/osama2022/osama2023/49328
+#EXTINF:-1 group-title="TV",AXN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24991.ts
+#EXTINF:-1 group-title="TV",AMC
+http://cineapp.org:8000/Fernando/Fernando/8054
+#EXTINF:-1 group-title="TV",AMC
+http://cineapp.org:8000/Fernando/Fernando/28523
+#EXTINF:-1 group-title="TV",AMC
+http://cineapp.org:8000/Fernando/Fernando/28524
+#EXTINF:-1 group-title="TV",AMC
+http://7go.xyz:8080/juliano2022/2022juliano/64270
+#EXTINF:-1 group-title="TV",AMC
+http://red.ipfox.org:8080/osama2022/osama2023/49335
+#EXTINF:-1 group-title="TV",AMC
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24989.ts
+#EXTINF:-1 group-title="TV",SYFY
+http://cineapp.org:8000/Fernando/Fernando/2322
+#EXTINF:-1 group-title="TV",SYFY
+http://cineapp.org:8000/Fernando/Fernando/28529
+#EXTINF:-1 group-title="TV",SYFY
+http://cineapp.org:8000/Fernando/Fernando/28530
+#EXTINF:-1 group-title="TV",SYFY 
+http://7go.xyz:8080/juliano2022/2022juliano/64389
+#EXTINF:-1 group-title="TV",SYFY 
+http://7go.xyz:8080/juliano2022/2022juliano/64331
+#EXTINF:-1 group-title="TV",SYFY 
+http://7go.xyz:8080/juliano2022/2022juliano/64388
+#EXTINF:-1 group-title="TV",SYFY
+http://red.ipfox.org:8080/osama2022/osama2023/49326
+#EXTINF:-1 group-title="TV",SYFY
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25080.ts
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://cineapp.org:8000/Fernando/Fernando/2313
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://cineapp.org:8000/Fernando/Fernando/8115
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://cineapp.org:8000/Fernando/Fernando/28535
+#EXTINF:-1 group-title="TV",FOX LIFE 
+http://7go.xyz:8080/juliano2022/2022juliano/64326
+#EXTINF:-1 group-title="TV",FOX LIFE 
+http://7go.xyz:8080/juliano2022/2022juliano/64393
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://7go.xyz:8080/juliano2022/2022juliano/166608
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://7go.xyz:8080/juliano2022/2022juliano/166607
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://red.ipfox.org:8080/osama2022/osama2023/49331
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25034.ts
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://cineapp.org:8000/Fernando/Fernando/2314
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://cineapp.org:8000/Fernando/Fernando/8123
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://cineapp.org:8000/Fernando/Fernando/28533
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://7go.xyz:8080/juliano2022/2022juliano/64290
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://7go.xyz:8080/juliano2022/2022juliano/64325
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://7go.xyz:8080/juliano2022/2022juliano/166605
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://7go.xyz:8080/juliano2022/2022juliano/166604
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://red.ipfox.org:8080/osama2022/osama2023/49330
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25033.ts
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://cineapp.org:8000/Fernando/Fernando/2309
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://cineapp.org:8000/Fernando/Fernando/8059
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://cineapp.org:8000/Fernando/Fernando/28527
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://7go.xyz:8080/juliano2022/2022juliano/64396
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://7go.xyz:8080/juliano2022/2022juliano/64323
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://7go.xyz:8080/juliano2022/2022juliano/166616
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://7go.xyz:8080/juliano2022/2022juliano/166617
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://red.ipfox.org:8080/osama2022/osama2023/49327
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24994.ts
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://cineapp.org:8000/Fernando/Fernando/2310
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://cineapp.org:8000/Fernando/Fernando/8052
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://cineapp.org:8000/Fernando/Fernando/28528
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://7go.xyz:8080/juliano2022/2022juliano/64322
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://7go.xyz:8080/juliano2022/2022juliano/64394
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://7go.xyz:8080/juliano2022/2022juliano/166614
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://red.ipfox.org:8080/osama2022/osama2023/49334
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24992.ts
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24993.ts
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://cineapp.org:8000/Fernando/Fernando/8064
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://cineapp.org:8000/Fernando/Fernando/28520
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://cineapp.org:8000/Fernando/Fernando/28521
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://7go.xyz:8080/juliano2022/2022juliano/64400
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://7go.xyz:8080/juliano2022/2022juliano/64275
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://7go.xyz:8080/juliano2022/2022juliano/166610
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://7go.xyz:8080/juliano2022/2022juliano/166609
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://red.ipfox.org:8080/osama2022/osama2023/49336
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25035.ts
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://cineapp.org:8000/Fernando/Fernando/2311
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://cineapp.org:8000/Fernando/Fernando/8116
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://cineapp.org:8000/Fernando/Fernando/28534
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://7go.xyz:8080/juliano2022/2022juliano/64274
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://7go.xyz:8080/juliano2022/2022juliano/166603
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://7go.xyz:8080/juliano2022/2022juliano/166602
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://red.ipfox.org:8080/osama2022/osama2023/49329
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25032.ts
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://cineapp.org:8000/Fernando/Fernando/3422
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://cineapp.org:8000/Fernando/Fernando/8111
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://cineapp.org:8000/Fernando/Fernando/28522
+#EXTINF:-1 group-title="TV",CINEMUNDO 
+http://7go.xyz:8080/juliano2022/2022juliano/64333
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://7go.xyz:8080/juliano2022/2022juliano/64398
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://7go.xyz:8080/juliano2022/2022juliano/64399
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://red.ipfox.org:8080/osama2022/osama2023/49338
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25016.ts
+#EXTINF:-1 group-title="TV",DIZI CHANNEL
+http://red.ipfox.org:8080/osama2022/osama2023/49325
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://cineapp.org:8000/Fernando/Fernando/3431
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://cineapp.org:8000/Fernando/Fernando/8055
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://cineapp.org:8000/Fernando/Fernando/28519
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://7go.xyz:8080/juliano2022/2022juliano/64276
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://red.ipfox.org:8080/osama2022/osama2023/49337
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25041.ts
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://cineapp.org:8000/Fernando/Fernando/2302
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://cineapp.org:8000/Fernando/Fernando/8060
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://cineapp.org:8000/Fernando/Fernando/28513
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://7go.xyz:8080/juliano2022/2022juliano/64308
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://7go.xyz:8080/juliano2022/2022juliano/64307
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://7go.xyz:8080/juliano2022/2022juliano/166598
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://red.ipfox.org:8080/osama2022/osama2023/49342
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25012.ts
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://cineapp.org:8000/Fernando/Fernando/2303
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://cineapp.org:8000/Fernando/Fernando/8061
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://cineapp.org:8000/Fernando/Fernando/28514
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://7go.xyz:8080/juliano2022/2022juliano/64330
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://7go.xyz:8080/juliano2022/2022juliano/64292
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://7go.xyz:8080/juliano2022/2022juliano/166599
+#EXTINF:-1 group-title="TV",TVCINE EDITION 
+http://red.ipfox.org:8080/osama2022/osama2023/49341
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25013.ts
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://cineapp.org:8000/Fernando/Fernando/2304
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://cineapp.org:8000/Fernando/Fernando/8062
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://cineapp.org:8000/Fernando/Fernando/28515
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://7go.xyz:8080/juliano2022/2022juliano/64305
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://7go.xyz:8080/juliano2022/2022juliano/64332
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://7go.xyz:8080/juliano2022/2022juliano/166600
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://red.ipfox.org:8080/osama2022/osama2023/49340
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25014.ts
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://cineapp.org:8000/Fernando/Fernando/2305
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://cineapp.org:8000/Fernando/Fernando/8063
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://cineapp.org:8000/Fernando/Fernando/28516
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://7go.xyz:8080/juliano2022/2022juliano/64306
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://7go.xyz:8080/juliano2022/2022juliano/64329
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://7go.xyz:8080/juliano2022/2022juliano/64418
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://7go.xyz:8080/juliano2022/2022juliano/166601
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://red.ipfox.org:8080/osama2022/osama2023/49339
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25009.ts
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://cineapp.org:8000/Fernando/Fernando/28549
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://cineapp.org:8000/Fernando/Fernando/7451
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://cineapp.org:8000/Fernando/Fernando/77437
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://red.ipfox.org:8080/osama2022/osama2023/49368
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25024.ts
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://cineapp.org:8000/Fernando/Fernando/28551
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://cineapp.org:8000/Fernando/Fernando/7452
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://cineapp.org:8000/Fernando/Fernando/28552
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://red.ipfox.org:8080/osama2022/osama2023/49367
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25025.ts
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://cineapp.org:8000/Fernando/Fernando/28553
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://cineapp.org:8000/Fernando/Fernando/7453
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://cineapp.org:8000/Fernando/Fernando/28554
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://red.ipfox.org:8080/osama2022/osama2023/49366
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25026.ts
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://cineapp.org:8000/Fernando/Fernando/28555
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://cineapp.org:8000/Fernando/Fernando/7454
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://cineapp.org:8000/Fernando/Fernando/28556
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://red.ipfox.org:8080/osama2022/osama2023/49365
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25027.ts
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://cineapp.org:8000/Fernando/Fernando/28557
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://cineapp.org:8000/Fernando/Fernando/7455
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://cineapp.org:8000/Fernando/Fernando/28558
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://red.ipfox.org:8080/osama2022/osama2023/49364
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25028.ts
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://cineapp.org:8000/Fernando/Fernando/7456
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://cineapp.org:8000/Fernando/Fernando/28559
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://cineapp.org:8000/Fernando/Fernando/28560
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://red.ipfox.org:8080/osama2022/osama2023/49363
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24983.ts
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://cineapp.org:8000/Fernando/Fernando/5151
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://cineapp.org:8000/Fernando/Fernando/2325
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://cineapp.org:8000/Fernando/Fernando/28538
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://cineapp.org:8000/Fernando/Fernando/77435
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24984.ts
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://cineapp.org:8000/Fernando/Fernando/5152
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://cineapp.org:8000/Fernando/Fernando/2295
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://cineapp.org:8000/Fernando/Fernando/28539
+#EXTINF:-1 group-title="TV",SPORT TV 2 
+http://red.ipfox.org:8080/osama2022/osama2023/49373
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24982.ts
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://cineapp.org:8000/Fernando/Fernando/5153
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://cineapp.org:8000/Fernando/Fernando/2296
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://cineapp.org:8000/Fernando/Fernando/28540
+#EXTINF:-1 group-title="TV",SPORT TV 3 
+http://red.ipfox.org:8080/osama2022/osama2023/49372
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24980.ts
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://cineapp.org:8000/Fernando/Fernando/28541
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://cineapp.org:8000/Fernando/Fernando/2297
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://cineapp.org:8000/Fernando/Fernando/28542
+#EXTINF:-1 group-title="TV",SPORT TV 4 
+http://red.ipfox.org:8080/osama2022/osama2023/49371
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24979.ts
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://cineapp.org:8000/Fernando/Fernando/28543
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://cineapp.org:8000/Fernando/Fernando/2298
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://cineapp.org:8000/Fernando/Fernando/28544
+#EXTINF:-1 group-title="TV",SPORT TV 5 
+http://red.ipfox.org:8080/osama2022/osama2023/49370
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24978.ts
+#EXTINF:-1 group-title="TV",SPORT TV 6
+http://cineapp.org:8000/Fernando/Fernando/82779
+#EXTINF:-1 group-title="TV",SPORT TV 6 
+http://red.ipfox.org:8080/osama2022/osama2023/49369
+#EXTINF:-1 group-title="TV",SPORT TV 6
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/29669.ts
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://cineapp.org:8000/Fernando/Fernando/8066
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://cineapp.org:8000/Fernando/Fernando/2301
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://cineapp.org:8000/Fernando/Fernando/28546
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://cineapp.org:8000/Fernando/Fernando/77436
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://red.ipfox.org:8080/osama2022/osama2023/49362
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25000.ts
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://cineapp.org:8000/Fernando/Fernando/28547
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://cineapp.org:8000/Fernando/Fernando/8074
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://cineapp.org:8000/Fernando/Fernando/28548
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36652
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://red.ipfox.org:8080/osama2022/osama2023/49361
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://pakiptv.top:8880/Mahbubhasan/2bAvMMPDpEnh/99529
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://pakiptv.top:8880/Mahbubhasan/2bAvMMPDpEnh/117087
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://pakiptv.top:8880/Mahbubhasan/2bAvMMPDpEnh/117088
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://cineapp.org:8000/Fernando/Fernando/2367
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://cineapp.org:8000/Fernando/Fernando/28596
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://red.ipfox.org:8080/osama2022/osama2023/49360
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://cineapp.org:8000/Fernando/Fernando/3517
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://cineapp.org:8000/Fernando/Fernando/28597
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36655
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://red.ipfox.org:8080/osama2022/osama2023/49359
+#EXTINF:-1 group-title="TV",TLC
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25081.ts
+#EXTINF:-1 group-title="TV",MEZZO
+http://cineapp.org:8000/Fernando/Fernando/28625
+#EXTINF:-1 group-title="TV",MEZZO
+http://7go.xyz:8080/juliano2022/2022juliano/64343
+#EXTINF:-1 group-title="TV",MEZZO
+http://red.ipfox.org:8080/osama2022/osama2023/49276
+#EXTINF:-1 group-title="TV",SAUDE
+http://red.ipfox.org:8080/osama2022/osama2023/49288
+#EXTINF:-1 group-title="TV",DOG TV
+http://cineapp.org:8000/Fernando/Fernando/28584
+#EXTINF:-1 group-title="TV",DOG TV
+http://7go.xyz:8080/juliano2022/2022juliano/64414
+#EXTINF:-1 group-title="TV",DOG TV
+http://red.ipfox.org:8080/osama2022/osama2023/49256
+#EXTINF:-1 group-title="TV",MTV 00S
+http://cineapp.org:8000/Fernando/Fernando/8056
+#EXTINF:-1 group-title="TV",MTV 00S
+http://cineapp.org:8000/Fernando/Fernando/28619
+#EXTINF:-1 group-title="TV",MTV 00S
+http://7go.xyz:8080/juliano2022/2022juliano/64289
+#EXTINF:-1 group-title="TV",MTV 00S
+http://red.ipfox.org:8080/osama2022/osama2023/49287
+#EXTINF:-1 group-title="TV",MTV 00S
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25089.ts
+#EXTINF:-1 group-title="TV",MCM TOP
+http://cineapp.org:8000/Fernando/Fernando/8072
+#EXTINF:-1 group-title="TV",MCM TOP
+http://cineapp.org:8000/Fernando/Fernando/28623
+#EXTINF:-1 group-title="TV",MCM TOP 
+http://7go.xyz:8080/juliano2022/2022juliano/64344
+#EXTINF:-1 group-title="TV",MCM TOP
+http://red.ipfox.org:8080/osama2022/osama2023/49283
+#EXTINF:-1 group-title="TV",MCM TOP
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25047.ts
+#EXTINF:-1 group-title="TV",MCM POP
+http://cineapp.org:8000/Fernando/Fernando/28624
+#EXTINF:-1 group-title="TV",MCM POP 
+http://7go.xyz:8080/juliano2022/2022juliano/64345
+#EXTINF:-1 group-title="TV",MCM POP
+http://red.ipfox.org:8080/osama2022/osama2023/49284
+#EXTINF:-1 group-title="TV",MCM POP
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25046.ts
+#EXTINF:-1 group-title="TV",MTV LIVE
+http://red.ipfox.org:8080/osama2022/osama2023/49286
+#EXTINF:-1 group-title="TV",AFRO MUSIC
+http://cineapp.org:8000/Fernando/Fernando/3427
+#EXTINF:-1 group-title="TV",AFRO MUSIC
+http://cineapp.org:8000/Fernando/Fernando/28618
+#EXTINF:-1 group-title="TV",AFRO MUSIC
+http://7go.xyz:8080/juliano2022/2022juliano/64297
+#EXTINF:-1 group-title="TV",AFRO MUSIC
+http://red.ipfox.org:8080/osama2022/osama2023/49281
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://cineapp.org:8000/Fernando/Fernando/5065
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://cineapp.org:8000/Fernando/Fernando/8058
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://7go.xyz:8080/juliano2022/2022juliano/64295
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://red.ipfox.org:8080/osama2022/osama2023/49303
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24986.ts
+#EXTINF:-1 group-title="TV",TRACE TOCA
+http://cineapp.org:8000/Fernando/Fernando/17254
+#EXTINF:-1 group-title="TV",TRACE TOCA
+http://cineapp.org:8000/Fernando/Fernando/17255
+#EXTINF:-1 group-title="TV",TRACE TOCA 
+http://7go.xyz:8080/juliano2022/2022juliano/64347
+#EXTINF:-1 group-title="TV",TRACE TOCA
+http://red.ipfox.org:8080/osama2022/osama2023/49280
+#EXTINF:-1 group-title="TV",TRACE URBAN
+http://cineapp.org:8000/Fernando/Fernando/28620
+#EXTINF:-1 group-title="TV",TRACE URBAN 
+http://7go.xyz:8080/juliano2022/2022juliano/64348
+#EXTINF:-1 group-title="TV",TRACE URBAN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25083.ts
+#EXTINF:-1 group-title="TV",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 group-title="TV",Trace Brazuca
+http://red.ipfox.org:8080/osama2022/osama2023/49279
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://cineapp.org:8000/Fernando/Fernando/3511
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://cineapp.org:8000/Fernando/Fernando/8117
+#EXTINF:-1 group-title="TV",RTP AFRICA 
+http://7go.xyz:8080/juliano2022/2022juliano/64404
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://7go.xyz:8080/juliano2022/2022juliano/111751
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://red.ipfox.org:8080/osama2022/osama2023/49250
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25068.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpaf.tv.vodafone.pt",RTP AFRICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://cineapp.org:8000/Fernando/Fernando/3499
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://cineapp.org:8000/Fernando/Fernando/8078
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://7go.xyz:8080/juliano2022/2022juliano/64402
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://7go.xyz:8080/juliano2022/2022juliano/111750
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://red.ipfox.org:8080/osama2022/osama2023/49269
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25067.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP ACORES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://cineapp.org:8000/Fernando/Fernando/2318
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://cineapp.org:8000/Fernando/Fernando/28585
+#EXTINF:-1 group-title="TV",RTP MADEIRA 
+http://7go.xyz:8080/juliano2022/2022juliano/64403
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://7go.xyz:8080/juliano2022/2022juliano/111752
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://red.ipfox.org:8080/osama2022/osama2023/49268
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25069.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpmad.tv.vodafone.pt",RTP MADEIRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://cineapp.org:8000/Fernando/Fernando/2319
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://cineapp.org:8000/Fernando/Fernando/8118
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://7go.xyz:8080/juliano2022/2022juliano/64280
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://7go.xyz:8080/juliano2022/2022juliano/111753
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://red.ipfox.org:8080/osama2022/osama2023/49317
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25070.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP MEMORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",FASHION TV
+http://cineapp.org:8000/Fernando/Fernando/8057
+#EXTINF:-1 group-title="TV",FASHION TV
+http://cineapp.org:8000/Fernando/Fernando/28595
+#EXTINF:-1 group-title="TV",FASHION TV
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9801
+#EXTINF:-1 group-title="TV",FASHION TV
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9820
+#EXTINF:-1 group-title="TV",FASHION TV
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9652
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",CACAVISION
+http://cineapp.org:8000/Fernando/Fernando/3515
+#EXTINF:-1 group-title="TV",CACAVISION
+http://cineapp.org:8000/Fernando/Fernando/28604
+#EXTINF:-1 group-title="TV",CACAVISION
+http://red.ipfox.org:8080/osama2022/osama2023/49262
+#EXTINF:-1 group-title="TV",CACAVISION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25002.ts
+#EXTINF:-1 group-title="TV",CACAVISION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25003.ts
+#EXTINF:-1 group-title="TV",CACA E PESCA
+http://cineapp.org:8000/Fernando/Fernando/28603
+#EXTINF:-1 group-title="TV",CACA E PESCA
+http://7go.xyz:8080/juliano2022/2022juliano/64300
+#EXTINF:-1 group-title="TV",CACA E PESCA
+http://red.ipfox.org:8080/osama2022/osama2023/49263
+#EXTINF:-1 group-title="TV",CACA E PESCA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25001.ts
+#EXTINF:-1 group-title="TV",FASHION TV 
+http://7go.xyz:8080/juliano2022/2022juliano/64375
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+http://7go.xyz:8080/juliano2022/2022juliano/64376
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25045.ts
+#EXTINF:-1 group-title="TV",KURIAKOS TV 
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://cineapp.org:8000/Fernando/Fernando/5041
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://cineapp.org:8000/Fernando/Fernando/28621
+#EXTINF:-1 group-title="TV",MTV PORTUGAL 
+http://7go.xyz:8080/juliano2022/2022juliano/64346
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://red.ipfox.org:8080/osama2022/osama2023/49314
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25049.ts
+#EXTINF:-1 group-title="TV",CASA E COZINHA
+http://red.ipfox.org:8080/osama2022/osama2023/49304
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT 
+http://7go.xyz:8080/juliano2022/2022juliano/64390
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT
+http://red.ipfox.org:8080/osama2022/osama2023/49305
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25023.ts
+#EXTINF:-1 group-title="TV",AZORES TV
+http://red.ipfox.org:8080/osama2022/osama2023/49265
+#EXTINF:-1 group-title="TV",TELEVISAO AFRICA
+http://red.ipfox.org:8080/osama2022/osama2023/49249
+#EXTINF:-1 group-title="TV",RTP INTERNACIONAL
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/74097
+#EXTINF:-1 group-title="TV" tvg-id="RTPInternacionalEuropa.pt" tvg-logo="https://cdn.mitvstatic.com/channels/br_rtpi-brasil_m.png",RTP INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC INTERNACIONAL
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/74151
+#EXTINF:-1 group-title="TV",SIC INTERNACIONAL
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/417579
+#EXTINF:-1 group-title="TV",SIC INTERNACIONAL
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/416788
+#EXTINF:-1 group-title="TV",TVI INTERNACIONAL
+https://video-auth1.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=968072505&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDY6Mzc6MTIgUE0maGFzaF92YWx1ZT1Oblo0Vjc1NGNzMXBIaUgwNitMeDlBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTQ0NzQ5NTgtMzExZi00YzNmLWJjMmYtNjA3ODZhYjg5OTU1
+#EXTINF:-1 group-title="TV" tvg-id="tpa.tv.vodafone.pt",TPA INTERNACIONAL
+http://cineapp.org:8000/Fernando/Fernando/17257
+#EXTINF:-1 group-title="TV",TPA INTERNACIONAL 
+http://cineapp.org:8000/Fernando/Fernando/28633
+#EXTINF:-1 group-title="TV",TPA INTERNACIONAL
+http://7go.xyz:8080/juliano2022/2022juliano/64370
+#EXTINF:-1 group-title="TV",TPA INTERNACIONAL
+http://red.ipfox.org:8080/osama2022/osama2023/49248
+#EXTINF:-1 group-title="TV",TPA INTERNACIONAL
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
+#EXTINF:-1 group-title="TV",MEO DESTAQUES
+http://red.ipfox.org:8080/osama2022/osama2023/49324
+#EXTINF:-1 group-title="TV",MEO VIDEOCLUBE
+http://red.ipfox.org:8080/osama2022/osama2023/49333
+#EXTINF:-1 group-title="TV",HOT 
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9725
+#EXTINF:-1 group-title="TV",HOT 
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9724
+#EXTINF:-1 group-title="TV",HOT
+http://castlempire.site:8080/UserTest5Octubre_00i/p3QcBkFxLzkZ/191809
+#EXTINF:-1 group-title="TV",HOT
+http://castlempire.site:8080/UserTest3Octubre_00i/FskXxRJQ3Ys7/191812
+#EXTINF:-1 group-title="TV",HOT
+http://castlempire.site:8080/UserTest1Octubre_00i/fTQHy3hQDtjs/191815
+#EXTINF:-1 group-title="TV",VENUS
+http://castlempire.site:8080/UserTest2Octubre_00i/bqCs7jw4KQJa/191751
+#EXTINF:-1 group-title="TV",VENUS
+http://castlempire.site:8080/UserTest4Octubre_00i/uek4neVNWyxE/191753
+#EXTINF:-1 group-title="TV",VENUS
+http://castlempire.site:8080/UserTest5Octubre_00i/p3QcBkFxLzkZ/191754
+#EXTINF:-1 group-title="TV",HUSTLER 
+http://castlempire.site:8080/UserTest4Octubre_00i/uek4neVNWyxE/191823
+#EXTINF:-1 group-title="TV",PLAYBOY 
+http://castlempire.site:8080/UserTest3Octubre_00i/FskXxRJQ3Ys7/191828
+#EXTINF:-1 group-title="TV",PLAYBOY 
+http://castlempire.site:8080/UserTest4Octubre_00i/uek4neVNWyxE/191849
+#EXTINF:-1 group-title="TV",SEXTREME
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9727
+
+
+
+# Radios
+
+#EXTINF:-1 group-title="Radios" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",RADIO TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 group-title="Radios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png",RADIO RENASCENCA
+https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:-1 group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png",ANTENA 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png",ANTENA 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png",ANTENA 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_horiz_RGB.png",RDP AFRICA
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_horiz_RGB.png",RDP INTERNACIONAL
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Radio Cidade FM
+https://mcrwowza4.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Radio Mega Hits
+https://21313.live.streamtheworld.com/MEGA_HITSAAC
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Radio Comercial
+https://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrfm7695d64b.png",Radio RFM
+https://21313.live.streamtheworld.com/RFMAAC
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-smooth-fm_0.png",Radio Smooth FM
+http://mcrwowza5.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",Radio Vodafone FM
+http://mcrwowza4.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M80_Radio.svg/1200px-M80_Radio.svg.png",Radio M80
+http://mcrwowza6.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Radio Regional
+http://streaming.radioregional.pt:8002
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Radio Regional
+http://streaming.radioregional.pt:8000
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
+http://centova.radios.pt:9522/;
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://brand.observador.pt/assets/img/proibicoes-03-radio.png",RADIO OBSERVADOR
+https://stream.observador.pt/aac_hifi.m3u8
