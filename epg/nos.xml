@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  
+
+  <channel id="NosStudios.pt">
+	<display-name>NOS STUDIOS</display-name>
+  </channel>
+  <channel id="foxhd.tv.vodafone.pt">
+    <display-name lang="pt">FOX</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="axnhd.tv.vodafone.pt">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="" />
+  </channel>
+  
+  <channel id="AMC.pt">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/amc.png" />
+  </channel>
+  <channel id="Syfy.pt">
+    <display-name lang="pt">SYFY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/syfy.png" />
+  </channel>
+  <channel id="Dizi.nl">
+	<display-name>DIZI</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/dizi-channel.png"/>
+  </channel>  
+  <channel id="FoxLife.pt">
+    <display-name lang="pt">FOX LIFE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-life.png" />
+  </channel>
+  <channel id="FoxCrime.pt">
+    <display-name lang="pt">FOX CRIME</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-crime.png" />
+  </channel>
+  <channel id="AxnWhite.pt">
+    <display-name lang="pt">AXN WHITE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
+  </channel>
+  <channel id="AxnMovies.pt">
+    <display-name lang="pt">AXN MOVIES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-movies.png" />
+  </channel>
+  <channel id="FoxMovies.pt">
+    <display-name lang="pt">FOX MOVIES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-movies.png" />
+  </channel>
+  <channel id="FoxComedy.pt">
+    <display-name lang="pt">FOX COMEDY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-comedy.png" />
+  </channel>
+  <channel id="Cinemundo.pt">
+    <display-name lang="pt">Cinemundo</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Cinemundo.png" />
+  </channel>
+  <channel id="CanalHollywood.pt">
+    <display-name lang="pt">CANAL HOLLYWOOD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/hollywood.png" />
+  </channel>
+  <channel id="TVCineTop.pt">
+    <display-name lang="pt">TVCINE TOP</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-top.png" />
+  </channel>
+  <channel id="TVCineEdition.pt">
+    <display-name lang="pt">TVCINE EDITION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-edition.png" />
+  </channel>
+  <channel id="TVCineEmotion.pt">
+    <display-name lang="pt">TVCINE EMOTION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-emotion.png" />
+  </channel>
+  <channel id="TVCineAction.pt">
+    <display-name lang="pt">TVCINE ACTION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-action.png" />
+  </channel> 
+  <channel id="RTPAfrica.pt">
+    <display-name lang="pt">RTP AFRICA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-africa.png" />
+  </channel>
+  <channel id="RTPAcores.pt">
+    <display-name lang="pt">RTP ACORES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-acores.png" />
+  </channel>
+  <channel id="RTPMadeira.pt">
+    <display-name lang="pt">RTP MADEIRA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png" />
+  </channel>
+  <channel id="RTPMemoria.pt">
+    <display-name lang="pt">RTP MEMORIA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png" />
+  </channel>
+  <channel id="KuriakosTV.pt">
+    <display-name lang="pt">KURIAKOS TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/kuriakos.png" />
+  </channel>  
+  <channel id="GaliciaTVEuropa.es">
+    <display-name lang="pt">TV GALICIA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tv-galicia.png" />
+  </channel> 
+	<channel id="TPAInternacional.ao">
+	<display-name lang="pt">TPA INTERNACIONAL</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/tpa-internacional.png" />
+	</channel>  
+
+ 
+FOX
+<!-- Terca-Feira -->
+	<programme start="20221227020000 +0000" stop="20221227035900 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI: Miami</title></programme>
+	<programme start="20221227035900 +0000" stop="20221227043800 +0000" channel="FoxPortugal.pt"><title lang="pt">Investigação Criminal: Los Angeles</title></programme>
+	<programme start="20221227043800 +0000" stop="20221227060000 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI T2</title></programme>
+	<programme start="20221227060000 +0000" stop="20221227080400 +0000" channel="FoxPortugal.pt"><title lang="pt">Investigação Criminal: New Orleans</title></programme>
+	<programme start="20221227080400 +0000" stop="20221227105800 +0000" channel="FoxPortugal.pt"><title lang="pt">Hawai Força Especial</title></programme>
+	<programme start="20221227105800 +0000" stop="20221227140300 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI: Miami</title></programme>
+	<programme start="20221227140300 +0000" stop="20221227154200 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI T2</title></programme>
+	<programme start="20221227154200 +0000" stop="20221227171300 +0000" channel="FoxPortugal.pt"><title lang="pt">Hawai Força Especial</title></programme>
+	<programme start="20221227171300 +0000" stop="20221227185300 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI: Miami</title></programme>
+	<programme start="20221227185300 +0000" stop="20221227203000 +0000" channel="FoxPortugal.pt"><title lang="pt">Investigação Criminal: Los Angeles</title></programme>
+	<programme start="20221227203000 +0000" stop="20221227221500 +0000" channel="FoxPortugal.pt"><title lang="pt">Hawai Força Especial</title></programme>
+	<programme start="20221227221500 +0000" stop="20221227230500 +0000" channel="FoxPortugal.pt"><title lang="pt">Fire Country</title></programme>
+	<programme start="20221227230500 +0000" stop="20221228005300 +0000" channel="FoxPortugal.pt"><title lang="pt">Os Mercenários</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228005300 +0000" stop="20221228021700 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI: Miami</title></programme>
+	<programme start="20221228021700 +0000" stop="20221228033800 +0000" channel="FoxPortugal.pt"><title lang="pt">Investigação Criminal: Los Angeles</title></programme>
+	<programme start="20221228033800 +0000" stop="20221228062100 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI T2</title></programme>
+	<programme start="20221228062100 +0000" stop="20221228064200 +0000" channel="FoxPortugal.pt"><title lang="pt">Single Parents</title></programme>
+	<programme start="20221228064200 +0000" stop="20221228080700 +0000" channel="FoxPortugal.pt"><title lang="pt">Investigação Criminal: New Orleans</title></programme>
+	<programme start="20221228080700 +0000" stop="20221228110400 +0000" channel="FoxPortugal.pt"><title lang="pt">Hawai Força Especial</title></programme>
+	<programme start="20221228110400 +0000" stop="20221228140600 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI: Miami</title></programme>
+	<programme start="20221228140600 +0000" stop="20221228154500 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI T2</title></programme>
+	<programme start="20221228154500 +0000" stop="20221228171600 +0000" channel="FoxPortugal.pt"><title lang="pt">Hawai Força Especial</title></programme>
+	<programme start="20221228171600 +0000" stop="20221228185600 +0000" channel="FoxPortugal.pt"><title lang="pt">CSI: Miami</title></programme>
+	<programme start="20221228185600 +0000" stop="20221228203200 +0000" channel="FoxPortugal.pt"><title lang="pt">Investigação Criminal: Los Angeles</title></programme>
+	<programme start="20221228203200 +0000" stop="20221228221500 +0000" channel="FoxPortugal.pt"><title lang="pt">Hawai Força Especial</title></programme>
+	<programme start="20221228221500 +0000" stop="20221228235700 +0000" channel="FoxPortugal.pt"><title lang="pt">FBI: Most Wanted</title></programme>
+	<programme start="20221228235700 +0000" stop="20221229013700 +0000" channel="FoxPortugal.pt"><title lang="pt">Os Mercenários 2</title></programme>
+  
+  
+AXN
+<!-- Segunda-Feira -->
+	<programme start="20221226233400 +0000" stop="20221227011200 +0000" channel="AXNPortugal.pt"><title lang="pt">O Perigo Espreita</title></programme>
+	
+<!-- Terca-Feira -->
+	<programme start="20221227011200 +0000" stop="20221227041300 +0000" channel="AXNPortugal.pt"><title lang="pt">Mentes Criminosas</title></programme>
+	<programme start="20221227041300 +0000" stop="20221227045500 +0000" channel="AXNPortugal.pt"><title lang="pt">Chicago Fire1</title></programme>
+	<programme start="20221227045500 +0000" stop="20221227053900 +0000" channel="AXNPortugal.pt"><title lang="pt">Lincoln Rhyme: Caça ao Colecionador de Ossos</title></programme>
+	<programme start="20221227053900 +0000" stop="20221227081000 +0000" channel="AXNPortugal.pt"><title lang="pt">Castle</title></programme>
+	<programme start="20221227081000 +0000" stop="20221227093300 +0000" channel="AXNPortugal.pt"><title lang="pt">Chicago Fire</title></programme>
+	<programme start="20221227093300 +0000" stop="20221227114900 +0000" channel="AXNPortugal.pt"><title lang="pt">Mentes Criminosas</title></programme>
+	<programme start="20221227114900 +0000" stop="20221227140500 +0000" channel="AXNPortugal.pt"><title lang="pt">Castle</title></programme>
+	<programme start="20221227140500 +0000" stop="20221227153300 +0000" channel="AXNPortugal.pt"><title lang="pt">Chicago Fire</title></programme>
+	<programme start="20221227153300 +0000" stop="20221227172400 +0000" channel="AXNPortugal.pt"><title lang="pt">Arma Mortífera 2</title></programme>
+	<programme start="20221227172400 +0000" stop="20221227185000 +0000" channel="AXNPortugal.pt"><title lang="pt">Domino - A Hora Da Vingança</title></programme>
+	<programme start="20221227185000 +0000" stop="20221227220000 +0000" channel="AXNPortugal.pt"><title lang="pt">Mentes Criminosas T13 - Ep. 17</title></programme>
+	<programme start="20221227220000 +0000" stop="20221227234300 +0000" channel="AXNPortugal.pt"><title lang="pt">Vingança Rápida</title></programme>
+	<programme start="20221227234300 +0000" stop="20221228013400 +0000" channel="AXNPortugal.pt"><title lang="pt">Um Golpe em Itália</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228013400 +0000" stop="20221228043100 +0000" channel="AXNPortugal.pt"><title lang="pt">Mentes Criminosas</title></programme>
+	<programme start="20221228043100 +0000" stop="20221228051400 +0000" channel="AXNPortugal.pt"><title lang="pt">Lincoln Rhyme: Caça ao Colecionador de Ossos</title></programme>
+	<programme start="20221228051400 +0000" stop="20221228072300 +0000" channel="AXNPortugal.pt"><title lang="pt">Castle</title></programme>
+	<programme start="20221228072300 +0000" stop="20221228084500 +0000" channel="AXNPortugal.pt"><title lang="pt">Chicago Fire</title></programme>
+	<programme start="20221228084500 +0000" stop="20221228105800 +0000" channel="AXNPortugal.pt"><title lang="pt">Mentes Criminosas</title></programme>
+	<programme start="20221228105800 +0000" stop="20221228131300 +0000" channel="AXNPortugal.pt"><title lang="pt">Castle</title></programme>
+	<programme start="20221228131300 +0000" stop="20221228144500 +0000" channel="AXNPortugal.pt"><title lang="pt">Chicago Fire</title></programme>
+	<programme start="20221228144500 +0000" stop="20221228164300 +0000" channel="AXNPortugal.pt"><title lang="pt">Arma Mortífera 3</title></programme>
+	<programme start="20221228164300 +0000" stop="20221228185900 +0000" channel="AXNPortugal.pt"><title lang="pt">O Fantástico Homem-Aranha</title></programme>
+	<programme start="20221228185900 +0000" stop="20221228220000 +0000" channel="AXNPortugal.pt"><title lang="pt">Mentes Criminosas</title></programme>
+	<programme start="20221228220000 +0000" stop="20221228235100 +0000" channel="AXNPortugal.pt"><title lang="pt">Assalto Arriscado</title></programme>
+	<programme start="20221228235100 +0000" stop="20221229015500 +0000" channel="AXNPortugal.pt"><title lang="pt">Esquecido</title></programme>  
+
+
+AMC
+<!-- Segunda-Feira -->
+    <programme start="20221226230900 +0000" stop="20221227012500 +0000" channel="AMC.pt"><title lang="pt">A.I. Inteligência Artificial</title></programme>
+
+<!-- Terca-Feira -->
+	<programme start="20221227012500 +0000" stop="20221227033600 +0000" channel="AMC.pt"><title lang="pt">Apanha-Me Se Puderes</title></programme>
+	<programme start="20221227033600 +0000" stop="20221227054000 +0000" channel="AMC.pt"><title lang="pt">A Golpada</title></programme>
+	<programme start="20221227054000 +0000" stop="20221227070400 +0000" channel="AMC.pt"><title lang="pt">A Princesa Que Veio Passar O Natal</title></programme>
+	<programme start="20221227070400 +0000" stop="20221227083400 +0000" channel="AMC.pt"><title lang="pt">Hachiko - Amigo Para Sempre</title></programme>
+	<programme start="20221227083400 +0000" stop="20221227105000 +0000" channel="AMC.pt"><title lang="pt">O Círculo Vermelho</title></programme>
+	<programme start="20221227105000 +0000" stop="20221227122900 +0000" channel="AMC.pt"><title lang="pt">O Ás Dos Ases</title></programme>
+	<programme start="20221227122900 +0000" stop="20221227135600 +0000" channel="AMC.pt"><title lang="pt">Alegria Para O Natal</title></programme>
+	<programme start="20221227135600 +0000" stop="20221227152100 +0000" channel="AMC.pt"><title lang="pt">O Bolo De Natal Encantado</title></programme>
+	<programme start="20221227152100 +0000" stop="20221227165800 +0000" channel="AMC.pt"><title lang="pt">Mais Um</title></programme>
+	<programme start="20221227165800 +0000" stop="20221227184500 +0000" channel="AMC.pt"><title lang="pt">Vigarista À Vista</title></programme>
+	<programme start="20221227184500 +0000" stop="20221227204300 +0000" channel="AMC.pt"><title lang="pt">Sombras De Guerra</title></programme>
+	<programme start="20221227204300 +0000" stop="20221227221100 +0000" channel="AMC.pt"><title lang="pt">O Homem Duplicado</title></programme>
+	<programme start="20221227221100 +0000" stop="20221228000600 +0000" channel="AMC.pt"><title lang="pt">Spiral</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228000600 +0000" stop="20221228013700 +0000" channel="AMC.pt"><title lang="pt">O Medo</title></programme>
+	<programme start="20221228013700 +0000" stop="20221228031400 +0000" channel="AMC.pt"><title lang="pt">Em Bruges</title></programme>
+	<programme start="20221228031400 +0000" stop="20221228044500 +0000" channel="AMC.pt"><title lang="pt">Jogos De Poder</title></programme>
+	<programme start="20221228044500 +0000" stop="20221228063000 +0000" channel="AMC.pt"><title lang="pt">Don't Tell</title></programme>
+	<programme start="20221228063000 +0000" stop="20221228072500 +0000" channel="AMC.pt"><title lang="pt">Blanca</title></programme>
+	<programme start="20221228072500 +0000" stop="20221228090900 +0000" channel="AMC.pt"><title lang="pt">Resgate No Tempo</title></programme>
+	<programme start="20221228090900 +0000" stop="20221228124200 +0000" channel="AMC.pt"><title lang="pt">Os Dez Mandamentos</title></programme>
+	<programme start="20221228124200 +0000" stop="20221228140900 +0000" channel="AMC.pt"><title lang="pt">Muito Barulho Por Causa Do Natal</title></programme>
+	<programme start="20221228140900 +0000" stop="20221228153600 +0000" channel="AMC.pt"><title lang="pt">Os Cavalos De Mcbride</title></programme>
+	<programme start="20221228153600 +0000" stop="20221228181200 +0000" channel="AMC.pt"><title lang="pt">O Hobbit: Uma Viagem Inesperada</title></programme>
+	<programme start="20221228181200 +0000" stop="20221228201600 +0000" channel="AMC.pt"><title lang="pt">Creed: O Legado De Rocky</title></programme>
+	<programme start="20221228201600 +0000" stop="20221228221100 +0000" channel="AMC.pt"><title lang="pt">Spiral</title></programme>
+	<programme start="20221228221100 +0000" stop="20221229002100 +0000" channel="AMC.pt"><title lang="pt">O Amor Não Tira Férias</title></programme>
+
+
+Syfy
+<!-- Segunda-Feira -->
+	<programme start="20221226235800 +0000" stop="20221227005000 +0000" channel="Syfy.pt"><title lang="pt">Chucky</title></programme>
+	
+<!-- Terca-Feira -->
+	<programme start="20221227005000 +0000" stop="20221227021800 +0000" channel="Syfy.pt"><title lang="pt">4400</title></programme>
+	<programme start="20221227021800 +0000" stop="20221227034700 +0000" channel="Syfy.pt"><title lang="pt">Em Contacto</title></programme>
+	<programme start="20221227034700 +0000" stop="20221227050400 +0000" channel="Syfy.pt"><title lang="pt">The Twilight Zone</title></programme>
+	<programme start="20221227050400 +0000" stop="20221227080000 +0000" channel="Syfy.pt"><title lang="pt">Sanctuary</title></programme>
+	<programme start="20221227080000 +0000" stop="20221227083400 +0000" channel="Syfy.pt"><title lang="pt">Universo Syfy</title></programme>
+	<programme start="20221227083400 +0000" stop="20221227092400 +0000" channel="Syfy.pt"><title lang="pt">Day of the Dead</title></programme>
+	<programme start="20221227092400 +0000" stop="20221227105700 +0000" channel="Syfy.pt"><title lang="pt">Sanctuary</title></programme>
+	<programme start="20221227105700 +0000" stop="20221227123100 +0000" channel="Syfy.pt"><title lang="pt">Em Contacto</title></programme>
+	<programme start="20221227123100 +0000" stop="20221227140400 +0000" channel="Syfy.pt"><title lang="pt">Sanctuary</title></programme>
+	<programme start="20221227140400 +0000" stop="20221227153800 +0000" channel="Syfy.pt"><title lang="pt">Em Contacto</title></programme>
+	<programme start="20221227153800 +0000" stop="20221227170800 +0000" channel="Syfy.pt"><title lang="pt">4400</title></programme>
+	<programme start="20221227170800 +0000" stop="20221227183200 +0000" channel="Syfy.pt"><title lang="pt">Hover</title></programme>
+	<programme start="20221227183200 +0000" stop="20221227200300 +0000" channel="Syfy.pt"><title lang="pt">Caça às Bruxas</title></programme>
+	<programme start="20221227200300 +0000" stop="20221227213000 +0000" channel="Syfy.pt"><title lang="pt">R.I.P.D. - Agentes do Outro Mundo</title></programme>
+	<programme start="20221227213000 +0000" stop="20221227225800 +0000" channel="Syfy.pt"><title lang="pt">A Primeira Purga</title></programme>
+	<programme start="20221227225800 +0000" stop="20221228004400 +0000" channel="Syfy.pt"><title lang="pt">Passageiros</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228004400 +0000" stop="20221228021500 +0000" channel="Syfy.pt"><title lang="pt">4400</title></programme>
+	<programme start="20221228021500 +0000" stop="20221228034800 +0000" channel="Syfy.pt"><title lang="pt">Em Contacto</title></programme>
+	<programme start="20221228034800 +0000" stop="20221228040700 +0000" channel="Syfy.pt"><title lang="pt">Universo Syfy</title></programme>
+	<programme start="20221228040700 +0000" stop="20221228045700 +0000" channel="Syfy.pt"><title lang="pt">The Twilight Zone</title></programme>
+	<programme start="20221228045700 +0000" stop="20221228080000 +0000" channel="Syfy.pt"><title lang="pt">Sanctuary</title></programme>
+	<programme start="20221228080000 +0000" stop="20221228084600 +0000" channel="Syfy.pt"><title lang="pt">Day of the Dead</title></programme>
+	<programme start="20221228084600 +0000" stop="20221228101900 +0000" channel="Syfy.pt"><title lang="pt">Sanctuary</title></programme>
+	<programme start="20221228101900 +0000" stop="20221228115200 +0000" channel="Syfy.pt"><title lang="pt">Em Contacto</title></programme>
+	<programme start="20221228115200 +0000" stop="20221228132500 +0000" channel="Syfy.pt"><title lang="pt">Sanctuary</title></programme>
+	<programme start="20221228132500 +0000" stop="20221228145900 +0000" channel="Syfy.pt"><title lang="pt">Em Contacto</title></programme>
+	<programme start="20221228145900 +0000" stop="20221228163000 +0000" channel="Syfy.pt"><title lang="pt">4400</title></programme>
+	<programme start="20221228163000 +0000" stop="20221228180900 +0000" channel="Syfy.pt"><title lang="pt">Alerta Tsunami</title></programme>
+	<programme start="20221228180900 +0000" stop="20221228195100 +0000" channel="Syfy.pt"><title lang="pt">O Terremoto</title></programme>
+	<programme start="20221228195100 +0000" stop="20221228213000 +0000" channel="Syfy.pt"><title lang="pt">Sete Minutos Depois da Meia-Noite</title></programme>
+	<programme start="20221228213000 +0000" stop="20221229002200 +0000" channel="Syfy.pt"><title lang="pt">King Kong</title></programme>
+
+
+Dizi
+<!-- Segunda-Feira -->
+	<programme start="20221226230500 +0000" stop="20221227000500 +0000" channel="Dizi.nl"><title lang="pt">Dinheiro Sujo</title></programme>
+	
+<!-- Terca-Feira -->
+	<programme start="20221227000500 +0000" stop="20221227020500 +0000" channel="Dizi.nl"><title lang="pt">A Família Kara</title></programme>
+	<programme start="20221227020500 +0000" stop="20221227040000 +0000" channel="Dizi.nl"><title lang="pt">Infiltrado</title></programme>
+	<programme start="20221227040000 +0000" stop="20221227060000 +0000" channel="Dizi.nl"><title lang="pt">Amor Infinito</title></programme>
+	<programme start="20221227060000 +0000" stop="20221227080000 +0000" channel="Dizi.nl"><title lang="pt">Vingança De Saltos Altos</title></programme>
+	<programme start="20221227080000 +0000" stop="20221227100000 +0000" channel="Dizi.nl"><title lang="pt">Dinheiro Sujo</title></programme>
+	<programme start="20221227100000 +0000" stop="20221227120500 +0000" channel="Dizi.nl"><title lang="pt">A Família Kara</title></programme>
+	<programme start="20221227120500 +0000" stop="20221227140000 +0000" channel="Dizi.nl"><title lang="pt">Infiltrado</title></programme>
+	<programme start="20221227140000 +0000" stop="20221227160000 +0000" channel="Dizi.nl"><title lang="pt">Amor Infinito</title></programme>
+	<programme start="20221227160000 +0000" stop="20221227180000 +0000" channel="Dizi.nl"><title lang="pt">Vingança De Saltos Altos</title></programme>
+	<programme start="20221227180000 +0000" stop="20221227220500 +0000" channel="Dizi.nl"><title lang="pt">Dinheiro Sujo</title></programme>
+	<programme start="20221227220500 +0000" stop="20221228000500 +0000" channel="Dizi.nl"><title lang="pt">A Família Kara</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228000500 +0000" stop="20221228020000 +0000" channel="Dizi.nl"><title lang="pt">Infiltrado</title></programme>
+	<programme start="20221228020000 +0000" stop="20221228040000 +0000" channel="Dizi.nl"><title lang="pt">Amor Infinito</title></programme>
+	<programme start="20221228040000 +0000" stop="20221228060000 +0000" channel="Dizi.nl"><title lang="pt">Vingança De Saltos Altos</title></programme>
+	<programme start="20221228060000 +0000" stop="20221228080500 +0000" channel="Dizi.nl"><title lang="pt">Dinheiro Sujo</title></programme>
+	<programme start="20221228080500 +0000" stop="20221228100500 +0000" channel="Dizi.nl"><title lang="pt">A Família Kara</title></programme>
+	<programme start="20221228100500 +0000" stop="20221228120000 +0000" channel="Dizi.nl"><title lang="pt">Infiltrado</title></programme>
+	<programme start="20221228120000 +0000" stop="20221228140000 +0000" channel="Dizi.nl"><title lang="pt">Amor Infinito</title></programme>
+	<programme start="20221228140000 +0000" stop="20221228160000 +0000" channel="Dizi.nl"><title lang="pt">Vingança De Saltos Altos</title></programme>
+	<programme start="20221228160000 +0000" stop="20221228180000 +0000" channel="Dizi.nl"><title lang="pt">Dinheiro Sujo</title></programme>
+	<programme start="20221228180000 +0000" stop="20221228220000 +0000" channel="Dizi.nl"><title lang="pt">A Família Kara</title></programme>
+	<programme start="20221228220000 +0000" stop="20221229000000 +0000" channel="Dizi.nl"><title lang="pt">Infiltrado</title></programme>
+	
+<!-- Quinta-Feira -->
+	<programme start="20221229000000 +0000" stop="20221229010000 +0000" channel="Dizi.nl"><title lang="pt">Amor Infinito</title></programme>
+  
+
+Fox Life
+<!-- Segunda-Feira -->
+	<programme start="20221226231100 +0000" stop="20221227000500 +0000" channel="FoxLife.pt"><title lang="pt">Station</title></programme>
+	
+<!-- Terca-Feira -->
+	<programme start="20221227000500 +0000" stop="20221227013600 +0000" channel="FoxLife.pt"><title lang="pt">Bottled With Love</title></programme>
+	<programme start="20221227013600 +0000" stop="20221227021800 +0000" channel="FoxLife.pt"><title lang="pt">Chicago Med</title></programme>
+	<programme start="20221227021800 +0000" stop="20221227030100 +0000" channel="FoxLife.pt"><title lang="pt">9-1-1</title></programme>
+	<programme start="20221227030100 +0000" stop="20221227042000 +0000" channel="FoxLife.pt"><title lang="pt">Lei & Ordem: Unidade Especial</title></programme>
+	<programme start="20221227042000 +0000" stop="20221227060000 +0000" channel="FoxLife.pt"><title lang="pt">Private Eyes</title></programme>
+	<programme start="20221227060000 +0000" stop="20221227062600 +0000" channel="FoxLife.pt"><title lang="pt">Bless This Mess</title></programme>
+	<programme start="20221227062600 +0000" stop="20221227083500 +0000" channel="FoxLife.pt"><title lang="pt">Bull</title></programme>
+	<programme start="20221227083500 +0000" stop="20221227100500 +0000" channel="FoxLife.pt"><title lang="pt">Love By Chance</title></programme>
+	<programme start="20221227100500 +0000" stop="20221227112900 +0000" channel="FoxLife.pt"><title lang="pt">A Country Romance</title></programme>
+	<programme start="20221227112900 +0000" stop="20221227130100 +0000" channel="FoxLife.pt"><title lang="pt">Lei & Ordem: Unidade Especial</title></programme>
+	<programme start="20221227130100 +0000" stop="20221227134400 +0000" channel="FoxLife.pt"><title lang="pt">Chicago Med</title></programme>
+	<programme start="20221227134400 +0000" stop="20221227143000 +0000" channel="FoxLife.pt"><title lang="pt">9-1-1</title></programme>
+	<programme start="20221227143000 +0000" stop="20221227160200 +0000" channel="FoxLife.pt"><title lang="pt">Love On A Limb</title></programme>
+	<programme start="20221227160200 +0000" stop="20221227173400 +0000" channel="FoxLife.pt"><title lang="pt">Blueprint to the Heart</title></programme>
+	<programme start="20221227173400 +0000" stop="20221227191300 +0000" channel="FoxLife.pt"><title lang="pt">Love’s Second Chance</title></programme>
+	<programme start="20221227191300 +0000" stop="20221227200200 +0000" channel="FoxLife.pt"><title lang="pt">9-1-1</title></programme>
+	<programme start="20221227200200 +0000" stop="20221227213200 +0000" channel="FoxLife.pt"><title lang="pt">Lei & Ordem: Unidade Especial</title></programme>
+	<programme start="20221227213200 +0000" stop="20221227222000 +0000" channel="FoxLife.pt"><title lang="pt">Chicago Med</title></programme>
+	<programme start="20221227222000 +0000" stop="20221228012800 +0000" channel="FoxLife.pt"><title lang="pt">All Rise</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228012800 +0000" stop="20221228021100 +0000" channel="FoxLife.pt"><title lang="pt">Chicago Med</title></programme>
+	<programme start="20221228021100 +0000" stop="20221228025300 +0000" channel="FoxLife.pt"><title lang="pt">9-1-1</title></programme>
+	<programme start="20221228025300 +0000" stop="20221228041100 +0000" channel="FoxLife.pt"><title lang="pt">Lei & Ordem: Unidade Especial</title></programme>
+	<programme start="20221228041100 +0000" stop="20221228061600 +0000" channel="FoxLife.pt"><title lang="pt">Private Eyes</title></programme>
+	<programme start="20221228061600 +0000" stop="20221228082000 +0000" channel="FoxLife.pt"><title lang="pt">Bull</title></programme>
+	<programme start="20221228082000 +0000" stop="20221228095000 +0000" channel="FoxLife.pt"><title lang="pt">A Bridesmaid In Love</title></programme>
+	<programme start="20221228095000 +0000" stop="20221228111900 +0000" channel="FoxLife.pt"><title lang="pt">A Honeymoon To Remember</title></programme>
+	<programme start="20221228111900 +0000" stop="20221228125100 +0000" channel="FoxLife.pt"><title lang="pt">Lei & Ordem: Unidade Especial</title></programme>
+	<programme start="20221228125100 +0000" stop="20221228133400 +0000" channel="FoxLife.pt"><title lang="pt">Chicago Med</title></programme>
+	<programme start="20221228133400 +0000" stop="20221228142200 +0000" channel="FoxLife.pt"><title lang="pt">9-1-1</title></programme>
+	<programme start="20221228142200 +0000" stop="20221228155700 +0000" channel="FoxLife.pt"><title lang="pt">Charm of Love</title></programme>
+	<programme start="20221228155700 +0000" stop="20221228173200 +0000" channel="FoxLife.pt"><title lang="pt">Calling for Love</title></programme>
+	<programme start="20221228173200 +0000" stop="20221228190500 +0000" channel="FoxLife.pt"><title lang="pt">All Yours</title></programme>
+	<programme start="20221228190500 +0000" stop="20221228195300 +0000" channel="FoxLife.pt"><title lang="pt">9-1-1</title></programme>
+	<programme start="20221228195300 +0000" stop="20221228212700 +0000" channel="FoxLife.pt"><title lang="pt">Lei & Ordem: Unidade Especial</title></programme>
+	<programme start="20221228212700 +0000" stop="20221228222000 +0000" channel="FoxLife.pt"><title lang="pt">Chicago Med</title></programme>
+	<programme start="20221228222000 +0000" stop="20221228231200 +0000" channel="FoxLife.pt"><title lang="pt">The Resident</title></programme>
+	<programme start="20221228231200 +0000" stop="20221229013500 +0000" channel="FoxLife.pt"><title lang="pt">O Amor Acontece</title></programme>
+
+
+Fox Crime
+<!-- Terca-Feira -->
+	<programme start="20221226234400 +0000" stop="20221227011300 +0000" channel="FoxCrime.pt"><title lang="pt">CSI: Nova Iorque</title></programme>
+	<programme start="20221227011300 +0000" stop="20221227023700 +0000" channel="FoxCrime.pt"><title lang="pt">Crimes Graves</title></programme>
+	<programme start="20221227023700 +0000" stop="20221227042000 +0000" channel="FoxCrime.pt"><title lang="pt">Death in Paradise</title></programme>
+	<programme start="20221227042000 +0000" stop="20221227050300 +0000" channel="FoxCrime.pt"><title lang="pt">Father Brown</title></programme>
+	<programme start="20221227050300 +0000" stop="20221227060100 +0000" channel="FoxCrime.pt"><title lang="pt">Rosemary & Thyme</title></programme>
+	<programme start="20221227060100 +0000" stop="20221227063500 +0000" channel="FoxCrime.pt"><title lang="pt">Brooklyn Nine-Nine</title></programme>
+	<programme start="20221227063500 +0000" stop="20221227080400 +0000" channel="FoxCrime.pt"><title lang="pt">Crime, Disse Ela</title></programme>
+	<programme start="20221227080400 +0000" stop="20221227093200 +0000" channel="FoxCrime.pt"><title lang="pt">Os Mistérios de Brokenwood</title></programme>
+	<programme start="20221227093200 +0000" stop="20221227111700 +0000" channel="FoxCrime.pt"><title lang="pt">Death in Paradise</title></programme>
+	<programme start="20221227111700 +0000" stop="20221227125800 +0000" channel="FoxCrime.pt"><title lang="pt">Midsomer Murders</title></programme>
+	<programme start="20221227125800 +0000" stop="20221227134200 +0000" channel="FoxCrime.pt"><title lang="pt">Father Brown</title></programme>
+	<programme start="20221227134200 +0000" stop="20221227151200 +0000" channel="FoxCrime.pt"><title lang="pt">CSI: Nova Iorque</title></programme>
+	<programme start="20221227151200 +0000" stop="20221227155800 +0000" channel="FoxCrime.pt"><title lang="pt">Lei & Ordem: Intenções Criminosas</title></programme>
+	<programme start="20221227155800 +0000" stop="20221227173400 +0000" channel="FoxCrime.pt"><title lang="pt">Crime, Disse Ela</title></programme>
+	<programme start="20221227173400 +0000" stop="20221227191900 +0000" channel="FoxCrime.pt"><title lang="pt">Midsomer Murders</title></programme>
+	<programme start="20221227191900 +0000" stop="20221227211500 +0000" channel="FoxCrime.pt"><title lang="pt">Death in Paradise</title></programme>
+	<programme start="20221227211500 +0000" stop="20221227220200 +0000" channel="FoxCrime.pt"><title lang="pt">Father Brown</title></programme>
+	<programme start="20221227220200 +0000" stop="20221227234100 +0000" channel="FoxCrime.pt"><title lang="pt">Os Mistérios de Brokenwood</title></programme>
+	<programme start="20221227234100 +0000" stop="20221228002400 +0000" channel="FoxCrime.pt"><title lang="pt">Lei & Ordem: Intenções Criminosas</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228002400 +0000" stop="20221228014900 +0000" channel="FoxCrime.pt"><title lang="pt">CSI: Nova Iorque</title></programme>
+	<programme start="20221228014900 +0000" stop="20221228043100 +0000" channel="FoxCrime.pt"><title lang="pt">Death in Paradise</title></programme>
+	<programme start="20221228043100 +0000" stop="20221228052500 +0000" channel="FoxCrime.pt"><title lang="pt">Father Brown</title></programme>
+	<programme start="20221228052500 +0000" stop="20221228061100 +0000" channel="FoxCrime.pt"><title lang="pt">Rosemary & Thyme</title></programme>
+	<programme start="20221228061100 +0000" stop="20221228065600 +0000" channel="FoxCrime.pt"><title lang="pt">Crime, Disse Ela</title></programme>
+	<programme start="20221228065600 +0000" stop="20221228073800 +0000" channel="FoxCrime.pt"><title lang="pt">Father Brown</title></programme>
+	<programme start="20221228073800 +0000" stop="20221228090700 +0000" channel="FoxCrime.pt"><title lang="pt">Crime No Lago</title></programme>
+	<programme start="20221228090700 +0000" stop="20221228105500 +0000" channel="FoxCrime.pt"><title lang="pt">Death in Paradise</title></programme>
+	<programme start="20221228105500 +0000" stop="20221228123700 +0000" channel="FoxCrime.pt"><title lang="pt">Midsomer Murders</title></programme>
+	<programme start="20221228123700 +0000" stop="20221228133400 +0000" channel="FoxCrime.pt"><title lang="pt">Father Brown</title></programme>
+	<programme start="20221228133400 +0000" stop="20221228150400 +0000" channel="FoxCrime.pt"><title lang="pt">CSI: Nova Iorque</title></programme>
+	<programme start="20221228150400 +0000" stop="20221228155100 +0000" channel="FoxCrime.pt"><title lang="pt">Lei & Ordem: Intenções Criminosas</title></programme>
+	<programme start="20221228155100 +0000" stop="20221228172900 +0000" channel="FoxCrime.pt"><title lang="pt">Crime, Disse Ela</title></programme>
+	<programme start="20221228172900 +0000" stop="20221228191300 +0000" channel="FoxCrime.pt"><title lang="pt">Midsomer Murders</title></programme>
+	<programme start="20221228191300 +0000" stop="20221228211100 +0000" channel="FoxCrime.pt"><title lang="pt">Death in Paradise</title></programme>
+	<programme start="20221228211100 +0000" stop="20221228225100 +0000" channel="FoxCrime.pt"><title lang="pt">Father Brown</title></programme>
+	<programme start="20221228225100 +0000" stop="20221229002900 +0000" channel="FoxCrime.pt"><title lang="pt">Crime No Lago</title></programme>
+  
+  
+Axn White
+<!-- Terca-Feira -->
+	<programme start="20221227010700 +0000" stop="20221227023000 +0000" channel="AXNWhite.us"><title lang="pt">O Grande Dia</title></programme>
+	<programme start="20221227023000 +0000" stop="20221227040200 +0000" channel="AXNWhite.us"><title lang="pt">Inesquecível</title></programme>
+	<programme start="20221227040200 +0000" stop="20221227070500 +0000" channel="AXNWhite.us"><title lang="pt">Os Tudors</title></programme>
+	<programme start="20221227070500 +0000" stop="20221227095800 +0000" channel="AXNWhite.us"><title lang="pt">Morning Show Mysteries</title></programme>
+	<programme start="20221227095800 +0000" stop="20221227112200 +0000" channel="AXNWhite.us"><title lang="pt">Chesapeake Shores</title></programme>
+	<programme start="20221227112200 +0000" stop="20221227125100 +0000" channel="AXNWhite.us"><title lang="pt">Inesquecível</title></programme>
+	<programme start="20221227125100 +0000" stop="20221227141500 +0000" channel="AXNWhite.us"><title lang="pt">Um Tesouro de Natal</title></programme>
+	<programme start="20221227141500 +0000" stop="20221227154300 +0000" channel="AXNWhite.us"><title lang="pt">Natal em Sintonia</title></programme>
+	<programme start="20221227154300 +0000" stop="20221227170800 +0000" channel="AXNWhite.us"><title lang="pt">Morning Show Mysteries</title></programme>
+	<programme start="20221227170800 +0000" stop="20221227183300 +0000" channel="AXNWhite.us"><title lang="pt">Hailey Dean Mystery: Homicídio, Com Amor</title></programme>
+	<programme start="20221227183300 +0000" stop="20221227195900 +0000" channel="AXNWhite.us"><title lang="pt">Inesquecível</title></programme>
+	<programme start="20221227195900 +0000" stop="20221227212500 +0000" channel="AXNWhite.us"><title lang="pt">Amor de Uma Vida</title></programme>
+	<programme start="20221227212500 +0000" stop="20221227221000 +0000" channel="AXNWhite.us"><title lang="pt">Monarch T1 - Ep. 5</title></programme>
+	<programme start="20221227221000 +0000" stop="20221227233800 +0000" channel="AXNWhite.us"><title lang="pt">Caça ao Tesouro de Natal</title></programme>
+	<programme start="20221227233800 +0000" stop="20221228010400 +0000" channel="AXNWhite.us"><title lang="pt">Um Doce Romance de Natal</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228010400 +0000" stop="20221228024400 +0000" channel="AXNWhite.us"><title lang="pt">Prometo Amar-te</title></programme>
+	<programme start="20221228024400 +0000" stop="20221228041600 +0000" channel="AXNWhite.us"><title lang="pt">Inesquecível</title></programme>
+	<programme start="20221228041600 +0000" stop="20221228065400 +0000" channel="AXNWhite.us"><title lang="pt">Os Tudors</title></programme>
+	<programme start="20221228065400 +0000" stop="20221228081800 +0000" channel="AXNWhite.us"><title lang="pt">Morning Show Mysteries</title></programme>
+	<programme start="20221228081800 +0000" stop="20221228094600 +0000" channel="AXNWhite.us"><title lang="pt">Hailey Dean Mystery</title></programme>
+	<programme start="20221228094600 +0000" stop="20221228112000 +0000" channel="AXNWhite.us"><title lang="pt">Chesapeake Shores</title></programme>
+	<programme start="20221228112000 +0000" stop="20221228124700 +0000" channel="AXNWhite.us"><title lang="pt">Inesquecível</title></programme>
+	<programme start="20221228124700 +0000" stop="20221228141400 +0000" channel="AXNWhite.us"><title lang="pt">Natal na Vinha</title></programme>
+	<programme start="20221228141400 +0000" stop="20221228154100 +0000" channel="AXNWhite.us"><title lang="pt">Um Milagre de Natal</title></programme>
+	<programme start="20221228154100 +0000" stop="20221228182800 +0000" channel="AXNWhite.us"><title lang="pt">Hailey Dean Mystery</title></programme>
+	<programme start="20221228182800 +0000" stop="20221228195800 +0000" channel="AXNWhite.us"><title lang="pt">Inesquecível</title></programme>
+	<programme start="20221228195800 +0000" stop="20221228212500 +0000" channel="AXNWhite.us"><title lang="pt">Um Natal Iluminado</title></programme>
+	<programme start="20221228212500 +0000" stop="20221228223400 +0000" channel="AXNWhite.us"><title lang="pt">Os Larkins no Natal</title></programme>
+	<programme start="20221228223400 +0000" stop="20221229000000 +0000" channel="AXNWhite.us"><title lang="pt">Um Tesouro de Natal</title></programme>
+	
+<!-- Quinta-Feira -->
+	<programme start="20221229000000 +0000" stop="20221229012500 +0000" channel="AXNWhite.us"><title lang="pt">Todos Precisam de um Natal</title></programme>
+  
+  
+Fox Comedy
+<!-- Segunda-Feira -->
+	<programme start="20221226234800 +0000" stop="20221227011600 +0000" channel="FoxComedy.pt"><title lang="pt">Two Broke Girls</title></programme>
+
+<!-- Terca-Feira -->
+	<programme start="20221227011600 +0000" stop="20221227015800 +0000" channel="FoxComedy.pt"><title lang="pt">Regras Do Jogo</title></programme>
+	<programme start="20221227015800 +0000" stop="20221227034800 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpson</title></programme>
+	<programme start="20221227034800 +0000" stop="20221227052800 +0000" channel="FoxComedy.pt"><title lang="pt">Family Guy</title></programme>
+	<programme start="20221227052800 +0000" stop="20221227063100 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpsons</title></programme>
+	<programme start="20221227063100 +0000" stop="20221227071700 +0000" channel="FoxComedy.pt"><title lang="pt">Foi Assim Que Aconteceu</title></programme>
+	<programme start="20221227071700 +0000" stop="20221227090600 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpsons</title></programme>
+	<programme start="20221227090600 +0000" stop="20221227094900 +0000" channel="FoxComedy.pt"><title lang="pt">American Dad</title></programme>
+	<programme start="20221227094900 +0000" stop="20221227100900 +0000" channel="FoxComedy.pt"><title lang="pt">Family Guy</title></programme>
+	<programme start="20221227100900 +0000" stop="20221227160500 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpsons</title></programme>
+	<programme start="20221227160500 +0000" stop="20221227165000 +0000" channel="FoxComedy.pt"><title lang="pt">American Dad</title></programme>
+	<programme start="20221227165000 +0000" stop="20221227175700 +0000" channel="FoxComedy.pt"><title lang="pt">Family Guy</title></programme>
+	<programme start="20221227175700 +0000" stop="20221227190600 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpsons</title></programme>
+	<programme start="20221227190600 +0000" stop="20221227195500 +0000" channel="FoxComedy.pt"><title lang="pt">Foi Assim Que Aconteceu</title></programme>
+	<programme start="20221227195500 +0000" stop="20221227203900 +0000" channel="FoxComedy.pt"><title lang="pt">A Teoria do Big Bang</title></programme>
+	<programme start="20221227203900 +0000" stop="20221227212500 +0000" channel="FoxComedy.pt"><title lang="pt">Boa Vizinhança</title></programme>
+	<programme start="20221227212500 +0000" stop="20221227220900 +0000" channel="FoxComedy.pt"><title lang="pt">Regras Do Jogo</title></programme>
+	<programme start="20221227220900 +0000" stop="20221227225800 +0000" channel="FoxComedy.pt"><title lang="pt">Dois Homens e Meio</title></programme>
+	<programme start="20221227225800 +0000" stop="20221227232000 +0000" channel="FoxComedy.pt"><title lang="pt">Friends</title></programme>
+	<programme start="20221227234600 +0000" stop="20221228011200 +0000" channel="FoxComedy.pt"><title lang="pt">Two Broke Girls</title></programme>
+	
+<!-- Quarta-Feira -->
+	<programme start="20221228011200 +0000" stop="20221228015400 +0000" channel="FoxComedy.pt"><title lang="pt">Regras Do Jogo</title></programme>
+	<programme start="20221228015400 +0000" stop="20221228032800 +0000" channel="FoxComedy.pt"><title lang="pt">American Pie 2 - O Ano Seguinte</title></programme>
+	<programme start="20221228032800 +0000" stop="20221228051600 +0000" channel="FoxComedy.pt"><title lang="pt">American Pie: O Reencontro</title></programme>
+	<programme start="20221228051600 +0000" stop="20221228061800 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpsons</title></programme>
+	<programme start="20221228061800 +0000" stop="20221228070500 +0000" channel="FoxComedy.pt"><title lang="pt">Foi Assim Que Aconteceu</title></programme>
+	<programme start="20221228070500 +0000" stop="20221228085600 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpsons</title></programme>
+	<programme start="20221228085600 +0000" stop="20221228093700 +0000" channel="FoxComedy.pt"><title lang="pt">American Dad</title></programme>
+	<programme start="20221228093700 +0000" stop="20221228100000 +0000" channel="FoxComedy.pt"><title lang="pt">Family Guy</title></programme>
+	<programme start="20221228100000 +0000" stop="20221228160500 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpsons</title></programme>
+	<programme start="20221228160500 +0000" stop="20221228165000 +0000" channel="FoxComedy.pt"><title lang="pt">American Dad</title></programme>
+	<programme start="20221228165000 +0000" stop="20221228175700 +0000" channel="FoxComedy.pt"><title lang="pt">Family Guy</title></programme>
+	<programme start="20221228175700 +0000" stop="20221228190600 +0000" channel="FoxComedy.pt"><title lang="pt">Os Simpsons</title></programme>
+	<programme start="20221228190600 +0000" stop="20221228195300 +0000" channel="FoxComedy.pt"><title lang="pt">Foi Assim Que Aconteceu</title></programme>
+	<programme start="20221228195300 +0000" stop="20221228203600 +0000" channel="FoxComedy.pt"><title lang="pt">A Teoria do Big Bang</title></programme>
+	<programme start="20221228203600 +0000" stop="20221228212500 +0000" channel="FoxComedy.pt"><title lang="pt">Boa Vizinhança</title></programme>
+	<programme start="20221228212500 +0000" stop="20221228220900 +0000" channel="FoxComedy.pt"><title lang="pt">Regras Do Jogo</title></programme>
+	<programme start="20221228220900 +0000" stop="20221228225600 +0000" channel="FoxComedy.pt"><title lang="pt">Dois Homens e Meio</title></programme>
+	<programme start="20221228225600 +0000" stop="20221228234500 +0000" channel="FoxComedy.pt"><title lang="pt">Friends</title></programme>
+	
+<!-- Quinta-Feira -->
+	<programme start="20221228234500 +0000" stop="20221229000500 +0000" channel="FoxComedy.pt"><title lang="pt">Two Broke Girls</title></programme> 
+
+
+Axn Movies
+	<programme start="20221227194200 +0000" stop="20221227211000 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Surfista, Meu</title>
+	</programme>
+    <programme start="20221227211000 +0000" stop="20221227225100 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Ninguém Quer A Noite</title>
+	</programme>
+	<programme start="20221227225100 +0000" stop="20221228004100 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Quero-te Tanto!</title>
+	</programme>
+	<programme start="20221228004100 +0000" stop="20221228031100 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Robin Hood: Príncipe dos Ladrões</title>
+	</programme>
+	<programme start="20221228031100 +0000" stop="20221228045200 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Corrupção Total</title>
+	</programme>
+	<programme start="20221228045200 +0000" stop="20221228070700 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Máximo Risco</title>
+	</programme>
+	<programme start="20221228070700 +0000" stop="20221228082900 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Soldado Universal - O Regresso</title>
+	</programme>
+	<programme start="20221228082900 +0000" stop="20221228102500 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Jumanji: O Nível Seguinte</title>
+	</programme>
+	<programme start="20221228102500 +0000" stop="20221228114500 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Formiga Z</title>
+	</programme>
+	<programme start="20221228114500 +0000" stop="20221228131100 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Peter Rabbit</title>
+	</programme>
+	<programme start="20221228131100 +0000" stop="20221228144000 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Hotel Transylvania</title>
+	</programme>
+	<programme start="20221228144000 +0000" stop="20221228161200 +0000" channel="AXNMovies.pt">
+		<title lang="pt">O Segredo de Terabítia</title>
+	</programme>
+	<programme start="20221228161200 +0000" stop="20221228180100 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Quero-te Tanto!</title>
+	</programme>
+	<programme start="20221228180100 +0000" stop="20221228193000 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Eu, Frankenstein</title>
+	</programme>
+	<programme start="20221228193000 +0000" stop="20221228211000 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Medidas Desesperadas</title>
+	</programme>
+	<programme start="20221228211000 +0000" stop="20221228225300 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Miss Bala</title>
+	</programme>
+	<programme start="20221228225300 +0000" stop="20221229012400 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Gangster Americano</title>
+	</programme>
+
+
+Fox Movies 
+	<programme start="20221227181400 +0000" stop="20221227194400 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Fórmula 51</title>
+	</programme>
+	<programme start="20221227194400 +0000" stop="20221227211500 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Sobrevivente</title>
+	</programme>
+	<programme start="20221227211500 +0000" stop="20221227230000 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Jack Ryan: Agente Sombra</title>
+	</programme>
+	<programme start="20221227230000 +0000" stop="20221228013500 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Millennium 1: Os Homens Que Odeiam as Mulheres</title>
+	</programme>
+	<programme start="20221228013500 +0000" stop="20221228031500 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Colombiana</title>
+	</programme>
+	<programme start="20221228031500 +0000" stop="20221228061900 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Cercados</title>
+	</programme>
+	<programme start="20221228061900 +0000" stop="20221228080900 +0000" channel="FoxMovies.pt">
+		<title lang="pt">O Meu Tio</title>
+	</programme>
+	<programme start="20221228080900 +0000" stop="20221228100800 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Quem Quer Ser Bilionário?</title>
+	</programme>
+	<programme start="20221228100800 +0000" stop="20221228113800 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Sobrevivente</title>
+	</programme>
+	<programme start="20221228113800 +0000" stop="20221228131700 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Jack Ryan: Agente Sombra</title>
+	</programme>
+	<programme start="20221228131700 +0000" stop="20221228145800 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Colombiana</title>
+	</programme>
+	<programme start="20221228145800 +0000" stop="20221228162500 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Águas Perigosas</title>
+	</programme>
+	<programme start="20221228162500 +0000" stop="20221228181500 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Operação Zodíaco</title>
+	</programme>
+	<programme start="20221228181500 +0000" stop="20221228194600 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Espião nas Horas Vagas</title>
+	</programme>
+	<programme start="20221228194600 +0000" stop="20221228211500 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Espião Acidental</title>
+	</programme>
+	<programme start="20221228211500 +0000" stop="20221228231300 +0000" channel="FoxMovies.pt">
+		<title lang="pt">Soldados da Fortuna</title>
+	</programme>
+	<programme start="20221228231300 +0000" stop="20221229011700 +0000" channel="FoxMovies.pt">
+		<title lang="pt">O Atirador</title>
+	</programme>
+
+
+Cinemundo 
+	<programme start="20221227184000 +0000" stop="20221227205000 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Knives Out: Todos São Suspeitos</title>
+	</programme>
+	<programme start="20221227205000 +0000" stop="20221227223000 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Negócio das Arábias</title>
+	</programme>
+	<programme start="20221227223000 +0000" stop="20221228003000 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Kick-Ass - O Novo Super-Herói</title>
+	</programme>
+	<programme start="20221228003000 +0000" stop="20221228021500 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Um Ajuste de Contas</title>
+	</programme>
+	<programme start="20221228021500 +0000" stop="20221228035500 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Una - Negra Sedução</title>
+	</programme>
+	<programme start="20221228035500 +0000" stop="20221228052000 +0000" channel="Cinemundo.pt">
+		<title lang="pt">O Cadáver de Anna Fritz</title>
+	</programme>
+	<programme start="20221228052000 +0000" stop="20221228083500 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Prémios do Cinema Europeu 2022</title>
+	</programme>
+	<programme start="20221228083500 +0000" stop="20221228095000 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Assalto Inesperado</title>
+	</programme>
+	<programme start="20221228095000 +0000" stop="20221228114500 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Wonder - Encantador</title>
+	</programme>
+	<programme start="20221228114500 +0000" stop="20221228133000 +0000" channel="Cinemundo.pt">
+		<title lang="pt">S.O.S. Vizinhos ao Ataque</title>
+	</programme>
+	<programme start="20221228133000 +0000" stop="20221228152500 +0000" channel="Cinemundo.pt">
+		<title lang="pt">O Prodígio</title>
+	</programme>
+	<programme start="20221228152500 +0000" stop="20221228171000 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Homens de Negócios</title>
+	</programme>
+	<programme start="20221228171000 +0000" stop="20221228185500 +0000" channel="Cinemundo.pt">
+		<title lang="pt">A Rainha</title>
+	</programme>
+	<programme start="20221228185500 +0000" stop="20221228204500 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Belleville Cop - O Super Agente</title>
+	</programme>
+	<programme start="20221228204500 +0000" stop="20221228223000 +0000" channel="Cinemundo.pt">
+		<title lang="pt">A Partir de Uma História Verdadeira</title>
+	</programme>
+	<programme start="20221228223000 +0000" stop="20221229001500 +0000" channel="Cinemundo.pt">
+		<title lang="pt">Tudo Sobre a Minha Mãe</title>
+	</programme>
+
+
+Canal Hollywood 
+	<programme start="20221227190500 +0000" stop="20221227213000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">Maze Runner: A Cura Mortal</title>
+	</programme>
+	<programme start="20221227213000 +0000" stop="20221228000000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">O Cavaleiro das Trevas</title>
+	</programme>
+	<programme start="20221228000000 +0000" stop="20221228013500 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">Navy Seals - Batalha Por Nova Orleães</title>
+	</programme>
+	<programme start="20221228013500 +0000" stop="20221228034000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">Amar Pablo E Odiar Escobar</title>
+	</programme>
+	<programme start="20221228034000 +0000" stop="20221228055000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">Atraídos pelo Crime</title>
+	</programme>
+	<programme start="20221228055000 +0000" stop="20221228060000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">Zoom In</title>
+	</programme>
+	<programme start="20221228060000 +0000" stop="20221228081000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">12 Anos Escravo</title>
+	</programme>
+	<programme start="20221228081000 +0000" stop="20221228082500 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">Hollywood News Feed</title>
+	</programme>
+	<programme start="20221228082500 +0000" stop="20221228100500 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">Uma Traição Necessária</title>
+	</programme>
+	<programme start="20221228100500 +0000" stop="20221228114000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">Tudo É Possível</title>
+	</programme>
+	<programme start="20221228114000 +0000" stop="20221228135500 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">A Cidade Perdida de Z</title>
+	</programme>
+	<programme start="20221228135500 +0000" stop="20221228153000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">O Segurança do Shopping: Las Vegas</title>
+	</programme>
+	<programme start="20221228153000 +0000" stop="20221228172500 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">SuperMan II (Richard Donner Cut)</title>
+	</programme>
+	<programme start="20221228172500 +0000" stop="20221228194000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">O Rochedo</title>
+	</programme>
+	<programme start="20221228194000 +0000" stop="20221228213000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">A Grande Muralha</title>
+	</programme>
+	<programme start="20221228213000 +0000" stop="20221229001000 +0000" channel="CanalHollywood.pt">
+		<title lang="pt">O Cavaleiro das Trevas Renasce</title>
+	</programme>
+
+
+TVCine Top
+	<programme start="20221227201000 +0000" stop="20221227213000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">O Passageiro Oculto</title>
+	</programme>
+	<programme start="20221227213000 +0000" stop="20221227230000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Spiral - O Novo Capítulo De Saw</title>
+	</programme>
+	<programme start="20221227230000 +0000" stop="20221228002500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Escape Room 2: Sem Saída</title>
+	</programme>
+	<programme start="20221228002500 +0000" stop="20221228015500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Morrer Num Tiroteio</title>
+	</programme>
+	<programme start="20221228015500 +0000" stop="20221228035500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Mães Paralelas</title>
+	</programme>
+	<programme start="20221228035500 +0000" stop="20221228055500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Nove Dias</title>
+	</programme>
+	<programme start="20221228055500 +0000" stop="20221228074000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Leviano</title>
+	</programme>
+	<programme start="20221228074000 +0000" stop="20221228091500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Lassie De Volta A Casa (VP)</title>
+	</programme>
+	<programme start="20221228091500 +0000" stop="20221228105500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Um Susto De Família 2 (VP)</title>
+	</programme>
+	<programme start="20221228105500 +0000" stop="20221228130500 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Licorice Pizza</title>
+	</programme>
+	<programme start="20221228130500 +0000" stop="20221228145000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">As Nossas Senhoras</title>
+	</programme>
+	<programme start="20221228145000 +0000" stop="20221228164500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Uncharted</title>
+	</programme>
+	<programme start="20221228164500 +0000" stop="20221228181500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Ninguém</title>
+	</programme>
+	<programme start="20221228181500 +0000" stop="20221228194500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Rifkin´s Festival</title>
+	</programme>
+	<programme start="20221228194500 +0000" stop="20221228213000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Presos no Tempo</title>
+	</programme>
+	<programme start="20221228213000 +0000" stop="20221228230000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">O Sétimo Dia</title>
+	</programme>
+	<programme start="20221228230000 +0000" stop="20221229011500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Annette</title>
+	</programme>
+	
+ 
+TVCine Edition
+	<programme start="20221227202500 +0000" stop="20221227220000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Gabriel</title>
+	</programme>
+	<programme start="20221227220000 +0000" stop="20221227230500 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">A Cruzada</title>
+	</programme>
+	<programme start="20221227230500 +0000" stop="20221228002000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Os Amantes Molhados</title>
+	</programme>
+	<programme start="20221228002000 +0000" stop="20221228015500 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Taxi (2015)</title>
+	</programme>
+	<programme start="20221228015500 +0000" stop="20221228040500 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Um Verão na Córsega</title>
+	</programme>
+	<programme start="20221228040500 +0000" stop="20221228042500 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Fruto do Vosso Ventre</title>
+	</programme>
+	<programme start="20221228042500 +0000" stop="20221228061500 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Lenny</title>
+	</programme>
+	<programme start="20221228061500 +0000" stop="20221228080000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">A Maldição dos Chippendales</title>
+	</programme>
+	<programme start="20221228080000 +0000" stop="20221228100000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Accattone</title>
+	</programme>
+	<programme start="20221228100000 +0000" stop="20221228122500 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">A Troca</title>
+	</programme>
+	<programme start="20221228122500 +0000" stop="20221228135000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Magic In The Mountains</title>
+	</programme>
+	<programme start="20221228135000 +0000" stop="20221228152000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Colmeia</title>
+	</programme>
+	<programme start="20221228152000 +0000" stop="20221228171000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Rei Édipo</title>
+	</programme>
+	<programme start="20221228171000 +0000" stop="20221228184000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Um Crime De Luxo</title>
+	</programme>
+	<programme start="20221228184000 +0000" stop="20221228202500 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Salto De Fé: William Friedkin Sobre O Exorcista</title>
+	</programme>
+	<programme start="20221228202500 +0000" stop="20221228220000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Brasil 2002: A História Real</title>
+	</programme>
+	<programme start="20221228220000 +0000" stop="20221228232000 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">Piercing</title>
+	</programme>
+	<programme start="20221228232000 +0000" stop="20221229003500 +0000" channel="TVCineEdition.pt">
+		<title lang="pt">O Êxtase Da Rosa Negra</title>
+	</programme>
+	
+
+TVCine Emotion
+	<programme start="20221227193000 +0000" stop="20221227211000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">A Audição</title>
+	</programme>
+	<programme start="20221227211000 +0000" stop="20221227231000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Gaslit</title>
+	</programme>
+	<programme start="20221227231000 +0000" stop="20221228012000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">A Voz Do Amor</title>
+	</programme>
+	<programme start="20221228012000 +0000" stop="20221228025500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Um Pai à Maneira</title>
+	</programme>
+	<programme start="20221228025500 +0000" stop="20221228034500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Swimming With Sharks</title>
+	</programme>
+	<programme start="20221228034500 +0000" stop="20221228041500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">PEN15</title>
+	</programme>
+	<programme start="20221228041500 +0000" stop="20221228061500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Gaslit</title>
+	</programme>
+	<programme start="20221228061500 +0000" stop="20221228080500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Mapas Para as Estrelas</title>
+	</programme>
+	<programme start="20221228080500 +0000" stop="20221228094000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Menina</title>
+	</programme>
+	<programme start="20221228094000 +0000" stop="20221228112500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Lego Ninjago: O Filme (VP)</title>
+	</programme>
+	<programme start="20221228112500 +0000" stop="20221228131000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Terapia de Choque</title>
+	</programme>
+	<programme start="20221228131000 +0000" stop="20221228153500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Nascido a 4 de Julho</title>
+	</programme>
+	<programme start="20221228153500 +0000" stop="20221228172500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">O Meu Primo Desajeitado</title>
+	</programme>
+	<programme start="20221228172500 +0000" stop="20221228185500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Absolutely Anything - Uma Comédia Intergaláctica</title>
+	</programme>
+	<programme start="20221228185500 +0000" stop="20221228194000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Swimming With Sharks</title>
+	</programme>
+	<programme start="20221228194000 +0000" stop="20221228201000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">PEN15</title>
+	</programme>
+	<programme start="20221228201000 +0000" stop="20221228214000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">A Boy Called Sailboat</title>
+	</programme>
+	<programme start="20221228214000 +0000" stop="20221228224500 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">The Girlfriend Experience</title>
+	</programme>
+	<programme start="20221228224500 +0000" stop="20221229002000 +0000" channel="TVCineEmotion.pt">
+		<title lang="pt">Operação Portugal</title>
+	</programme>
+	
+  
+TVCine Action
+	<programme start="20221227212500 +0000" stop="20221227225500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Seal Team</title>
+	</programme>
+	<programme start="20221227225500 +0000" stop="20221228004000 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Leviano</title>
+	</programme>
+	<programme start="20221228004000 +0000" stop="20221228022500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Halloween (2018)</title>
+	</programme>
+	<programme start="20221228022500 +0000" stop="20221228035500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">211 - Emboscada</title>
+	</programme>
+	<programme start="20221228035500 +0000" stop="20221228054500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Joe Pickett</title>
+	</programme>
+	<programme start="20221228054500 +0000" stop="20221228062500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Interrogation</title>
+	</programme>
+	<programme start="20221228062500 +0000" stop="20221228075500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Seal Team</title>
+	</programme>
+	<programme start="20221228075500 +0000" stop="20221228093000 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Mad Max 2, O Guerreiro da Estrada</title>
+	</programme>
+	<programme start="20221228093000 +0000" stop="20221228114000 +0000" channel="TVCineAction.pt">
+		<title lang="pt">A Verdade Escondida</title>
+	</programme>
+	<programme start="20221228114000 +0000" stop="20221228135500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">The Conjuring 2 - A Evocação</title>
+	</programme>
+	<programme start="20221228135500 +0000" stop="20221228154500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Eu, Robot</title>
+	</programme>
+	<programme start="20221228154500 +0000" stop="20221228172000 +0000" channel="TVCineAction.pt">
+		<title lang="pt">A Minha Morte</title>
+	</programme>
+	<programme start="20221228172000 +0000" stop="20221228190000 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Joe Pickett</title>
+	</programme>
+	<programme start="20221228190000 +0000" stop="20221228194500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Interrogation</title>
+	</programme>
+	<programme start="20221228194500 +0000" stop="20221228212000 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Swallow - Distúrbio</title>
+	</programme>
+	<programme start="20221228212000 +0000" stop="20221228221000 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Billy The Kid</title>
+	</programme>
+	<programme start="20221228221000 +0000" stop="20221228225500 +0000" channel="TVCineAction.pt">
+		<title lang="pt">Fbi: Most Wanted</title>
+	</programme>
+	<programme start="20221228225500 +0000" stop="20221229003000 +0000" channel="TVCineAction.pt">
+		<title lang="pt">O Dia do Juízo Final</title>
+	</programme>
+
+
+RTP Africa
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+
+
+RTP Acores 
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPAcores.pt"><title lang="pt">RTP Acores</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPAcores.pt"><title lang="pt">RTP Acores</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTPAcores.pt"><title lang="pt">RTP Acores</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTPAcores.pt"><title lang="pt">RTP Acores</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTPAcores.pt"><title lang="pt">RTP Acores</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTPAcores.pt"><title lang="pt">RTP Acores</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTPAcores.pt"><title lang="pt">RTP Acores</title></programme>
+  
+  
+RTP Memoria 
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPMemoria.pt"><title lang="pt">RTP Memoria</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPMemoria.pt"><title lang="pt">RTP Memoria</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTPMemoria.pt"><title lang="pt">RTP Memoria</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTPMemoria.pt"><title lang="pt">RTP Memoria</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTPMemoria.pt"><title lang="pt">RTP Memoria</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTPMemoria.pt"><title lang="pt">RTP Memoria</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTPMemoria.pt"><title lang="pt">RTP Memoria</title></programme>
+
+  
+RTP Madeira
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPMadeira.pt"><title lang="pt">RTP Madeira</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPMadeira.pt"><title lang="pt">RTP Madeira</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTPMadeira.pt"><title lang="pt">RTP Madeira</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTPMadeira.pt"><title lang="pt">RTP Madeira</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTPMadeira.pt"><title lang="pt">RTP Madeira</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTPMadeira.pt"><title lang="pt">RTP Madeira</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTPMadeira.pt"><title lang="pt">RTP Madeira</title></programme>  
+  
+Kuriakos TV
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  
+
+Galicia TV
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+
+
+	<programme start="20221030200000 +0000" stop="20221029230000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>  
+  
+</tv>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv>	
+
+
+SPORT TV +
+	<programme start="20221228200000 +0000" stop="20221228202500 +0000" channel="SportTVPlus.pt"><title lang="pt">Antevisao: FC Porto x Arouca</title></programme>
+	<programme start="20221228202500 +0000" stop="20221228203000 +0000" channel="SportTVPlus.pt"><title lang="pt">Voz Do Adepto</title></programme>
+	<programme start="20221228203000 +0000" stop="20221228211000 +0000" channel="SportTVPlus.pt"><title lang="pt">Antevisao: FC Porto x Arouca</title></programme>
+	<programme start="20221228211000 +0000" stop="20221229000000 +0000" channel="SportTVPlus.pt"><title lang="pt">Grande Jornada</title></programme>
+	<programme start="20221229000000 +0000" stop="20221229010000 +0000" channel="SportTVPlus.pt"><title lang="pt">Últimas Notícias (Direto)</title></programme>
+
+
+Canal 11
+	<programme start="20221228200000 +0000" stop="20221228211500 +0000" channel="Canal11.pt"><title lang="pt">11 Na Hora</title></programme>
+	<programme start="20221228211500 +0000" stop="20221228224500 +0000" channel="Canal11.pt"><title lang="pt">Futsal Fem.: AF Santarem x AF Castelo Branco</title></programme>
+	<programme start="20221228224500 +0000" stop="20221228230000 +0000" channel="Canal11.pt"><title lang="pt">Liga 3 - Serie B</title></programme>
+	<programme start="20221228230000 +0000" stop="20221229010000 +0000" channel="Canal11.pt"><title lang="pt">Futebol Total</title></programme>
+	
+A BOLA TV
+	<programme start="20221228195500 +0000" stop="20221228203000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Das 8</title></programme>
+	<programme start="20221228203000 +0000" stop="20221228210000 +0000" channel="ABolaTV.pt"><title lang="pt">Deixa Rolar</title></programme>
+	<programme start="20221228210000 +0000" stop="20221228213000 +0000" channel="ABolaTV.pt"><title lang="pt">Revista De Imprensa Internacional</title></programme>
+	<programme start="20221228213000 +0000" stop="20221228220000 +0000" channel="ABolaTV.pt"><title lang="pt">Isto E Futebol</title></programme>
+	<programme start="20221228220000 +0000" stop="20221229001500 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Da Noite</title></programme>
+
+CANAL Q
+	<programme start="20221228214200 +0000" stop="20221228222600 +0000" channel="CanalQ.pt"><title lang="pt">Quem Desdenha</title></programme>
+	<programme start="20221228222600 +0000" stop="20221228224900 +0000" channel="CanalQ.pt"><title lang="pt">Herois Do Mic</title></programme>
+	<programme start="20221228224900 +0000" stop="20221228232300 +0000" channel="CanalQ.pt"><title lang="pt">Quem Desdenha</title></programme>
+	<programme start="20221228232300 +0000" stop="20221229000000 +0000" channel="CanalQ.pt"><title lang="pt">Querem Drama?</title></programme>
+	<programme start="20221229000000 +0000" stop="20221229001300 +0000" channel="CanalQ.pt"><title lang="pt">Car Online</title></programme>	
+ 
+</tv>
