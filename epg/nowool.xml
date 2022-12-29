@@ -228,5 +228,199 @@ RTP 1
 	<programme start="20230101150500 +0000" stop="20230101195900 +0000" channel="RTP1.pt"><title lang="pt">Aqui Portugal</title> </programme>
 	<programme start="20230101195900 +0000" stop="20230101212300 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
 	<programme start="20230101212300 +0000" stop="20221226000000 +0000" channel="RTP1.pt"><title lang="pt">The Voice Portugal</title></programme>
+
+
+RTP 2  
+	<programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTP2.pt"><title lang="pt">RTP 2</title></programme>
+	<programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTP2.pt"><title lang="pt">RTP 2</title></programme>
+	<programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTP2.pt"><title lang="pt">RTP 2</title></programme> 
+	<programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTP2.pt"><title lang="pt">RTP 2</title></programme>
+	<programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTP2.pt"><title lang="pt">RTP 2</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTP2.pt"><title lang="pt">RTP 2</title></programme>
+	<programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTP2.pt"><title lang="pt">RTP 2</title></programme>
+	
+	
+SIC
+<!-- Segunda-Feira -->
+	<programme start="20221226010000 +0000" stop="20221226024500 +0000" channel="SIC.pt">
+		<title lang="pt">Quem Quer Namorar Com O Agricultor?</title>
+	</programme>
+	<programme start="20221226024500 +0000" stop="20221226042000 +0000" channel="SIC.pt">
+		<title lang="pt">Cinema em Casa</title>
+	</programme>
+	<programme start="20221226042000 +0000" stop="20221226053500 +0000" channel="SIC.pt">
+		<title lang="pt">Televendas</title>
+	</programme>
+	<programme start="20221226053500 +0000" stop="20221226060000 +0000" channel="SIC.pt">
+		<title lang="pt">Camilo, O Presidente</title>
+	</programme>
+	<programme start="20221226060000 +0000" stop="20221226082500 +0000" channel="SIC.pt">
+		<title lang="pt">Manhã SIC Notícias</title>
+	</programme>
+	<programme start="20221226082500 +0000" stop="20221226101000 +0000" channel="SIC.pt">
+		<title lang="pt">Alô Portugal</title>
+	</programme>
+	<programme start="20221226101000 +0000" stop="20221226130000 +0000" channel="SIC.pt">
+		<title lang="pt">Casa Feliz</title>
+	</programme>
+	<programme start="20221226130000 +0000" stop="20221226145000 +0000" channel="SIC.pt">
+		<title lang="pt">Primeiro Jornal</title>
+	</programme>
+	<programme start="20221226145000 +0000" stop="20221226161000 +0000" channel="SIC.pt">
+		<title lang="pt">Linha Aberta</title>
+	</programme>
+	<programme start="20221226161000 +0000" stop="20221226181500 +0000" channel="SIC.pt">
+		<title lang="pt">Júlia</title>
+	</programme>
+	<programme start="20221226181500 +0000" stop="20221226184000 +0000" channel="SIC.pt">
+		<title lang="pt">Fina Estampa</title>
+	</programme>
+	<programme start="20221226184000 +0000" stop="20221226191500 +0000" channel="SIC.pt">
+		<title lang="pt">Amor Eterno Amor</title>
+	</programme>
+	<programme start="20221226191500 +0000" stop="20221226195800 +0000" channel="SIC.pt">
+		<title lang="pt">Quem Quer Namorar Com O Agricultor?</title>
+	</programme>
+	<programme start="20221226195800 +0000" stop="20221226215500 +0000" channel="SIC.pt">
+		<title lang="pt">Jornal Da Noite</title>
+	</programme>
+	<programme start="20221226215500 +0000" stop="20221226232000 +0000" channel="SIC.pt">
+		<title lang="pt">Sangue Oculto</title>
+	</programme>
+	<programme start="20221226232000 +0000" stop="20221227000500 +0000" channel="SIC.pt">
+		<title lang="pt">Por Ti</title>
+	</programme>
+	<programme start="20221227000500 +0000" stop="20221227002500 +0000" channel="SIC.pt">
+		<title lang="pt">Um Lugar Ao Sol</title>
+	</programme>
+	<programme start="20221227002500 +0000" stop="20221227010500 +0000" channel="SIC.pt">
+		<title lang="pt">Pantanal</title>
+	</programme>
+
+<!-- Terca-Feira -->
+	<programme start="20221227010500 +0000" stop="20221227030000 +0000" channel="SIC.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+	<programme start="20221227030000 +0000" stop="20221227032500 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221227032500 +0000" stop="20221227042000 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221227042000 +0000" stop="20221227053500 +0000" channel="SIC.pt"><title lang="pt">Televendas</title></programme>
+	<programme start="20221227053500 +0000" stop="20221227060000 +0000" channel="SIC.pt"><title lang="pt">Camilo, O Presidente</title></programme>
+	<programme start="20221227060000 +0000" stop="20221227082500 +0000" channel="SIC.pt"><title lang="pt">Manhã SIC Notícias</title></programme>
+	<programme start="20221227082500 +0000" stop="20221227101000 +0000" channel="SIC.pt"><title lang="pt">Alô Portugal</title></programme>
+	<programme start="20221227101000 +0000" stop="20221227130000 +0000" channel="SIC.pt"><title lang="pt">Casa Feliz</title></programme>
+	<programme start="20221227130000 +0000" stop="20221227145000 +0000" channel="SIC.pt"><title lang="pt">Primeiro Jornal</title></programme>
+	<programme start="20221227145000 +0000" stop="20221227161000 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221227161000 +0000" stop="20221227181500 +0000" channel="SIC.pt"><title lang="pt">Júlia</title></programme>
+	<programme start="20221227181500 +0000" stop="20221227184000 +0000" channel="SIC.pt"><title lang="pt">Fina Estampa</title></programme>
+	<programme start="20221227184000 +0000" stop="20221227191500 +0000" channel="SIC.pt"><title lang="pt">Amor Eterno Amor</title> </programme>
+	<programme start="20221227191500 +0000" stop="20221227195800 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221227195800 +0000" stop="20221227215500 +0000" channel="SIC.pt"><title lang="pt">Jornal Da Noite</title></programme>
+	<programme start="20221227215500 +0000" stop="20221227224500 +0000" channel="SIC.pt"><title lang="pt">Sangue Oculto</title></programme>
+	<programme start="20221227224500 +0000" stop="20221227232000 +0000" channel="SIC.pt"><title lang="pt">Lua De Mel</title></programme>
+	<programme start="20221227232000 +0000" stop="20221228000500 +0000" channel="SIC.pt"><title lang="pt">Por Ti</title></programme>
+	<programme start="20221228000500 +0000" stop="20221228002500 +0000" channel="SIC.pt"><title lang="pt">Um Lugar Ao Sol</title></programme>
+	<programme start="20221228002500 +0000" stop="20221228010500 +0000" channel="SIC.pt"><title lang="pt">Pantanal</title></programme>
+
+<!-- Quarta-Feira -->
+	<programme start="20221228010500 +0000" stop="20221228030000 +0000" channel="SIC.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+	<programme start="20221228030000 +0000" stop="20221228032500 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221228032500 +0000" stop="20221228042000 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221228042000 +0000" stop="20221228053500 +0000" channel="SIC.pt"><title lang="pt">Televendas</title></programme>
+	<programme start="20221228053500 +0000" stop="20221228060000 +0000" channel="SIC.pt"><title lang="pt">Camilo, O Presidente</title></programme>
+	<programme start="20221228060000 +0000" stop="20221228082500 +0000" channel="SIC.pt"><title lang="pt">Manhã SIC Notícias</title></programme>
+	<programme start="20221228082500 +0000" stop="20221228101000 +0000" channel="SIC.pt"><title lang="pt">Alô Portugal</title></programme>
+	<programme start="20221228101000 +0000" stop="20221228130000 +0000" channel="SIC.pt"><title lang="pt">Casa Feliz</title></programme>
+	<programme start="20221228130000 +0000" stop="20221228145000 +0000" channel="SIC.pt"><title lang="pt">Primeiro Jornal</title></programme>
+	<programme start="20221228145000 +0000" stop="20221228161000 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221228161000 +0000" stop="20221228181500 +0000" channel="SIC.pt"><title lang="pt">Júlia</title></programme>
+	<programme start="20221228181500 +0000" stop="20221228184000 +0000" channel="SIC.pt"><title lang="pt">Fina Estampa</title></programme>
+	<programme start="20221228184000 +0000" stop="20221228191500 +0000" channel="SIC.pt"><title lang="pt">Amor Eterno Amor</title> </programme>
+	<programme start="20221228191500 +0000" stop="20221228195800 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221228195800 +0000" stop="20221228222500 +0000" channel="SIC.pt"><title lang="pt">Jornal Da Noite</title></programme>
+	<programme start="20221228222500 +0000" stop="20221228224500 +0000" channel="SIC.pt"><title lang="pt">Sangue Oculto</title></programme>
+	<programme start="20221228224500 +0000" stop="20221228232000 +0000" channel="SIC.pt"><title lang="pt">Lua De Mel</title></programme>
+	<programme start="20221228232000 +0000" stop="20221229000500 +0000" channel="SIC.pt"><title lang="pt">Por Ti</title></programme>
+	<programme start="20221229000500 +0000" stop="20221229002500 +0000" channel="SIC.pt"><title lang="pt">Um Lugar Ao Sol</title></programme>
+	<programme start="20221229002500 +0000" stop="20221229010500 +0000" channel="SIC.pt"><title lang="pt">Pantanal</title></programme>
+
+<!-- Quinta-Feira -->
+	<programme start="20221229010500 +0000" stop="20221229030000 +0000" channel="SIC.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+	<programme start="20221229030000 +0000" stop="20221229032500 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221229032500 +0000" stop="20221229042000 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221229042000 +0000" stop="20221229053500 +0000" channel="SIC.pt"><title lang="pt">Televendas</title></programme>
+	<programme start="20221229053500 +0000" stop="20221229060000 +0000" channel="SIC.pt"><title lang="pt">Camilo, O Presidente</title></programme>
+	<programme start="20221229060000 +0000" stop="20221229082500 +0000" channel="SIC.pt"><title lang="pt">Manhã SIC Notícias</title></programme>
+	<programme start="20221229082500 +0000" stop="20221229101000 +0000" channel="SIC.pt"><title lang="pt">Alô Portugal</title></programme>
+	<programme start="20221229101000 +0000" stop="20221229125900 +0000" channel="SIC.pt"><title lang="pt">Casa Feliz</title></programme>
+	<programme start="20221229125900 +0000" stop="20221229145000 +0000" channel="SIC.pt"><title lang="pt">Primeiro Jornal</title></programme>
+	<programme start="20221229145000 +0000" stop="20221229161000 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221229161000 +0000" stop="20221229181500 +0000" channel="SIC.pt"><title lang="pt">Júlia</title></programme>
+	<programme start="20221229181500 +0000" stop="20221229184000 +0000" channel="SIC.pt"><title lang="pt">Fina Estampa</title></programme>
+	<programme start="20221229184000 +0000" stop="20221229191500 +0000" channel="SIC.pt"><title lang="pt">Amor Eterno Amor</title> </programme>
+	<programme start="20221229191500 +0000" stop="20221229195800 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221229195800 +0000" stop="20221229215500 +0000" channel="SIC.pt"><title lang="pt">Jornal Da Noite</title></programme>
+	<programme start="20221229215500 +0000" stop="20221229224500 +0000" channel="SIC.pt"><title lang="pt">Sangue Oculto</title></programme>
+	<programme start="20221229224500 +0000" stop="20221229232000 +0000" channel="SIC.pt"><title lang="pt">Lua De Mel</title></programme>
+	<programme start="20221229232000 +0000" stop="20221230000500 +0000" channel="SIC.pt"><title lang="pt">Por Ti</title></programme>
+	<programme start="20221230000500 +0000" stop="20221230002500 +0000" channel="SIC.pt"><title lang="pt">Um Lugar Ao Sol</title></programme>
+	<programme start="20221230002500 +0000" stop="20221230010500 +0000" channel="SIC.pt"><title lang="pt">Pantanal</title></programme>
+
+<!-- Sexta-Feira -->
+	<programme start="20221230010500 +0000" stop="20221230030000 +0000" channel="SIC.pt"><title lang="pt">Passadeira Vermelha</title></programme>
+	<programme start="20221230030000 +0000" stop="20221230032500 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221230032500 +0000" stop="20221230042000 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221230042000 +0000" stop="20221230053500 +0000" channel="SIC.pt"><title lang="pt">Televendas</title></programme>
+	<programme start="20221230053500 +0000" stop="20221230060000 +0000" channel="SIC.pt"><title lang="pt">Camilo, O Presidente</title></programme>
+	<programme start="20221230060000 +0000" stop="20221230082500 +0000" channel="SIC.pt"><title lang="pt">Manhã SIC Notícias</title></programme>
+	<programme start="20221230082500 +0000" stop="20221230101000 +0000" channel="SIC.pt"><title lang="pt">Alô Portugal</title></programme>
+	<programme start="20221230101000 +0000" stop="20221230130000 +0000" channel="SIC.pt"><title lang="pt">Casa Feliz</title></programme>
+	<programme start="20221230130000 +0000" stop="20221230145000 +0000" channel="SIC.pt"><title lang="pt">Primeiro Jornal</title></programme>
+	<programme start="20221230145000 +0000" stop="20221230161000 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221230161000 +0000" stop="20221230181500 +0000" channel="SIC.pt"><title lang="pt">Júlia</title></programme>
+	<programme start="20221230181500 +0000" stop="20221230184000 +0000" channel="SIC.pt"><title lang="pt">Fina Estampa</title></programme>
+	<programme start="20221230184000 +0000" stop="20221230191500 +0000" channel="SIC.pt"><title lang="pt">Amor Eterno Amor</title> </programme>
+	<programme start="20221230191500 +0000" stop="20221230195800 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221230195800 +0000" stop="20221230215500 +0000" channel="SIC.pt"><title lang="pt">Jornal Da Noite</title></programme>
+	<programme start="20221230215500 +0000" stop="20221230224500 +0000" channel="SIC.pt"><title lang="pt">Sangue Oculto</title></programme>
+	<programme start="20221230224500 +0000" stop="20221230232000 +0000" channel="SIC.pt"><title lang="pt">Lua De Mel</title></programme>
+	<programme start="20221230232000 +0000" stop="20221231000500 +0000" channel="SIC.pt"><title lang="pt">Por Ti</title></programme>
+	<programme start="20221231000500 +0000" stop="20221231002500 +0000" channel="SIC.pt"><title lang="pt">Um Lugar Ao Sol</title></programme>
+	<programme start="20221231002500 +0000" stop="20221231010500 +0000" channel="SIC.pt"><title lang="pt">Pantanal</title></programme>
+
+<!-- Sábado -->
+	<programme start="20221231010000 +0000" stop="20221231033000 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+	<programme start="20221231033000 +0000" stop="20221231041500 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221231041500 +0000" stop="20221231053000 +0000" channel="SIC.pt"><title lang="pt">Televendas</title></programme>
+	<programme start="20221231053000 +0000" stop="20221231060000 +0000" channel="SIC.pt"><title lang="pt">Camilo, O Presidente</title></programme>
+	<programme start="20221231060000 +0000" stop="20221231064500 +0000" channel="SIC.pt"><title lang="pt">Etnias</title></programme>
+	<programme start="20221231064500 +0000" stop="20221231071500 +0000" channel="SIC.pt"><title lang="pt">As Aventuras Do Max Dinoterra</title></programme>
+	<programme start="20221231071500 +0000" stop="20221231080000 +0000" channel="SIC.pt"><title lang="pt">Uma Aventura</title></programme>
+	<programme start="20221231080000 +0000" stop="20221231090000 +0000" channel="SIC.pt"><title lang="pt">Médico Da Casa</title></programme>
+	<programme start="20221231090000 +0000" stop="20221231120000 +0000" channel="SIC.pt"><title lang="pt">Alô Marco Paulo</title></programme>
+	<programme start="20221231120000 +0000" stop="20221231130000 +0000" channel="SIC.pt"><title lang="pt">Nosso Mundo</title></programme>
+	<programme start="20221231130000 +0000" stop="20221231141500 +0000" channel="SIC.pt"><title lang="pt">Primeiro Jornal</title></programme>
+	<programme start="20221231141500 +0000" stop="20221231150000 +0000" channel="SIC.pt"><title lang="pt">Alta Definição</title></programme>
+	<programme start="20221231150000 +0000" stop="20221231160000 +0000" channel="SIC.pt"><title lang="pt">E-Especial</title></programme>
+	<programme start="20221231160000 +0000" stop="20221231170000 +0000" channel="SIC.pt"><title lang="pt">Patrões Fora</title></programme>
+	<programme start="20221231170000 +0000" stop="20221231194500 +0000" channel="SIC.pt"><title lang="pt">Caixa Mágica</title></programme>
+	<programme start="20221231194500 +0000" stop="20221231200000 +0000" channel="SIC.pt"><title lang="pt">É Bom Vivermos Juntos!</title></programme>
+	<programme start="20221231200000 +0000" stop="20221231214500 +0000" channel="SIC.pt"><title lang="pt">Jornal Da Noite</title></programme>
+	<programme start="20221231214500 +0000" stop="20221231231500 +0000" channel="SIC.pt"><title lang="pt">Terra Nossa</title></programme>
+	<programme start="20221231231500 +0000" stop="20221231233000 +0000" channel="SIC.pt"><title lang="pt">Volto Já</title></programme>
+	<programme start="20221231233000 +0000" stop="20230101023000 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
+
+<!-- Domingo -->
+	<programme start="20230101023000 +0000" stop="20230101041500 +0000" channel="SIC.pt"><title lang="pt">Cinema em Casa</title></programme>
+	<programme start="20230101041500 +0000" stop="20230101053000 +0000" channel="SIC.pt"><title lang="pt">Televendas</title></programme>
+	<programme start="20230101053000 +0000" stop="20230101063000 +0000" channel="SIC.pt"><title lang="pt">Camilo, O Presidente</title></programme>
+	<programme start="20230101063000 +0000" stop="20230101070000 +0000" channel="SIC.pt"><title lang="pt">As Aventuras Do Max Dinoterra</title></programme>
+	<programme start="20230101070000 +0000" stop="20230101080000 +0000" channel="SIC.pt"><title lang="pt">Isto É Matemática</title></programme>
+	<programme start="20230101080000 +0000" stop="20230101090000 +0000" channel="SIC.pt"><title lang="pt">Uma Aventura</title></programme>
+	<programme start="20230101090000 +0000" stop="20230101120000 +0000" channel="SIC.pt"><title lang="pt">Olhá SIC!</title></programme>
+	<programme start="20230101120000 +0000" stop="20230101130000 +0000" channel="SIC.pt"><title lang="pt">Vida Selvagem</title></programme>
+	<programme start="20230101130000 +0000" stop="20230101141500 +0000" channel="SIC.pt"><title lang="pt">Primeiro Jornal</title></programme>
+	<programme start="20230101141500 +0000" stop="20230101150000 +0000" channel="SIC.pt"><title lang="pt">Fama Show</title></programme>
+	<programme start="20230101150000 +0000" stop="20230101200000 +0000" channel="SIC.pt"><title lang="pt">Domingão</title></programme>
+	<programme start="20230101200000 +0000" stop="20230101213000 +0000" channel="SIC.pt"><title lang="pt">Jornal Da Noite</title></programme>
+	<programme start="20230101213000 +0000" stop="20230101221500 +0000" channel="SIC.pt"><title lang="pt">Isto É Gozar Com Quem Trabalha</title></programme>
+	<programme start="20221226221500 +0000" stop="20221226010000 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>	
  
 </tv>
