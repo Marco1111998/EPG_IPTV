@@ -3,32 +3,193 @@
 <tv>	
 
 
-SPORT TV +
-	<programme start="20221228200000 +0000" stop="20221228202500 +0000" channel="SportTVPlus.pt"><title lang="pt">Antevisao: FC Porto x Arouca</title></programme>
-	<programme start="20221228202500 +0000" stop="20221228203000 +0000" channel="SportTVPlus.pt"><title lang="pt">Voz Do Adepto</title></programme>
-	<programme start="20221228203000 +0000" stop="20221228211000 +0000" channel="SportTVPlus.pt"><title lang="pt">Antevisao: FC Porto x Arouca</title></programme>
-	<programme start="20221228211000 +0000" stop="20221229000000 +0000" channel="SportTVPlus.pt"><title lang="pt">Grande Jornada</title></programme>
-	<programme start="20221229000000 +0000" stop="20221229010000 +0000" channel="SportTVPlus.pt"><title lang="pt">Últimas Notícias (Direto)</title></programme>
-
-
-Canal 11
-	<programme start="20221228200000 +0000" stop="20221228211500 +0000" channel="Canal11.pt"><title lang="pt">11 Na Hora</title></programme>
-	<programme start="20221228211500 +0000" stop="20221228224500 +0000" channel="Canal11.pt"><title lang="pt">Futsal Fem.: AF Santarem x AF Castelo Branco</title></programme>
-	<programme start="20221228224500 +0000" stop="20221228230000 +0000" channel="Canal11.pt"><title lang="pt">Liga 3 - Serie B</title></programme>
-	<programme start="20221228230000 +0000" stop="20221229010000 +0000" channel="Canal11.pt"><title lang="pt">Futebol Total</title></programme>
-	
-A BOLA TV
-	<programme start="20221228195500 +0000" stop="20221228203000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Das 8</title></programme>
-	<programme start="20221228203000 +0000" stop="20221228210000 +0000" channel="ABolaTV.pt"><title lang="pt">Deixa Rolar</title></programme>
-	<programme start="20221228210000 +0000" stop="20221228213000 +0000" channel="ABolaTV.pt"><title lang="pt">Revista De Imprensa Internacional</title></programme>
-	<programme start="20221228213000 +0000" stop="20221228220000 +0000" channel="ABolaTV.pt"><title lang="pt">Isto E Futebol</title></programme>
-	<programme start="20221228220000 +0000" stop="20221229001500 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Da Noite</title></programme>
-
-CANAL Q
-	<programme start="20221228214200 +0000" stop="20221228222600 +0000" channel="CanalQ.pt"><title lang="pt">Quem Desdenha</title></programme>
-	<programme start="20221228222600 +0000" stop="20221228224900 +0000" channel="CanalQ.pt"><title lang="pt">Herois Do Mic</title></programme>
-	<programme start="20221228224900 +0000" stop="20221228232300 +0000" channel="CanalQ.pt"><title lang="pt">Quem Desdenha</title></programme>
-	<programme start="20221228232300 +0000" stop="20221229000000 +0000" channel="CanalQ.pt"><title lang="pt">Querem Drama?</title></programme>
-	<programme start="20221229000000 +0000" stop="20221229001300 +0000" channel="CanalQ.pt"><title lang="pt">Car Online</title></programme>	
+	<programme start="20221229001500 +0000" stop="20221229004500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221229004500 +0000" stop="20221229011500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221229011500 +0000" stop="20221229014500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221229014500 +0000" stop="20221229015000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221229015000 +0000" stop="20221229040500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221229040500 +0000" stop="20221229043500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221229043500 +0000" stop="20221229050000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Madjer</title>
+	</programme>
+	<programme start="20221229050000 +0000" stop="20221229053000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Diamantes Na Areia</title>
+	</programme>
+	<programme start="20221229053000 +0000" stop="20221229060000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221229060000 +0000" stop="20221229062500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Against All Odds</title>
+	</programme>
+	<programme start="20221229062500 +0000" stop="20221229070000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine TT</title>
+	</programme>
+	<programme start="20221229070000 +0000" stop="20221229073000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221229073000 +0000" stop="20221229080000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Isto E Futebol</title>
+	</programme>
+	<programme start="20221229080000 +0000" stop="20221229083000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221229083000 +0000" stop="20221229090000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221229090000 +0000" stop="20221229091500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Fairplay</title>
+	</programme>
+	<programme start="20221229091500 +0000" stop="20221229093000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Custom Series</title>
+	</programme>
+	<programme start="20221229093000 +0000" stop="20221229100000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Desporto Motorizado</title>
+	</programme>
+	<programme start="20221229100000 +0000" stop="20221229103000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20221229103000 +0000" stop="20221229110000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">World Sailing Cup</title>
+	</programme>
+	<programme start="20221229110000 +0000" stop="20221229113000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221229113000 +0000" stop="20221229120000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Playbola</title>
+	</programme>
+	<programme start="20221229120000 +0000" stop="20221229123000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20221229123000 +0000" stop="20221229130000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Deixa Rolar: Mónica Sofia</title>
+	</programme>
+	<programme start="20221229130000 +0000" stop="20221229133000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20221229133000 +0000" stop="20221229140000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Ride</title>
+	</programme>
+	<programme start="20221229140000 +0000" stop="20221229143000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20221229143000 +0000" stop="20221229164500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221229164500 +0000" stop="20221229170000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine FMP</title>
+	</programme>
+	<programme start="20221229170000 +0000" stop="20221229173000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20221229173000 +0000" stop="20221229180000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20221229180000 +0000" stop="20221229183000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221229183000 +0000" stop="20221229190000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Entrevista: Kika Nazareth</title>
+	</programme>
+	<programme start="20221229190000 +0000" stop="20221229195500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20221229195500 +0000" stop="20221229203000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 8</title>
+	</programme>
+	<programme start="20221229203000 +0000" stop="20221229210000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Madjer</title>
+	</programme>
+	<programme start="20221229210000 +0000" stop="20221229213000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20221229213000 +0000" stop="20221229220000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221229220000 +0000" stop="20221230001500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221230001500 +0000" stop="20221230004500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Entrevista: Kika Nazareth</title>
+	</programme>
+	<programme start="20221230004500 +0000" stop="20221230011500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221230011500 +0000" stop="20221230014500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221230014500 +0000" stop="20221230015000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221230015000 +0000" stop="20221230040500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Quinta Da Bola</title>
+	</programme>
+	<programme start="20221230040500 +0000" stop="20221230043500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221230043500 +0000" stop="20221230050500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20221230050500 +0000" stop="20221230055000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Poquer - Aposta Mundial</title>
+	</programme>
+	<programme start="20221230055000 +0000" stop="20221230055500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221230055500 +0000" stop="20221230062500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Madjer</title>
+	</programme>
+	<programme start="20221230062500 +0000" stop="20221230065500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Ride</title>
+	</programme>
+	<programme start="20221230065500 +0000" stop="20221230070000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221230070000 +0000" stop="20221230073000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221230073000 +0000" stop="20221230080000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Ultra-Trail Circuito Mundial</title>
+	</programme>
+	<programme start="20221230080000 +0000" stop="20221230083000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221230083000 +0000" stop="20221230090000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine TT</title></programme>
+	<programme start="20221230090000 +0000" stop="20221230091500 +0000" channel="ABolaTV.pt"><title lang="pt">Magazine Aventura</title></programme>
+	<programme start="20221230091500 +0000" stop="20221230093000 +0000" channel="ABolaTV.pt"><title lang="pt">Urban Being</title></programme>
+	<programme start="20221230093000 +0000" stop="20221230100000 +0000" channel="ABolaTV.pt"><title lang="pt">A Grelha</title></programme>
+	<programme start="20221230100000 +0000" stop="20221230103000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Das 10</title></programme>
+	<programme start="20221230103000 +0000" stop="20221230110000 +0000" channel="ABolaTV.pt"><title lang="pt">Playbola</title></programme>
+	<programme start="20221230110000 +0000" stop="20221230113000 +0000" channel="ABolaTV.pt"><title lang="pt">Against All Odds</title></programme>
+	<programme start="20221230113000 +0000" stop="20221230120000 +0000" channel="ABolaTV.pt"><title lang="pt">Mundial Timbersports</title></programme>
+	<programme start="20221230120000 +0000" stop="20221230123000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Do Meio Dia</title></programme>
+	<programme start="20221230123000 +0000" stop="20221230130000 +0000" channel="ABolaTV.pt"><title lang="pt">Isto E Futebol</title></programme>
+	<programme start="20221230130000 +0000" stop="20221230133000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Da Uma</title></programme>
+	<programme start="20221230133000 +0000" stop="20221230140000 +0000" channel="ABolaTV.pt"><title lang="pt">Motores</title></programme>
+	<programme start="20221230140000 +0000" stop="20221230143000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Das 2</title></programme>
+	<programme start="20221230143000 +0000" stop="20221230150000 +0000" channel="ABolaTV.pt"><title lang="pt">Lendas Dos Mundiais</title></programme>
+	<programme start="20221230150000 +0000" stop="20221230164500 +0000" channel="ABolaTV.pt"><title lang="pt">Basquetebol: Sporting x Povoa</title></programme>
+	<programme start="20221230164500 +0000" stop="20221230165000 +0000" channel="ABolaTV.pt"><title lang="pt">Off</title></programme>
+	<programme start="20221230165000 +0000" stop="20221230170000 +0000" channel="ABolaTV.pt"><title lang="pt">Roda De Bola</title></programme>
+	<programme start="20221230170000 +0000" stop="20221230173000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Da Tarde</title></programme>
+	<programme start="20221230173000 +0000" stop="20221230180000 +0000" channel="ABolaTV.pt"><title lang="pt">Revista De Imprensa Internacional</title></programme>
+	<programme start="20221230180000 +0000" stop="20221230184500 +0000" channel="ABolaTV.pt"><title lang="pt">Jogo Economico</title></programme>
+	<programme start="20221230184500 +0000" stop="20221230200000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Das 7</title></programme>
+	<programme start="20221230200000 +0000" stop="20221230203000 +0000" channel="ABolaTV.pt"><title lang="pt">Revista De Imprensa Internacional</title></programme>
+	<programme start="20221230203000 +0000" stop="20221230211500 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Das 8</title></programme>
+	<programme start="20221230211500 +0000" stop="20221230231500 +0000" channel="ABolaTV.pt"><title lang="pt">Jogo Ao Minuto: SC Braga x Benfica</title></programme>
+	<programme start="20221230231500 +0000" stop="20221231003000 +0000" channel="ABolaTV.pt"><title lang="pt">A Bola Da Noite</title></programme>
  
 </tv>
