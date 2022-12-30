@@ -301,6 +301,97 @@ RTP 1
 		<title lang="pt">Got Talent Portugal - Melhores Momentos</title>
 	</programme>
 	
+<!-- Sexta-Feira -->
+	<programme start="20221230000000 +0000" stop="20221230015300 +0000" channel="RTP1.pt">
+		<title lang="pt">Grande Entrevista</title>
+	</programme>
+	<programme start="20221230015300 +0000" stop="20221230040800 +0000" channel="RTP1.pt">
+		<title lang="pt">A Nossa Tarde</title>
+		<desc lang="pt">A Nossa Tarde é o seu lugar</desc>
+	</programme>
+	<programme start="20221230040800 +0000" stop="20221230060900 +0000" channel="RTP1.pt">
+		<title lang="pt">Televendas</title>
+		<desc lang="pt">Um mundo de produtos, à distância de um telefone</desc>
+	</programme>
+	<programme start="20221230060900 +0000" stop="20221230063900 +0000" channel="RTP1.pt">
+		<title lang="pt">Manchetes 3</title>
+		<desc lang="pt">As manchetes dos Jornais de referência na RTP</desc>
+	</programme>
+	<programme start="20221230063000 +0000" stop="20221230100000 +0000" channel="RTP1.pt">
+		<title lang="pt">Bom Dia Portugal</title>
+		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+	</programme>
+	<programme start="20221230100000 +0000" stop="20221230125900 +0000" channel="RTP1.pt">
+		<title lang="pt">Praça da Alegria</title>
+		<desc lang="pt">Otimismo, entusiasmo e muita energia nas manhãs de Portugal!</desc>
+	</programme>
+	<programme start="20221230125900 +0000" stop="20221230142500 +0000" channel="RTP1.pt">
+		<title lang="pt">Jornal da Tarde</title>
+		<desc lang="pt">Assim que a tarde começa, nós já temos para si as notícias do dia</desc>
+	</programme>
+	<programme start="20221230142500 +0000" stop="20221230150800 +0000" channel="RTP1.pt">
+		<title lang="pt">Os Nossos Dias</title>
+		<desc lang="pt">É mais do que uma história de vingança. Uma luta constante pela verdade e justiça. Um jogo onde ninguém pode confiar em ninguém</desc>
+	</programme>
+	<programme start="20221230150800 +0000" stop="20221230173000 +0000" channel="RTP1.pt">
+		<title lang="pt">A Nossa Tarde</title>
+		<desc lang="pt">A Nossa Tarde é o seu lugar</desc>
+	</programme>
+	<programme start="20221230173000 +0000" stop="20221230190200 +0000" channel="RTP1.pt">
+		<title lang="pt">Portugal em Direto</title>
+		<desc lang="pt">Dina Aguiar dá-lhe a conhecer tudo o que de mais importante se passa no país</desc>
+	</programme>
+	<programme start="20221230190200 +0000" stop="20221230195900 +0000" channel="RTP1.pt">
+		<title lang="pt">O Preço Certo</title>
+		<desc lang="pt">Especial Mulheres Desportistas</desc>
+	</programme>
+	<programme start="20221230195900 +0000" stop="20221230210100 +0000" channel="RTP1.pt">
+		<title lang="pt">Telejornal</title>
+		<desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00</desc>
+	</programme>
+	<programme start="20221230210100 +0000" stop="20221230220400 +0000" channel="RTP1.pt">
+		<title lang="pt">Porquinho Mealheiro</title>
+		<desc lang="pt">Especial Músicos</desc>
+	</programme>
+	<programme start="20221230220400 +0000" stop="20221230232800 +0000" channel="RTP1.pt">
+		<title lang="pt">Em Casa d´ Amália</title>
+		<desc lang="pt">Programa inspirado nas célebres noites em que Amália Rodrigues recebia em sua casa, poetas, cantores, pintores, músicos, atores para tertúlias infindáveis</desc>
+	</programme>
+	<programme start="20221230232800 +0000" stop="20221231013700 +0000" channel="RTP1.pt">
+		<title lang="pt">Diogo Piçarra na Altice Arena</title>
+		<desc lang="pt">Diogo Piçarra apresentou o álbum "South Side Boy" na Altice Arena</desc>
+	</programme>
+
+<!-- Sábado -->
+	<programme start="20221231013700 +0000" stop="20221231030300 +0000" channel="RTP1.pt">
+		<title lang="pt">Nancy Drew e a Escadaria Secreta</title>
+		<desc lang="pt">Um filme de Katt Shea, com Sophia Lillis, Zoe Renee e Mackenzie Graham</desc>
+	</programme>
+	<programme start="20221231030300 +0000" stop="20221231051500 +0000" channel="RTP1.pt">
+		<title lang="pt">A Nossa Tarde</title>
+		<desc lang="pt">A Nossa Tarde é o seu lugar</desc>
+	</programme>
+	<programme start="20221231051500 +0000" stop="20221231061600 +0000" channel="RTP1.pt">
+		<title lang="pt">Televendas</title>
+		<desc lang="pt">Um mundo de produtos, à distância de um telefone</desc>
+	</programme>
+	<programme start="20221231061600 +0000" stop="20221231063000 +0000" channel="RTP1.pt">
+		<title lang="pt">A Vida Privada dos Livros</title>
+		<desc lang="pt">História de livros com a jornalista Ana Daniela Soares o bibliófilo Alberto Manguel</desc>
+	</programme>
+	<programme start="20221231063000 +0000" stop="20221231080000 +0000" channel="RTP1.pt"><title lang="pt">Zig Zag</title></programme>
+	<programme start="20221231080000 +0000" stop="20221231100000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal - Fim de Semana</title></programme>
+	<programme start="20221231100000 +0000" stop="20221231110000 +0000" channel="RTP1.pt"><title lang="pt">Tubarões Do Norte Gelado</title></programme>
+	<programme start="20221231110000 +0000" stop="20221231125900 +0000" channel="RTP1.pt"><title lang="pt">Aqui Portugal</title></programme>
+	<programme start="20221231125900 +0000" stop="20221231141500 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme> 
+	<programme start="20221231141500 +0000" stop="20221231144500 +0000" channel="RTP1.pt"><title lang="pt">Voz do Cidadão</title></programme>
+	<programme start="20221231144500 +0000" stop="20221231190000 +0000" channel="RTP1.pt"><title lang="pt">Aqui Portugal</title></programme>
+	<programme start="20221231190000 +0000" stop="20221231195900 +0000" channel="RTP1.pt"><title lang="pt">O Preço Certo</title></programme>
+	<programme start="20221231195900 +0000" stop="20221231210000 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
+	<programme start="20221231210000 +0000" stop="20221231220000 +0000" channel="RTP1.pt"><title lang="pt">Viagem a Portugal</title></programme>
+	<programme start="20221231220000 +0000" stop="20221231230000 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
+	<programme start="20221231230000 +0000" stop="20230101000000 +0000" channel="RTP1.pt"><title lang="pt">Desliga a Televisão</title></programme>	
+	
 <!-- Domingo -->
 	<programme start="20230101000000 +0000" stop="20230101020000 +0000" channel="RTP1.pt"><title lang="pt">O Carrasco</title></programme> 
 	<programme start="20230101020000 +0000" stop="20230101024500 +0000" channel="RTP1.pt"><title lang="pt">Janela Indiscreta</title></programme> 
@@ -448,7 +539,6 @@ SIC
 	<programme start="20221229215500 +0000" stop="20221229224500 +0000" channel="SIC.pt"><title lang="pt">Sangue Oculto</title></programme>
 	<programme start="20221229224500 +0000" stop="20221229232000 +0000" channel="SIC.pt">
 		<title lang="pt">Lua De Mel</title>
-		<desc lang="pt">Tecnologia, inovação, empreendedorismo, conhecimento e ciência</desc>
 	</programme>
 	<programme start="20221229232000 +0000" stop="20221230000500 +0000" channel="SIC.pt"><title lang="pt">Por Ti</title></programme>
 	<programme start="20221230000500 +0000" stop="20221230002500 +0000" channel="SIC.pt"><title lang="pt">Um Lugar Ao Sol</title></programme>
@@ -987,6 +1077,279 @@ RTP 3
 	<programme start="20221228223500 +0000" stop="20221228230000 +0000" channel="RTP3.pt"><title lang="pt">Algoritmos</title></programme>
 	<programme start="20221228230000 +0000" stop="20221229000000 +0000" channel="RTP3.pt"><title lang="pt">Grande Área</title></programme>	
 	
+<!-- Quinta-Feira -->
+	<programme start="20221229063000 +0000" stop="20221229083000 +0000" channel="RTP3.pt">
+		<title lang="pt">Bom Dia Portugal</title>
+		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+	</programme>
+	<programme start="20221229083000 +0000" stop="20221229083500 +0000" channel="RTP3.pt">
+		<title lang="pt">Mundo Automóvel</title>
+		<desc lang="pt">Notícias do Mundo Automóvel</desc>
+	</programme>
+	<programme start="20221229083500 +0000" stop="20221229100000 +0000" channel="RTP3.pt">
+		<title lang="pt">Bom Dia Portugal</title>
+		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+	</programme>
+	<programme start="20221229100000 +0000" stop="20221229110000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 10</title>
+		<desc lang="pt">Informação de Portugal e do mundo.</desc>
+	</programme>
+	<programme start="20221229110000 +0000" stop="20221229120000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 11</title>
+		<desc lang="pt">Notícias de Portugal e do mundo.</desc>
+	</programme>
+	<programme start="20221229120000 +0000" stop="20221229130000 +0000" channel="RTP3.pt">
+		<title lang="pt">Jornal das 12</title>
+		<desc lang="pt">Ao meio-dia as notícias de Portugal e do mundo.</desc>
+	</programme>
+	<programme start="20221229130000 +0000" stop="20221229140000 +0000" channel="RTP3.pt">
+		<title lang="pt">Os Segredos dos Chefs: A Ciência da Culinária</title>
+		<desc lang="pt">Especialistas em culinária explicam o porquê da ciência ser o ingrediente secreto para se tornar um melhor cozinheiro</desc>
+	</programme>
+	<programme start="20221229140000 +0000" stop="20221229150000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 14</title>
+		<desc lang="pt">Informação de Portugal e do mundo</desc>
+	</programme>
+	<programme start="20221229150000 +0000" stop="20221229152000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 15</title>
+		<desc lang="pt">Informação de Portugal e do mundo.</desc>
+	</programme>
+	<programme start="20221229152000 +0000" stop="20221229154000 +0000" channel="RTP3.pt">
+		<title lang="pt">Eixo Norte Sul</title>
+		<desc lang="pt">A informação regional de norte a sul</desc>
+	</programme>
+	<programme start="20221229154000 +0000" stop="20221229160000 +0000" channel="RTP3.pt">
+		<title lang="pt">Zoom África</title>
+		<desc lang="pt">Ligados a África... um continente em constante mudança</desc>
+	</programme>
+	<programme start="20221229160000 +0000" stop="20221229170000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 16</title>
+		<desc lang="pt">A Informação durante a tarde.</desc>
+	</programme>
+	<programme start="20221229170000 +0000" stop="20221229174000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 17</title>
+		<desc lang="pt">Notícias de Portugal e do mundo</desc>
+	</programme>
+	<programme start="20221229174000 +0000" stop="20221229180000 +0000" channel="RTP3.pt">
+		<title lang="pt">As Horas Extraordinárias</title>
+		<desc lang="pt">Magazine cultural da RTP 3</desc>
+	</programme>
+	<programme start="20221229180000 +0000" stop="20221229200000 +0000" channel="RTP3.pt">
+		<title lang="pt">18/20</title>
+		<desc lang="pt">Duas horas de Informação ao fim da tarde.</desc>
+	</programme>
+	<programme start="20221229200000 +0000" stop="20221229210000 +0000" channel="RTP3.pt">
+		<title lang="pt">Apocalipse na Moda</title>
+		<desc lang="pt">Marcas e criadores estão agora sujeitos a um escrutínio público cada vez mais apurado. Como irá a indústria da moda enfrentar esses desafios e responder a esse novo paradigma?</desc>
+	</programme>
+	<programme start="20221229210000 +0000" stop="20221229223000 +0000" channel="RTP3.pt">
+		<title lang="pt">360º</title>
+		<desc lang="pt">Os vários ângulos das notícias</desc>
+	</programme>
+	<programme start="20221229223000 +0000" stop="20221229230000 +0000" channel="RTP3.pt">
+		<title lang="pt">Portugal Impacto</title>
+		<desc lang="pt">Portugal Impacto é um programa de histórias. Portugal está na linha da frente na área de impacto social. É um dos países mais avançados do mundo na dinamização de um mercado de financiamento para projetos de empreendedorismo e de inovação social.</desc>
+	</programme>
+	<programme start="20221229230000 +0000" stop="20221230000000 +0000" channel="RTP3.pt">
+		<title lang="pt">Grande Área</title>
+		<desc lang="pt">Programa de análise da jornada futebolística nas suas diferentes vertentes</desc>
+	</programme>
+
+<!-- Sexta-Feira -->
+	<programme start="20221230000000 +0000" stop="20221230010000 +0000" channel="RTP3.pt">
+		<title lang="pt">24 Horas</title>
+		<desc lang="pt">Jornal diário da RTP3, transmitido a partir dos Estúdios do Porto da RTP</desc>
+	</programme>
+	<programme start="20221230010000 +0000" stop="20221230013000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 à 1</title>
+		<desc lang="pt">Informação de Portugal e do mundo</desc>
+	</programme>
+	<programme start="20221230013000 +0000" stop="20221230014500 +0000" channel="RTP3.pt">
+		<title lang="pt">As Horas Extraordinárias</title>
+		<desc lang="pt">Magazine cultural da RTP 3</desc>
+	</programme>
+	<programme start="20221230014500 +0000" stop="20221230024000 +0000" channel="RTP3.pt">
+		<title lang="pt">Grande Área</title>
+		<desc lang="pt">Programa de análise da jornada futebolística nas suas diferentes vertentes</desc>
+	</programme>
+	<programme start="20221230024000 +0000" stop="20221230031000 +0000" channel="RTP3.pt">
+		<title lang="pt">Portugal Impacto</title>
+		<desc lang="pt">Portugal Impacto é um programa de histórias. Portugal está na linha da frente na área de impacto social. É um dos países mais avançados do mundo na dinamização de um mercado de financiamento para projetos de empreendedorismo e de inovação social.</desc>
+	</programme>
+	<programme start="20221230031000 +0000" stop="20221230035000 +0000" channel="RTP3.pt">
+		<title lang="pt">Janela Indiscreta</title>
+		<desc lang="pt">O seu programa de cinema com Mário Augusto!</desc>
+	</programme>
+	<programme start="20221230035000 +0000" stop="20221230041000 +0000" channel="RTP3.pt">
+		<title lang="pt">Eixo Norte Sul</title>
+		<desc lang="pt">A informação regional de norte a sul</desc>
+	</programme>
+	<programme start="20221230041000 +0000" stop="20221230043000 +0000" channel="RTP3.pt">
+		<title lang="pt">Manchetes 3</title>
+		<desc lang="pt">As manchetes dos Jornais de referência na RTP</desc>
+	</programme>
+	<programme start="20221230043000 +0000" stop="20221230050000 +0000" channel="RTP3.pt">
+		<title lang="pt">Repórter África - 2ª Edição</title>
+		<desc lang="pt">A atualidade africana e da diáspora</desc>
+	</programme>
+	<programme start="20221230050000 +0000" stop="20221230053000 +0000" channel="RTP3.pt">
+		<title lang="pt">Telejornal Madeira</title>
+		<desc lang="pt">Informação de proximidade. De confiança!</desc>
+	</programme>
+	<programme start="20221230053000 +0000" stop="20221230060000 +0000" channel="RTP3.pt">
+		<title lang="pt">Telejornal Açores</title>
+		<desc lang="pt">De segunda a domingo toda a informação que marca a atulidade.</desc>
+	</programme>
+	<programme start="20221230060000 +0000" stop="20221230061000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 6</title>
+		<desc lang="pt">Informação de Portugal e do mundo</desc>
+	</programme>
+	<programme start="20221230061000 +0000" stop="20221230064000 +0000" channel="RTP3.pt">
+		<title lang="pt">A Vida Privada dos Livros</title>
+		<desc lang="pt">História de livros com a jornalista Ana Daniela Soares o bibliófilo Alberto Manguel</desc>
+	</programme>
+	<programme start="20221230063000 +0000" stop="20221230083000 +0000" channel="RTP3.pt">
+		<title lang="pt">Bom Dia Portugal</title>
+		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+	</programme>
+	<programme start="20221230083000 +0000" stop="20221230084000 +0000" channel="RTP3.pt">
+		<title lang="pt">Mundo Automóvel</title>
+		<desc lang="pt">Notícias do Mundo Automóvel</desc>
+	</programme>
+	<programme start="20221230084000 +0000" stop="20221230100000 +0000" channel="RTP3.pt">
+		<title lang="pt">Bom Dia Portugal</title>
+		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+	</programme>
+	<programme start="20221230100000 +0000" stop="20221230110000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 10</title>
+		<desc lang="pt">Informação de Portugal e do mundo.</desc>
+	</programme>
+	<programme start="20221230110000 +0000" stop="20221230120000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 11</title>
+		<desc lang="pt">Notícias de Portugal e do mundo.</desc>
+	</programme>
+	<programme start="20221230120000 +0000" stop="20221230130000 +0000" channel="RTP3.pt">
+		<title lang="pt">Jornal das 12</title>
+		<desc lang="pt">Ao meio-dia as notícias de Portugal e do mundo.</desc>
+	</programme>
+	<programme start="20221230130000 +0000" stop="20221230133500 +0000" channel="RTP3.pt">
+		<title lang="pt">Padre Krohn, 40 Anos Depois de Tentar Matar o Papa</title>
+		<desc lang="pt">Um documentário de Rita Marrafa de Carvalho e Miguel Teixeira sobre Juan Krohn, o homem que há 40 anos tentou matar João Paulo II</desc>
+	</programme>
+	<programme start="20221230133500 +0000" stop="20221230140000 +0000" channel="RTP3.pt">
+		<title lang="pt">Todas as Palavras</title>
+		<desc lang="pt">Os livros e os seus autores</desc>
+	</programme>
+	<programme start="20221230140000 +0000" stop="20221230150000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 14</title>
+		<desc lang="pt">Informação de Portugal e do mundo</desc>
+	</programme>
+	<programme start="20221230150000 +0000" stop="20221230152000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 15</title>
+		<desc lang="pt">Informação de Portugal e do mundo.</desc>
+	</programme>
+	<programme start="20221230152000 +0000" stop="20221230154500 +0000" channel="RTP3.pt">
+		<title lang="pt">Eixo Norte Sul</title>
+		<desc lang="pt">A informação regional de norte a sul</desc>
+	</programme>
+	<programme start="20221230154500 +0000" stop="20221230160000 +0000" channel="RTP3.pt">
+		<title lang="pt">Zoom África</title>
+		<desc lang="pt">Ligados a África... um continente em constante mudança</desc>
+	</programme>
+	<programme start="20221230160000 +0000" stop="20221230170000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 16</title>
+		<desc lang="pt">A Informação durante a tarde.</desc>
+	</programme>
+	<programme start="20221230170000 +0000" stop="20221230174000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 17</title>
+		<desc lang="pt">Notícias de Portugal e do mundo</desc>
+	</programme>
+	<programme start="20221230174000 +0000" stop="20221230180000 +0000" channel="RTP3.pt">
+		<title lang="pt">As Horas Extraordinárias</title>
+		<desc lang="pt">Magazine cultural da RTP 3</desc>
+	</programme>
+	<programme start="20221230180000 +0000" stop="20221230200000 +0000" channel="RTP3.pt">
+		<title lang="pt">18/20</title>
+		<desc lang="pt">Duas horas de Informação ao fim da tarde.</desc>
+	</programme>
+	<programme start="20221230200000 +0000" stop="20221230202500 +0000" channel="RTP3.pt">
+		<title lang="pt">Todas as Palavras</title>
+		<desc lang="pt">Os livros e os seus autores</desc>
+	</programme>
+	<programme start="20221230202500 +0000" stop="20221230210000 +0000" channel="RTP3.pt">
+		<title lang="pt">Eurodeputados</title>
+		<desc lang="pt">Os grandes temas que preocupam os cidadãos europeus em debate, semanalmente.</desc>
+	</programme>
+	<programme start="20221230210000 +0000" stop="20221230220000 +0000" channel="RTP3.pt">
+		<title lang="pt">360º</title>
+		<desc lang="pt">Os vários ângulos das notícias</desc>
+	</programme>
+	<programme start="20221230220000 +0000" stop="20221230230000 +0000" channel="RTP3.pt">
+		<title lang="pt">Janela Global</title>
+		<desc lang="pt">A atualidade comentada por especialistas com moderação de Márcia Rodrigues</desc>
+	</programme>
+	<programme start="20221230230000 +0000" stop="20221230233000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 às 23</title>
+		<desc lang="pt">Síntese noticiosa do 360º</desc>
+	</programme>
+	<programme start="20221230233000 +0000" stop="20221231000000 +0000" channel="RTP3.pt">
+		<title lang="pt">Portugal Impacto</title>
+		<desc lang="pt">Portugal Impacto é um programa de histórias. Portugal está na linha da frente na área de impacto social. É um dos países mais avançados do mundo na dinamização de um mercado de financiamento para projetos de empreendedorismo e de inovação social.</desc>
+	</programme>   
+
+<!-- Sábado -->
+	<programme start="20221231000000 +0000" stop="20221231010000 +0000" channel="RTP3.pt">
+		<title lang="pt">24 Horas</title>
+		<desc lang="pt">Jornal diário da RTP3, transmitido a partir dos Estúdios do Porto da RTP</desc>
+	</programme>
+	<programme start="20221231010000 +0000" stop="20221231013000 +0000" channel="RTP3.pt">
+		<title lang="pt">3 à 1</title>
+		<desc lang="pt">Informação de Portugal e do mundo</desc>
+	</programme>
+	<programme start="20221231013000 +0000" stop="20221231014500 +0000" channel="RTP3.pt">
+		<title lang="pt">As Horas Extraordinárias</title>
+		<desc lang="pt">Magazine cultural da RTP 3</desc>
+	</programme>
+	<programme start="20221231014500 +0000" stop="20221231024000 +0000" channel="RTP3.pt">
+		<title lang="pt">Janela Global</title>
+		<desc lang="pt">A atualidade comentada por especialistas com moderação de Márcia Rodrigues</desc>
+	</programme>
+	<programme start="20221231024000 +0000" stop="20221231034000 +0000" channel="RTP3.pt">
+		<title lang="pt">Portugal 2022</title>
+		<desc lang="pt">Que fica de 2022?</desc>
+	</programme>
+	<programme start="20221231034000 +0000" stop="20221231035000 +0000" channel="RTP3.pt">
+		<title lang="pt">Fotobox</title>
+		<desc lang="pt">Um magazine sobre fotografia</desc>
+	</programme>
+	<programme start="20221231035000 +0000" stop="20221231041000 +0000" channel="RTP3.pt">
+		<title lang="pt">Eixo Norte Sul</title>
+		<desc lang="pt">A informação regional de norte a sul</desc>
+	</programme>
+	<programme start="20221231041000 +0000" stop="20221231043000 +0000" channel="RTP3.pt">
+		<title lang="pt">Manchetes 3</title>
+		<desc lang="pt">As manchetes dos Jornais de referência na RTP</desc>
+	</programme>
+	<programme start="20221231043000 +0000" stop="20221231050000 +0000" channel="RTP3.pt">
+		<title lang="pt">Repórter África - 2ª Edição</title>
+		<desc lang="pt">A atualidade africana e da diáspora</desc>
+	</programme>
+	<programme start="20221231050000 +0000" stop="20221231053000 +0000" channel="RTP3.pt">
+		<title lang="pt">Telejornal Madeira</title>
+		<desc lang="pt">Informação de proximidade. De confiança!</desc>
+	</programme>
+	<programme start="20221231053000 +0000" stop="20221231060000 +0000" channel="RTP3.pt">
+		<title lang="pt">Telejornal Açores</title>
+		<desc lang="pt">Toda a informação dos Açores diariamente em destaque no Telejornal.</desc>
+	</programme>
+	<programme start="20221231060000 +0000" stop="20221231061500 +0000" channel="RTP3.pt">
+		<title lang="pt">A Essência</title>
+		<desc lang="pt">O vinho português e o seu mercado.</desc>
+	</programme>
+	<programme start="20221231061500 +0000" stop="20221231070000 +0000" channel="RTP3.pt">
+		<title lang="pt">Tech 3</title>
+		<desc lang="pt">Tecnologia, inovação, empreendedorismo, conhecimento e ciência</desc>
+	</programme>	
 	<programme start="20221231070000 +0000" stop="20221231072500 +0000" channel="RTP3.pt"><title lang="pt">África 7 Dias</title></programme>
 	<programme start="20221231072500 +0000" stop="20221231080000 +0000" channel="RTP3.pt"><title lang="pt">Visita Guiada</title></programme>
 	<programme start="20221231080000 +0000" stop="20221231100000 +0000" channel="RTP3.pt"><title lang="pt">Bom Dia Portugal - Fim de Semana</title></programme>
