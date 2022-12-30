@@ -1,382 +1,777 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <tv>
-	<channel id="RTP1.pt">
-		<display-name lang="pt">RTP 1</display-name>
-		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-1.png" />
-	</channel>
-	<channel id="RTP3.pt">
-		<display-name lang="pt">RTP 3</display-name>>
-		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-3.png" />
-	</channel>
-	
+
+  <channel id="RTPAfrica.pt">
+    <display-name lang="pt">RTP AFRICA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-africa.png" />
+  </channel>
+  <channel id="RTPAcores.pt">
+    <display-name lang="pt">RTP ACORES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-acores.png" />
+  </channel>
+  <channel id="RTPMadeira.pt">
+    <display-name lang="pt">RTP MADEIRA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png" />
+  </channel>
+  <channel id="RTPMemoria.pt">
+    <display-name lang="pt">RTP MEMORIA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png" />
+  </channel>
+  <channel id="KuriakosTV.pt">
+    <display-name lang="pt">KURIAKOS TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/kuriakos.png" />
+  </channel>  
+  <channel id="GaliciaTVEuropa.es">
+    <display-name lang="pt">TV GALICIA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tv-galicia.png" />
+  </channel> 
+	<channel id="TPAInternacional.ao">
+	<display-name lang="pt">TPA INTERNACIONAL</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/tpa-internacional.png" />
+	</channel>  
 
 
-<!-- Sexta-Feira -->
-	<programme start="20221230000000 +0000" stop="20221230015300 +0000" channel="RTP1.pt">
-		<title lang="pt">Grande Entrevista</title>
-	</programme>
-	<programme start="20221230015300 +0000" stop="20221230040800 +0000" channel="RTP1.pt">
-		<title lang="pt">A Nossa Tarde</title>
-		<desc lang="pt">A Nossa Tarde é o seu lugar</desc>
-	</programme>
-	<programme start="20221230040800 +0000" stop="20221230060900 +0000" channel="RTP1.pt">
-		<title lang="pt">Televendas</title>
-		<desc lang="pt">Um mundo de produtos, à distância de um telefone</desc>
-	</programme>
-	<programme start="20221230060900 +0000" stop="20221230063900 +0000" channel="RTP1.pt">
-		<title lang="pt">Manchetes 3</title>
-		<desc lang="pt">As manchetes dos Jornais de referência na RTP</desc>
-	</programme>
-	<programme start="20221230063000 +0000" stop="20221230100000 +0000" channel="RTP1.pt">
-		<title lang="pt">Bom Dia Portugal</title>
-		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
-	</programme>
-	<programme start="20221230100000 +0000" stop="20221230125900 +0000" channel="RTP1.pt">
-		<title lang="pt">Praça da Alegria</title>
-		<desc lang="pt">Otimismo, entusiasmo e muita energia nas manhãs de Portugal!</desc>
-	</programme>
-	<programme start="20221230125900 +0000" stop="20221230142500 +0000" channel="RTP1.pt">
-		<title lang="pt">Jornal da Tarde</title>
-		<desc lang="pt">Assim que a tarde começa, nós já temos para si as notícias do dia</desc>
-	</programme>
-	<programme start="20221230142500 +0000" stop="20221230150800 +0000" channel="RTP1.pt">
-		<title lang="pt">Os Nossos Dias</title>
-		<desc lang="pt">É mais do que uma história de vingança. Uma luta constante pela verdade e justiça. Um jogo onde ninguém pode confiar em ninguém</desc>
-	</programme>
-	<programme start="20221230150800 +0000" stop="20221230173000 +0000" channel="RTP1.pt">
-		<title lang="pt">A Nossa Tarde</title>
-		<desc lang="pt">A Nossa Tarde é o seu lugar</desc>
-	</programme>
-	<programme start="20221230173000 +0000" stop="20221230190200 +0000" channel="RTP1.pt">
-		<title lang="pt">Portugal em Direto</title>
-		<desc lang="pt">Dina Aguiar dá-lhe a conhecer tudo o que de mais importante se passa no país</desc>
-	</programme>
-	<programme start="20221230190200 +0000" stop="20221230195900 +0000" channel="RTP1.pt">
-		<title lang="pt">O Preço Certo</title>
-		<desc lang="pt">Especial Mulheres Desportistas</desc>
-	</programme>
-	<programme start="20221230195900 +0000" stop="20221230210100 +0000" channel="RTP1.pt">
-		<title lang="pt">Telejornal</title>
-		<desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00</desc>
-	</programme>
-	<programme start="20221230210100 +0000" stop="20221230220400 +0000" channel="RTP1.pt">
-		<title lang="pt">Porquinho Mealheiro</title>
-		<desc lang="pt">Especial Músicos</desc>
-	</programme>
-	<programme start="20221230220400 +0000" stop="20221230232800 +0000" channel="RTP1.pt">
-		<title lang="pt">Em Casa d´ Amália</title>
-		<desc lang="pt">Programa inspirado nas célebres noites em que Amália Rodrigues recebia em sua casa, poetas, cantores, pintores, músicos, atores para tertúlias infindáveis</desc>
-	</programme>
-	<programme start="20221230232800 +0000" stop="20221231013700 +0000" channel="RTP1.pt">
-		<title lang="pt">Diogo Piçarra na Altice Arena</title>
-		<desc lang="pt">Diogo Piçarra apresentou o álbum "South Side Boy" na Altice Arena</desc>
-	</programme>
-
-<!-- Sábado -->
-	<programme start="20221231013700 +0000" stop="20221231030300 +0000" channel="RTP1.pt">
-		<title lang="pt">Nancy Drew e a Escadaria Secreta</title>
-		<desc lang="pt">Um filme de Katt Shea, com Sophia Lillis, Zoe Renee e Mackenzie Graham</desc>
-	</programme>
-	<programme start="20221231030300 +0000" stop="20221231051500 +0000" channel="RTP1.pt">
-		<title lang="pt">A Nossa Tarde</title>
-		<desc lang="pt">A Nossa Tarde é o seu lugar</desc>
-	</programme>
-	<programme start="20221231051500 +0000" stop="20221231061600 +0000" channel="RTP1.pt">
-		<title lang="pt">Televendas</title>
-		<desc lang="pt">Um mundo de produtos, à distância de um telefone</desc>
-	</programme>
-	<programme start="20221231061600 +0000" stop="20221231063000 +0000" channel="RTP1.pt">
-		<title lang="pt">A Vida Privada dos Livros</title>
-		<desc lang="pt">História de livros com a jornalista Ana Daniela Soares o bibliófilo Alberto Manguel</desc>
-	</programme>
-	<programme start="20221231063000 +0000" stop="20221231080000 +0000" channel="RTP1.pt"><title lang="pt">Zig Zag</title></programme>
-	<programme start="20221231080000 +0000" stop="20221231100000 +0000" channel="RTP1.pt"><title lang="pt">Bom Dia Portugal - Fim de Semana</title></programme>
-	<programme start="20221231100000 +0000" stop="20221231110000 +0000" channel="RTP1.pt"><title lang="pt">Tubarões Do Norte Gelado</title></programme>
-	<programme start="20221231110000 +0000" stop="20221231125900 +0000" channel="RTP1.pt"><title lang="pt">Aqui Portugal</title></programme>
-	<programme start="20221231125900 +0000" stop="20221231141500 +0000" channel="RTP1.pt"><title lang="pt">Jornal da Tarde</title></programme> 
-	<programme start="20221231141500 +0000" stop="20221231144500 +0000" channel="RTP1.pt"><title lang="pt">Voz do Cidadão</title></programme>
-	<programme start="20221231144500 +0000" stop="20221231190000 +0000" channel="RTP1.pt"><title lang="pt">Aqui Portugal</title></programme>
-	<programme start="20221231190000 +0000" stop="20221231195900 +0000" channel="RTP1.pt"><title lang="pt">O Preço Certo</title></programme>
-	<programme start="20221231195900 +0000" stop="20221231210000 +0000" channel="RTP1.pt"><title lang="pt">Telejornal</title></programme>
-	<programme start="20221231210000 +0000" stop="20221231220000 +0000" channel="RTP1.pt"><title lang="pt">Viagem a Portugal</title></programme>
-	<programme start="20221231220000 +0000" stop="20221231230000 +0000" channel="RTP1.pt"><title lang="pt">Porquinho Mealheiro</title></programme>
-	<programme start="20221231230000 +0000" stop="20230101000000 +0000" channel="RTP1.pt"><title lang="pt">Desliga a Televisão</title></programme>
-
-
-
+RTP Africa
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+ 
+ 
+RTP Acores 
 <!-- Quinta-Feira -->
-	<programme start="20221229063000 +0000" stop="20221229083000 +0000" channel="RTP3.pt">
-		<title lang="pt">Bom Dia Portugal</title>
-		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+	<programme start="20221229073000 +0000" stop="20221229082000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Planeta A</title>
+		<desc lang="pt">Série documental sobre o desafio da sustentabilidade que pretende mostrar que ainda é possível construir um planeta sustentável</desc>
 	</programme>
-	<programme start="20221229083000 +0000" stop="20221229083500 +0000" channel="RTP3.pt">
-		<title lang="pt">Mundo Automóvel</title>
-		<desc lang="pt">Notícias do Mundo Automóvel</desc>
+	<programme start="20221229082000 +0000" stop="20221229090500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Zig Zag</title>
+		<desc lang="pt">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!</desc>
 	</programme>
-	<programme start="20221229083500 +0000" stop="20221229100000 +0000" channel="RTP3.pt">
-		<title lang="pt">Bom Dia Portugal</title>
-		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+	<programme start="20221229090500 +0000" stop="20221229130000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">RTP3 / RTP Açores</title>
+		<desc lang="pt">RTP Açores simultâneo RTP 3</desc>
 	</programme>
-	<programme start="20221229100000 +0000" stop="20221229110000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 10</title>
-		<desc lang="pt">Informação de Portugal e do mundo.</desc>
+	<programme start="20221229130000 +0000" stop="20221229131500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Jornal da Tarde - Açores</title>
+		<desc lang="pt">As primeiras notícias dos Açores.</desc>
 	</programme>
-	<programme start="20221229110000 +0000" stop="20221229120000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 11</title>
-		<desc lang="pt">Notícias de Portugal e do mundo.</desc>
+	<programme start="20221229131500 +0000" stop="20221229160000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">RTP3 / RTP Açores</title>
+		<desc lang="pt">RTP Açores simultâneo RTP 3</desc>
 	</programme>
-	<programme start="20221229120000 +0000" stop="20221229130000 +0000" channel="RTP3.pt">
-		<title lang="pt">Jornal das 12</title>
-		<desc lang="pt">Ao meio-dia as notícias de Portugal e do mundo.</desc>
+	<programme start="20221229160000 +0000" stop="20221229162500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Noticias do Atlântico- Açores</title>
 	</programme>
-	<programme start="20221229130000 +0000" stop="20221229140000 +0000" channel="RTP3.pt">
-		<title lang="pt">Os Segredos dos Chefs: A Ciência da Culinária</title>
-		<desc lang="pt">Especialistas em culinária explicam o porquê da ciência ser o ingrediente secreto para se tornar um melhor cozinheiro</desc>
+	<programme start="20221229162500 +0000" stop="20221229162900 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Volta ao Mundo em Cem Livros</title>
+		<desc lang="pt">Autoria e apresentação de Alexandra Lucas Coelho</desc>
 	</programme>
-	<programme start="20221229140000 +0000" stop="20221229150000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 14</title>
-		<desc lang="pt">Informação de Portugal e do mundo</desc>
+	<programme start="20221229162900 +0000" stop="20221229170600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Visita Guiada</title>
+		<desc lang="pt">7ª temporada do programa com autoria e apresentação de Paula Moura Pinheiro que faz uma visita guiada ao património cultural português.</desc>
 	</programme>
-	<programme start="20221229150000 +0000" stop="20221229152000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 15</title>
-		<desc lang="pt">Informação de Portugal e do mundo.</desc>
+	<programme start="20221229170600 +0000" stop="20221229184400 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Inesquecível</title>
+		<desc lang="pt">Júlio Isidro convida personalidades a viajar pelas memórias da sua história na RTP neste talk-show semanal</desc>
 	</programme>
-	<programme start="20221229152000 +0000" stop="20221229154000 +0000" channel="RTP3.pt">
-		<title lang="pt">Eixo Norte Sul</title>
-		<desc lang="pt">A informação regional de norte a sul</desc>
-	</programme>
-	<programme start="20221229154000 +0000" stop="20221229160000 +0000" channel="RTP3.pt">
-		<title lang="pt">Zoom África</title>
-		<desc lang="pt">Ligados a África... um continente em constante mudança</desc>
-	</programme>
-	<programme start="20221229160000 +0000" stop="20221229170000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 16</title>
-		<desc lang="pt">A Informação durante a tarde.</desc>
-	</programme>
-	<programme start="20221229170000 +0000" stop="20221229174000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 17</title>
-		<desc lang="pt">Notícias de Portugal e do mundo</desc>
-	</programme>
-	<programme start="20221229174000 +0000" stop="20221229180000 +0000" channel="RTP3.pt">
-		<title lang="pt">As Horas Extraordinárias</title>
-		<desc lang="pt">Magazine cultural da RTP 3</desc>
-	</programme>
-	<programme start="20221229180000 +0000" stop="20221229200000 +0000" channel="RTP3.pt">
-		<title lang="pt">18/20</title>
-		<desc lang="pt">Duas horas de Informação ao fim da tarde.</desc>
-	</programme>
-	<programme start="20221229200000 +0000" stop="20221229210000 +0000" channel="RTP3.pt">
-		<title lang="pt">Apocalipse na Moda</title>
-		<desc lang="pt">Marcas e criadores estão agora sujeitos a um escrutínio público cada vez mais apurado. Como irá a indústria da moda enfrentar esses desafios e responder a esse novo paradigma?</desc>
-	</programme>
-	<programme start="20221229210000 +0000" stop="20221229223000 +0000" channel="RTP3.pt">
-		<title lang="pt">360º</title>
-		<desc lang="pt">Os vários ângulos das notícias</desc>
-	</programme>
-	<programme start="20221229223000 +0000" stop="20221229230000 +0000" channel="RTP3.pt">
-		<title lang="pt">Portugal Impacto</title>
-		<desc lang="pt">Portugal Impacto é um programa de histórias. Portugal está na linha da frente na área de impacto social. É um dos países mais avançados do mundo na dinamização de um mercado de financiamento para projetos de empreendedorismo e de inovação social.</desc>
-	</programme>
-	<programme start="20221229230000 +0000" stop="20221230000000 +0000" channel="RTP3.pt">
-		<title lang="pt">Grande Área</title>
-		<desc lang="pt">Programa de análise da jornada futebolística nas suas diferentes vertentes</desc>
-	</programme>
-
-<!-- Sexta-Feira -->
-	<programme start="20221230000000 +0000" stop="20221230010000 +0000" channel="RTP3.pt">
-		<title lang="pt">24 Horas</title>
-		<desc lang="pt">Jornal diário da RTP3, transmitido a partir dos Estúdios do Porto da RTP</desc>
-	</programme>
-	<programme start="20221230010000 +0000" stop="20221230013000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 à 1</title>
-		<desc lang="pt">Informação de Portugal e do mundo</desc>
-	</programme>
-	<programme start="20221230013000 +0000" stop="20221230014500 +0000" channel="RTP3.pt">
-		<title lang="pt">As Horas Extraordinárias</title>
-		<desc lang="pt">Magazine cultural da RTP 3</desc>
-	</programme>
-	<programme start="20221230014500 +0000" stop="20221230024000 +0000" channel="RTP3.pt">
-		<title lang="pt">Grande Área</title>
-		<desc lang="pt">Programa de análise da jornada futebolística nas suas diferentes vertentes</desc>
-	</programme>
-	<programme start="20221230024000 +0000" stop="20221230031000 +0000" channel="RTP3.pt">
-		<title lang="pt">Portugal Impacto</title>
-		<desc lang="pt">Portugal Impacto é um programa de histórias. Portugal está na linha da frente na área de impacto social. É um dos países mais avançados do mundo na dinamização de um mercado de financiamento para projetos de empreendedorismo e de inovação social.</desc>
-	</programme>
-	<programme start="20221230031000 +0000" stop="20221230035000 +0000" channel="RTP3.pt">
-		<title lang="pt">Janela Indiscreta</title>
-		<desc lang="pt">O seu programa de cinema com Mário Augusto!</desc>
-	</programme>
-	<programme start="20221230035000 +0000" stop="20221230041000 +0000" channel="RTP3.pt">
-		<title lang="pt">Eixo Norte Sul</title>
-		<desc lang="pt">A informação regional de norte a sul</desc>
-	</programme>
-	<programme start="20221230041000 +0000" stop="20221230043000 +0000" channel="RTP3.pt">
-		<title lang="pt">Manchetes 3</title>
-		<desc lang="pt">As manchetes dos Jornais de referência na RTP</desc>
-	</programme>
-	<programme start="20221230043000 +0000" stop="20221230050000 +0000" channel="RTP3.pt">
-		<title lang="pt">Repórter África - 2ª Edição</title>
-		<desc lang="pt">A atualidade africana e da diáspora</desc>
-	</programme>
-	<programme start="20221230050000 +0000" stop="20221230053000 +0000" channel="RTP3.pt">
-		<title lang="pt">Telejornal Madeira</title>
-		<desc lang="pt">Informação de proximidade. De confiança!</desc>
-	</programme>
-	<programme start="20221230053000 +0000" stop="20221230060000 +0000" channel="RTP3.pt">
-		<title lang="pt">Telejornal Açores</title>
-		<desc lang="pt">De segunda a domingo toda a informação que marca a atulidade.</desc>
-	</programme>
-	<programme start="20221230060000 +0000" stop="20221230061000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 6</title>
-		<desc lang="pt">Informação de Portugal e do mundo</desc>
-	</programme>
-	<programme start="20221230061000 +0000" stop="20221230064000 +0000" channel="RTP3.pt">
+	<programme start="20221229184400 +0000" stop="20221229185800 +0000" channel="RTPAcores.pt">
 		<title lang="pt">A Vida Privada dos Livros</title>
 		<desc lang="pt">História de livros com a jornalista Ana Daniela Soares o bibliófilo Alberto Manguel</desc>
 	</programme>
-	<programme start="20221230063000 +0000" stop="20221230083000 +0000" channel="RTP3.pt">
-		<title lang="pt">Bom Dia Portugal</title>
-		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
+	<programme start="20221229185800 +0000" stop="20221229200000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Elétrico</title>
+		<desc lang="pt">Um elétrico conduzido ao sabor das vibrações das ruas</desc>
 	</programme>
-	<programme start="20221230083000 +0000" stop="20221230084000 +0000" channel="RTP3.pt">
-		<title lang="pt">Mundo Automóvel</title>
-		<desc lang="pt">Notícias do Mundo Automóvel</desc>
-	</programme>
-	<programme start="20221230084000 +0000" stop="20221230100000 +0000" channel="RTP3.pt">
-		<title lang="pt">Bom Dia Portugal</title>
-		<desc lang="pt">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!</desc>
-	</programme>
-	<programme start="20221230100000 +0000" stop="20221230110000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 10</title>
-		<desc lang="pt">Informação de Portugal e do mundo.</desc>
-	</programme>
-	<programme start="20221230110000 +0000" stop="20221230120000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 11</title>
-		<desc lang="pt">Notícias de Portugal e do mundo.</desc>
-	</programme>
-	<programme start="20221230120000 +0000" stop="20221230130000 +0000" channel="RTP3.pt">
-		<title lang="pt">Jornal das 12</title>
-		<desc lang="pt">Ao meio-dia as notícias de Portugal e do mundo.</desc>
-	</programme>
-	<programme start="20221230130000 +0000" stop="20221230133500 +0000" channel="RTP3.pt">
-		<title lang="pt">Padre Krohn, 40 Anos Depois de Tentar Matar o Papa</title>
-		<desc lang="pt">Um documentário de Rita Marrafa de Carvalho e Miguel Teixeira sobre Juan Krohn, o homem que há 40 anos tentou matar João Paulo II</desc>
-	</programme>
-	<programme start="20221230133500 +0000" stop="20221230140000 +0000" channel="RTP3.pt">
-		<title lang="pt">Todas as Palavras</title>
-		<desc lang="pt">Os livros e os seus autores</desc>
-	</programme>
-	<programme start="20221230140000 +0000" stop="20221230150000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 14</title>
-		<desc lang="pt">Informação de Portugal e do mundo</desc>
-	</programme>
-	<programme start="20221230150000 +0000" stop="20221230152000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 15</title>
-		<desc lang="pt">Informação de Portugal e do mundo.</desc>
-	</programme>
-	<programme start="20221230152000 +0000" stop="20221230154500 +0000" channel="RTP3.pt">
-		<title lang="pt">Eixo Norte Sul</title>
-		<desc lang="pt">A informação regional de norte a sul</desc>
-	</programme>
-	<programme start="20221230154500 +0000" stop="20221230160000 +0000" channel="RTP3.pt">
-		<title lang="pt">Zoom África</title>
-		<desc lang="pt">Ligados a África... um continente em constante mudança</desc>
-	</programme>
-	<programme start="20221230160000 +0000" stop="20221230170000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 16</title>
-		<desc lang="pt">A Informação durante a tarde.</desc>
-	</programme>
-	<programme start="20221230170000 +0000" stop="20221230174000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 17</title>
-		<desc lang="pt">Notícias de Portugal e do mundo</desc>
-	</programme>
-	<programme start="20221230174000 +0000" stop="20221230180000 +0000" channel="RTP3.pt">
-		<title lang="pt">As Horas Extraordinárias</title>
-		<desc lang="pt">Magazine cultural da RTP 3</desc>
-	</programme>
-	<programme start="20221230180000 +0000" stop="20221230200000 +0000" channel="RTP3.pt">
-		<title lang="pt">18/20</title>
-		<desc lang="pt">Duas horas de Informação ao fim da tarde.</desc>
-	</programme>
-	<programme start="20221230200000 +0000" stop="20221230202500 +0000" channel="RTP3.pt">
-		<title lang="pt">Todas as Palavras</title>
-		<desc lang="pt">Os livros e os seus autores</desc>
-	</programme>
-	<programme start="20221230202500 +0000" stop="20221230210000 +0000" channel="RTP3.pt">
-		<title lang="pt">Eurodeputados</title>
-		<desc lang="pt">Os grandes temas que preocupam os cidadãos europeus em debate, semanalmente.</desc>
-	</programme>
-	<programme start="20221230210000 +0000" stop="20221230220000 +0000" channel="RTP3.pt">
-		<title lang="pt">360º</title>
-		<desc lang="pt">Os vários ângulos das notícias</desc>
-	</programme>
-	<programme start="20221230220000 +0000" stop="20221230230000 +0000" channel="RTP3.pt">
-		<title lang="pt">Janela Global</title>
-		<desc lang="pt">A atualidade comentada por especialistas com moderação de Márcia Rodrigues</desc>
-	</programme>
-	<programme start="20221230230000 +0000" stop="20221230233000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 às 23</title>
-		<desc lang="pt">Síntese noticiosa do 360º</desc>
-	</programme>
-	<programme start="20221230233000 +0000" stop="20221231000000 +0000" channel="RTP3.pt">
-		<title lang="pt">Portugal Impacto</title>
-		<desc lang="pt">Portugal Impacto é um programa de histórias. Portugal está na linha da frente na área de impacto social. É um dos países mais avançados do mundo na dinamização de um mercado de financiamento para projetos de empreendedorismo e de inovação social.</desc>
-	</programme>   
-
-<!-- Sábado -->
-	<programme start="20221231000000 +0000" stop="20221231010000 +0000" channel="RTP3.pt">
-		<title lang="pt">24 Horas</title>
-		<desc lang="pt">Jornal diário da RTP3, transmitido a partir dos Estúdios do Porto da RTP</desc>
-	</programme>
-	<programme start="20221231010000 +0000" stop="20221231013000 +0000" channel="RTP3.pt">
-		<title lang="pt">3 à 1</title>
-		<desc lang="pt">Informação de Portugal e do mundo</desc>
-	</programme>
-	<programme start="20221231013000 +0000" stop="20221231014500 +0000" channel="RTP3.pt">
-		<title lang="pt">As Horas Extraordinárias</title>
-		<desc lang="pt">Magazine cultural da RTP 3</desc>
-	</programme>
-	<programme start="20221231014500 +0000" stop="20221231024000 +0000" channel="RTP3.pt">
-		<title lang="pt">Janela Global</title>
-		<desc lang="pt">A atualidade comentada por especialistas com moderação de Márcia Rodrigues</desc>
-	</programme>
-	<programme start="20221231024000 +0000" stop="20221231034000 +0000" channel="RTP3.pt">
-		<title lang="pt">Portugal 2022</title>
-		<desc lang="pt">Que fica de 2022?</desc>
-	</programme>
-	<programme start="20221231034000 +0000" stop="20221231035000 +0000" channel="RTP3.pt">
-		<title lang="pt">Fotobox</title>
-		<desc lang="pt">Um magazine sobre fotografia</desc>
-	</programme>
-	<programme start="20221231035000 +0000" stop="20221231041000 +0000" channel="RTP3.pt">
-		<title lang="pt">Eixo Norte Sul</title>
-		<desc lang="pt">A informação regional de norte a sul</desc>
-	</programme>
-	<programme start="20221231041000 +0000" stop="20221231043000 +0000" channel="RTP3.pt">
-		<title lang="pt">Manchetes 3</title>
-		<desc lang="pt">As manchetes dos Jornais de referência na RTP</desc>
-	</programme>
-	<programme start="20221231043000 +0000" stop="20221231050000 +0000" channel="RTP3.pt">
-		<title lang="pt">Repórter África - 2ª Edição</title>
-		<desc lang="pt">A atualidade africana e da diáspora</desc>
-	</programme>
-	<programme start="20221231050000 +0000" stop="20221231053000 +0000" channel="RTP3.pt">
-		<title lang="pt">Telejornal Madeira</title>
-		<desc lang="pt">Informação de proximidade. De confiança!</desc>
-	</programme>
-	<programme start="20221231053000 +0000" stop="20221231060000 +0000" channel="RTP3.pt">
+	<programme start="20221229200000 +0000" stop="20221229203400 +0000" channel="RTPAcores.pt">
 		<title lang="pt">Telejornal Açores</title>
 		<desc lang="pt">Toda a informação dos Açores diariamente em destaque no Telejornal.</desc>
 	</programme>
-	<programme start="20221231060000 +0000" stop="20221231061500 +0000" channel="RTP3.pt">
+	<programme start="20221229203400 +0000" stop="20221229204600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">1ª Fila</title>
+	</programme>
+	<programme start="20221229204600 +0000" stop="20221229220300 +0000" channel="RTPAcores.pt">
+		<title lang="pt">O Fascínio das Histórias</title>
+		<desc lang="pt">Documentário de Nuno Artur Silva, realizado por António Botelho, sobre o poder e o encantamento das ficções</desc>
+	</programme>
+	<programme start="20221229220300 +0000" stop="20221229232100 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Festival Música no Colégio (2018)</title>
+		<desc lang="pt">Cinco noites de concertos para celebrar a música.</desc>
+	</programme>
+	<programme start="20221229232100 +0000" stop="20221229233000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Volta ao Mundo em Cem Livros</title>
+		<desc lang="pt">Autoria e apresentação de Alexandra Lucas Coelho</desc>
+	</programme>
+	<programme start="20221229233000 +0000" stop="20221229235500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Telejornal Açores</title>
+		<desc lang="pt">Toda a informação dos Açores diariamente em destaque no Telejornal.</desc>
+	</programme>
+	<programme start="20221229235500 +0000" stop="20221230003800 +0000" channel="RTPAcores.pt">
+		<title lang="pt">O Sábio</title>
+		<desc lang="pt">A história de um homem que reaparece numa cidade, onde desapareceu misteriosamente há 20 anos</desc>
+	</programme>
+	
+<!-- Sexta-Feira -->
+	<programme start="20221230003800 +0000" stop="20221230012800 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Planeta A</title>
+		<desc lang="pt">Série documental sobre o desafio da sustentabilidade que pretende mostrar que ainda é possível construir um planeta sustentável</desc>
+	</programme>
+	<programme start="20221230012800 +0000" stop="20221230020600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Visita Guiada</title>
+		<desc lang="pt">7ª temporada do programa com autoria e apresentação de Paula Moura Pinheiro que faz uma visita guiada ao património cultural português.</desc>
+	</programme>
+	<programme start="20221230020600 +0000" stop="20221230022500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Europa Minha</title>
+		<desc lang="pt">A União Europeia, as suas instituições e os cidadãos europeus...</desc>
+	</programme>
+	<programme start="20221230022500 +0000" stop="20221230030200 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Resistir à Cegueira do Mundo - Eduardo Prado Coelho</title>
+		<desc lang="pt">Documentário de Abílio Leitão sobre a vida e obra de Eduardo Prado Coelho, incontornável figura da cultura portuguesa</desc>
+	</programme>
+	<programme start="20221230030200 +0000" stop="20221230031700 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Açores hoje</title>
+	</programme>
+	<programme start="20221230031700 +0000" stop="20221230032500 +0000" channel="RTPAcores.pt">
 		<title lang="pt">A Essência</title>
 		<desc lang="pt">O vinho português e o seu mercado.</desc>
 	</programme>
-	<programme start="20221231061500 +0000" stop="20221231070000 +0000" channel="RTP3.pt">
-		<title lang="pt">Tech 3</title>
-		<desc lang="pt">Tecnologia, inovação, empreendedorismo, conhecimento e ciência</desc>
+	<programme start="20221230032500 +0000" stop="20221230040000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Inside Offside</title>
 	</programme>
+	<programme start="20221230040000 +0000" stop="20221230042500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Telejornal Açores</title>
+		<desc lang="pt">Toda a informação dos Açores diariamente em destaque no Telejornal.</desc>
+	</programme>
+	<programme start="20221230042500 +0000" stop="20221230043900 +0000" channel="RTPAcores.pt">
+		<title lang="pt">A Vida Privada dos Livros</title>
+		<desc lang="pt">História de livros com a jornalista Ana Daniela Soares o bibliófilo Alberto Manguel</desc>
+	</programme>
+	<programme start="20221230043900 +0000" stop="20221230055700 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Festival Música no Colégio (2018)</title>
+		<desc lang="pt">Cinco noites de concertos para celebrar a música.</desc>
+	</programme>
+	<programme start="20221230055700 +0000" stop="20221230062700 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Inesquecível</title>
+		<desc lang="pt">Júlio Isidro convida personalidades a viajar pelas memórias da sua história na RTP neste talk-show semanal</desc>
+	</programme>
+	<programme start="20221230073000 +0000" stop="20221230082000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Planeta A</title>
+		<desc lang="pt">Série documental sobre o desafio da sustentabilidade que pretende mostrar que ainda é possível construir um planeta sustentável</desc>
+	</programme>
+	<programme start="20221230082000 +0000" stop="20221230090500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Zig Zag</title>
+		<desc lang="pt">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!</desc>
+	</programme>
+	<programme start="20221230090500 +0000" stop="20221230130000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">RTP3 / RTP Açores</title>
+		<desc lang="pt">RTP Açores simultâneo RTP 3</desc>
+	</programme>
+	<programme start="20221230130000 +0000" stop="20221230131500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Jornal da Tarde - Açores</title>
+		<desc lang="pt">As primeiras notícias dos Açores.</desc>
+	</programme>
+	<programme start="20221230131500 +0000" stop="20221230132500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">1ª Fila</title>
+	</programme>
+	<programme start="20221230132500 +0000" stop="20221230160000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">RTP3 / RTP Açores</title>
+		<desc lang="pt">RTP Açores simultâneo RTP 3</desc>
+	</programme>
+	<programme start="20221230160000 +0000" stop="20221230162500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Noticias do Atlântico- Açores</title>
+	</programme>
+	<programme start="20221230162500 +0000" stop="20221230163100 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Volta ao Mundo em Cem Livros</title>
+		<desc lang="pt">Autoria e apresentação de Alexandra Lucas Coelho</desc>
+	</programme>
+	<programme start="20221230163100 +0000" stop="20221230171200 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Visita Guiada</title>
+		<desc lang="pt">7ª temporada do programa com autoria e apresentação de Paula Moura Pinheiro que faz uma visita guiada ao património cultural português.</desc>
+	</programme>
+	<programme start="20221230171200 +0000" stop="20221230181200 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Inesquecível</title>
+		<desc lang="pt">Júlio Isidro convida personalidades a viajar pelas memórias da sua história na RTP neste talk-show semanal</desc>
+	</programme>
+	<programme start="20221230181200 +0000" stop="20221230190000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">A Vida Privada dos Livros</title>
+		<desc lang="pt">História de livros com a jornalista Ana Daniela Soares o bibliófilo Alberto Manguel</desc>
+	</programme>
+	<programme start="20221230190000 +0000" stop="20221230195100 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Elétrico</title>
+		<desc lang="pt">Um elétrico conduzido ao sabor das vibrações das ruas</desc>
+	</programme>
+	<programme start="20221230195100 +0000" stop="20221230200000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Mundo Automóvel</title>
+		<desc lang="pt">Notícias do Mundo Automóvel</desc>
+	</programme>
+	<programme start="20221230200000 +0000" stop="20221230203500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Telejornal Açores</title>
+		<desc lang="pt">Toda a informação dos Açores diariamente em destaque no Telejornal.</desc>
+	</programme>
+	<programme start="20221230203500 +0000" stop="20221230212900 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Consulta Externa</title>
+	</programme>
+	<programme start="20221230212900 +0000" stop="20221230222500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Grande Entrevista</title>
+		<desc lang="pt">Um protagonista da vida portuguesa responde às perguntas de Vítor Gonçalves</desc>
+	</programme>
+	<programme start="20221230222500 +0000" stop="20221230233000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">VIII Festival Música no Colégio - 2019</title>
+	</programme>
+	<programme start="20221230233000 +0000" stop="20221230235600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Telejornal Açores</title>
+		<desc lang="pt">Toda a informação dos Açores diariamente em destaque no Telejornal.</desc>
+	</programme>
+	<programme start="20221230235600 +0000" stop="20221231003600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">O Sábio</title>
+		<desc lang="pt">A história de um homem que reaparece numa cidade, onde desapareceu misteriosamente há 20 anos</desc>
+	</programme>
+	
+	
+<!-- Sabado	-->
+	<programme start="20221231003600 +0000" stop="20221231012600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Planeta A</title>
+		<desc lang="pt">Série documental sobre o desafio da sustentabilidade que pretende mostrar que ainda é possível construir um planeta sustentável</desc>
+	</programme>
+	<programme start="20221231012600 +0000" stop="20221231020400 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Visita Guiada</title>
+		<desc lang="pt">7ª temporada do programa com autoria e apresentação de Paula Moura Pinheiro que faz uma visita guiada ao património cultural português.</desc>
+	</programme>
+	<programme start="20221231020400 +0000" stop="20221231023100 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Biosfera</title>
+		<desc lang="pt">Um magazine que marca a agenda ambiental portuguesa</desc>
+	</programme>
+	<programme start="20221231023100 +0000" stop="20221231030500 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Outras Histórias</title>
+		<desc lang="pt">Histórias de vidas surpreendentes que nos tocam e nos inspiram</desc>
+	</programme>
+	<programme start="20221231030500 +0000" stop="20221231040000 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Grande Entrevista</title>
+		<desc lang="pt">Um protagonista da vida portuguesa responde às perguntas de Vítor Gonçalves</desc>
+	</programme>
+	<programme start="20221231040000 +0000" stop="20221231044600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Telejornal Açores</title>
+		<desc lang="pt">Toda a informação dos Açores diariamente em destaque no Telejornal.</desc>
+	</programme>
+	<programme start="20221231044600 +0000" stop="20221231055600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">VIII Festival Música no Colégio - 2019</title>
+	</programme>
+	<programme start="20221231055600 +0000" stop="20221231062600 +0000" channel="RTPAcores.pt">
+		<title lang="pt">Inesquecível</title>
+		<desc lang="pt">Júlio Isidro convida personalidades a viajar pelas memórias da sua história na RTP neste talk-show semanal</desc>
+	</programme>
+  
+  
+RTP Memoria 
+<!-- Quinta-Feira -->
+	<programme start="20221229070000 +0000" stop="20221229074300 +0000" channel="RTPMemoria.pt">
+		<title lang="pt">Vila Faia</title>
+		<desc lang="pt">Atual, controversa, e inquietante, vai voltar a apaixonar-se por Vila Faia</desc>
+	</programme>
+	<programme start="20221229074300 +0000" stop="20221229081500 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Palavras Cruzadas</title>
+	<desc lang="pt">Confronto entre famílias numa novela de qualidade.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/3287_35830_68863.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229081500 +0000" stop="20221229090000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Portugueses Pelo Mundo</title>
+	<desc lang="pt">Os seus testemunhos, as suas sugestões, as suas melhores dicas para, como eles, viver uma vida sem fronteiras!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/29913_34084_65526.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229090000 +0000" stop="20221229095400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O Conde d´Abranhos</title>
+	<desc lang="pt">A história privada de Alípio Abranhos e a sua ascensão social</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/1128_35892_98951.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229095400 +0000" stop="20221229104400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Só Visto!</title>
+	<desc lang="pt">Só Visto! Um magazine de atualidades original e criativo</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30838_34245_84393.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229104400 +0000" stop="20221229105800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">A Essência</title>
+	<desc lang="pt">A essência do vinho e da vinha</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32944_39979_66789.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229105800 +0000" stop="20221229113900 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Tempo Final</title>
+	<desc lang="pt">Seis histórias de crimes passionais, com muito suspense, realizadas por Leonel Vieira</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/26202_42184_41053.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229113900 +0000" stop="20221229114500 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O que é feito de si?</title>
+	<desc lang="pt">Recorde alguns dos rostos que fazem parte das nossas memórias</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/21420_37017_16804.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229114500 +0000" stop="20221229123000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Terra Mãe</title>
+	<desc lang="pt">Os dramas familiares e os amores proibidos são alguns dos ingredientes desta telenovela portuguesa</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/8675_34681_87336.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229123000 +0000" stop="20221229125900 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Insólitos</title>
+	<desc lang="pt">O romancista Abel Neves apresenta-nos 6 histórias insólitas...</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/9183_41458_61228.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229125900 +0000" stop="20221229135300 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Os Filhos do Rock - Making Of</title>
+	<desc lang="pt">Os bastidores da série premiada sobre o boom do rock em Portugal</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30539_34094_1397.png?w=384&h=216"/>
+	</programme>
+	<programme start="20221229135300 +0000" stop="20221229135800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Gramofone</title>
+	<desc lang="pt">Sindicato</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32217_37817_13325.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229135800 +0000" stop="20221229145200 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Donos Disto Tudo</title>
+	<desc lang="pt">Programa de rábulas variadas, com artistas de rir a valer.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33913_42873_80697.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229145200 +0000" stop="20221229150000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Tintim Por Tintim</title>
+	<desc lang="pt">Dar a conhecer de uma forma divertida, como alguns produtos de consumo são produzidos...</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/28748_40130_49800.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229150000 +0000" stop="20221229154800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Bem-vindos a Beirais</title>
+	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229154800 +0000" stop="20221229155800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Guarda-Factos Micro</title>
+	<desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229155800 +0000" stop="20221229165300 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O Crime...</title>
+	<desc lang="pt">Para realizar um sonho, por vezes, é necessário ultrapassar obstáculos incalculáveis</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/9177_67442_76108.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229165300 +0000" stop="20221229170000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Guarda-Factos Micro</title>
+	<desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229170000 +0000" stop="20221229173500 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Na Paz dos Anjos</title>
+	<desc lang="pt">Humor e boa disposição numa telenovela muito divertida, escrita por José Fanha e Jorge Paixão da Costa</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/7755_40379_30495.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229173500 +0000" stop="20221229181800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Sinais de Vida</title>
+	<desc lang="pt">"Sinais de Vida" leva até sua casa um grande elenco, drama e muita emoção para toda a família!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/29712_50842_46985.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229181800 +0000" stop="20221229183500 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">#Hashtag</title>
+	<desc lang="pt">Bem-vindo ao planeta dos jovens nas redes sociais</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32451_38505_3016.png?w=384&h=216"/>
+	</programme>
+	<programme start="20221229183500 +0000" stop="20221229192700 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Herman Enciclopédia</title>
+	<desc lang="pt">O Humor enciclopédico de Herman José e companhia!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32741_39201_74328.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229192700 +0000" stop="20221229200100 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Sim, Chef!</title>
+	<desc lang="pt">"Sim, Chef!", uma comédia deliciosa e um verdadeiro banquete de histórias, para deleite de todos</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/34509_44987_93135.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229200100 +0000" stop="20221229205800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Vejam Bem</title>
+	<desc lang="pt">Fernando Tordo - Chegam Palavras</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36325_51497_93760.png?w=384&h=216"/>
+	</programme>
+	<programme start="20221229205800 +0000" stop="20221229214800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Bem-vindos a Beirais</title>
+	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229214800 +0000" stop="20221229223900 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O Barco do Amor</title>
+	<desc lang="pt">Não perca a viagem no Barco do Amor</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229223900 +0000" stop="20221229232800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Um Anjo na Terra</title>
+	<desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221229232800 +0000" stop="20221230001100 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Walker, o Ranger do Texas</title>
+	<desc lang="pt">Chuck Norris é o Ranger do Texas</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230001100 +0000" stop="20221230010200 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O Barco do Amor</title>
+	<desc lang="pt">Não perca a viagem no Barco do Amor</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230010200 +0000" stop="20221230015000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Um Anjo na Terra</title>
+	<desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230015000 +0000" stop="20221230023400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Walker, o Ranger do Texas</title>
+	<desc lang="pt">Chuck Norris é o Ranger do Texas</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230023400 +0000" stop="20221230034000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">5 Para a Meia-Noite</title>
+	<desc lang="pt">A 7ª temporada do "5 Para a Meia-Noite"</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/24630_67095_45180.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230034000 +0000" stop="20221230043400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O Conde d´Abranhos</title>
+	<desc lang="pt">A história privada de Alípio Abranhos e a sua ascensão social</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/1128_35892_98951.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230043400 +0000" stop="20221230051500 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Quebra-Cabeças</title>
+	<desc lang="pt">Divirta-se, descubra letra a letra e conquiste muitos euros!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/1102_55290_75584.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230051500 +0000" stop="20221230060200 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Bem-vindos a Beirais</title>
+	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230060200 +0000" stop="20221230062900 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Estamos Juntos</title>
+	<desc lang="pt">Programa focado na identidade cultural do universo lusófono, separado por fronteiras e oceanos mas ligados pela arte</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/43225_67398_48367.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230062900 +0000" stop="20221230063500 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Pessa À Peça</title>
+	<desc lang="pt">Amostras interessantes do trabalho jornalístico do irreverente Fernando Pessa</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/43316_67544_87413.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230063500 +0000" stop="20221230065600 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">SMS - Ser Mais Sabedor</title>
+	<desc lang="pt">Atenção alunos! Vamos fazer a chamada... porque saber é divertido!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/15201_43351_36548.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230065600 +0000" stop="20221230072600 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Poemas Pintados</title>
+	<desc lang="pt">Poemas desenhados por crianças que foram tranformados em desenhos animados</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/14082_43183_85457.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230070000 +0000" stop="20221230074800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Vila Faia</title>
+	<desc lang="pt">Atual, controversa, e inquietante, vai voltar a apaixonar-se por Vila Faia</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/23115_55261_76849.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230074800 +0000" stop="20221230081400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Palavras Cruzadas</title>
+	<desc lang="pt">Confronto entre famílias numa novela de qualidade.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/3287_35830_68863.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230081400 +0000" stop="20221230090000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Portugueses Pelo Mundo</title>
+	<desc lang="pt">Os seus testemunhos, as suas sugestões, as suas melhores dicas para, como eles, viver uma vida sem fronteiras!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/29913_34084_65526.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230090000 +0000" stop="20221230092100 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Os Melhores Anos</title>
+	<desc lang="pt">Os problemas inerentes à juventude...</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230092100 +0000" stop="20221230094400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Os Melhores Anos</title>
+	<desc lang="pt">Os problemas inerentes à juventude...</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230094400 +0000" stop="20221230095200 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Pessa À Peça</title>
+	<desc lang="pt">Amostras interessantes do trabalho jornalístico do irreverente Fernando Pessa</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/43316_67544_87413.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230095200 +0000" stop="20221230104500 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Só Visto!</title>
+	<desc lang="pt">Só Visto! Um magazine de atualidades original e criativo</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30838_34245_84393.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230104500 +0000" stop="20221230110000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">A Essência</title>
+	<desc lang="pt">A essência do vinho e da vinha</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32944_39979_66789.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230110000 +0000" stop="20221230114600 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Tempo Final</title>
+	<desc lang="pt">Seis histórias de crimes passionais, com muito suspense, realizadas por Leonel Vieira</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/26202_42184_41053.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230114600 +0000" stop="20221230123100 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Terra Mãe</title>
+	<desc lang="pt">Os dramas familiares e os amores proibidos são alguns dos ingredientes desta telenovela portuguesa</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/8675_34681_87336.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230123100 +0000" stop="20221230125300 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Insólitos</title>
+	<desc lang="pt">O romancista Abel Neves apresenta-nos 6 histórias insólitas...</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/9183_41458_61228.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230125300 +0000" stop="20221230130000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Guarda-Factos Micro</title>
+	<desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230130000 +0000" stop="20221230140000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Os Filhos do Rock - Making Of</title>
+	<desc lang="pt">Os bastidores da série premiada sobre o boom do rock em Portugal</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30539_34094_1397.png?w=384&h=216"/>
+	</programme>
+	<programme start="20221230140000 +0000" stop="20221230145300 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Donos Disto Tudo</title>
+	<desc lang="pt">Programa de rábulas variadas, com artistas de rir a valer.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33913_42873_80697.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230145300 +0000" stop="20221230150000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Tintim Por Tintim</title>
+	<desc lang="pt">Dar a conhecer de uma forma divertida, como alguns produtos de consumo são produzidos...</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/28748_40130_49800.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230150000 +0000" stop="20221230153600 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Bem-vindos a Beirais</title>
+	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230153600 +0000" stop="20221230160000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Nicolau no País das Maravilhas</title>
+	<desc lang="pt">O programa de humor que deu a conhecer o Sr. Feliz (Nicolau Breyner) e o Sr. Contente (Herman José)</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/26629_43450_13072.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230160000 +0000" stop="20221230165300 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O Crime...</title>
+	<desc lang="pt">Para realizar um sonho, por vezes, é necessário ultrapassar obstáculos incalculáveis</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/9177_67442_76108.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230165300 +0000" stop="20221230170200 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Entrevista Histórica com Herman José</title>
+	<desc lang="pt">A História segundo Herman José</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/20695_39561_17698.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230170200 +0000" stop="20221230173400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Na Paz dos Anjos</title>
+	<desc lang="pt">Humor e boa disposição numa telenovela muito divertida, escrita por José Fanha e Jorge Paixão da Costa</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/7755_40379_30495.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230173400 +0000" stop="20221230181800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Sinais de Vida</title>
+	<desc lang="pt">"Sinais de Vida" leva até sua casa um grande elenco, drama e muita emoção para toda a família!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/29712_50842_46985.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230181800 +0000" stop="20221230183400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">#Hashtag</title>
+	<desc lang="pt">Bem-vindo ao planeta dos jovens nas redes sociais</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32451_38505_3016.png?w=384&h=216"/>
+	</programme>
+	<programme start="20221230183400 +0000" stop="20221230192600 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Herman Enciclopédia</title>
+	<desc lang="pt">O Humor enciclopédico de Herman José e companhia!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32741_39201_74328.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230192600 +0000" stop="20221230200000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Guarda-Factos</title>
+	<desc lang="pt">Crónica Mensal sobre acontecimentos que marcaram o país e o mundo</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230200000 +0000" stop="20221230204900 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Vejam Bem</title>
+	<desc lang="pt">António Manuel Ribeiro - Cavalos de Corrida</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36325_51497_93760.png?w=384&h=216"/>
+	</programme>
+	<programme start="20221230204900 +0000" stop="20221230205400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Gramofone</title>
+	<desc lang="pt">UHF</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32217_37817_13325.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230205400 +0000" stop="20221230210000 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Dora e Dário</title>
+	<desc lang="pt">Os cromos de Ana Bola e Víctor de Sousa no seu melhor</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/20693_43269_59989.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230210000 +0000" stop="20221230213900 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Bem-vindos a Beirais</title>
+	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230213900 +0000" stop="20221230214500 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Retrocoisa</title>
+	<desc lang="pt">As bizarrias e disparates das televisões de todo o mundo, por Fernando Alvim</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/38282_56477_6946.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230214500 +0000" stop="20221230223800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O Barco do Amor</title>
+	<desc lang="pt">Não perca a viagem no Barco do Amor</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230223800 +0000" stop="20221230232800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Um Anjo na Terra</title>
+	<desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221230232800 +0000" stop="20221231001300 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Walker, o Ranger do Texas</title>
+	<desc lang="pt">Chuck Norris é o Ranger do Texas</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231001300 +0000" stop="20221231010400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">O Barco do Amor</title>
+	<desc lang="pt">Não perca a viagem no Barco do Amor</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231010400 +0000" stop="20221231015400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Um Anjo na Terra</title>
+	<desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231015400 +0000" stop="20221231023800 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Walker, o Ranger do Texas</title>
+	<desc lang="pt">Chuck Norris é o Ranger do Texas</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231023800 +0000" stop="20221231034300 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">5 Para a Meia-Noite</title>
+	<desc lang="pt">A 7ª temporada do "5 Para a Meia-Noite"</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/24630_67095_45180.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231034300 +0000" stop="20221231040400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Os Melhores Anos</title>
+	<desc lang="pt">Os problemas inerentes à juventude...</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231040400 +0000" stop="20221231042700 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Os Melhores Anos</title>
+	<desc lang="pt">Os problemas inerentes à juventude...</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231042700 +0000" stop="20221231043600 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Entrevista Histórica com Herman José</title>
+	<desc lang="pt">A História segundo Herman José</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/20695_39561_17698.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231043600 +0000" stop="20221231051600 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Quebra-Cabeças</title>
+	<desc lang="pt">Divirta-se, descubra letra a letra e conquiste muitos euros!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/1102_55290_75584.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231051600 +0000" stop="20221231060600 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Bem-vindos a Beirais</title>
+	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231060600 +0000" stop="20221231063400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">Estamos Juntos</title>
+	<desc lang="pt">Programa focado na identidade cultural do universo lusófono, separado por fronteiras e oceanos mas ligados pela arte</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/43225_67398_48367.jpg?w=384&h=216"/>
+	</programme>
+	<programme start="20221231063400 +0000" stop="20221231070400 +0000" channel="RTPMemoria.pt">
+	<title lang="pt">SMS - Ser Mais Sabedor</title>
+	<desc lang="pt">Atenção alunos! Vamos fazer a chamada... porque saber é divertido!</desc>
+	<icon src="https://cdn-images.rtp.pt/EPG/imagens/15201_43351_36548.jpg?w=384&h=216"/>
+	</programme>
+
+  
+RTP Madeira
+<!-- Quinta-Feira -->
+	<programme start="20221228233000 +0000" stop="20221229000000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Telejornal Madeira</title>
+	</programme>
+	<programme start="20221229000000 +0000" stop="20221229170000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">RTP 3 (Madeira)</title>
+	</programme>
+	<programme start="20221229170000 +0000" stop="20221229173000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Notícias do Atlântico</title>
+	</programme>
+	<programme start="20221229173000 +0000" stop="20221229184000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Consultório 2022</title>
+	</programme>
+	<programme start="20221229184000 +0000" stop="20221229190000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">C´ma Diz o Outro 2022</title>
+	</programme>
+	<programme start="20221229190000 +0000" stop="20221229192000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Notícias das 19 (Madeira)</title>
+	</programme>
+	<programme start="20221229192000 +0000" stop="20221229205500 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Madeira Viva 2022</title>
+	</programme>
+	<programme start="20221229205500 +0000" stop="20221229210000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Tempos de Antena 2022 - Madeira</title>
+	</programme>
+	<programme start="20221229210000 +0000" stop="20221229215000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Telejornal Madeira</title>
+	</programme>
+	<programme start="20221229215000 +0000" stop="20221229222000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Casa das Artes 2022</title>
+	</programme>
+	<programme start="20221229222000 +0000" stop="20221229233000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Nem Mais Nem Menos 2022</title>
+	</programme>
+	<programme start="20221229233000 +0000" stop="20221230000000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Telejornal Madeira</title>
+	</programme>
+	
+<!-- Sexta-Feira -->
+	<programme start="20221230000000 +0000" stop="20221230170000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">RTP 3 (Madeira)</title>
+	</programme>
+	<programme start="20221230170000 +0000" stop="20221230172500 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Notícias do Atlântico</title>
+	</programme>
+	<programme start="20221230172500 +0000" stop="20221230183000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Nem Mais Nem Menos 2022</title>
+	</programme>
+	<programme start="20221230183000 +0000" stop="20221230190000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Casa das Artes 2022</title>
+	</programme>
+	<programme start="20221230190000 +0000" stop="20221230192000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Notícias das 19 (Madeira)</title>
+	</programme>
+	<programme start="20221230192000 +0000" stop="20221230210000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Madeira Viva 2022</title>
+	</programme>
+	<programme start="20221230210000 +0000" stop="20221230215000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Telejornal Madeira</title>
+	</programme>
+	<programme start="20221230215000 +0000" stop="20221230225500 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Dossier de Imprensa 2022</title>
+	</programme>
+	<programme start="20221230225500 +0000" stop="20221230233000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Estrangeiros na Madeira</title>
+	</programme>
+	<programme start="20221230233000 +0000" stop="20221231000000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">Telejornal Madeira</title>
+	</programme>
+	
+<!-- Sabado	 -->
+	<programme start="20221231000000 +0000" stop="20221231063000 +0000" channel="RTPMadeira.pt">
+		<title lang="pt">RTP 3 (Madeira)</title>
+	</programme>
+  
+Kuriakos TV
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  
+
+Galicia TV
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
  
 </tv>
