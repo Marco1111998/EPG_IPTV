@@ -2,40 +2,334 @@
 
 <tv>
 
-  <channel id="ABolaTV.pt">
-	<display-name lang="pt">A BOLA TV</display-name>
-	<icon src="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" />
-  </channel>  
-  <channel id="RTPAfrica.pt">
-    <display-name lang="pt">RTP AFRICA</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-africa.png" />
-  </channel>
-  <channel id="RTPAcores.pt">
-    <display-name lang="pt">RTP ACORES</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-acores.png" />
-  </channel>
-  <channel id="RTPMadeira.pt">
-    <display-name lang="pt">RTP MADEIRA</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png" />
-  </channel>
-  <channel id="RTPMemoria.pt">
-    <display-name lang="pt">RTP MEMORIA</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png" />
-  </channel>
-  <channel id="KuriakosTV.pt">
-    <display-name lang="pt">KURIAKOS TV</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/kuriakos.png" />
-  </channel>  
-  <channel id="GaliciaTVEuropa.es">
-    <display-name lang="pt">TV GALICIA</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/tv-galicia.png" />
-  </channel> 
+	<channel id="ABolaTV.pt">
+		<display-name lang="pt">A BOLA TV</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" />
+	</channel>  
+	<channel id="SICCaras.pt">
+		<display-name>SIC CARAS</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sic-caras.png"/>
+	</channel>
+	<channel id="SICMulher.pt">
+		<display-name>SIC MULHER</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sic-mulher.png"/>
+	</channel>
+	<channel id="SICRadical.pt">
+		<display-name>SIC RADICAL</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sic-radical.png"/>
+	</channel> 
+	<channel id="PortoCanal.pt">
+		<display-name lang="pt">PORTO CANAL</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/porto-canal.png" />
+	</channel>
+	<channel id="RTPAfrica.pt">
+		<display-name lang="pt">RTP AFRICA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-africa.png" />
+	</channel>
+	<channel id="RTPAcores.pt">
+		<display-name lang="pt">RTP ACORES</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-acores.png" />
+	</channel>
+	<channel id="RTPMadeira.pt">
+		<display-name lang="pt">RTP MADEIRA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png" />
+	</channel>
+	<channel id="RTPMemoria.pt">
+		<display-name lang="pt">RTP MEMORIA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png" />
+	</channel>
+	<channel id="KuriakosTV.pt">
+		<display-name lang="pt">KURIAKOS TV</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/kuriakos.png" />
+	</channel>  
+	<channel id="GaliciaTVEuropa.es">
+		<display-name lang="pt">TV GALICIA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/tv-galicia.png" />
+	</channel> 
 	<channel id="TPAInternacional.ao">
-	<display-name lang="pt">TPA INTERNACIONAL</display-name>
-	<icon src="https://www.meo.pt/PublishingImages/canais/tpa-internacional.png" />
+		<display-name lang="pt">TPA INTERNACIONAL</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/tpa-internacional.png" />
 	</channel>  
 
 
+<!-- Segunda-Feira -->
+	<programme start="20230102000000 +0000" stop="20230102010000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+
+<!-- Quarta-Feira -->
+	<programme start="20221228230000 +0000" stop="20221229010000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	
+<!-- Quinta-Feira -->
+	<programme start="20221229010000 +0000" stop="20221229013000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221229013000 +0000" stop="20221229033000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221229033000 +0000" stop="20221229040000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20221229040000 +0000" stop="20221229043000 +0000" channel="Canal11.pt">
+		<title lang="pt">Máquina Do Tempo - Carla Couto</title>
+	</programme>
+	<programme start="20221229043000 +0000" stop="20221229050000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221229050000 +0000" stop="20221229070000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221229070000 +0000" stop="20221229072500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221229072500 +0000" stop="20221229092500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221229092500 +0000" stop="20221229110000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221229110000 +0000" stop="20221229112500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221229112500 +0000" stop="20221229130000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221229130000 +0000" stop="20221229133500 +0000" channel="Canal11.pt">
+		<title lang="pt">Máquina Do Tempo</title>
+	</programme>
+	<programme start="20221229133500 +0000" stop="20221229140000 +0000" channel="Canal11.pt">
+		<title lang="pt">Cândido On Tour</title>
+	</programme>
+	<programme start="20221229140000 +0000" stop="20221229145500 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20221229145500 +0000" stop="20221229163000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221229163000 +0000" stop="20221229165500 +0000" channel="Canal11.pt">
+		<title lang="pt">11 Na Hora</title>
+	</programme>
+	<programme start="20221229165500 +0000" stop="20221229183000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221229183000 +0000" stop="20221229200000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221229200000 +0000" stop="20221229204000 +0000" channel="Canal11.pt">
+		<title lang="pt">11 Na Hora</title>
+	</programme>
+	<programme start="20221229204000 +0000" stop="20221229224500 +0000" channel="Canal11.pt">
+		<title lang="pt">Ferreiras x Moncarapachense</title>
+	</programme>
+	<programme start="20221229224500 +0000" stop="20221229230000 +0000" channel="Canal11.pt">
+		<title lang="pt">Liga BPI - Compacto - 9ª Jornada</title>
+	</programme>
+	<programme start="20221229230000 +0000" stop="20221230010000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+
+<!-- Sexta-Feira -->
+	<programme start="20221230010000 +0000" stop="20221230013000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221230013000 +0000" stop="20221230033000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221230033000 +0000" stop="20221230040000 +0000" channel="Canal11.pt">
+		<title lang="pt">Primeira Linha</title>
+	</programme>
+	<programme start="20221230040000 +0000" stop="20221230050000 +0000" channel="Canal11.pt">
+		<title lang="pt">Tempo Útil</title>
+	</programme>
+	<programme start="20221230050000 +0000" stop="20221230070000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221230070000 +0000" stop="20221230072500 +0000" channel="Canal11.pt">
+	<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221230072500 +0000" stop="20221230092500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221230092500 +0000" stop="20221230110000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221230110000 +0000" stop="20221230112500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221230112500 +0000" stop="20221230130000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221230130000 +0000" stop="20221230133000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20221230133000 +0000" stop="20221230134500 +0000" channel="Canal11.pt">
+		<title lang="pt">Amor A Camisola</title>
+	</programme>
+	<programme start="20221230134500 +0000" stop="20221230141500 +0000" channel="Canal11.pt">
+		<title lang="pt">Máquina Do Tempo</title>
+	</programme>
+	<programme start="20221230141500 +0000" stop="20221230154500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221230154500 +0000" stop="20221230170000 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Sexta</title>
+	</programme>
+	<programme start="20221230170000 +0000" stop="20221230183000 +0000" channel="Canal11.pt">
+	<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20221230183000 +0000" stop="20221230190000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221230190000 +0000" stop="20221230202500 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Sexta</title>
+	</programme>
+	<programme start="20221230202500 +0000" stop="20221230220000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal: Jorge Antunes x Caxinas</title>
+	</programme>
+	<programme start="20221230220000 +0000" stop="20221230223000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20221230223000 +0000" stop="20221230230000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221230230000 +0000" stop="20221231010000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+
+<!-- Sabado -->
+	<programme start="20221231010000 +0000" stop="20221231013000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231013000 +0000" stop="20221231033000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221231033000 +0000" stop="20221231043000 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20221231043000 +0000" stop="20221231050000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231050000 +0000" stop="20221231070000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221231070000 +0000" stop="20221231080000 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20221231080000 +0000" stop="20221231083000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20221231083000 +0000" stop="20221231090000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231090000 +0000" stop="20221231110000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221231110000 +0000" stop="20221231123000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal: Jorge Antunes x Caxinas</title>
+	</programme>
+	<programme start="20221231123000 +0000" stop="20221231133000 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20221231133000 +0000" stop="20221231143000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20221231143000 +0000" stop="20221231150000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231150000 +0000" stop="20221231180000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal x Brasil</title>
+	</programme>
+	<programme start="20221231180000 +0000" stop="20221231190000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20221231190000 +0000" stop="20221231210000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Femenino</title>
+	</programme>
+	<programme start="20221231210000 +0000" stop="20221231220000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231220000 +0000" stop="20221231230500 +0000" channel="Canal11.pt">
+		<title lang="pt">Cândido On Tour</title>
+	</programme>
+	<programme start="20221231230500 +0000" stop="20230101000500 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	
+<!-- Domingo -->
+	<programme start="20230101000500 +0000" stop="20230101010500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101010500 +0000" stop="20230101020500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101020500 +0000" stop="20230101031000 +0000" channel="Canal11.pt">
+		<title lang="pt">Cândido On Tour</title>
+	</programme>
+	<programme start="20230101031000 +0000" stop="20230101041000 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20230101041000 +0000" stop="20230101051000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101051000 +0000" stop="20230101061000 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20230101061000 +0000" stop="20230101064000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20230101064000 +0000" stop="20230101070000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101070000 +0000" stop="20230101080000 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20230101080000 +0000" stop="20230101082500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101082500 +0000" stop="20230101092500 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20230101092500 +0000" stop="20230101102500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101102500 +0000" stop="20230101110000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101110000 +0000" stop="20230101115500 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20230101115500 +0000" stop="20230101130000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101130000 +0000" stop="20230101140000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101140000 +0000" stop="20230101162500 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal x Brasil</title>
+	</programme>
+	<programme start="20230101162500 +0000" stop="20230101165000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101165000 +0000" stop="20230101175000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101175000 +0000" stop="20230101202500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Femenino</title>
+	</programme>
+	<programme start="20230101202500 +0000" stop="20230101212500 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20230101212500 +0000" stop="20230101223000 +0000" channel="Canal11.pt">
+		<title lang="pt">Cândido On Tour</title>
+	</programme>
+	<programme start="20230101223000 +0000" stop="20230102000000 +0000" channel="Canal11.pt">
+		<title lang="pt">Original 11</title>
+	</programme>
+
+
+<!-- Quarta-Feira -->
 	<programme start="20221228220000 +0000" stop="20221229001500 +0000" channel="ABolaTV.pt">
 	<title lang="pt">A Bola Da Noite</title>
 	</programme>
@@ -562,6 +856,1582 @@
 	<programme start="20230102000000 +0000" stop="20230102003000 +0000" channel="ABolaTV.pt">
 	<title lang="pt">Black Power</title>
 	</programme>
+	
+
+	<programme start="20221228223900 +0000" stop="20221229000700 +0000" channel="SICCaras.pt">
+		<title lang="pt">Passadeira Vermelha</title>
+	</programme>
+	
+	<programme start="20221229000700 +0000" stop="20221229005100 +0000" channel="SICCaras.pt">
+		<title lang="pt">Barcos Com Amor</title>
+	</programme>
+	<programme start="20221229005100 +0000" stop="20221229013400 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 5</title>
+	</programme>
+	<programme start="20221229021800 +0000" stop="20221229030300 +0000" channel="SICCaras.pt">
+	<title lang="pt">The Block Australia T14 - Ep. 25</title>
+	</programme>
+	<programme start="20221229030300 +0000" stop="20221229034700 +0000" channel="SICCaras.pt">
+	<title lang="pt">Ellen T19 - Ep. 9</title>
+	</programme>
+	<programme start="20221229034700 +0000" stop="20221229041100 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Do Ano Irlanda T4 - Ep. 6</title>
+	</programme>
+	<programme start="20221229043600 +0000" stop="20221229051000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Look@Me T3 - Ep. 9</title>
+	</programme>
+	<programme start="20221229051000 +0000" stop="20221229053500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Posso Entrar? T6 - Ep. 4</title>
+	</programme>
+	<programme start="20221229053500 +0000" stop="20221229054500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Boa Cama, Boa Mesa T9 - Ep. 15</title>
+	</programme>
+	<programme start="20221229054500 +0000" stop="20221229071400 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 16</title>
+	</programme>
+	<programme start="20221229084500 +0000" stop="20221229093400 +0000" channel="SICCaras.pt">
+	<title lang="pt">Alta Definição T4 - Ep. 30</title>
+	</programme>
+	<programme start="20221229093400 +0000" stop="20221229101800 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221229101800 +0000" stop="20221229105500 +0000" channel="SICCaras.pt">
+	<title lang="pt">The Block Australia T14 - Ep. 29</title>
+	</programme>
+	<programme start="20221229113900 +0000" stop="20221229122000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched T7 - Ep. 9</title>
+	</programme>
+	<programme start="20221229130200 +0000" stop="20221229134700 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221229134700 +0000" stop="20221229143200 +0000" channel="SICCaras.pt">
+	<title lang="pt">Sandrigham Os Segredos De Um Natal Real</title>
+	</programme>
+	<programme start="20221229143200 +0000" stop="20221229152000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Alta Definição T4 - Ep. 27</title>
+	</programme>
+	<programme start="20221229152000 +0000" stop="20221229160300 +0000" channel="SICCaras.pt">
+	<title lang="pt">The Block Australia T14 - Ep. 23</title>
+	</programme>
+	<programme start="20221229160300 +0000" stop="20221229164600 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 11</title>
+	</programme>
+	<programme start="20221229173000 +0000" stop="20221229181300 +0000" channel="SICCaras.pt">
+	<title lang="pt">Miúdos Ricos No Fio Da Navalha T2 - Ep. 13</title>
+	</programme>
+	<programme start="20221229181300 +0000" stop="20221229185200 +0000" channel="SICCaras.pt">
+	<title lang="pt">The Block Australia T14 - Ep. 33</title>
+	</programme>
+	<programme start="20221229185200 +0000" stop="20221229202300 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 18</title>
+	</programme>
+	<programme start="20221229202300 +0000" stop="20221229210400 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched International Disasters</title>
+	</programme>
+	<programme start="20221229214800 +0000" stop="20221229223100 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 6</title>
+	</programme>
+	<programme start="20221229223100 +0000" stop="20221230000300 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 19</title>
+	</programme>
+	
+	
+	<programme start="20221230000300 +0000" stop="20221230004600 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 12</title>
+	</programme>
+	<programme start="20221230004600 +0000" stop="20221230012800 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched T7 - Ep. 7</title>
+	</programme>
+	<programme start="20221230021100 +0000" stop="20221230025400 +0000" channel="SICCaras.pt">
+	<title lang="pt">The Block Australia T14 - Ep. 26</title>
+	</programme>
+	<programme start="20221230025400 +0000" stop="20221230033500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Ellen T19 - Ep. 10</title>
+	</programme>
+	<programme start="20221230033500 +0000" stop="20221230035900 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Do Ano Irlanda T4 - Ep. 7</title>
+	</programme>
+	<programme start="20221230042600 +0000" stop="20221230050100 +0000" channel="SICCaras.pt">
+	<title lang="pt">Look@Me T3 - Ep. 10</title>
+	</programme>
+	<programme start="20221230060000 +0000" stop="20221230071500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 17</title>
+	</programme>
+	<programme start="20221230084500 +0000" stop="20221230091500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Alta Definição T4 - Ep. 34</title>
+	</programme>
+	<programme start="20221230091500 +0000" stop="20221230100000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 5</title>
+	</programme>
+	<programme start="20221230100000 +0000" stop="20221230104500 +0000" channel="SICCaras.pt">
+	<title lang="pt">The Block Australia T14 - Ep. 30</title>
+	</programme>
+	<programme start="20221230113000 +0000" stop="20221230121500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched T7 - Ep. 10</title>
+	</programme>
+	<programme start="20221230121500 +0000" stop="20221230130000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched International Disasters</title>
+	</programme>
+	<programme start="20221230130000 +0000" stop="20221230134500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched Obsessed</title>
+	</programme>
+	<programme start="20221230134500 +0000" stop="20221230143000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221230143000 +0000" stop="20221230150000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Alta Definição T4 - Ep. 32</title>
+	</programme>
+	<programme start="20221230150000 +0000" stop="20221230154500 +0000" channel="SICCaras.pt">
+	<title lang="pt">The Block Australia T14 - Ep. 24</title>
+	</programme>
+	<programme start="20221230154500 +0000" stop="20221230163000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 12</title>
+	</programme>
+	<programme start="20221230163000 +0000" stop="20221230171500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 13</title>
+	</programme>
+	<programme start="20221230171500 +0000" stop="20221230180000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Miúdos Ricos No Fio Da Navalha T2 - Ep. 14</title>
+	</programme>
+	<programme start="20221230180000 +0000" stop="20221230184500 +0000" channel="SICCaras.pt">
+	<title lang="pt">The Block Australia T14 - Ep. 34</title>
+	</programme>
+	<programme start="20221230184500 +0000" stop="20221230201500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 19</title>
+	</programme>
+	<programme start="20221230201500 +0000" stop="20221230210000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Icons T1 - Ep. 7</title>
+	</programme>
+	<programme start="20221230210000 +0000" stop="20221230214500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Dubai De Luxo T1 - Ep. 5</title>
+	</programme>
+	<programme start="20221230214500 +0000" stop="20221230223000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Dubai De Luxo T1 - Ep. 6</title>
+	</programme>
+	<programme start="20221230223000 +0000" stop="20221230231500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched T7 - Ep. 9</title>
+	</programme>
+	<programme start="20221230231500 +0000" stop="20221231000000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched T7 - Ep. 10</title>
+	</programme>
+	<programme start="20221231000000 +0000" stop="20221231004500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 9</title>
+	</programme>
+	
+	<programme start="20221230232300 +0000" stop="20221231000600 +0000" channel="SICCaras.pt">
+	<title lang="pt">Botched Obsessed</title>
+	</programme>
+	<programme start="20221231000600 +0000" stop="20221231004700 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 9</title>
+	</programme>
+	<programme start="20221231004700 +0000" stop="20221231014000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 10</title>
+	</programme>
+	<programme start="20221231014000 +0000" stop="20221231021800 +0000" channel="SICCaras.pt">
+	<title lang="pt">Fantasmas das Celebridades T8 - Ep. 8</title>
+	</programme>
+	<programme start="20221231021800 +0000" stop="20221231030200 +0000" channel="SICCaras.pt">
+	<title lang="pt">Ellen T19 - Ep. 11</title>
+	</programme>
+	<programme start="20221231030200 +0000" stop="20221231043000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 20</title>
+	</programme>
+	<programme start="20221231043000 +0000" stop="20221231050400 +0000" channel="SICCaras.pt">
+	<title lang="pt">Look@Me T3 - Ep. 11</title>
+	</programme>
+	<programme start="20221231050400 +0000" stop="20221231053800 +0000" channel="SICCaras.pt">
+	<title lang="pt">Look@Me T3 - Ep. 12</title>
+	</programme>
+	<programme start="20221231053800 +0000" stop="20221231060400 +0000" channel="SICCaras.pt">
+	<title lang="pt">Posso Entrar? T6 - Ep. 4</title>
+	</programme>
+	<programme start="20221231060400 +0000" stop="20221231074200 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 18</title>
+	</programme>
+	<programme start="20221231074200 +0000" stop="20221231082300 +0000" channel="SICCaras.pt">
+	<title lang="pt">Ellen T19 - Ep. 8</title>
+	</programme>
+	<programme start="20221231082300 +0000" stop="20221231090500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Ellen T19 - Ep. 9</title>
+	</programme>
+	<programme start="20221231090500 +0000" stop="20221231094800 +0000" channel="SICCaras.pt">
+	<title lang="pt">Ellen T19 - Ep. 10</title>
+	</programme>
+	<programme start="20221231094800 +0000" stop="20221231102700 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221231102700 +0000" stop="20221231104200 +0000" channel="SICCaras.pt">
+	<title lang="pt">Alta Definição T4 - Ep. 13</title>
+	</programme>
+	<programme start="20221231104200 +0000" stop="20221231120700 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221231120700 +0000" stop="20221231125700 +0000" channel="SICCaras.pt">
+	<title lang="pt">Alta Definição T4 - Ep. 30</title>
+	</programme>
+	<programme start="20221231125700 +0000" stop="20221231132300 +0000" channel="SICCaras.pt">
+	<title lang="pt">Posso Entrar? T6 - Ep. 4</title>
+	</programme>
+	<programme start="20221231132300 +0000" stop="20221231140600 +0000" channel="SICCaras.pt">
+	<title lang="pt">Segredos Nos Palácios Reais T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221231140600 +0000" stop="20221231144800 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 9</title>
+	</programme>
+	<programme start="20221231144800 +0000" stop="20221231154100 +0000" channel="SICCaras.pt">
+	<title lang="pt">Barcos Com Amor T9 - Ep. 10</title>
+	</programme>
+	<programme start="20221231154100 +0000" stop="20221231162600 +0000" channel="SICCaras.pt">
+	<title lang="pt">Miúdos Ricos No Fio Da Navalha T2 - Ep. 8</title>
+	</programme>
+	<programme start="20221231162600 +0000" stop="20221231165900 +0000" channel="SICCaras.pt">
+	<title lang="pt">Look@Me T3 - Ep. 12</title>
+	</programme>
+	<programme start="20221231165900 +0000" stop="20221231173200 +0000" channel="SICCaras.pt">
+	<title lang="pt">Posso Entrar? T4 - Ep. 38</title>
+	</programme>
+	<programme start="20221231173200 +0000" stop="20221231181900 +0000" channel="SICCaras.pt">
+	<title lang="pt">Natal Nas Casas Reais</title>
+	</programme>
+	<programme start="20221231181900 +0000" stop="20221231190500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Natal Em Chatsworth</title>
+	</programme>
+	<programme start="20221231190500 +0000" stop="20221231202900 +0000" channel="SICCaras.pt">
+	<title lang="pt">List Of A Lifetime</title>
+	</programme>
+	<programme start="20221231202900 +0000" stop="20221231215100 +0000" channel="SICCaras.pt">
+	<title lang="pt">Christmas Stray</title>
+	</programme>
+	<programme start="20221231215100 +0000" stop="20221231231400 +0000" channel="SICCaras.pt">
+	<title lang="pt">A Taste Of Christmas</title>
+	</programme>
+	<programme start="20221231231400 +0000" stop="20221231235900 +0000" channel="SICCaras.pt">
+	<title lang="pt">Epic Celebrity Fails</title>
+	</programme>
+	<programme start="20221231235900 +0000" stop="20230101030900 +0000" channel="SICCaras.pt">
+	<title lang="pt">The 74Th Emmy Awards 2022.0</title>
+	</programme>
+	<programme start="20230101030900 +0000" stop="20230101035200 +0000" channel="SICCaras.pt">
+	<title lang="pt">Celebrity Game Face T1 - Ep. 6</title>
+	</programme>
+	<programme start="20230101035200 +0000" stop="20230101052400 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 17</title>
+	</programme>
+	<programme start="20230101052400 +0000" stop="20230101060600 +0000" channel="SICCaras.pt">
+	<title lang="pt">Dance Moms T6 - Ep. 9</title>
+	</programme>
+	<programme start="20230101060600 +0000" stop="20230101061000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Dance Moms T6 - Ep. 10</title>
+	</programme>
+	<programme start="20230101061000 +0000" stop="20230101073000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Passadeira Vermelha Especiais T9 - Ep. 19</title>
+	</programme>
+	<programme start="20230101073000 +0000" stop="20230101081500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Ellen T19 - Ep. 11</title>
+	</programme>
+	<programme start="20230101081500 +0000" stop="20230101090000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Ellen T19 - Ep. 12</title>
+	</programme>
+	<programme start="20230101090000 +0000" stop="20230101093000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Posso Entrar? T6 - Ep. 4</title>
+	</programme>
+	<programme start="20230101093000 +0000" stop="20230101101500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Look@Me T3 - Ep. 12</title>
+	</programme>
+	<programme start="20230101101500 +0000" stop="20230101110000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Alta Definição T4 - Ep. 34</title>
+	</programme>
+	<programme start="20230101110000 +0000" stop="20230101114500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Alta Definição T4 - Ep. 27</title>
+	</programme>
+	<programme start="20230101114500 +0000" stop="20230101123000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Celebrity Game Face T1 - Ep. 3</title>
+	</programme>
+	<programme start="20230101123000 +0000" stop="20230101131500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Celebrity Game Face T1 - Ep. 4</title>
+	</programme>
+	<programme start="20230101131500 +0000" stop="20230101140000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 3</title>
+	</programme>
+	<programme start="20230101140000 +0000" stop="20230101144500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 4</title>
+	</programme>
+	<programme start="20230101144500 +0000" stop="20230101153000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Casa Quente De Inverno T1 - Ep. 5</title>
+	</programme>
+	<programme start="20230101153000 +0000" stop="20230101180000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Royal Variety Performance 2021.0</title>
+	</programme>
+	<programme start="20230101180000 +0000" stop="20230101184500 +0000" channel="SICCaras.pt">
+	<title lang="pt">Billion Pound Bond Street</title>
+	</programme>
+	<programme start="20230101184500 +0000" stop="20230101193000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Segredos Nos Palácios Reais T1 - Ep. 5</title>
+	</programme>
+	<programme start="20230101193000 +0000" stop="20230101210000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Operation Feliz Navidad</title>
+	</programme>
+	<programme start="20230101210000 +0000" stop="20230101223000 +0000" channel="SICCaras.pt">
+	<title lang="pt">One Delicious Christmas</title>
+	</programme>
+	<programme start="20230101223000 +0000" stop="20230102000000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Designing Christmas</title>
+	</programme>
+	<programme start="20230102000000 +0000" stop="20230102010000 +0000" channel="SICCaras.pt">
+	<title lang="pt">Sandrigham Os Segredos De Um Natal Real</title>
+	</programme>
+	
+	
+	
+	
+	
+	<programme start="20221228231800 +0000" stop="20221229000500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britain's Got Talent T15 - Ep. 5</title>
+	</programme>
+	<programme start="20221229000500 +0000" stop="20221229004900 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 7</title>
+	</programme>
+	<programme start="20221229004900 +0000" stop="20221229012000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Married At First Sight Italy T5 - Ep. 18</title>
+	</programme>
+	<programme start="20221229012000 +0000" stop="20221229014700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Married At First Sight Italy T5 - Ep. 19</title>
+	</programme>
+	<programme start="20221229014700 +0000" stop="20221229022500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 34</title>
+	</programme>
+	<programme start="20221229022500 +0000" stop="20221229030400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 35</title>
+	</programme>
+	<programme start="20221229030400 +0000" stop="20221229034600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Bolívar T1 - Ep. 58</title>
+	</programme>
+	<programme start="20221229034600 +0000" stop="20221229041700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Masterchef Colombia Júnior T1 - Ep. 18</title>
+	</programme>
+	<programme start="20221229041700 +0000" stop="20221229050100 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 7</title>
+	</programme>
+	<programme start="20221229050100 +0000" stop="20221229054400 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 25</title>
+	</programme>
+	<programme start="20221229054400 +0000" stop="20221229062700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. Phil T17 - Ep. 129</title>
+	</programme>
+	<programme start="20221229062700 +0000" stop="20221229071400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 6</title>
+	</programme>
+	<programme start="20221229071400 +0000" stop="20221229075600 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 16</title>
+	</programme>
+	<programme start="20221229075600 +0000" stop="20221229084200 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 17</title>
+	</programme>
+	<programme start="20221229084200 +0000" stop="20221229092600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. Phil T17 - Ep. 132</title>
+	</programme>
+	<programme start="20221229092600 +0000" stop="20221229095600 +0000" channel="SICMulher.pt">
+	<title lang="pt">That Animal Rescue Show T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221229095600 +0000" stop="20221229103300 +0000" channel="SICMulher.pt">
+	<title lang="pt">Masterchef Colombia Júnior T1 - Ep. 24</title>
+	</programme>
+	<programme start="20221229103300 +0000" stop="20221229112000 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221229112000 +0000" stop="20221229124400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Designing Christmas</title>
+	</programme>
+	<programme start="20221229124400 +0000" stop="20221229133900 +0000" channel="SICMulher.pt">
+	<title lang="pt">Joias TV - Televendas</title>
+	</programme>
+	<programme start="20221229133900 +0000" stop="20221229142600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221229142600 +0000" stop="20221229151400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221229151400 +0000" stop="20221229153400 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 10</title>
+	</programme>
+	<programme start="20221229153400 +0000" stop="20221229162200 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 11</title>
+	</programme>
+	<programme start="20221229162200 +0000" stop="20221229170700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 60</title>
+	</programme>
+	<programme start="20221229170700 +0000" stop="20221229174700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 61</title>
+	</programme>
+	<programme start="20221229174700 +0000" stop="20221229182500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 62</title>
+	</programme>
+	<programme start="20221229182500 +0000" stop="20221229183700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britain's Got Talent T15 - Ep. 5</title>
+	</programme>
+	<programme start="20221229183700 +0000" stop="20221229191200 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britain's Got Talent T15 - Ep. 6</title>
+	</programme>
+	<programme start="20221229191200 +0000" stop="20221229195600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Love It Or List It USA T10 - Ep. 6</title>
+	</programme>
+	<programme start="20221229195600 +0000" stop="20221229204300 +0000" channel="SICMulher.pt">
+	<title lang="pt">Love It Or List It USA T10 - Ep. 10</title>
+	</programme>
+	<programme start="20221229204300 +0000" stop="20221229213300 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 63</title>
+	</programme>
+	<programme start="20221229213300 +0000" stop="20221229222400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 64</title>
+	</programme>
+	<programme start="20221229222400 +0000" stop="20221229225600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Masterchef Austrália T14 - Ep. 78</title>
+	</programme>
+	<programme start="20221229225600 +0000" stop="20221229233000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Masterchef Austrália T14 - Ep. 79</title>
+	</programme>
+	<programme start="20221229233000 +0000" stop="20221230001600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britain's Got Talent T15 - Ep. 6</title>
+	</programme>
+	<programme start="20221230001600 +0000" stop="20221230010000 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 8</title>
+	</programme>
+	<programme start="20221230010000 +0000" stop="20221230012400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Married At First Sight Italy T5 - Ep. 19</title>
+	</programme>
+	<programme start="20221230012400 +0000" stop="20221230015700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Married At First Sight Italy T5 - Ep. 20</title>
+	</programme>
+	<programme start="20221230015700 +0000" stop="20221230023600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 35</title>
+	</programme>
+	<programme start="20221230023600 +0000" stop="20221230031400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 36</title>
+	</programme>
+	<programme start="20221230031400 +0000" stop="20221230035600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Bolívar T1 - Ep. 59</title>
+	</programme>
+	<programme start="20221230035600 +0000" stop="20221230043000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Masterchef Colombia Júnior T1 - Ep. 19</title>
+	</programme>
+	<programme start="20221230043000 +0000" stop="20221230051400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 8</title>
+	</programme>
+	<programme start="20221230051400 +0000" stop="20221230060000 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 26</title>
+	</programme>
+	<programme start="20221230060000 +0000" stop="20221230064500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. Phil T17 - Ep. 130</title>
+	</programme>
+	<programme start="20221230064500 +0000" stop="20221230071500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 7</title>
+	</programme>
+	<programme start="20221230071500 +0000" stop="20221230074500 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 18</title>
+	</programme>
+	<programme start="20221230074500 +0000" stop="20221230083000 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 19</title>
+	</programme>
+	<programme start="20221230083000 +0000" stop="20221230091500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. Phil T17 - Ep. 133</title>
+	</programme>
+	<programme start="20221230091500 +0000" stop="20221230094500 +0000" channel="SICMulher.pt">
+	<title lang="pt">That Animal Rescue Show T1 - Ep. 5</title>
+	</programme>
+	<programme start="20221230094500 +0000" stop="20221230103000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Masterchef Colombia Júnior T1 - Ep. 25</title>
+	</programme>
+	<programme start="20221230103000 +0000" stop="20221230111500 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 5</title>
+	</programme>
+	<programme start="20221230111500 +0000" stop="20221230124500 +0000" channel="SICMulher.pt">
+	<title lang="pt">A Gingerbread Christmas</title>
+	</programme>
+	<programme start="20221230124500 +0000" stop="20221230134500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Joias TV - Televendas</title>
+	</programme>
+	<programme start="20221230134500 +0000" stop="20221230143000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221230143000 +0000" stop="20221230151500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221230151500 +0000" stop="20221230160000 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 11</title>
+	</programme>
+	<programme start="20221230160000 +0000" stop="20221230164500 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 12</title>
+	</programme>
+	<programme start="20221230164500 +0000" stop="20221230171500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 62</title>
+	</programme>
+	<programme start="20221230171500 +0000" stop="20221230180000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 63</title>
+	</programme>
+	<programme start="20221230180000 +0000" stop="20221230183000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 64</title>
+	</programme>
+	<programme start="20221230183000 +0000" stop="20221230190000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britain's Got Talent T15 - Ep. 6</title>
+	</programme>
+	<programme start="20221230190000 +0000" stop="20221230191500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britain's Got Talent T15 - Ep. 7</title>
+	</programme>
+	<programme start="20221230191500 +0000" stop="20221230204500 +0000" channel="SICMulher.pt">
+	<title lang="pt">A Gift Of Christmas</title>
+	</programme>
+	<programme start="20221230204500 +0000" stop="20221230213000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 65</title>
+	</programme>
+	<programme start="20221230213000 +0000" stop="20221230221500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mother T1 - Ep. 66</title>
+	</programme>
+	<programme start="20221230221500 +0000" stop="20221230230000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Masterchef Austrália T14 - Ep. 80</title>
+	</programme>
+	<programme start="20221230230000 +0000" stop="20221230234500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britain's Got Talent T16 - Ep. 7</title>
+	</programme>
+	<programme start="20221230234500 +0000" stop="20221231011500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dog Who Saved Christmas</title>
+	</programme>
+	
+	<programme start="20221230232600 +0000" stop="20221231005500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dog Who Saved Christmas</title>
+	</programme>
+	<programme start="20221231005500 +0000" stop="20221231022700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Beethoven´s Treasure Tail</title>
+	</programme>
+	<programme start="20221231022700 +0000" stop="20221231031100 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 9</title>
+	</programme>
+	<programme start="20221231031100 +0000" stop="20221231035500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 10</title>
+	</programme>
+	<programme start="20221231035500 +0000" stop="20221231043900 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 11</title>
+	</programme>
+	<programme start="20221231043900 +0000" stop="20221231053900 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221231053900 +0000" stop="20221231063400 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221231063400 +0000" stop="20221231071900 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 20</title>
+	</programme>
+	<programme start="20221231071900 +0000" stop="20221231080100 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 21</title>
+	</programme>
+	<programme start="20221231080100 +0000" stop="20221231084600 +0000" channel="SICMulher.pt">
+	<title lang="pt">My Dream Home T4 - Ep. 22</title>
+	</programme>
+	<programme start="20221231084600 +0000" stop="20221231085600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Boa Cama, Boa Mesa T19 - Ep. 15</title>
+	</programme>
+	<programme start="20221231085600 +0000" stop="20221231090600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Espaços E Casas T14 - Ep. 46</title>
+	</programme>
+	<programme start="20221231090600 +0000" stop="20221231095800 +0000" channel="SICMulher.pt">
+	<title lang="pt">Mudar Para Melhor T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221231095800 +0000" stop="20221231101800 +0000" channel="SICMulher.pt">
+	<title lang="pt">Lucky Dog T9 - Ep. 23</title>
+	</programme>
+	<programme start="20221231101800 +0000" stop="20221231104200 +0000" channel="SICMulher.pt">
+	<title lang="pt">Lucky Dog T9 - Ep. 24</title>
+	</programme>
+	<programme start="20221231104200 +0000" stop="20221231115800 +0000" channel="SICMulher.pt">
+	<title lang="pt">What's Up? TV T2 - Ep. 16</title>
+	</programme>
+	<programme start="20221231115800 +0000" stop="20221231123500 +0000" channel="SICMulher.pt">
+	<title lang="pt">That Animal Rescue Show T1 - Ep. 6</title>
+	</programme>
+	<programme start="20221231123500 +0000" stop="20221231132200 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221231132200 +0000" stop="20221231140800 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T2 - Ep. 1</title>
+	</programme>
+	<programme start="20221231140800 +0000" stop="20221231145700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T2 - Ep. 2</title>
+	</programme>
+	<programme start="20221231145700 +0000" stop="20221231162500 +0000" channel="SICMulher.pt">
+	<title lang="pt">A Gift Of Christmas</title>
+	</programme>
+	<programme start="20221231162500 +0000" stop="20221231175000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Christmas In Switzerland</title>
+	</programme>
+	<programme start="20221231175000 +0000" stop="20221231211600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dog Who Saved Christmas</title>
+	</programme>
+	<programme start="20221231211600 +0000" stop="20221231225300 +0000" channel="SICMulher.pt">
+	<title lang="pt">Night Before</title>
+	</programme>
+	<programme start="20221231225300 +0000" stop="20230101002600 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britains's Got Talent The Ultimate Magician</title>
+	</programme>
+	<programme start="20230101002600 +0000" stop="20230101014800 +0000" channel="SICMulher.pt">
+	<title lang="pt">A Christmas Stray</title>
+	</programme>
+	<programme start="20230101014800 +0000" stop="20230101023400 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 11</title>
+	</programme>
+	<programme start="20230101023400 +0000" stop="20230101031700 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 12</title>
+	</programme>
+	<programme start="20230101031700 +0000" stop="20230101040000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Dr. House T3 - Ep. 13</title>
+	</programme>
+	<programme start="20230101040000 +0000" stop="20230101044400 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 3</title>
+	</programme>
+	<programme start="20230101044400 +0000" stop="20230101052800 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 4</title>
+	</programme>
+	<programme start="20230101052800 +0000" stop="20230101060000 +0000" channel="SICMulher.pt">
+	<title lang="pt">La Reina Del Flow T1 - Ep. 5</title>
+	</programme>
+	<programme start="20230101060000 +0000" stop="20230101070000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Love It Or List It USA T10 - Ep. 7</title>
+	</programme>
+	<programme start="20230101070000 +0000" stop="20230101074500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Love It Or List It USA T10 - Ep. 8</title>
+	</programme>
+	<programme start="20230101074500 +0000" stop="20230101083000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Love It Or List It USA T10 - Ep. 9</title>
+	</programme>
+	<programme start="20230101083000 +0000" stop="20230101084500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Boa Cama, Boa Mesa T19 - Ep. 16</title>
+	</programme>
+	<programme start="20230101084500 +0000" stop="20230101090000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Espaços E Casas T14 - Ep. 47</title>
+	</programme>
+	<programme start="20230101090000 +0000" stop="20230101093000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Lucky Dog T9 - Ep. 25</title>
+	</programme>
+	<programme start="20230101093000 +0000" stop="20230101100000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Lucky Dog T9 - Ep. 26</title>
+	</programme>
+	<programme start="20230101100000 +0000" stop="20230101104500 +0000" channel="SICMulher.pt">
+	<title lang="pt">That Animal Rescue Show T1 - Ep. 7</title>
+	</programme>
+	<programme start="20230101104500 +0000" stop="20230101120000 +0000" channel="SICMulher.pt">
+	<title lang="pt">12 Puppies And Us T1 - Ep. 1</title>
+	</programme>
+	<programme start="20230101120000 +0000" stop="20230101124500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T2 - Ep. 3</title>
+	</programme>
+	<programme start="20230101124500 +0000" stop="20230101133000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T2 - Ep. 4</title>
+	</programme>
+	<programme start="20230101133000 +0000" stop="20230101141500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Gordon, Gino And Fred Road Trip T2 - Ep. 5</title>
+	</programme>
+	<programme start="20230101141500 +0000" stop="20230101161500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Christmas In Pine Valle</title>
+	</programme>
+	<programme start="20230101161500 +0000" stop="20230101181500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Night Before</title>
+	</programme>
+	<programme start="20230101181500 +0000" stop="20230101201500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Hop</title>
+	</programme>
+	<programme start="20230101201500 +0000" stop="20230101213000 +0000" channel="SICMulher.pt">
+	<title lang="pt">Britains's Got Talent The Ultimate Magician</title>
+	</programme>
+	<programme start="20230101213000 +0000" stop="20230101234500 +0000" channel="SICMulher.pt">
+	<title lang="pt">Bad Words</title>
+	</programme>
+	<programme start="20230101234500 +0000" stop="20230102013000 +0000" channel="SICMulher.pt">
+	<title lang="pt">#FBF</title>
+	</programme>
+
+	
+	<programme start="20221228233100 +0000" stop="20221229001500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Dragon’s Den Canadá T15 - Ep. 7</title>
+	</programme>
+	<programme start="20221229001500 +0000" stop="20221229005500 +0000" channel="SICRadical.pt">
+	<title lang="pt">American Ninja Warrior T13 - Ep. 5</title>
+	</programme>
+	<programme start="20221229005500 +0000" stop="20221229014300 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 2</title>
+	</programme>
+	<programme start="20221229014300 +0000" stop="20221229023000 +0000" channel="SICRadical.pt">
+	<title lang="pt">SAS: Who Dares Wins Australia T1 - Ep. 10</title>
+	</programme>
+	<programme start="20221229023000 +0000" stop="20221229025100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Ninja Warrior G4 T1 - Ep. 36</title>
+	</programme>
+	<programme start="20221229025100 +0000" stop="20221229025500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 8</title>
+	</programme>
+	<programme start="20221229025500 +0000" stop="20221229032500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Gameplay T2 - Ep. 93</title>
+	</programme>
+	<programme start="20221229032500 +0000" stop="20221229034000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20221229034000 +0000" stop="20221229040000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Arte De Tentar T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221229040000 +0000" stop="20221229045600 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 170</title>
+	</programme>
+	<programme start="20221229045600 +0000" stop="20221229054100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito T18 - Ep. 270</title>
+	</programme>
+	<programme start="20221229054100 +0000" stop="20221229062700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito T18 - Ep. 266</title>
+	</programme>
+	<programme start="20221229062700 +0000" stop="20221229065400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Gameplay T2 - Ep. 91</title>
+	</programme>
+	<programme start="20221229065400 +0000" stop="20221229072100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 13</title>
+	</programme>
+	<programme start="20221229072100 +0000" stop="20221229074400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 14</title>
+	</programme>
+	<programme start="20221229074400 +0000" stop="20221229080900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 15</title>
+	</programme>
+	<programme start="20221229080900 +0000" stop="20221229082400 +0000" channel="SICRadical.pt">
+	<title lang="pt">On My Way T2 - Ep. 10</title>
+	</programme>
+	<programme start="20221229082400 +0000" stop="20221229090700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 53</title>
+	</programme>
+	<programme start="20221229090700 +0000" stop="20221229094900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 6</title>
+	</programme>
+	<programme start="20221229094900 +0000" stop="20221229102900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 45</title>
+	</programme>
+	<programme start="20221229102900 +0000" stop="20221229111100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 11</title>
+	</programme>
+	<programme start="20221229111100 +0000" stop="20221229115700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 12</title>
+	</programme>
+	<programme start="20221229115700 +0000" stop="20221229125100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 170</title>
+	</programme>
+	<programme start="20221229125100 +0000" stop="20221229131500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 14</title>
+	</programme>
+	<programme start="20221229131500 +0000" stop="20221229134100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 15</title>
+	</programme>
+	<programme start="20221229134100 +0000" stop="20221229142200 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 6</title>
+	</programme>
+	<programme start="20221229142200 +0000" stop="20221229150500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 7</title>
+	</programme>
+	<programme start="20221229150500 +0000" stop="20221229155100 +0000" channel="SICRadical.pt">
+	<title lang="pt">SAS: Who Dares Wins Australia T1 - Ep. 10</title>
+	</programme>
+	<programme start="20221229155100 +0000" stop="20221229163300 +0000" channel="SICRadical.pt">
+	<title lang="pt">SAS: Who Dares Wins Australia T1 - Ep. 11</title>
+	</programme>
+	<programme start="20221229163300 +0000" stop="20221229172900 +0000" channel="SICRadical.pt">
+	<title lang="pt">SAS: Who Dares Wins Australia T1 - Ep. 12</title>
+	</programme>
+	<programme start="20221229172900 +0000" stop="20221229181500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 14</title>
+	</programme>
+	<programme start="20221229181500 +0000" stop="20221229185900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 15</title>
+	</programme>
+	<programme start="20221229185900 +0000" stop="20221229194600 +0000" channel="SICRadical.pt">
+	<title lang="pt">American Ninja Warrior T13 - Ep. 6</title>
+	</programme>
+	<programme start="20221229194600 +0000" stop="20221229200700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Ninja Warrior G4 T1 - Ep. 37</title>
+	</programme>
+	<programme start="20221229200700 +0000" stop="20221229201000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 9</title>
+	</programme>
+	<programme start="20221229201000 +0000" stop="20221229202500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20221229202500 +0000" stop="20221229210700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 54</title>
+	</programme>
+	<programme start="20221229210700 +0000" stop="20221229214900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Million Dollar Mile T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221229214900 +0000" stop="20221229223200 +0000" channel="SICRadical.pt">
+	<title lang="pt">SAS: Who Dares Wins Australia T1 - Ep. 6</title>
+	</programme>
+	<programme start="20221229223200 +0000" stop="20221229231600 +0000" channel="SICRadical.pt">
+	<title lang="pt">Dragon’s Den Canadá T15 - Ep. 7</title>
+	</programme>
+	<programme start="20221229231600 +0000" stop="20221230000100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Dragon’s Den Canadá T15 - Ep. 8</title>
+	</programme>
+	<programme start="20221230000100 +0000" stop="20221230004600 +0000" channel="SICRadical.pt">
+	<title lang="pt">American Ninja Warrior T13 - Ep. 6</title>
+	</programme>
+	<programme start="20221230004600 +0000" stop="20221230012700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 3</title>
+	</programme>
+	<programme start="20221230012700 +0000" stop="20221230020900 +0000" channel="SICRadical.pt">
+	<title lang="pt">SAS: Who Dares Wins Australia T1 - Ep. 11</title>
+	</programme>
+	<programme start="20221230020900 +0000" stop="20221230023000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Ninja Warrior G4 T1 - Ep. 37</title>
+	</programme>
+	<programme start="20221230023000 +0000" stop="20221230023300 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 9</title>
+	</programme>
+	<programme start="20221230023300 +0000" stop="20221230031500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 54</title>
+	</programme>
+	<programme start="20221230031500 +0000" stop="20221230033600 +0000" channel="SICRadical.pt">
+	<title lang="pt">Ninja Warrior G4 T1 - Ep. 36</title>
+	</programme>
+	<programme start="20221230033600 +0000" stop="20221230035800 +0000" channel="SICRadical.pt">
+	<title lang="pt">Ninja Warrior G4 T1 - Ep. 37</title>
+	</programme>
+	<programme start="20221230035800 +0000" stop="20221230040700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Cinetendinha T1 - Ep. 481</title>
+	</programme>
+	<programme start="20221230040700 +0000" stop="20221230043700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Bits T2 - Ep. 9</title>
+	</programme>
+	<programme start="20221230043700 +0000" stop="20221230045300 +0000" channel="SICRadical.pt">
+	<title lang="pt">On My Way T2 - Ep. 10</title>
+	</programme>
+	<programme start="20221230045300 +0000" stop="20221230050600 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boa Cama Boa Mesa T19 - Ep. 14</title>
+	</programme>
+	<programme start="20221230050600 +0000" stop="20221230052300 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20221230052300 +0000" stop="20221230060000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito T18 - Ep. 271</title>
+	</programme>
+	<programme start="20221230060000 +0000" stop="20221230064500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito T18 - Ep. 267</title>
+	</programme>
+	<programme start="20221230064500 +0000" stop="20221230071500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Gameplay T2 - Ep. 92</title>
+	</programme>
+	<programme start="20221230071500 +0000" stop="20221230073000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 14</title>
+	</programme>
+	<programme start="20221230073000 +0000" stop="20221230074500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 15</title>
+	</programme>
+	<programme start="20221230074500 +0000" stop="20221230080000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 16</title>
+	</programme>
+	<programme start="20221230080000 +0000" stop="20221230081500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20221230081500 +0000" stop="20221230090000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 54</title>
+	</programme>
+	<programme start="20221230090000 +0000" stop="20221230100000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 7</title>
+	</programme>
+	<programme start="20221230100000 +0000" stop="20221230104500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 46</title>
+	</programme>
+	<programme start="20221230104500 +0000" stop="20221230105200 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221230105200 +0000" stop="20221230110000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221230110000 +0000" stop="20221230110800 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221230110800 +0000" stop="20221230111500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221230111500 +0000" stop="20221230120000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 12</title>
+	</programme>
+	<programme start="20221230120000 +0000" stop="20221230123000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 13</title>
+	</programme>
+	<programme start="20221230123000 +0000" stop="20221230124500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boa Cama Boa Mesa T19 - Ep. 15</title>
+	</programme>
+	<programme start="20221230124500 +0000" stop="20221230131500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Retro_Gamers T3 - Ep. 7</title>
+	</programme>
+	<programme start="20221230131500 +0000" stop="20221230133800 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 15</title>
+	</programme>
+	<programme start="20221230133800 +0000" stop="20221230140000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 16</title>
+	</programme>
+	<programme start="20221230140000 +0000" stop="20221230144500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 7</title>
+	</programme>
+	<programme start="20221230144500 +0000" stop="20221230154500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 8</title>
+	</programme>
+	<programme start="20221230154500 +0000" stop="20221230161500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Ninja Warrior G4 T1 - Ep. 37</title>
+	</programme>
+	<programme start="20221230161500 +0000" stop="20221230163000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Arte De Tentar T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221230163000 +0000" stop="20221230171500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito T18 - Ep. 282</title>
+	</programme>
+	<programme start="20221230171500 +0000" stop="20221230173000 +0000" channel="SICRadical.pt">
+	<title lang="pt">On My Way T2 - Ep. 12</title>
+	</programme>
+	<programme start="20221230173000 +0000" stop="20221230173800 +0000" channel="SICRadical.pt">
+	<title lang="pt">A Bola Maciça T2 - Ep. 11</title>
+	</programme>
+	<programme start="20221230173800 +0000" stop="20221230174500 +0000" channel="SICRadical.pt">
+	<title lang="pt">A Bola Maciça T2 - Ep. 12</title>
+	</programme>
+	<programme start="20221230174500 +0000" stop="20221230183000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 15</title>
+	</programme>
+	<programme start="20221230183000 +0000" stop="20221230191500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 16</title>
+	</programme>
+	<programme start="20221230191500 +0000" stop="20221230193000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boa Cama Boa Mesa T19 - Ep. 15</title>
+	</programme>
+	<programme start="20221230193000 +0000" stop="20221230194500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20221230194500 +0000" stop="20221230200000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 5</title>
+	</programme>
+	<programme start="20221230200000 +0000" stop="20221230201500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 6</title>
+	</programme>
+	<programme start="20221230201500 +0000" stop="20221230203000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Cinetendinha T1 - Ep. 481</title>
+	</programme>
+	<programme start="20221230203000 +0000" stop="20221230210000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 48</title>
+	</programme>
+	<programme start="20221230210000 +0000" stop="20221230220000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Terra Nossa T5 - Ep. 11</title>
+	</programme>
+	<programme start="20221230220000 +0000" stop="20221230223000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Arte De Tentar T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221230223000 +0000" stop="20221230233000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 171</title>
+	</programme>
+	<programme start="20221230233000 +0000" stop="20221231001500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sex On The Beach</title>
+	</programme>
+	
+	<programme start="20221230232200 +0000" stop="20221231000800 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sex On The Beach</title>
+	</programme>
+	<programme start="20221231000800 +0000" stop="20221231005500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Naked Attraction T5 - Ep. 7</title>
+	</programme>
+	<programme start="20221231005500 +0000" stop="20221231014200 +0000" channel="SICRadical.pt">
+	<title lang="pt">Naked Attraction T5 - Ep. 8</title>
+	</programme>
+	<programme start="20221231014200 +0000" stop="20221231023700 +0000" channel="SICRadical.pt">
+	<title lang="pt">SAS: Who Dares Wins Australia T1 - Ep. 12</title>
+	</programme>
+	<programme start="20221231023700 +0000" stop="20221231025200 +0000" channel="SICRadical.pt">
+	<title lang="pt">Arte De Tentar T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221231025200 +0000" stop="20221231032900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 4</title>
+	</programme>
+	<programme start="20221231032900 +0000" stop="20221231040800 +0000" channel="SICRadical.pt">
+	<title lang="pt">Late Late Show With James Corden T8 - Ep. 47</title>
+	</programme>
+	<programme start="20221231040800 +0000" stop="20221231050400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 171</title>
+	</programme>
+	<programme start="20221231050400 +0000" stop="20221231053300 +0000" channel="SICRadical.pt">
+	<title lang="pt">Gameplay T2 - Ep. 93</title>
+	</programme>
+	<programme start="20221231053300 +0000" stop="20221231062000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito T18 - Ep. 272</title>
+	</programme>
+	<programme start="20221231062000 +0000" stop="20221231063400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Go's-TV Report T1 - Ep. 663</title>
+	</programme>
+	<programme start="20221231063400 +0000" stop="20221231064400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Cinetendinha T1 - Ep. 481</title>
+	</programme>
+	<programme start="20221231064400 +0000" stop="20221231073100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito T18 - Ep. 279</title>
+	</programme>
+	<programme start="20221231073100 +0000" stop="20221231074100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boa Cama Boa Mesa T19 - Ep. 15</title>
+	</programme>
+	<programme start="20221231074100 +0000" stop="20221231075700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20221231075700 +0000" stop="20221231080700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Exame Informática T10 - Ep. 28</title>
+	</programme>
+	<programme start="20221231080700 +0000" stop="20221231082200 +0000" channel="SICRadical.pt">
+	<title lang="pt">On My Way T2 - Ep. 12</title>
+	</programme>
+	<programme start="20221231082200 +0000" stop="20221231083700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Go's-TV Report T1 - Ep. 663</title>
+	</programme>
+	<programme start="20221231083700 +0000" stop="20221231084600 +0000" channel="SICRadical.pt">
+	<title lang="pt">Cinetendinha T1 - Ep. 481</title>
+	</programme>
+	<programme start="20221231084600 +0000" stop="20221231091100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Bits T2 - Ep. 8</title>
+	</programme>
+	<programme start="20221231091100 +0000" stop="20221231095400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 52</title>
+	</programme>
+	<programme start="20221231095400 +0000" stop="20221231102200 +0000" channel="SICRadical.pt">
+	<title lang="pt">Gameplay T2 - Ep. 92</title>
+	</programme>
+	<programme start="20221231102200 +0000" stop="20221231111900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 171</title>
+	</programme>
+	<programme start="20221231111900 +0000" stop="20221231114300 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 10</title>
+	</programme>
+	<programme start="20221231114300 +0000" stop="20221231120700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 11</title>
+	</programme>
+	<programme start="20221231120700 +0000" stop="20221231123100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 12</title>
+	</programme>
+	<programme start="20221231123100 +0000" stop="20221231125400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 13</title>
+	</programme>
+	<programme start="20221231125400 +0000" stop="20221231131800 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boruto T1 - Ep. 14</title>
+	</programme>
+	<programme start="20221231131800 +0000" stop="20221231133300 +0000" channel="SICRadical.pt">
+	<title lang="pt">Go's-TV Report T1 - Ep. 664</title>
+	</programme>
+	<programme start="20221231133300 +0000" stop="20221231133600 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221231133600 +0000" stop="20221231133800 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221231133800 +0000" stop="20221231134000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221231134000 +0000" stop="20221231134500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221231134500 +0000" stop="20221231143000 +0000" channel="SICRadical.pt">
+	<title lang="pt">CC Home Edition T18 - Ep. 283</title>
+	</programme>
+	<programme start="20221231143000 +0000" stop="20221231143900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Cinetendinha T1 - Ep. 481</title>
+	</programme>
+	<programme start="20221231143900 +0000" stop="20221231145500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20221231145500 +0000" stop="20221231153900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Million Dollar Mile T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221231153900 +0000" stop="20221231161900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Million Dollar Mile T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221231161900 +0000" stop="20221231170100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Million Dollar Mile T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221231170100 +0000" stop="20221231174400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Million Dollar Mile T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221231174400 +0000" stop="20221231182400 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 52</title>
+	</programme>
+	<programme start="20221231182400 +0000" stop="20221231190600 +0000" channel="SICRadical.pt">
+	<title lang="pt">American Ninja Warrior T13 - Ep. 5</title>
+	</programme>
+	<programme start="20221231190600 +0000" stop="20221231195000 +0000" channel="SICRadical.pt">
+	<title lang="pt">American Ninja Warrior T13 - Ep. 6</title>
+	</programme>
+	<programme start="20221231195000 +0000" stop="20221231203100 +0000" channel="SICRadical.pt">
+	<title lang="pt">American Ninja Warrior T13 - Ep. 7</title>
+	</programme>
+	<programme start="20221231203100 +0000" stop="20221231212700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 171</title>
+	</programme>
+	<programme start="20221231212700 +0000" stop="20221231212900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 5</title>
+	</programme>
+	<programme start="20221231212900 +0000" stop="20221231213200 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 6</title>
+	</programme>
+	<programme start="20221231213200 +0000" stop="20221231214700 +0000" channel="SICRadical.pt">
+	<title lang="pt">Arte De Tentar T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221231214700 +0000" stop="20221231220300 +0000" channel="SICRadical.pt">
+	<title lang="pt">Arte De Tentar T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221231220300 +0000" stop="20221231222100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Arte De Tentar T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221231222100 +0000" stop="20221231233900 +0000" channel="SICRadical.pt">
+	<title lang="pt">Terra Nossa T5 - Ep. 11</title>
+	</programme>
+	<programme start="20221231233900 +0000" stop="20230101002100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 53</title>
+	</programme>
+	<programme start="20230101002100 +0000" stop="20230101010200 +0000" channel="SICRadical.pt">
+	<title lang="pt">Tonight Show With Jimmy Fallon T10 - Ep. 54</title>
+	</programme>
+	<programme start="20230101010200 +0000" stop="20230101014100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Late Late Show With James Corden T8 - Ep. 41</title>
+	</programme>
+	<programme start="20230101014100 +0000" stop="20230101032600 +0000" channel="SICRadical.pt">
+	<title lang="pt">Levanta-te E Ri 2019 - Ep. 2</title>
+	</programme>
+	<programme start="20230101032600 +0000" stop="20230101042100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 171</title>
+	</programme>
+	<programme start="20230101042100 +0000" stop="20230101044800 +0000" channel="SICRadical.pt">
+	<title lang="pt">Retro_Gamers T3 - Ep. 7</title>
+	</programme>
+	<programme start="20230101044800 +0000" stop="20230101050300 +0000" channel="SICRadical.pt">
+	<title lang="pt">Go's-TV Report T1 - Ep. 664</title>
+	</programme>
+	<programme start="20230101050300 +0000" stop="20230101051900 +0000" channel="SICRadical.pt">
+	<title lang="pt">On My Way T2 - Ep. 12</title>
+	</programme>
+	<programme start="20230101051900 +0000" stop="20230101053100 +0000" channel="SICRadical.pt">
+	<title lang="pt">Exame Informática T10 - Ep. 28</title>
+	</programme>
+	<programme start="20230101053100 +0000" stop="20230101060000 +0000" channel="SICRadical.pt">
+	<title lang="pt">CC Home Edition T18 - Ep. 283</title>
+	</programme>
+	<programme start="20230101060000 +0000" stop="20230101061500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Go's-TV Report T1 - Ep. 664</title>
+	</programme>
+	<programme start="20230101061500 +0000" stop="20230101063000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Boa Cama Boa Mesa T19 - Ep. 15</title>
+	</programme>
+	<programme start="20230101063000 +0000" stop="20230101064500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Exame Informática T10 - Ep. 28</title>
+	</programme>
+	<programme start="20230101064500 +0000" stop="20230101070000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20230101070000 +0000" stop="20230101074500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito Street Edition T18 - Ep. 283</title>
+	</programme>
+	<programme start="20230101074500 +0000" stop="20230101084500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 171</title>
+	</programme>
+	<programme start="20230101084500 +0000" stop="20230101091500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Gameplay T2 - Ep. 93</title>
+	</programme>
+	<programme start="20230101091500 +0000" stop="20230101094500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Retro_Gamers T3 - Ep. 7</title>
+	</programme>
+	<programme start="20230101094500 +0000" stop="20230101103000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Late Late Show With James Corden T8 - Ep. 41</title>
+	</programme>
+	<programme start="20230101103000 +0000" stop="20230101111500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Curto Circuito T18 - Ep. 284</title>
+	</programme>
+	<programme start="20230101111500 +0000" stop="20230101121500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Irritações T2 - Ep. 171</title>
+	</programme>
+	<programme start="20230101121500 +0000" stop="20230101123000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Arte De Tentar T1 - Ep. 5</title>
+	</programme>
+	<programme start="20230101123000 +0000" stop="20230101124500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Cinetendinha T1 - Ep. 481</title>
+	</programme>
+	<programme start="20230101124500 +0000" stop="20230101130000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Go's-TV Report T1 - Ep. 664</title>
+	</programme>
+	<programme start="20230101130000 +0000" stop="20230101131500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Volante T24 - Ep. 16</title>
+	</programme>
+	<programme start="20230101131500 +0000" stop="20230101134500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 10</title>
+	</programme>
+	<programme start="20230101134500 +0000" stop="20230101143000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 11</title>
+	</programme>
+	<programme start="20230101143000 +0000" stop="20230101151500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 12</title>
+	</programme>
+	<programme start="20230101151500 +0000" stop="20230101160000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 13</title>
+	</programme>
+	<programme start="20230101160000 +0000" stop="20230101164500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 14</title>
+	</programme>
+	<programme start="20230101164500 +0000" stop="20230101173000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 15</title>
+	</programme>
+	<programme start="20230101173000 +0000" stop="20230101181500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Love Island U.K. T7 - Ep. 16</title>
+	</programme>
+	<programme start="20230101181500 +0000" stop="20230101183000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Cinetendinha T1 - Ep. 481</title>
+	</programme>
+	<programme start="20230101183000 +0000" stop="20230101191500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Late Late Show With James Corden T8 - Ep. 42</title>
+	</programme>
+	<programme start="20230101191500 +0000" stop="20230101204500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Terra Nossa T5 - Ep. 11</title>
+	</programme>
+	<programme start="20230101204500 +0000" stop="20230101210000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 1</title>
+	</programme>
+	<programme start="20230101210000 +0000" stop="20230101211500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Sem Filmes T1 - Ep. 2</title>
+	</programme>
+	<programme start="20230101211500 +0000" stop="20230101220000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Late Late Show With James Corden T8 - Ep. 43</title>
+	</programme>
+	<programme start="20230101220000 +0000" stop="20230101224500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Dragon’s Den Canadá T15 - Ep. 5</title>
+	</programme>
+	<programme start="20230101224500 +0000" stop="20230101233000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Dragon’s Den Canadá T15 - Ep. 6</title>
+	</programme>
+	<programme start="20230101233000 +0000" stop="20230102000000 +0000" channel="SICRadical.pt">
+	<title lang="pt">Dragon’s Den Canadá T15 - Ep. 7</title>
+	</programme>
+	<programme start="20230102000000 +0000" stop="20230102004500 +0000" channel="SICRadical.pt">
+	<title lang="pt">Hell's Kitchen (Italy) T4 - Ep. 4</title>
+	</programme>
+	
+		<programme start="20221228231000 +0000" stop="20221229003000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Pós-Match: FC Porto x Arouca</title>
+	</programme>
+	<programme start="20221229003000 +0000" stop="20221229043000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Desportiva</title>
+	</programme>
+	<programme start="20221229043000 +0000" stop="20221229050000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Veterinários Todo O Terreno</title>
+	</programme>
+	<programme start="20221229050000 +0000" stop="20221229061500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Café Concerto</title>
+	</programme>
+	<programme start="20221229061500 +0000" stop="20221229063000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Há Ir E Voltar</title>
+	</programme>
+	<programme start="20221229063000 +0000" stop="20221229071500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Planeta Verde</title>
+	</programme>
+	<programme start="20221229071500 +0000" stop="20221229073000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Ao Norte</title>
+	</programme>
+	<programme start="20221229073000 +0000" stop="20221229080000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Imperdíveis</title>
+	</programme>
+	<programme start="20221229080000 +0000" stop="20221229100000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Manhã Informativa</title>
+	</programme>
+	<programme start="20221229100000 +0000" stop="20221229103000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Cinema Batalha</title>
+	</programme>
+	<programme start="20221229103000 +0000" stop="20221229110000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Glitter Late Night</title>
+	</programme>
+	<programme start="20221229110000 +0000" stop="20221229111500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Finanças A Contar</title>
+	</programme>
+	<programme start="20221229111500 +0000" stop="20221229113000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Há Ir E Voltar</title>
+	</programme>
+	<programme start="20221229113000 +0000" stop="20221229120000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Pole Position</title>
+	</programme>
+	<programme start="20221229120000 +0000" stop="20221229130000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Hoje</title>
+	</programme>
+	<programme start="20221229130000 +0000" stop="20221229133000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Especial Informação</title>
+	</programme>
+	<programme start="20221229133000 +0000" stop="20221229140000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">N'Agenda</title>
+	</programme>
+	<programme start="20221229140000 +0000" stop="20221229153000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Consultório</title>
+	</programme>
+	<programme start="20221229153000 +0000" stop="20221229183000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Viver Aqui</title>
+	</programme>
+	<programme start="20221229183000 +0000" stop="20221229194500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Tarde Informativa</title>
+	</programme>
+	<programme start="20221229194500 +0000" stop="20221229200000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Flash Porto</title>
+	</programme>
+	<programme start="20221229200000 +0000" stop="20221229201500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Finanças A Contar</title>
+	</programme>
+	<programme start="20221229201500 +0000" stop="20221229203000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Especial Informação</title>
+	</programme>
+	<programme start="20221229203000 +0000" stop="20221229210000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Imperdíveis</title>
+	</programme>
+	<programme start="20221229210000 +0000" stop="20221229220000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Quintana - Um Guerreiro Extraordinário</title>
+	</programme>
+	<programme start="20221229220000 +0000" stop="20221229230000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Informativa</title>
+	</programme>
+	<programme start="20221229230000 +0000" stop="20221230000000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Balanço Do Ano Modalidades</title>
+	</programme>
+	<programme start="20221230000000 +0000" stop="20221230003000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Informativa</title>
+	</programme>
+	<programme start="20221230003000 +0000" stop="20221230040000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Desportiva</title>
+	</programme>
+	<programme start="20221230040000 +0000" stop="20221230043000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Imperdíveis</title>
+	</programme>
+	<programme start="20221230043000 +0000" stop="20221230073000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Viver Aqui</title>
+	</programme>
+	<programme start="20221230073000 +0000" stop="20221230080000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Cinema Batalha</title>
+	</programme>
+	<programme start="20221230080000 +0000" stop="20221230100000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Manhã Informativa</title>
+	</programme>
+	<programme start="20221230100000 +0000" stop="20221230103000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Escritores A Norte</title>
+	</programme>
+	<programme start="20221230103000 +0000" stop="20221230110000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Imperdíveis</title>
+	</programme>
+	<programme start="20221230110000 +0000" stop="20221230111500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">N'Agenda</title>
+	</programme>
+	<programme start="20221230111500 +0000" stop="20221230113000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Cinema Batalha - Agenda</title>
+	</programme>
+	<programme start="20221230113000 +0000" stop="20221230120000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Veterinários Todo O Terreno</title>
+	</programme>
+	<programme start="20221230120000 +0000" stop="20221230130000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Hoje</title>
+	</programme>
+	<programme start="20221230130000 +0000" stop="20221230140000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Quintana - Um Guerreiro Extraordinário</title>
+	</programme>
+	<programme start="20221230140000 +0000" stop="20221230153000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Consultório</title>
+	</programme>
+	<programme start="20221230153000 +0000" stop="20221230183000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Viver Aqui</title>
+	</programme>
+	<programme start="20221230183000 +0000" stop="20221230194500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Tarde Informativa</title>
+	</programme>
+	<programme start="20221230194500 +0000" stop="20221230200000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Flash Porto</title>
+	</programme>
+	<programme start="20221230200000 +0000" stop="20221230201500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">N'Agenda</title>
+	</programme>
+	<programme start="20221230201500 +0000" stop="20221230210000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Planeta Verde</title>
+	</programme>
+	<programme start="20221230210000 +0000" stop="20221230220000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Quintana - Um Guerreiro Extraordinário</title>
+	</programme>
+	<programme start="20221230220000 +0000" stop="20221230230000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Informativa</title>
+	</programme>
+	<programme start="20221230230000 +0000" stop="20221231000000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Balanço Do Ano Futebol</title>
+	</programme>
+	<programme start="20221231000000 +0000" stop="20221231003000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Informativa</title>
+	</programme>
+	
+	<programme start="20221230230000 +0000" stop="20221231000000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Balanço Do Ano Futebol</title>
+	</programme>
+	<programme start="20221231000000 +0000" stop="20221231003000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Informativa</title>
+	</programme>
+	<programme start="20221231003000 +0000" stop="20221231013000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Desportiva</title>
+	</programme>
+	<programme start="20221231013000 +0000" stop="20221231023000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Universo Porto</title>
+	</programme>
+	<programme start="20221231023000 +0000" stop="20221231030000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Pole Position</title>
+	</programme>
+	<programme start="20221231030000 +0000" stop="20221231031500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">N'Agenda</title>
+	</programme>
+	<programme start="20221231031500 +0000" stop="20221231040000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Há Ir E Voltar</title>
+	</programme>
+	<programme start="20221231040000 +0000" stop="20221231041500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Glitter Late Night</title>
+	</programme>
+	<programme start="20221231041500 +0000" stop="20221231043000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Cinema Batalha</title>
+	</programme>
+	<programme start="20221231043000 +0000" stop="20221231073000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Viver Aqui</title>
+	</programme>
+	<programme start="20221231073000 +0000" stop="20221231080000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Imperdíveis</title>
+	</programme>
+	<programme start="20221231080000 +0000" stop="20221231093000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Consultório</title>
+	</programme>
+	<programme start="20221231093000 +0000" stop="20221231100000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Escritores A Norte</title>
+	</programme>
+	<programme start="20221231100000 +0000" stop="20221231101500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">N'Agenda</title>
+	</programme>
+	<programme start="20221231101500 +0000" stop="20221231110000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Planeta Verde</title>
+	</programme>
+	<programme start="20221231110000 +0000" stop="20221231124500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Viver Aqui - Magazine</title>
+	</programme>
+	<programme start="20221231124500 +0000" stop="20221231130000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Há Ir E Voltar</title>
+	</programme>
+	<programme start="20221231130000 +0000" stop="20221231140000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Quintana - Um Guerreiro Extraordinário</title>
+	</programme>
+	<programme start="20221231140000 +0000" stop="20221231143000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">N'Agenda</title>
+	</programme>
+	<programme start="20221231143000 +0000" stop="20221231150000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Veterinários Todo O Terreno</title>
+	</programme>
+	<programme start="20221231150000 +0000" stop="20221231160000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Cinema Batalha Especial Fim De Ano</title>
+	</programme>
+	<programme start="20221231160000 +0000" stop="20221231163000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Imperdíveis</title>
+	</programme>
+	<programme start="20221231163000 +0000" stop="20221231170000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Especial Informação</title>
+	</programme>
+	<programme start="20221231170000 +0000" stop="20221231190000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Desporto em Direto</title>
+	</programme>
+	<programme start="20221231190000 +0000" stop="20221231200000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Tarde Informativa</title>
+	</programme>
+	<programme start="20221231200000 +0000" stop="20221231210000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Vencedores Como Sempre</title>
+	</programme>
+	<programme start="20221231210000 +0000" stop="20221231220000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Quintana - Um Guerreiro Extraordinário</title>
+	</programme>
+	<programme start="20221231220000 +0000" stop="20221231223000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Caminhos da História</title>
+	</programme>
+	<programme start="20221231223000 +0000" stop="20221231234500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Sala De Espetáculos: Banda Sinfónica Portuguesa</title>
+	</programme>
+	<programme start="20221231234500 +0000" stop="20230101010000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Informativa</title>
+	</programme>
+	<programme start="20230101010000 +0000" stop="20230101023000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Desportiva</title>
+	</programme>
+	<programme start="20230101023000 +0000" stop="20230101033000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Sala De Espetáculos: Porto Piano Fest</title>
+	</programme>
+	<programme start="20230101033000 +0000" stop="20230101043000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Conversas Com História</title>
+	</programme>
+	<programme start="20230101043000 +0000" stop="20230101050000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Glitter Late Night</title>
+	</programme>
+	<programme start="20230101050000 +0000" stop="20230101053000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">N'Agenda</title>
+	</programme>
+	<programme start="20230101053000 +0000" stop="20230101060000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Imperdíveis</title>
+	</programme>
+	<programme start="20230101060000 +0000" stop="20230101064500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Veterinários Todo O Terreno</title>
+	</programme>
+	<programme start="20230101064500 +0000" stop="20230101083000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Viver Aqui - Magazine</title>
+	</programme>
+	<programme start="20230101083000 +0000" stop="20230101093000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Cinema Batalha Especial Fim de Ano</title>
+	</programme>
+	<programme start="20230101093000 +0000" stop="20230101110000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">A Bela E O Monstro</title>
+	</programme>
+	<programme start="20230101110000 +0000" stop="20230101123000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Viver Aqui - Magazine</title>
+	</programme>
+	<programme start="20230101123000 +0000" stop="20230101130000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Veterinários Todo O Terreno</title>
+	</programme>
+	<programme start="20230101130000 +0000" stop="20230101140000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Quintana - Um Guerreiro Extraordinário</title>
+	</programme>
+	<programme start="20230101140000 +0000" stop="20230101143000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Glitter Show</title>
+	</programme>
+	<programme start="20230101143000 +0000" stop="20230101151500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Planeta Verde</title>
+	</programme>
+	<programme start="20230101151500 +0000" stop="20230101170000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Viver Aqui - Magazine</title>
+	</programme>
+	<programme start="20230101170000 +0000" stop="20230101190000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Desporto em Direto</title>
+	</programme>
+	<programme start="20230101190000 +0000" stop="20230101193000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Tarde Informativa</title>
+	</programme>
+	<programme start="20230101193000 +0000" stop="20230101201500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Revista Do Ano</title>
+	</programme>
+	<programme start="20230101201500 +0000" stop="20230101204500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Especial Informação</title>
+	</programme>
+	<programme start="20230101204500 +0000" stop="20230101210000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Há Ir E Voltar</title>
+	</programme>
+	<programme start="20230101210000 +0000" stop="20230101213000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Quintana - Um Guerreiro Extraordinário</title>
+	</programme>
+	<programme start="20230101213000 +0000" stop="20230101220000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">N'Agenda</title>
+	</programme>
+	<programme start="20230101220000 +0000" stop="20230101224500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Noite Informativa</title>
+	</programme>
+	<programme start="20230101224500 +0000" stop="20230101234500 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Vencedores Como Sempre</title>
+	</programme>
+	<programme start="20230101234500 +0000" stop="20230102010000 +0000" channel="PortoCanal.pt">
+	<title lang="pt">Sala De Espetáculos: Porto Piano Fest</title>
+	</programme>
+
+	
 
 RTP Africa
   <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>

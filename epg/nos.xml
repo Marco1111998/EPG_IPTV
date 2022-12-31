@@ -73,35 +73,7 @@
   <channel id="TVCineAction.pt">
     <display-name lang="pt">TVCINE ACTION</display-name>
     <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-action.png" />
-  </channel> 
-  <channel id="RTPAfrica.pt">
-    <display-name lang="pt">RTP AFRICA</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-africa.png" />
-  </channel>
-  <channel id="RTPAcores.pt">
-    <display-name lang="pt">RTP ACORES</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-acores.png" />
-  </channel>
-  <channel id="RTPMadeira.pt">
-    <display-name lang="pt">RTP MADEIRA</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png" />
-  </channel>
-  <channel id="RTPMemoria.pt">
-    <display-name lang="pt">RTP MEMORIA</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png" />
-  </channel>
-  <channel id="KuriakosTV.pt">
-    <display-name lang="pt">KURIAKOS TV</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/kuriakos.png" />
   </channel>  
-  <channel id="GaliciaTVEuropa.es">
-    <display-name lang="pt">TV GALICIA</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/tv-galicia.png" />
-  </channel> 
-	<channel id="TPAInternacional.ao">
-	<display-name lang="pt">TPA INTERNACIONAL</display-name>
-	<icon src="https://www.meo.pt/PublishingImages/canais/tpa-internacional.png" />
-	</channel>  
 
 
 FOX
@@ -1403,17 +1375,5 @@ TVCine Action
 	<title lang="pt">Mad Max Além da Cúpula do Trovão</title>
 	</programme>
 
-
-RTP Africa
-  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
-  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
-  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
-  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
-  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
-  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
-  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
-
-
-	<programme start="20221030200000 +0000" stop="20221029230000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>  
   
 </tv>

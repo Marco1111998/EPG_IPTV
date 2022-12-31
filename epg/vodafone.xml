@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20221229">
+
+	<channel id="Eleven1.pt">
+		<display-name lang="pt">ELEVEN 1</display-name>
+		<icon src="https://i.imgur.com/STN37zd.png" />
+	</channel>
+	<channel id="Eleven2.pt">
+		<display-name lang="pt">ELEVEN 2</display-name>
+		<icon src="https://i.imgur.com/bGRgFwo.png" />
+	</channel>
+	<channel id="Eleven3.pt">
+		<display-name lang="pt">ELEVEN 3</display-name>
+		<icon src="https://i.imgur.com/lrcWrFs.png" />
+	</channel>
+	<channel id="Eleven4.pt">
+		<display-name lang="pt">ELEVEN 4</display-name>
+		<icon src="https://i.imgur.com/OUGHmuH.png" />
+	</channel>
+	<channel id="Eleven5.pt">
+		<display-name lang="pt">ELEVEN 5</display-name>
+		<icon src="https://i.imgur.com/rw8Qr1l.png" />
+	</channel>
+	<channel id="Eleven6.pt">
+		<display-name lang="pt">ELEVEN 6</display-name>
+		<icon src="https://i.imgur.com/0dAM5uT.png" />
+	</channel>  
+	<channel id="SportTV1.pt">
+		<display-name lang="pt">SPORT TV 1</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sport-tv1.png" />
+	</channel>
+	<channel id="SportTV2.pt">
+		<display-name lang="pt">SPORT TV 2</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sport-tv2.png" />
+	</channel>
+	<channel id="SportTV3.pt">
+		<display-name lang="pt">SPORT TV 3</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sport-tv3.png" />
+	</channel>
+	<channel id="SportTV4.pt">
+		<display-name lang="pt">SPORT TV 4</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sport-tv4.png" />
+	</channel>
+	<channel id="SportTV5.pt">
+		<display-name lang="pt">SPORT TV 5</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sport-tv5.png" />
+	</channel>
+	<channel id="SportTV6.pt">
+		<display-name lang="pt">SPORT TV 6</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sport-tv6.png" />
+	</channel> 
+	<channel id="BenficaTV.pt">
+		<display-name lang="pt">BENFICA TV</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/btv.png" />
+	</channel>
+	<channel id="SportingTV.pt">
+		<display-name lang="pt">SPORTING TV</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/sporting-tv.png" />
+	</channel>  	
+	<channel id="Eurosport1.fr">
+		<display-name lang="pt">EUROSPORT 1</display-name>
+		<icon src="https://i.imgur.com/olQJgm7.png" />
+	</channel>
+	<channel id="Eurosport2.fr">
+		<display-name lang="pt">EUROSPORT 2</display-name>
+		<icon src="https://i.imgur.com/f56dHgR.png" />
+	</channel>  
+	<channel id="Tlc.pt">
+		<display-name lang="pt">TLC</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/tlc.png" />
+	</channel>
+	<channel id="Saude.pt">
+		<display-name lang="pt">SAUDE</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/s-mais.png" />
+	</channel> 
+	<channel id="Mezzo.fr">
+		<display-name lang="pt">MEZZO</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/mezzo.png" />
+	</channel>
+	<channel id="MTV00s.uk">
+		<display-name lang="pt">MTV 00S</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/mtv00s.png" />
+	</channel>
+	<channel id="MCMTop.fr">
+		<display-name lang="pt">MCM TOP</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/mcm-top.png" />
+	</channel>
+	<channel id="MCMPop.fr">
+		<display-name lang="pt">MCM POP</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/mcm-pop.png" />   
+	</channel>  
+	<channel id="AfroMusicChannel.pt">
+		<display-name lang="pt">AFRO MUSIC</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/afro-music.png" />
+	</channel>  
+	<channel id="24Kitchen.pt">
+		<display-name lang="pt">24 KITCHEN</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/24-kitchen.png" />
+	</channel>
+	<channel id="TraceToca.fr">
+		<display-name lang="pt">TRACE TOCA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/trace-toca.png" />
+	</channel>
+	<channel id="TraceUrban.fr">
+		<display-name lang="pt">TRACE URBAN</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/trace-urban.png" />
+	</channel>
+	<channel id="TraceBrazuca.fr">
+		<display-name lang="pt">TRACE BRAZUCA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/trace-brazuca.png" />
+	</channel>  
+	<channel id="FTV.fr">
+		<display-name lang="pt">FASHION TV</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/ftv-hd.png" />
+	</channel>
+    <channel id="KuriakosTV.pt">
+		<display-name lang="pt">KURIAKOS TV</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/kuriakos.png" />
+    </channel>
+	<channel id="RTPAfrica.pt">
+		<display-name lang="pt">RTP AFRICA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-africa.png" />
+	</channel>
+	<channel id="RTPAcores.pt">
+		<display-name lang="pt">RTP ACORES</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-acores.png" />
+	</channel>
+	<channel id="RTPMadeira.pt">
+		<display-name lang="pt">RTP MADEIRA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png" />
+	</channel>
+	<channel id="RTPMemoria.pt">
+		<display-name lang="pt">RTP MEMORIA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png" />
+	</channel>	
+	<channel id="MTVPortugal.pt">
+		<display-name lang="pt">MTV PORTUGAL</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/mtv-portugal.png" />
+	</channel>
+	<channel id="LocalvisaoTV.pt">
+		<display-name lang="pt">LOCALVISAO TV</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/localvisao-tv.png" />
+	</channel>    
+	<channel id="CasaCozinha.pt">
+		<display-name lang="pt">CASA E COZINHA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/casa-e-cozinha.png" />
+	</channel>
+	<channel id="E!.pt">
+		<display-name lang="pt">E! ENTERTAINMENT</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/e-entertainment.png" />
+	</channel>
+	<channel id="DogTV.us">
+		<display-name lang="pt">DOG TV</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/dogtv.png" />
+	</channel>
+	<channel id="Cacavision.es">
+		<display-name>CACAVISION</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/cacavision.png"/>   
+	</channel>
+	<channel id="CazayPesca.es">
+		<display-name>CACA E PESCA</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/caca-e-pesca.png"/>   
+	</channel>
+	<channel id="Hot.pt">
+		<display-name>HOT</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/hot.png"/>
+	</channel>
+	<channel id="Venus.pt">
+		<display-name>VENUS</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/venus.png"/>
+	</channel>
+	<channel id="Playboy.pt">
+		<display-name>PLAYBOY</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/playboy-tv.png"/>
+	</channel>
+	<channel id="Hustler.pt">
+		<display-name>HUSTLER</display-name>
+		<icon src="https://raw.githubusercontent.com/Marco1110/M3U_PT_EPG/main/logos/hustler-pt.png"/>
+	</channel>
+	<channel id="PenthouseGold.us">
+		<display-name>PENTHOUSE GOLD</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/penthouse-gold.png"/>
+	</channel>	
+  <channel id="GaliciaTVEuropa.es">
+    <display-name lang="pt">TV GALICIA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tv-galicia.png" />
+  </channel>
+	<channel id="TPAInternacional.ao">
+		<display-name lang="pt">TPA INTERNACIONAL</display-name>
+		<icon src="https://www.meo.pt/PublishingImages/canais/tpa-internacional.png" />
+	</channel>  
+	
+Eleven 1
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Eleven1.pt"><title lang="pt">Eleven 1</title></programme>
+
+
+Eleven 2
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Eleven2.pt"><title lang="pt">Eleven 2</title></programme>
+
+
+Eleven 3
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Eleven3.pt"><title lang="pt">Eleven 3</title></programme>
+
+
+Eleven 4
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Eleven4.pt"><title lang="pt">Eleven 4</title></programme>
+
+
+Eleven 5
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Eleven5.pt"><title lang="pt">Eleven 5</title></programme>
+
+
+Eleven 6
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Eleven6.pt"><title lang="pt">Eleven 6</title></programme>
+
+
+SPORT TV 1
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="SportTV1.pt"><title lang="pt">SPORT TV 1</title></programme>
+
+
+SPORT TV 2
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="SportTV2.pt"><title lang="pt">SPORT TV 2</title></programme>
+
+
+SPORT TV 3
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="SportTV3.pt"><title lang="pt">SPORT TV 3</title></programme>
+
+
+SPORT TV 4
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="SportTV4.pt"><title lang="pt">SPORT TV 4</title></programme>
+
+
+SPORT TV 5
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="SportTV5.pt"><title lang="pt">SPORT TV 5</title></programme>
+
+
+SPORT TV 6
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="SportTV6.pt"><title lang="pt">SPORT TV 6</title></programme>
+
+
+Benfica TV
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="BenficaTV.pt"><title lang="pt">Benfica TV</title></programme>
+
+
+Sporting TV
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="SportingTV.pt"><title lang="pt">Sporting TV</title></programme>
+
+
+Eurosport 1
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Eurosport1.fr"><title lang="pt">Eurosport 1</title></programme>
+
+
+Eurosport 2
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Eurosport2.fr"><title lang="pt">Eurosport 2</title></programme>
+
+
+TLC
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Tlc.pt"><title lang="pt">Tlc</title></programme>
+
+
+FTV 
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme> 
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="FTV.fr"><title lang="pt">FTV</title></programme>
+
+
+Saude
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Saude.pt"><title lang="pt">Saude</title></programme>
+
+
+Mezzo
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Mezzo.fr"><title lang="pt">Mezzo</title></programme>
+
+
+MTV 00S
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="MTV00s.uk"><title lang="pt">MTV 00S</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="MTV00s.uk"><title lang="pt">MTV 00S</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="MTV00s.uk"><title lang="pt">MTV 00S</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="MTV00s.uk"><title lang="pt">MTV 00S</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="MTV00s.uk"><title lang="pt">MTV 00S</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="MTV00s.uk"><title lang="pt">MTV 00S</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="MTV00s.uk"><title lang="pt">MTV 00S</title></programme>
+
+
+MCM TOP
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="MCMTop.fr"><title lang="pt">MCM TOP</title></programme>
+
+
+MCM POP
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="MCMPop.fr"><title lang="pt">MCM POP</title></programme>
+
+
+Afro Music
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme> 
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>	
+
+
+	<programme start="20221228234000 +0000" stop="20221229000400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição</title>
+	</programme>
+
+<!-- Quinta-Feira -->
+	<programme start="20221229000400 +0000" stop="20221229012200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221229012200 +0000" stop="20221229021100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221229021100 +0000" stop="20221229024100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
+	</programme>
+	<programme start="20221229024100 +0000" stop="20221229033000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">A Sentada</title>
+	</programme>
+	<programme start="20221229033000 +0000" stop="20221229042500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias de Rudolph</title>
+	</programme>
+	<programme start="20221229042500 +0000" stop="20221229044900 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Papa-Quilómetros</title>
+	</programme>
+	<programme start="20221229044900 +0000" stop="20221229051400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Doces do Ofício</title>
+	</programme>
+	<programme start="20221229051400 +0000" stop="20221229060000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Chef de Raiz</title>
+	</programme>
+	<programme start="20221229060000 +0000" stop="20221229062000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Doces do Ofício</title>
+	</programme>
+	<programme start="20221229062000 +0000" stop="20221229071300 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias de Rudolph</title>
+	</programme>
+	<programme start="20221229071300 +0000" stop="20221229075800 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">A Sentada</title>
+	</programme>
+	<programme start="20221229075800 +0000" stop="20221229091400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221229091400 +0000" stop="20221229100300 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221229100300 +0000" stop="20221229102400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Cadernos da Filipa</title>
+	</programme>
+	<programme start="20221229102400 +0000" stop="20221229104700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição pelo Mundo</title>
+	</programme>
+	<programme start="20221229104700 +0000" stop="20221229124600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Mary Berry</title>
+	</programme>
+	<programme start="20221229124600 +0000" stop="20221229131400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
+	</programme>
+	<programme start="20221229131400 +0000" stop="20221229134200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221229134200 +0000" stop="20221229143700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221229143700 +0000" stop="20221229150000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">O da Joana</title>
+	</programme>
+	<programme start="20221229150000 +0000" stop="20221229152000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição pelo Mundo</title>
+	</programme>
+	<programme start="20221229152000 +0000" stop="20221229154000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição</title>
+	</programme>
+	<programme start="20221229154000 +0000" stop="20221229173900 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Mary Berry</title>
+	</programme>
+	<programme start="20221229173900 +0000" stop="20221229180500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias de Rudolph </title>
+	</programme>
+	<programme start="20221229180500 +0000" stop="20221229183000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Doces do Ofício</title>
+	</programme>
+	<programme start="20221229183000 +0000" stop="20221229185400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221229185400 +0000" stop="20221229191800 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Cadernos da Filipa</title>
+	</programme>
+	<programme start="20221229191800 +0000" stop="20221229194900 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
+	</programme>
+	<programme start="20221229194900 +0000" stop="20221229200800 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">O da Joana</title>
+	</programme>
+	<programme start="20221229200800 +0000" stop="20221229203500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221229203500 +0000" stop="20221229210200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221229210200 +0000" stop="20221229212200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição pelo Mundo</title>
+	</programme>
+	<programme start="20221229212200 +0000" stop="20221229214800 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição</title>
+	</programme>
+	<programme start="20221229214800 +0000" stop="20221229223300 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title>
+	</programme>
+	<programme start="20221229223300 +0000" stop="20221229233200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Mary Berry</title>
+	</programme>
+	<programme start="20221229233200 +0000" stop="20221230001500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição</title>
+	</programme>
+
+<!-- Sexta-Feira -->
+	<programme start="20221230001500 +0000" stop="20221230013000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221230013000 +0000" stop="20221230021800 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221230021800 +0000" stop="20221230024800 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
+	</programme>
+	<programme start="20221230024800 +0000" stop="20221230033500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">A Sentada</title>
+	</programme>
+	<programme start="20221230033500 +0000" stop="20221230042700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias de Rudolph</title>
+	</programme>
+	<programme start="20221230042700 +0000" stop="20221230045100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Naturalmente</title>
+	</programme>
+	<programme start="20221230045100 +0000" stop="20221230051600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Doces do Ofício/title>
+	</programme>
+	<programme start="20221230051600 +0000" stop="20221230060000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Chef de Raiz</title>
+	</programme>
+	<programme start="20221230060000 +0000" stop="20221230060500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Naturalmente</title>
+	</programme>
+	<programme start="20221230060500 +0000" stop="20221230062200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Doces do Ofício</title>
+	</programme>
+	<programme start="20221230062200 +0000" stop="20221230071600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias de Rudolph</title>
+	</programme>
+	<programme start="20221230071600 +0000" stop="20221230081000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">A Sentada</title>
+	</programme>
+	<programme start="20221230081000 +0000" stop="20221230092700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221230092700 +0000" stop="20221230101700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221230101700 +0000" stop="20221230103800 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Cadernos da Filipa</title>
+	</programme>
+	<programme start="20221230103800 +0000" stop="20221230110000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição pelo Mundo</title>
+	</programme>
+	<programme start="20221230110000 +0000" stop="20221230114400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title>
+	</programme>
+	<programme start="20221230114400 +0000" stop="20221230124400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Mary Berry's</title>
+	</programme>
+	<programme start="20221230124400 +0000" stop="20221230130900 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Filipa Gomes Cozinha com Twist/title>
+	</programme>
+	<programme start="20221230130900 +0000" stop="20221230133600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221230133600 +0000" stop="20221230143400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221230143400 +0000" stop="20221230150000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">O da Joana</title>
+	</programme>
+	<programme start="20221230150000 +0000" stop="20221230152100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição pelo Mundo</title>
+	</programme>
+	<programme start="20221230152100 +0000" stop="20221230154300 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição</title>
+	</programme>
+	<programme start="20221230154300 +0000" stop="20221230174200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Mary Berry</title>
+	</programme>
+	<programme start="20221230174200 +0000" stop="20221230180900 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias de Rudolph</title>
+	</programme>
+	<programme start="20221230180900 +0000" stop="20221230183500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Doces do Ofício</title>
+	</programme>
+	<programme start="20221230183500 +0000" stop="20221230185600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221230185600 +0000" stop="20221230192000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Cadernos da Filipa</title>
+	</programme>
+	<programme start="20221230192000 +0000" stop="20221230195100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
+	</programme>
+	<programme start="20221230195100 +0000" stop="20221230200600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">O da Joana</title>
+	</programme>
+	<programme start="20221230200600 +0000" stop="20221230210000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">A Sentada</title>
+	</programme>
+	<programme start="20221230210000 +0000" stop="20221230212100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição</title>
+	</programme>
+	<programme start="20221230214600 +0000" stop="20221230223300 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title>
+	</programme>
+	<programme start="20221230223300 +0000" stop="20221230233400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Mary Berry</title>
+	</programme>
+	<programme start="20221230233400 +0000" stop="20221231001700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição</title>
+	</programme>
+
+<!-- Sabado -->
+	<programme start="20221231001700 +0000" stop="20221231013500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221231013500 +0000" stop="20221231022600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221231022600 +0000" stop="20221231025400 +0000" channel="24KitchenPortugal.pt">
+	<title lang="pt">Filipa Gomes Cozinha com Twist T1 - Ep. 11</title>
+	</programme>
+	<programme start="20221231025400 +0000" stop="20221231034600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">A Sentada</title>
+	</programme>
+	<programme start="20221231034600 +0000" stop="20221231043900 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias de Rudolph</title>
+	</programme>
+	<programme start="20221231043900 +0000" stop="20221231050400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Naturalmente</title>
+	</programme>
+	<programme start="20221231050400 +0000" stop="20221231052900 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Doces do Ofício</title>
+	</programme>
+	<programme start="20221231052900 +0000" stop="20221231060000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Chef de Raiz</title>
+	</programme>
+	<programme start="20221231060000 +0000" stop="20221231080100 +0000" channel="24KitchenPortugal.pt">
+	<title lang="pt">A Sentada</title>
+	</programme>
+	<programme start="20221231080100 +0000" stop="20221231100600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Doces do Ofício</title>
+	</programme>
+	<programme start="20221231100600 +0000" stop="20221231122500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221231122500 +0000" stop="20221231142700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Cadernos da Filipa</title>
+	</programme>
+	<programme start="20221231142700 +0000" stop="20221231160000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">O da Joana</title>
+	</programme>
+	<programme start="20221231160000 +0000" stop="20221231162100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20221231162100 +0000" stop="20221231165400 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
+	</programme>
+	<programme start="20221231165400 +0000" stop="20221231172100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221231172100 +0000" stop="20221231182100 +0000" channel="24KitchenPortugal.pt">
+	<title lang="pt">Mary Berry</title>
+	</programme>
+	<programme start="20221231182100 +0000" stop="20221231192100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Nadiya</title>
+	</programme>
+	<programme start="20221231192100 +0000" stop="20221231214700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20221231214700 +0000" stop="20230101000200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias de Rudolph</title>
+	</programme>
+
+<!-- Domingo -->
+	<programme start="20230101000200 +0000" stop="20230101014300 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição</title>
+	</programme>
+	<programme start="20230101014300 +0000" stop="20230101035200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato do Dia</title>
+	</programme>
+	<programme start="20230101035200 +0000" stop="20230101054600 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos da Tia Cátia</title>
+	</programme>
+	<programme start="20230101054600 +0000" stop="20230101060900 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Chef de Raiz</title>
+	</programme>
+	<programme start="20230101060900 +0000" stop="20230101075100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Naturalmente</title>
+	</programme>
+	<programme start="20230101075100 +0000" stop="20230101095700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato Do Dia</title>
+	</programme>
+	<programme start="20230101095700 +0000" stop="20230101122500 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Os Segredos Da Tia Cátia</title>
+	</programme>
+	<programme start="20230101122500 +0000" stop="20230101143000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">O Da Joana</title>
+	</programme>
+	<programme start="20230101143000 +0000" stop="20230101160000 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Cadernos Da Filipa</title>
+	</programme>
+	<programme start="20230101160000 +0000" stop="20230101165200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">A Sentada</title>
+	</programme>
+	<programme start="20230101165200 +0000" stop="20230101172200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Prato Do Dia</title>
+	</programme>
+	<programme start="20230101172200 +0000" stop="20230101182100 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">O Banquete De Mary Berry</title>
+	</programme>
+	<programme start="20230101182100 +0000" stop="20230101200800 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Comtradição Pelo Mundo</title>
+	</programme>
+	<programme start="20230101200800 +0000" stop="20230101222200 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">As Doces Iguarias De Rudolph</title>
+	</programme>
+	<programme start="20230101222200 +0000" stop="20230102001700 +0000" channel="24KitchenPortugal.pt">
+		<title lang="pt">Filipa Gomes Cozinha Com Twist</title>
+	</programme>
+	
+Trace Toca
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
+
+
+Trace Urban
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="TraceUrban.fr"><title lang="pt">Trace Urban</title></programme>
+
+
+Trace Brazuca
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
+
+
+MTV Portugal
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
+
+
+Localvisao TV
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="LocalvisaoTV.pt"><title lang="pt">Localvisao TV</title></programme>
+
+
+Casa e Cozinha
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="CasaCozinha.pt"><title lang="pt">Casa e Cozinha</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="CasaCozinha.pt"><title lang="pt">Casa e Cozinha</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="CasaCozinha.pt"><title lang="pt">Casa e Cozinha</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="CasaCozinha.pt"><title lang="pt">Casa e Cozinha</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="CasaCozinha.pt"><title lang="pt">Casa e Cozinha</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="CasaCozinha.pt"><title lang="pt">Casa e Cozinha</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="CasaCozinha.pt"><title lang="pt">Casa e Cozinha</title></programme>
+
+
+E! ENTERTAINMENT
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
+
+
+Dog TV
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>  
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="DogTV.us"><title lang="pt">Dog TV</title></programme> 
+
+
+Cacavision  
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Cacavision.es"><title lang="pt">Cacavision</title></programme>
+
+
+Caca e Pesca  
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
+
+
+HOT
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
+
+
+VENUS
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Venus.pt"><title lang="pt">VENUS</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Venus.pt"><title lang="pt">VENUS</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Venus.pt"><title lang="pt">VENUS</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Venus.pt"><title lang="pt">VENUS</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Venus.pt"><title lang="pt">VENUS</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Venus.pt"><title lang="pt">VENUS</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Venus.pt"><title lang="pt">VENUS</title></programme>  
+
+
+PLAYBOY
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Playboy.pt"><title lang="pt">PLAYBOY</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Playboy.pt"><title lang="pt">PLAYBOY</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Playboy.pt"><title lang="pt">PLAYBOY</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Playboy.pt"><title lang="pt">PLAYBOY</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Playboy.pt"><title lang="pt">PLAYBOY</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Playboy.pt"><title lang="pt">PLAYBOY</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Playboy.pt"><title lang="pt">PLAYBOY</title></programme>
+
+
+HUSTLER
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Hustler.pt"><title lang="pt">HUSTLER</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Hustler.pt"><title lang="pt">HUSTLER</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="Hustler.pt"><title lang="pt">HUSTLER</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="Hustler.pt"><title lang="pt">HUSTLER</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="Hustler.pt"><title lang="pt">HUSTLER</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="Hustler.pt"><title lang="pt">HUSTLER</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="Hustler.pt"><title lang="pt">HUSTLER</title></programme>
+
+
+PENTHOUSE GOLD
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
+	<programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
+	<programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
+
+
+
+RTP Africa
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+
+
+	<programme start="20221030200000 +0000" stop="20221029230000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>  
+	
+	
+</tv>
