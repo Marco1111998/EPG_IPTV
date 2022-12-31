@@ -118,18 +118,566 @@ Syfy
 
 
 Dizi
+	<programme start="20221231180000 +0000" stop="20221231190000 +0000" channel="Dizi.nl">
+	<title lang="pt">A Família Kara - Ep. 148</title>
+	</programme>
+	<programme start="20221231190000 +0000" stop="20221231200000 +0000" channel="Dizi.nl">
+	<title lang="pt">A Família Kara - Ep. 149</title>
+	</programme>
+	<programme start="20221231200000 +0000" stop="20221231210000 +0000" channel="Dizi.nl">
+	<title lang="pt">Vingança De Saltos Altos - Ep. 81</title>
+	</programme>
+	<programme start="20221231210000 +0000" stop="20221231220500 +0000" channel="Dizi.nl">
+	<title lang="pt">Vingança De Saltos Altos - Ep. 82</title>
+	</programme>
+	<programme start="20221231220500 +0000" stop="20221231230500 +0000" channel="Dizi.nl">
+	<title lang="pt">Amor Infinito - Ep. 95</title>
+	</programme>
+	<programme start="20221231230500 +0000" stop="20230101000000 +0000" channel="Dizi.nl">
+	<title lang="pt">Amor Infinito - Ep. 96</title>
+	</programme>
+	<programme start="20230101000000 +0000" stop="20230101010000 +0000" channel="Dizi.nl">
+	<title lang="pt">Dinheiro Sujo - Ep. 147</title>
+	</programme>
+	<programme start="20230101010000 +0000" stop="20230101020000 +0000" channel="Dizi.nl">
+	<title lang="pt">Dinheiro Sujo - Ep. 148</title>
+	</programme>
+	<programme start="20230101020000 +0000" stop="20230101030500 +0000" channel="Dizi.nl">
+	<title lang="pt">Dinheiro Sujo - Ep. 149</title>
+	</programme>
+	<programme start="20230101030500 +0000" stop="20230101040500 +0000" channel="Dizi.nl">
+	<title lang="pt">Dinheiro Sujo - Ep. 150</title>
+	</programme>
+	<programme start="20230101040500 +0000" stop="20230101050500 +0000" channel="Dizi.nl">
+	<title lang="pt">A Família Kara - Ep. 146</title>
+	</programme>
+	<programme start="20230101050500 +0000" stop="20230101060500 +0000" channel="Dizi.nl">
+	<title lang="pt">A Família Kara - Ep. 147</title>
+	</programme>
+	<programme start="20230101060500 +0000" stop="20230101070500 +0000" channel="Dizi.nl">
+	<title lang="pt">A Família Kara - Ep. 148</title>
+	</programme>
+	<programme start="20230101070500 +0000" stop="20230101080500 +0000" channel="Dizi.nl">
+	<title lang="pt">A Família Kara - Ep. 149</title>
+	</programme>
+	<programme start="20230101080500 +0000" stop="20230101090000 +0000" channel="Dizi.nl">
+	<title lang="pt">Infiltrado - Ep. 6</title>
+	</programme>
+	<programme start="20230101090000 +0000" stop="20230101100000 +0000" channel="Dizi.nl">
+	<title lang="pt">Infiltrado - Ep. 7</title>
+	</programme>
+	<programme start="20230101100000 +0000" stop="20230101110500 +0000" channel="Dizi.nl">
+	<title lang="pt">Infiltrado - Ep. 8</title>
+	</programme>
+	<programme start="20230101110500 +0000" stop="20230101120000 +0000" channel="Dizi.nl">
+	<title lang="pt">Infiltrado - Ep. 9</title>
+	</programme>
+	<programme start="20230101120000 +0000" stop="20230101130000 +0000" channel="Dizi.nl">
+	<title lang="pt">Amor Infinito - Ep. 93</title>
+	</programme>
+	<programme start="20230101130000 +0000" stop="20230101140000 +0000" channel="Dizi.nl">
+	<title lang="pt">Amor Infinito - Ep. 94</title>
+	</programme>
+	<programme start="20230101140000 +0000" stop="20230101150000 +0000" channel="Dizi.nl">
+	<title lang="pt">Amor Infinito - Ep. 95</title>
+	</programme>
+	<programme start="20230101150000 +0000" stop="20230101160000 +0000" channel="Dizi.nl">
+	<title lang="pt">Amor Infinito - Ep. 96</title>
+	</programme>
+	<programme start="20230101160000 +0000" stop="20230101170000 +0000" channel="Dizi.nl">
+	<title lang="pt">Vingança De Saltos Altos - Ep. 79</title>
+	</programme>
+	<programme start="20230101170000 +0000" stop="20230101180000 +0000" channel="Dizi.nl">
+	<title lang="pt">Vingança De Saltos Altos - Ep. 80</title>
+	</programme>
+	<programme start="20230101180000 +0000" stop="20230101190000 +0000" channel="Dizi.nl">
+	<title lang="pt">Vingança De Saltos Altos - Ep. 81</title>
+	</programme>
+	<programme start="20230101190000 +0000" stop="20230101200000 +0000" channel="Dizi.nl">
+	<title lang="pt">Vingança De Saltos Altos - Ep. 82</title>
+	</programme>
+	<programme start="20230101200000 +0000" stop="20230101210000 +0000" channel="Dizi.nl">
+	<title lang="pt">Infiltrado - Ep. 10</title>
+	</programme>
+	<programme start="20230101210000 +0000" stop="20230101220000 +0000" channel="Dizi.nl">
+	<title lang="pt">Infiltrado - Ep. 11</title>
+	</programme>
+	<programme start="20230101220000 +0000" stop="20230101230000 +0000" channel="Dizi.nl">
+	<title lang="pt">Infiltrado - Ep. 12</title>
+	</programme>
+	<programme start="20230101230000 +0000" stop="20230102000000 +0000" channel="Dizi.nl">
+	<title lang="pt">Dinheiro Sujo - Ep. 150</title>
+	</programme>
+	<programme start="20230102000000 +0000" stop="20230102010500 +0000" channel="Dizi.nl">
+	<title lang="pt">A Família Kara - Ep. 146</title>
+	</programme>
   
 
 Fox Life
+	<programme start="20221231105500 +0000" stop="20221231114400 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">9-1-1</title>
+	</programme>
+	<programme start="20221231114400 +0000" stop="20221231122900 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">9-1-1</title>
+	</programme>
+	<programme start="20221231122900 +0000" stop="20221231131500 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">9-1-1</title>
+	</programme>
+	<programme start="20221231131500 +0000" stop="20221231140500 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">9-1-1</title>
+	</programme>
+	<programme start="20221231140500 +0000" stop="20221231150000 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">9-1-1</title>
+	</programme>
+	<programme start="20221231150000 +0000" stop="20221231163300 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Bottled With Love</title>
+	</programme>
+	<programme start="20221231163300 +0000" stop="20221231181600 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Love At Daisy Hills</title>
+	</programme>
+	<programme start="20221231181600 +0000" stop="20221231200300 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Love At Look Lodge</title>
+	</programme>
+	<programme start="20221231200300 +0000" stop="20221231210300 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Ao Ritmo Do Hip-Hop</title>
+	</programme>
+	<programme start="20221231222000 +0000" stop="20230101001500 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Ritmo E Sedução</title>
+	</programme>
+	<programme start="20230101001500 +0000" stop="20230101015000 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Enquanto Estiveres Aí</title>
+	</programme>
+	<programme start="20230101015000 +0000" stop="20230101024000 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">No Limite</title>
+	</programme>
+	<programme start="20230101024000 +0000" stop="20230101033000 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">No Limite</title>
+	</programme>
+	<programme start="20230101033000 +0000" stop="20230101042000 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">No Limite</title>
+	</programme>
+	<programme start="20230101042000 +0000" stop="20230101051000 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">No Limite</title>
+	</programme>
+	<programme start="20230101051000 +0000" stop="20230101060000 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">No Limite</title>
+	</programme>
+	<programme start="20230101060000 +0000" stop="20230101062100 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Bless This Mess</title>
+	</programme>
+	<programme start="20230101062100 +0000" stop="20230101074700 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">A Honeymoon To Remember</title>
+	</programme>
+	<programme start="20230101074700 +0000" stop="20230101091200 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">A Picture Perfect Wedding</title>
+	</programme>
+	<programme start="20230101091200 +0000" stop="20230101095800 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Chicago Med</title>
+	</programme>
+	<programme start="20230101095800 +0000" stop="20230101104500 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Chicago Med</title>
+	</programme>
+	<programme start="20230101104500 +0000" stop="20230101112800 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Chicago Med</title>
+	</programme>
+	<programme start="20230101112800 +0000" stop="20230101121200 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Chicago Med</title>
+	</programme>
+	<programme start="20230101121200 +0000" stop="20230101125900 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Chicago Med</title>
+	</programme>
+	<programme start="20230101125900 +0000" stop="20230101143900 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">A Slice Of Romance</title>
+	</programme>
+	<programme start="20230101143900 +0000" stop="20230101162100 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">My Best Friend's Bouquet</title>
+	</programme>
+	<programme start="20230101162100 +0000" stop="20230101180300 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">It Was Always You</title>
+	</programme>
+	<programme start="20230101180300 +0000" stop="20230101201400 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">Dei-Te O Melhor De Mim</title>
+	</programme>
+	<programme start="20230101201400 +0000" stop="20230101211400 +0000" channel="FoxLifePortugal.pt">
+	<title lang="pt">A Melodia Do Adeus</title>
+	</programme>
 
 
 Fox Crime
-  
+	<programme start="20221231220000 +0000" stop="20221231224800 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T2 - Ep. 19</title>
+	</programme>
+	<programme start="20221231224800 +0000" stop="20221231233600 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T2 - Ep. 20</title>
+	</programme>
+	<programme start="20221231233600 +0000" stop="20230101001800 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T2 - Ep. 21</title>
+	</programme>
+	<programme start="20230101001800 +0000" stop="20230101010300 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T2 - Ep. 22</title>
+	</programme>
+	<programme start="20230101010300 +0000" stop="20230101014500 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T2 - Ep. 23</title>
+	</programme>
+	<programme start="20230101014500 +0000" stop="20230101032600 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Midsomer Murders T4 - Ep. 1</title>
+	</programme>
+	<programme start="20230101032600 +0000" stop="20230101050400 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Midsomer Murders T4 - Ep. 2</title>
+	</programme>
+	<programme start="20230101050400 +0000" stop="20230101064100 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Midsomer Murders T4 - Ep. 3</title>
+	</programme>
+	<programme start="20230101064100 +0000" stop="20230101072700 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Agatha Raisin T2 - Ep. 1</title>
+	</programme>
+	<programme start="20230101072700 +0000" stop="20230101090500 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Midsomer Murders T4 - Ep. 4</title>
+	</programme>
+	<programme start="20230101090500 +0000" stop="20230101104900 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Midsomer Murders T4 - Ep. 5</title>
+	</programme>
+	<programme start="20230101104900 +0000" stop="20230101113200 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T2 - Ep. 24</title>
+	</programme>
+	<programme start="20230101113200 +0000" stop="20230101121500 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 1</title>
+	</programme>
+	<programme start="20230101121500 +0000" stop="20230101130100 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 2</title>
+	</programme>
+	<programme start="20230101130100 +0000" stop="20230101134300 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 3</title>
+	</programme>
+	<programme start="20230101134300 +0000" stop="20230101142900 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 4</title>
+	</programme>
+	<programme start="20230101142900 +0000" stop="20230101151400 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 5</title>
+	</programme>
+	<programme start="20230101151400 +0000" stop="20230101160100 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 6</title>
+	</programme>
+	<programme start="20230101160100 +0000" stop="20230101164700 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 7</title>
+	</programme>
+	<programme start="20230101164700 +0000" stop="20230101173000 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 8</title>
+	</programme>
+	<programme start="20230101173000 +0000" stop="20230101181400 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 9</title>
+	</programme>
+	<programme start="20230101181400 +0000" stop="20230101190200 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 10</title>
+	</programme>
+	<programme start="20230101190200 +0000" stop="20230101195000 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 11</title>
+	</programme>
+	<programme start="20230101195000 +0000" stop="20230101203200 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 12</title>
+	</programme>
+	<programme start="20230101203200 +0000" stop="20230101211700 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 13</title>
+	</programme>
+	<programme start="20230101211700 +0000" stop="20230101220000 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">CSI: Nova Iorque T3 - Ep. 14</title>
+	</programme>
+	<programme start="20230101220000 +0000" stop="20230101224900 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Father Brown T9 - Ep. 9</title>
+	</programme>
+	<programme start="20230101224900 +0000" stop="20230101233900 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Astrid e Raphaelle T3 - Ep. 7</title>
+	</programme>
+	<programme start="20230101233900 +0000" stop="20230102002300 +0000" channel="FoxCrimePortugal.pt">
+	<title lang="pt">Crimes Graves T3 - Ep. 18</title>
+	</programme>
   
 Axn White
   
   
-Fox Comedy 
+Fox Comedy
+	<programme start="20221231093100 +0000" stop="20221231095400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T33 - Ep. 14</title>
+	</programme>
+	<programme start="20221231095400 +0000" stop="20221231101400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T33 - Ep. 15</title>
+	</programme>
+	<programme start="20221231101400 +0000" stop="20221231103700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T33 - Ep. 16</title>
+	</programme>
+	<programme start="20221231103700 +0000" stop="20221231110100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T33 - Ep. 17</title>
+	</programme>
+	<programme start="20221231110100 +0000" stop="20221231112100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T33 - Ep. 18</title>
+	</programme>
+	<programme start="20221231112100 +0000" stop="20221231114400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T16 - Ep. 13</title>
+	</programme>
+	<programme start="20221231114400 +0000" stop="20221231120800 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T34 - Ep. 1</title>
+	</programme>
+	<programme start="20221231120800 +0000" stop="20221231122800 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T34 - Ep. 2</title>
+	</programme>
+	<programme start="20221231122800 +0000" stop="20221231125200 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T34 - Ep. 3</title>
+	</programme>
+	<programme start="20221231125200 +0000" stop="20221231131400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T34 - Ep. 4</title>
+	</programme>
+	<programme start="20221231131400 +0000" stop="20221231133500 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T34 - Ep. 5</title>
+	</programme>
+	<programme start="20221231133500 +0000" stop="20221231135700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T34 - Ep. 6</title>
+	</programme>
+	<programme start="20221231135700 +0000" stop="20221231142000 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Boa Vizinhança T4 - Ep. 1</title>
+	</programme>
+	<programme start="20221231142000 +0000" stop="20221231144200 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Boa Vizinhança T4 - Ep. 2</title>
+	</programme>
+	<programme start="20221231144200 +0000" stop="20221231150400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Boa Vizinhança T4 - Ep. 3</title>
+	</programme>
+	<programme start="20221231150400 +0000" stop="20221231152500 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Boa Vizinhança T4 - Ep. 4</title>
+	</programme>
+	<programme start="20221231152500 +0000" stop="20221231154600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Boa Vizinhança T4 - Ep. 5</title>
+	</programme>
+	<programme start="20221231154600 +0000" stop="20221231160700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T6 - Ep. 18</title>
+	</programme>
+	<programme start="20221231160700 +0000" stop="20221231163100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T6 - Ep. 19</title>
+	</programme>
+	<programme start="20221231163100 +0000" stop="20221231165400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T6 - Ep. 20</title>
+	</programme>
+	<programme start="20221231165400 +0000" stop="20221231171900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T6 - Ep. 21</title>
+	</programme>
+	<programme start="20221231171900 +0000" stop="20221231174200 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T6 - Ep. 22</title>
+	</programme>
+	<programme start="20221231174200 +0000" stop="20221231180700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T6 - Ep. 23</title>
+	</programme>
+	<programme start="20221231180700 +0000" stop="20221231183100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T6 - Ep. 24</title>
+	</programme>
+	<programme start="20221231183100 +0000" stop="20221231185500 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T7 - Ep. 1</title>
+	</programme>
+	<programme start="20221231185500 +0000" stop="20221231191600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Friends T7 - Ep. 2</title>
+	</programme>
+	<programme start="20221231191600 +0000" stop="20221231193700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T12 - Ep. 23</title>
+	</programme>
+	<programme start="20221231193700 +0000" stop="20221231200300 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T12 - Ep. 24</title>
+	</programme>
+	<programme start="20221231200300 +0000" stop="20221231202800 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T1 - Ep. 1</title>
+	</programme>
+	<programme start="20221231202800 +0000" stop="20221231205200 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T1 - Ep. 2</title>
+	</programme>
+	<programme start="20221231205200 +0000" stop="20221231211300 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T1 - Ep. 3</title>
+	</programme>
+	<programme start="20221231211300 +0000" stop="20221231213400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T1 - Ep. 4</title>
+	</programme>
+	<programme start="20221231213400 +0000" stop="20221231215600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T1 - Ep. 5</title>
+	</programme>
+	<programme start="20221231215600 +0000" stop="20221231221500 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T1 - Ep. 6</title>
+	</programme>
+	<programme start="20221231221500 +0000" stop="20221231223700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T1 - Ep. 7</title>
+	</programme>
+	<programme start="20221231223700 +0000" stop="20221231230000 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Teoria do Big Bang T1 - Ep. 8</title>
+	</programme>
+	<programme start="20221231230000 +0000" stop="20230101003700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Mr. Bean's Holiday</title>
+	</programme>
+	<programme start="20230101003700 +0000" stop="20230101020500 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">A Pantera Cor-de-Rosa 2</title>
+	</programme>
+	<programme start="20230101020500 +0000" stop="20230101022700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T7 - Ep. 20</title>
+	</programme>
+	<programme start="20230101022700 +0000" stop="20230101024800 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T7 - Ep. 21</title>
+	</programme>
+	<programme start="20230101024800 +0000" stop="20230101030900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T7 - Ep. 22</title>
+	</programme>
+	<programme start="20230101030900 +0000" stop="20230101033000 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T7 - Ep. 23</title>
+	</programme>
+	<programme start="20230101033000 +0000" stop="20230101035200 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T7 - Ep. 24</title>
+	</programme>
+	<programme start="20230101035200 +0000" stop="20230101041400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T4 - Ep. 5</title>
+	</programme>
+	<programme start="20230101041400 +0000" stop="20230101043600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T4 - Ep. 6</title>
+	</programme>
+	<programme start="20230101043600 +0000" stop="20230101045800 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T4 - Ep. 7</title>
+	</programme>
+	<programme start="20230101045800 +0000" stop="20230101051900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T4 - Ep. 8</title>
+	</programme>
+	<programme start="20230101051900 +0000" stop="20230101054100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T4 - Ep. 9</title>
+	</programme>
+	<programme start="20230101054100 +0000" stop="20230101060200 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">American Dad T17 - Ep. 8</title>
+	</programme>
+	<programme start="20230101060200 +0000" stop="20230101062200 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">American Dad T17 - Ep. 9</title>
+	</programme>
+	<programme start="20230101062200 +0000" stop="20230101064200 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim Que Aconteceu T8 - Ep. 17</title>
+	</programme>
+	<programme start="20230101064200 +0000" stop="20230101070300 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim Que Aconteceu T8 - Ep. 18</title>
+	</programme>
+	<programme start="20230101070300 +0000" stop="20230101072400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim Que Aconteceu T8 - Ep. 19</title>
+	</programme>
+	<programme start="20230101072400 +0000" stop="20230101074400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim Que Aconteceu T8 - Ep. 20</title>
+	</programme>
+	<programme start="20230101074400 +0000" stop="20230101080400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim Que Aconteceu T8 - Ep. 21</title>
+	</programme>
+	<programme start="20230101080400 +0000" stop="20230101084600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim Que Aconteceu T8 - Ep. 22</title>
+	</programme>
+	<programme start="20230101084600 +0000" stop="20230101090600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim Que Aconteceu T8 - Ep. 24</title>
+	</programme>
+	<programme start="20230101090600 +0000" stop="20230101092500 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim que Aconteceu T9 - Ep. 1</title>
+	</programme>
+	<programme start="20230101092500 +0000" stop="20230101092700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim Que Aconteceu T8 - Ep. 23</title>
+	</programme>
+	<programme start="20230101092700 +0000" stop="20230101094700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Foi Assim que Aconteceu T9 - Ep. 2</title>
+	</programme>
+	<programme start="20230101094700 +0000" stop="20230101101000 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Os Simpson T5 - Ep. 19</title>
+	</programme>
+	<programme start="20230101101000 +0000" stop="20230101103000 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 13</title>
+	</programme>
+	<programme start="20230101103000 +0000" stop="20230101105400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 14</title>
+	</programme>
+	<programme start="20230101105400 +0000" stop="20230101111400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 15</title>
+	</programme>
+	<programme start="20230101111400 +0000" stop="20230101113600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 16</title>
+	</programme>
+	<programme start="20230101113600 +0000" stop="20230101115900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 17</title>
+	</programme>
+	<programme start="20230101115900 +0000" stop="20230101121900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 18</title>
+	</programme>
+	<programme start="20230101121900 +0000" stop="20230101124100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 19</title>
+	</programme>
+	<programme start="20230101124100 +0000" stop="20230101130400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 20</title>
+	</programme>
+	<programme start="20230101130400 +0000" stop="20230101132400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 21</title>
+	</programme>
+	<programme start="20230101132400 +0000" stop="20230101134600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Regras Do Jogo T5 - Ep. 22</title>
+	</programme>
+	<programme start="20230101134600 +0000" stop="20230101140800 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 13</title>
+	</programme>
+	<programme start="20230101140800 +0000" stop="20230101143100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 14</title>
+	</programme>
+	<programme start="20230101143100 +0000" stop="20230101145300 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 15</title>
+	</programme>
+	<programme start="20230101145300 +0000" stop="20230101151400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 16</title>
+	</programme>
+	<programme start="20230101151400 +0000" stop="20230101153600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 17</title>
+	</programme>
+	<programme start="20230101153600 +0000" stop="20230101155900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 18</title>
+	</programme>
+	<programme start="20230101155900 +0000" stop="20230101161900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 19</title>
+	</programme>
+	<programme start="20230101161900 +0000" stop="20230101164100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 20</title>
+	</programme>
+	<programme start="20230101164100 +0000" stop="20230101170400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 21</title>
+	</programme>
+	<programme start="20230101170400 +0000" stop="20230101172600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 22</title>
+	</programme>
+	<programme start="20230101172600 +0000" stop="20230101174900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Uma Família Muito Moderna T8 - Ep. 1</title>
+	</programme>
+	<programme start="20230101174900 +0000" stop="20230101180900 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 8</title>
+	</programme>
+	<programme start="20230101180900 +0000" stop="20230101183100 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 9</title>
+	</programme>
+	<programme start="20230101183100 +0000" stop="20230101185400 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 10</title>
+	</programme>
+	<programme start="20230101185400 +0000" stop="20230101191500 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 11</title>
+	</programme>
+	<programme start="20230101191500 +0000" stop="20230101193800 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 12</title>
+	</programme>
+	<programme start="20230101193800 +0000" stop="20230101200000 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 13</title>
+	</programme>
+	<programme start="20230101200000 +0000" stop="20230101202000 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 14</title>
+	</programme>
+	<programme start="20230101202000 +0000" stop="20230101204300 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 15</title>
+	</programme>
+	<programme start="20230101204300 +0000" stop="20230101210500 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 16</title>
+	</programme>
+	<programme start="20230101210500 +0000" stop="20230101212700 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Dois Homens e Meio T2 - Ep. 17</title>
+	</programme>
+	<programme start="20230101212700 +0000" stop="20230101230000 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Mr. Bean's Holiday</title>
+	</programme>
+	<programme start="20230101230000 +0000" stop="20230102010600 +0000" channel="FoxComedyPortugal.pt">
+	<title lang="pt">Shazam!</title>
+	</programme> 
 
 Axn Movies
 	<programme start="20221231175700 +0000" stop="20221231193700 +0000" channel="AXNMovies.pt">
@@ -188,7 +736,51 @@ Axn Movies
 	</programme>
 
 Fox Movies 
-
+<programme start="20221231170700 +0000" stop="20221231190800 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Soldados Da Fortuna</title>
+	</programme>
+	<programme start="20221231190800 +0000" stop="20221231211500 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">O Atirador</title>
+	</programme>
+	<programme start="20221231211500 +0000" stop="20221231221500 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">O Padrinho</title>
+	</programme>
+	<programme start="20230101001100 +0000" stop="20230101032400 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">O Padrinho - Parte II</title>
+	</programme>
+	<programme start="20230101032400 +0000" stop="20230101060000 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">O Padrinho - Parte III</title>
+	</programme>
+	<programme start="20230101060000 +0000" stop="20230101070700 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Planeta Dos Macacos</title>
+	</programme>
+	<programme start="20230101070700 +0000" stop="20230101084400 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Ghost In The Shell - Agente Do Futuro</title>
+	</programme>
+	<programme start="20230101084400 +0000" stop="20230101105700 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Perdido Em Marte</title>
+	</programme>
+	<programme start="20230101105700 +0000" stop="20230101121700 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Hansel E Gretel: Caçadores De Bruxas</title>
+	</programme>
+	<programme start="20230101121700 +0000" stop="20230101134800 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Die Hard: Nunca É Bom Dia Para Morrer</title>
+	</programme>
+	<programme start="20230101134800 +0000" stop="20230101154200 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Soldados Da Fortuna</title>
+	</programme>
+	<programme start="20230101154200 +0000" stop="20230101174300 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">O Atirador</title>
+	</programme>
+	<programme start="20230101174300 +0000" stop="20230101192500 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Colombiana</title>
+	</programme>
+	<programme start="20230101192500 +0000" stop="20230101211500 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">The Gentlemen: Senhores Do Crime</title>
+	</programme>
+	<programme start="20230101211500 +0000" stop="20230101221500 +0000" channel="FoxMoviesPortugal.pt">
+	<title lang="pt">Green Book - Um Guia Para A Vida</title>
+	</programme>
 
 Cinemundo 
 	<programme start="20221231164500 +0000" stop="20221231184000 +0000" channel="CineMundo.pt">
