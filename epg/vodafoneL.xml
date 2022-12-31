@@ -2,6 +2,10 @@
 
 <tv>
 
+  <channel id="ABolaTV.pt">
+	<display-name lang="pt">A BOLA TV</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" />
+  </channel>  
   <channel id="RTPAfrica.pt">
     <display-name lang="pt">RTP AFRICA</display-name>
     <icon src="https://www.meo.pt/PublishingImages/canais/rtp-africa.png" />
