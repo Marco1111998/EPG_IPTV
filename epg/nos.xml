@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  
+
+  <channel id="NosStudios.pt">
+	<display-name>NOS STUDIOS</display-name>
+  </channel>
+  <channel id="FoxPortugal">
+    <display-name lang="pt">FOX</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="AXNPortugal.pt">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="" />
+  </channel>
+  
+  <channel id="AMC.pt">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/amc.png" />
+  </channel>
+  <channel id="Syfy.pt">
+    <display-name lang="pt">SYFY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/syfy.png" />
+  </channel>
+  <channel id="Dizi.nl">
+	<display-name>DIZI</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/dizi-channel.png"/>
+  </channel>  
+  <channel id="FoxLife.pt">
+    <display-name lang="pt">FOX LIFE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-life.png" />
+  </channel>
+  <channel id="FoxCrime.pt">
+    <display-name lang="pt">FOX CRIME</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-crime.png" />
+  </channel>
+  <channel id="AxnWhite.pt">
+    <display-name lang="pt">AXN WHITE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
+  </channel>
+  <channel id="AxnMovies.pt">
+    <display-name lang="pt">AXN MOVIES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-movies.png" />
+  </channel>
+  <channel id="FoxMovies.pt">
+    <display-name lang="pt">FOX MOVIES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-movies.png" />
+  </channel>
+  <channel id="FoxComedy.pt">
+    <display-name lang="pt">FOX COMEDY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-comedy.png" />
+  </channel>
+  <channel id="Cinemundo.pt">
+    <display-name lang="pt">Cinemundo</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Cinemundo.png" />
+  </channel>
+  <channel id="CanalHollywood.pt">
+    <display-name lang="pt">CANAL HOLLYWOOD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/hollywood.png" />
+  </channel>
+  <channel id="TVCineTop.pt">
+    <display-name lang="pt">TVCINE TOP</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-top.png" />
+  </channel>
+  <channel id="TVCineEdition.pt">
+    <display-name lang="pt">TVCINE EDITION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-edition.png" />
+  </channel>
+  <channel id="TVCineEmotion.pt">
+    <display-name lang="pt">TVCINE EMOTION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-emotion.png" />
+  </channel>
+  <channel id="TVCineAction.pt">
+    <display-name lang="pt">TVCINE ACTION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-action.png" />
+  </channel> 
+  <channel id="RTPAfrica.pt">
+    <display-name lang="pt">RTP AFRICA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-africa.png" />
+  </channel>
+  <channel id="RTPAcores.pt">
+    <display-name lang="pt">RTP ACORES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-acores.png" />
+  </channel>
+  <channel id="RTPMadeira.pt">
+    <display-name lang="pt">RTP MADEIRA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-madeira.png" />
+  </channel>
+  <channel id="RTPMemoria.pt">
+    <display-name lang="pt">RTP MEMORIA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png" />
+  </channel>
+  <channel id="KuriakosTV.pt">
+    <display-name lang="pt">KURIAKOS TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/kuriakos.png" />
+  </channel>  
+  <channel id="GaliciaTVEuropa.es">
+    <display-name lang="pt">TV GALICIA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tv-galicia.png" />
+  </channel> 
+	<channel id="TPAInternacional.ao">
+	<display-name lang="pt">TPA INTERNACIONAL</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/tpa-internacional.png" />
+	</channel>  
+
+
+FOX
+  
+  
+AXN
+
+
+
+AMC
+
+
+Syfy
+
+
+Dizi
+  
+
+Fox Life
+
+
+Fox Crime
+  
+  
+Axn White
+  
+  
+Fox Comedy 
+
+Axn Movies
+	<programme start="20221231175700 +0000" stop="20221231193700 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Miúdos e Graúdos 2</title>
+	</programme>
+	<programme start="20221231193700 +0000" stop="20221231211000 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Mr. Deeds</title>
+	</programme>
+	<programme start="20221231211000 +0000" stop="20221231231200 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Virgem aos 40 Anos</title>
+	</programme>
+	<programme start="20221231231200 +0000" stop="20230101004300 +0000" channel="AXNMovies.pt">
+		<title lang="pt">O Mentiroso Compulsivo</title>
+	</programme>
+	<programme start="20230101004300 +0000" stop="20230101023000 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Girls Night</title>
+	</programme>
+	<programme start="20230101023000 +0000" stop="20230101042100 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Bons Rapazes</title>
+	</programme>
+	<programme start="20230101042100 +0000" stop="20230101062700 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Broken Flowers: Flores Partidas</title>
+	</programme>
+	<programme start="20230101062700 +0000" stop="20230101075200 +0000" channel="AXNMovies.pt">
+		<title lang="pt">O Medalhão</title>
+	</programme>
+	<programme start="20230101075200 +0000" stop="20230101094400 +0000" channel="AXNMovies.pt">
+		<title lang="pt">8 Milhões de Maneiras para Morrer</title>
+	</programme>
+	<programme start="20230101094400 +0000" stop="20230101111100 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Peter Rabbit</title>
+	</programme>
+	<programme start="20230101111100 +0000" stop="20230101123800 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Os Flintstones</title>
+	</programme>
+	<programme start="20230101123800 +0000" stop="20230101140500 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Os Flintstones em Viva Rock Vegas</title>
+	</programme>
+	<programme start="20230101140500 +0000" stop="20230101155500 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Os Goonies</title>
+	</programme>
+	<programme start="20230101155500 +0000" stop="20230101174700 +0000" channel="AXNMovies.pt">
+		<title lang="pt">American Graffiti: Nova Geração</title>
+	</programme>
+	<programme start="20230101174700 +0000" stop="20230101192700 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Dança Comigo</title>
+	</programme>
+	<programme start="20230101192700 +0000" stop="20230101211000 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Os Caça-Fantasmas</title>
+	</programme>
+	<programme start="20230101211000 +0000" stop="20230101232900 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Uma Questão de Honra</title>
+	</programme>
+	<programme start="20230101232900 +0000" stop="20230102010500 +0000" channel="AXNMovies.pt">
+		<title lang="pt">Golpe de Vingança</title>
+	</programme>
+
+Fox Movies 
+
+
+Cinemundo 
+	<programme start="20221231164500 +0000" stop="20221231184000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Regresso ao Futuro</title>
+	</programme>
+	<programme start="20221231184000 +0000" stop="20221231203000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Regresso ao Futuro Parte II</title>
+	</programme>
+	<programme start="20221231203000 +0000" stop="20221231223000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Regresso ao Futuro Parte III</title>
+	</programme>
+	<programme start="20221231223000 +0000" stop="20230101002000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Ousadas e Golpistas</title>
+	</programme>
+	<programme start="20230101002000 +0000" stop="20230101015500 +0000" channel="CineMundo.pt">
+		<title lang="pt">Operações Especiais</title>
+	</programme>
+	<programme start="20230101015500 +0000" stop="20230101040000 +0000" channel="CineMundo.pt">
+		<title lang="pt">The Last Face: A Última Fronteira</title>
+	</programme>
+	<programme start="20230101040000 +0000" stop="20230101054000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Um Olhar Obsessivo</title>
+	</programme>
+	<programme start="20230101054000 +0000" stop="20230101074500 +0000" channel="CineMundo.pt">
+		<title lang="pt">Robô E Frank</title>
+	</programme>
+	<programme start="20230101074500 +0000" stop="20230101091000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Robô E Frank</title>
+	</programme>
+	<programme start="20230101091000 +0000" stop="20230101110500 +0000" channel="CineMundo.pt">
+		<title lang="pt">Regresso ao Futuro</title>
+	</programme>
+	<programme start="20230101110500 +0000" stop="20230101125000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Regresso ao Futuro Parte II</title>
+	</programme>
+	<programme start="20230101125000 +0000" stop="20230101144500 +0000" channel="CineMundo.pt">
+		<title lang="pt">Regresso ao Futuro Parte III</title>
+	</programme>
+	<programme start="20230101144500 +0000" stop="20230101163500 +0000" channel="CineMundo.pt">
+		<title lang="pt">Belleville Cop - O Super Agente</title>
+	</programme>
+	<programme start="20230101163500 +0000" stop="20230101184500 +0000" channel="CineMundo.pt">
+		<title lang="pt">Em Nome do Rei</title>
+	</programme>
+	<programme start="20230101184500 +0000" stop="20230101203000 +0000" channel="CineMundo.pt">
+		<title lang="pt">O Americano</title>
+	</programme>
+	<programme start="20230101203000 +0000" stop="20230101223000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Desafio Total</title>
+	</programme>
+	<programme start="20230101223000 +0000" stop="20230102000000 +0000" channel="CineMundo.pt">
+		<title lang="pt">Don Jon</title>
+	</programme>
+	<programme start="20230102000000 +0000" stop="20230102013500 +0000" channel="CineMundo.pt">
+		<title lang="pt">Réplica Violenta</title>
+	</programme>
+
+
+Canal Hollywood 
+	<programme start="20221231185000 +0000" stop="20221231204500 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">As Crónicas de Riddick</title>
+	</programme>
+	<programme start="20221231204500 +0000" stop="20221231222500 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">7 Segundos</title>
+	</programme>
+	<programme start="20221231222500 +0000" stop="20230101002500 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Outro Eu</title>
+	</programme>
+	<programme start="20230101002500 +0000" stop="20230101020000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Mocas Felizes, Meu!</title>
+	</programme>
+	<programme start="20230101020000 +0000" stop="20230101035500 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Assalto à Casa Branca</title>
+	</programme>
+	<programme start="20230101035500 +0000" stop="20230101053500 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Anjos E Sombras</title>
+	</programme>
+	<programme start="20230101053500 +0000" stop="20230101073000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Julie e Julia</title>
+	</programme>
+	<programme start="20230101073000 +0000" stop="20230101085000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Príncipe Bué Encantado</title>
+	</programme>
+	<programme start="20230101085000 +0000" stop="20230101102000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Happy Feet 2</title>
+	</programme>
+	<programme start="20230101102000 +0000" stop="20230101120000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Mia e o Leão Branco</title>
+	</programme>
+	<programme start="20230101120000 +0000" stop="20230101134000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Juntos Para Sempre</title>
+	</programme>
+	<programme start="20230101134000 +0000" stop="20230101152000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Pokémon Detetive Pikachu</title>
+	</programme>
+	<programme start="20230101152000 +0000" stop="20230101175000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Exodus: Deuses e Reis</title>
+	</programme>
+	<programme start="20230101175000 +0000" stop="20230101200000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Assassinos</title>
+	</programme>
+	<programme start="20230101200000 +0000" stop="20230101220000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">S.W.A.T. - Força de Intervenção</title>
+	</programme>
+	<programme start="20230101220000 +0000" stop="20230101233000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">Bill e Ted Face the Music</title>
+	</programme>
+	<programme start="20230101233000 +0000" stop="20230102010000 +0000" channel="CanalHollywoodPortugal.pt">
+		<title lang="pt">A Cidade dos Lobos</title>
+	</programme>
+
+TVCine Top
+	<programme start="20221231183000 +0000" stop="20221231201000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">O Domingo Das Mães</title>
+	</programme>
+	<programme start="20221231201000 +0000" stop="20221231213000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Conspiração Implacável</title>
+	</programme>
+	<programme start="20221231213000 +0000" stop="20221231230500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Old Henry</title>
+	</programme>
+	<programme start="20221231230500 +0000" stop="20230101004500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Tesla</title>
+	</programme>
+	<programme start="20230101004500 +0000" stop="20230101025500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Ocupação: Projeto Chuva</title>
+	</programme>
+	<programme start="20230101025500 +0000" stop="20230101043000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Seance</title>
+	</programme>
+	<programme start="20230101043000 +0000" stop="20230101064500 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Os Fantasmas de Ismael</title>
+	</programme>
+	<programme start="20230101064500 +0000" stop="20230101081000 +0000" channel="TVCineTop.pt">
+	<title lang="pt">As Fantásticas Aventuras De Spirou E Fantasio</title>
+	</programme>
+	<programme start="20230101081000 +0000" stop="20230101093000 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Sonho Olímpico</title>
+	</programme>
+	<programme start="20230101093000 +0000" stop="20230101110500 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Astronauta</title>
+	</programme>
+	<programme start="20230101110500 +0000" stop="20230101124000 +0000" channel="TVCineTop.pt">
+	<title lang="pt">O Pai</title>
+	</programme>
+	<programme start="20230101124000 +0000" stop="20230101141500 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Ouro</title>
+	</programme>
+	<programme start="20230101141500 +0000" stop="20230101155500 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Zona 414</title>
+	</programme>
+	<programme start="20230101155500 +0000" stop="20230101174000 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Contra-Ataque</title>
+	</programme>
+	<programme start="20230101174000 +0000" stop="20230101193000 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Crime Em Hollywood</title>
+	</programme>
+	<programme start="20230101193000 +0000" stop="20230101213000 +0000" channel="TVCineTop.pt">
+	<title lang="pt">O Bando De Ned Kelly</title>
+	</programme>
+	<programme start="20230101213000 +0000" stop="20230101231000 +0000" channel="TVCineTop.pt">
+	<title lang="pt">Irregular</title>
+	</programme>
+	<programme start="20230101231000 +0000" stop="20230102004500 +0000" channel="TVCineTop.pt">
+	<title lang="pt">O Diabo Tem Um Nome</title>
+	</programme>
+
+	
+TVCine Edition
+	<programme start="20230101162500 +0000" stop="20230101182500 +0000" channel="TVCineEdition.pt">
+	<title lang="pt">O Pai Tirano</title>
+	</programme>
+	<programme start="20230101182500 +0000" stop="20230101200000 +0000" channel="TVCineEdition.pt">
+	<title lang="pt">Jane Por Charlotte</title>
+	</programme>
+	<programme start="20230101200000 +0000" stop="20230101220000 +0000" channel="TVCineEdition.pt">
+	<title lang="pt">Quarto</title>
+	</programme>
+	<programme start="20230101220000 +0000" stop="20230102004000 +0000" channel="TVCineEdition.pt">
+	<title lang="pt">Silêncio</title>
+	</programme>
+	
+
+TVCine Emotion
+	<programme start="20221230235000 +0000" stop="20221231014000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Não Há Duas Sem Três</title>
+	</programme>
+	<programme start="20221231014000 +0000" stop="20221231031000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Absolutely Anything - Uma Comédia Intergaláctica</title>
+	</programme>
+	<programme start="20221231031000 +0000" stop="20221231051000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Hector E A Procura Da Felicidade</title>
+	</programme>
+	<programme start="20221231051000 +0000" stop="20221231065000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Donas Da Bola</title>
+	</programme>
+	<programme start="20221231065000 +0000" stop="20221231083500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">A Fada dos dentes</title>
+	</programme>
+	<programme start="20221231083500 +0000" stop="20221231105500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">O Furacão</title>
+	</programme>
+	<programme start="20221231105500 +0000" stop="20221231122500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Khumba (VP)</title>
+	</programme>
+	<programme start="20221231122500 +0000" stop="20221231143500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">A Voz Do Amor</title>
+	</programme>
+	<programme start="20221231143500 +0000" stop="20221231162000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Fantasias</title>
+	</programme>
+	<programme start="20221231162000 +0000" stop="20221231182500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Três Andares</title>
+	</programme>
+	<programme start="20221231182500 +0000" stop="20221231195500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">O Discurso</title>
+	</programme>
+	<programme start="20221231195500 +0000" stop="20221231214500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">A Promessa de Uma Vida</title>
+	</programme>
+	<programme start="20221231214500 +0000" stop="20230101000000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Moneyball - Jogada de Risco</title>
+	</programme>
+	<programme start="20230101000000 +0000" stop="20230101014000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Ponto De Ebulição</title>
+	</programme>
+	<programme start="20230101014000 +0000" stop="20230101033000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Voo Para A Liberdade</title>
+	</programme>
+	<programme start="20230101033000 +0000" stop="20230101050500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">É Demais Para Mim</title>
+	</programme>
+	<programme start="20230101050500 +0000" stop="20230101065500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Tempo de Crescer</title>
+	</programme>
+	<programme start="20230101065500 +0000" stop="20230101084500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Forças da Natureza</title>
+	</programme>
+	<programme start="20230101084500 +0000" stop="20230101092000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">O Teu Nome É (VO)</title>
+	</programme>
+	<programme start="20230101092000 +0000" stop="20230101105000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Ooops! Noah is Gone... (VP)</title>
+	</programme>
+	<programme start="20230101105000 +0000" stop="20230101122000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Upsss! 2 - A Aventura Continua (VP)</title>
+	</programme>
+	<programme start="20230101122000 +0000" stop="20230101142500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">A Juventude de Jane</title>
+	</programme>
+	<programme start="20230101142500 +0000" stop="20230101162000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Não Há Duas Sem Três</title>
+	</programme>
+	<programme start="20230101162000 +0000" stop="20230101165000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">O Véu Encantado</title>
+	</programme>
+	<programme start="20230101165000 +0000" stop="20230101175000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">De Itália com Amor</title>
+	</programme>
+	<programme start="20230101175000 +0000" stop="20230101195500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Criaturas Maravilhosas</title>
+	</programme>
+	<programme start="20230101195500 +0000" stop="20230101214500 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Festa de Natal da Empresa</title>
+	</programme>
+	<programme start="20230101214500 +0000" stop="20230101234000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">O Manual da Boa Esposa</title>
+	</programme>
+	<programme start="20230101234000 +0000" stop="20230102014000 +0000" channel="TVCineEmotion.pt">
+	<title lang="pt">Notas de Amor</title>
+	</programme>
+	
+  
+TVCine Action
+	<programme start="20221230231500 +0000" stop="20221231005000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Seance</title>
+	</programme>
+	<programme start="20221231005000 +0000" stop="20221231024000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Annabelle 2: A Criação Do Mal</title>
+	</programme>
+	<programme start="20221231024000 +0000" stop="20221231042500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Jeepers Creepers 3</title>
+	</programme>
+	<programme start="20221231042500 +0000" stop="20221231060500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Palpitações</title>
+	</programme>
+	<programme start="20221231060500 +0000" stop="20221231083500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Armageddon</title>
+	</programme>
+	<programme start="20221231083500 +0000" stop="20221231102500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Ocean´s 8</title>
+	</programme>
+	<programme start="20221231102500 +0000" stop="20221231121000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">O Último Viking</title>
+	</programme>
+	<programme start="20221231121000 +0000" stop="20221231134000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Locke</title>
+	</programme>
+	<programme start="20221231134000 +0000" stop="20221231153000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Os Irmãos Bloom</title>
+	</programme>
+	<programme start="20221231153000 +0000" stop="20221231172000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Mar do Norte</title>
+	</programme>
+	<programme start="20221231172000 +0000" stop="20221231184500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Ases pelos Ares 2</title>
+	</programme>
+	<programme start="20221231184500 +0000" stop="20221231202000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Isolado (2020)</title>
+	</programme>
+	<programme start="20221231202000 +0000" stop="20221231214500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Venenosas</title>
+	</programme>
+	<programme start="20221231214500 +0000" stop="20221231232000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">The Minion</title>
+	</programme>
+	<programme start="20221231232000 +0000" stop="20230101005500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Matar ou Morrer</title>
+	</programme>
+	<programme start="20230101005500 +0000" stop="20230101013500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Ases pelos Ares 2</title>
+	</programme>
+	<programme start="20230101013500 +0000" stop="20230101030000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Dormindo com o Perigo</title>
+	</programme>
+	<programme start="20230101030000 +0000" stop="20230101034500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Joe Pickett T1 - Ep. 6</title>
+	</programme>
+	<programme start="20230101034500 +0000" stop="20230101044000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Joe Pickett T1 - Ep. 7</title>
+	</programme>
+	<programme start="20230101044000 +0000" stop="20230101053000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Joe Pickett T1 - Ep. 8</title>
+	</programme>
+	<programme start="20230101053000 +0000" stop="20230101061500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Interrogation T1 - Ep. 8</title>
+	</programme>
+	<programme start="20230101061500 +0000" stop="20230101070000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">The Lost Symbol T1 - Ep. 4</title>
+	</programme>
+	<programme start="20230101070000 +0000" stop="20230101085000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Os Irmãos Bloom</title>
+	</programme>
+	<programme start="20230101085000 +0000" stop="20230101102000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">In The Cold Dark Night</title>
+	</programme>
+	<programme start="20230101102000 +0000" stop="20230101123000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Moneyball - Jogada de Risco</title>
+	</programme>
+	<programme start="20230101123000 +0000" stop="20230101140500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">The Minion</title>
+	</programme>
+	<programme start="20230101140500 +0000" stop="20230101153500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">A Ex da Porta ao Lado</title>
+	</programme>
+	<programme start="20230101153500 +0000" stop="20230101170000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Dormindo com o Perigo</title>
+	</programme>
+	<programme start="20230101170000 +0000" stop="20230101184000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Transporter: Potência Máxima</title>
+	</programme>
+	<programme start="20230101184000 +0000" stop="20230101201500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Último Momento De Clareza</title>
+	</programme>
+	<programme start="20230101201500 +0000" stop="20230101214500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Vampiros Do Inferno</title>
+	</programme>
+	<programme start="20230101214500 +0000" stop="20230101235000 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Os Sete Magníficos</title>
+	</programme>
+	<programme start="20230101235000 +0000" stop="20230102013500 +0000" channel="TVCineAction.pt">
+	<title lang="pt">Mad Max Além da Cúpula do Trovão</title>
+	</programme>
+
+
+RTP Africa
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221228000000 +0000" stop="20221229000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221229000000 +0000" stop="20221230000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221230000000 +0000" stop="20221231000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
+
+
+	<programme start="20221030200000 +0000" stop="20221029230000 +0000" channel="TPAInternacional.ao"><title lang="en">- TPA Internacional -</title></programme>  
+  
+</tv>
