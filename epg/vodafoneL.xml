@@ -32,6 +32,533 @@
 	</channel>  
 
 
+	<programme start="20221228220000 +0000" stop="20221229001500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221229001500 +0000" stop="20221229004500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221229004500 +0000" stop="20221229011500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221229011500 +0000" stop="20221229014500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221229014500 +0000" stop="20221229015000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221229015000 +0000" stop="20221229040500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221229040500 +0000" stop="20221229043500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221229043500 +0000" stop="20221229050000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Madjer</title>
+	</programme>
+	<programme start="20221229050000 +0000" stop="20221229053000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Diamantes Na Areia</title>
+	</programme>
+	<programme start="20221229053000 +0000" stop="20221229060000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221229060000 +0000" stop="20221229062500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Against All Odds</title>
+	</programme>
+	<programme start="20221229062500 +0000" stop="20221229070000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine TT</title>
+	</programme>
+	<programme start="20221229070000 +0000" stop="20221229073000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221229073000 +0000" stop="20221229080000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20221229080000 +0000" stop="20221229083000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221229083000 +0000" stop="20221229090000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221229090000 +0000" stop="20221229091500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Fairplay</title>
+	</programme>
+	<programme start="20221229091500 +0000" stop="20221229093000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Custom Series</title>
+	</programme>
+	<programme start="20221229093000 +0000" stop="20221229100000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Desporto Motorizado</title>
+	</programme>
+	<programme start="20221229100000 +0000" stop="20221229103000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20221229103000 +0000" stop="20221229110000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">World Sailing Cup</title>
+	</programme>
+	<programme start="20221229110000 +0000" stop="20221229113000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221229113000 +0000" stop="20221229120000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Playbola</title>
+	</programme>
+	<programme start="20221229120000 +0000" stop="20221229123000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20221229123000 +0000" stop="20221229130000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Deixa Rolar: Mónica Sofia</title>
+	</programme>
+	<programme start="20221229130000 +0000" stop="20221229133000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20221229133000 +0000" stop="20221229140000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Ride</title>
+	</programme>
+	<programme start="20221229140000 +0000" stop="20221229143000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20221229143000 +0000" stop="20221229164500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221229164500 +0000" stop="20221229170000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine FMP</title>
+	</programme>
+	<programme start="20221229170000 +0000" stop="20221229173000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20221229173000 +0000" stop="20221229180000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20221229180000 +0000" stop="20221229183000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221229183000 +0000" stop="20221229190000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Entrevista: Kika Nazareth</title>
+	</programme>
+	<programme start="20221229190000 +0000" stop="20221229195500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20221229195500 +0000" stop="20221229203000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 8</title>
+	</programme>
+	<programme start="20221229203000 +0000" stop="20221229210000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Madjer</title>
+	</programme>
+	<programme start="20221229210000 +0000" stop="20221229213000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20221229213000 +0000" stop="20221229220000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221229220000 +0000" stop="20221230001500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221230001500 +0000" stop="20221230004500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Entrevista: Kika Nazareth</title>
+	</programme>
+	<programme start="20221230004500 +0000" stop="20221230011500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221230011500 +0000" stop="20221230014500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221230014500 +0000" stop="20221230015000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221230015000 +0000" stop="20221230040500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Quinta Da Bola</title>
+	</programme>
+	<programme start="20221230040500 +0000" stop="20221230043500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221230043500 +0000" stop="20221230050500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20221230050500 +0000" stop="20221230055000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Poquer - Aposta Mundial</title>
+	</programme>
+	<programme start="20221230055000 +0000" stop="20221230055500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221230055500 +0000" stop="20221230062500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Madjer</title>
+	</programme>
+	<programme start="20221230062500 +0000" stop="20221230065500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Ride</title>
+	</programme>
+	<programme start="20221230065500 +0000" stop="20221230070000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221230070000 +0000" stop="20221230073000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221230073000 +0000" stop="20221230080000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Ultra-Trail Circuito Mundial</title>
+	</programme>
+	<programme start="20221230080000 +0000" stop="20221230083000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221230083000 +0000" stop="20221230090000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine TT</title>
+	</programme>
+	<programme start="20221230090000 +0000" stop="20221230091500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine Aventura</title>
+	</programme>
+	<programme start="20221230091500 +0000" stop="20221230093000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Urban Being</title>
+	</programme>
+	<programme start="20221230093000 +0000" stop="20221230100000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221230100000 +0000" stop="20221230103000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20221230103000 +0000" stop="20221230110000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Playbola</title>
+	</programme>
+	<programme start="20221230110000 +0000" stop="20221230113000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Against All Odds</title>
+	</programme>
+	<programme start="20221230113000 +0000" stop="20221230120000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Mundial Timbersports</title>
+	</programme>
+	<programme start="20221230120000 +0000" stop="20221230123000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20221230123000 +0000" stop="20221230130000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20221230130000 +0000" stop="20221230133000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20221230133000 +0000" stop="20221230140000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20221230140000 +0000" stop="20221230143000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20221230143000 +0000" stop="20221230150000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221230150000 +0000" stop="20221230164500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Basquetebol: Sporting x Póvoa (Direto)</title>
+	</programme>
+	<programme start="20221230164500 +0000" stop="20221230165000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221230165000 +0000" stop="20221230170000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Roda De Bola</title>
+	</programme>
+	<programme start="20221230170000 +0000" stop="20221230173000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20221230173000 +0000" stop="20221230180000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20221230180000 +0000" stop="20221230184500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogo Económico</title>
+	</programme>
+	<programme start="20221230184500 +0000" stop="20221230200000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20221230200000 +0000" stop="20221230203000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20221230203000 +0000" stop="20221230211500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 8</title>
+	</programme>
+	<programme start="20221230211500 +0000" stop="20221230231500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogo Ao Minuto: SC Braga x Benfica</title>
+	</programme>
+	<programme start="20221230231500 +0000" stop="20221231003000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	
+	<programme start="20221230231500 +0000" stop="20221231003000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221231003000 +0000" stop="20221231010000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Manuel Cajuda</title>
+	</programme>
+	<programme start="20221231010000 +0000" stop="20221231012500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20221231012500 +0000" stop="20221231015000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20221231015000 +0000" stop="20221231022000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221231022000 +0000" stop="20221231022500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231022500 +0000" stop="20221231034000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221231034000 +0000" stop="20221231041000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221231041000 +0000" stop="20221231043500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221231043500 +0000" stop="20221231050500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Deixa Rolar: Mónica Sofia</title>
+	</programme>
+	<programme start="20221231050500 +0000" stop="20221231053000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20221231053000 +0000" stop="20221231055500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221231055500 +0000" stop="20221231061000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Fairplay</title>
+	</programme>
+	<programme start="20221231061000 +0000" stop="20221231063500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">World Sailing Cup</title>
+	</programme>
+	<programme start="20221231063500 +0000" stop="20221231070000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Against All Odds</title>
+	</programme>
+	<programme start="20221231070000 +0000" stop="20221231073000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221231073000 +0000" stop="20221231080000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20221231080000 +0000" stop="20221231083000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221231083000 +0000" stop="20221231084500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Custom Series</title>
+	</programme>
+	<programme start="20221231084500 +0000" stop="20221231091500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Memórias: Portugal Camp. Euripeu de Juniores</title>
+	</programme>
+	<programme start="20221231091500 +0000" stop="20221231094500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Ride</title>
+	</programme>
+	<programme start="20221231094500 +0000" stop="20221231100000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine FMP</title>
+	</programme>
+	<programme start="20221231100000 +0000" stop="20221231103000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20221231103000 +0000" stop="20221231110000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221231110000 +0000" stop="20221231113000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Comboio Dos Duros</title>
+	</programme>
+	<programme start="20221231113000 +0000" stop="20221231113500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231113500 +0000" stop="20221231120000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20221231120000 +0000" stop="20221231123000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20221231123000 +0000" stop="20221231130000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Diamantes Na Areia</title>
+	</programme>
+	<programme start="20221231130000 +0000" stop="20221231133000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20221231133000 +0000" stop="20221231140000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Compacto Desportivo: Trail Costa Vicentina</title>
+	</programme>
+	<programme start="20221231140000 +0000" stop="20221231143000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20221231143000 +0000" stop="20221231150000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Manuel Cajuda</title>
+	</programme>
+	<programme start="20221231150000 +0000" stop="20221231155500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Especial: Danças de Salão Taça do Mundo</title>
+	</programme>
+	<programme start="20221231155500 +0000" stop="20221231160000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231160000 +0000" stop="20221231163000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221231163000 +0000" stop="20221231163500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231163500 +0000" stop="20221231170000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20221231170000 +0000" stop="20221231173000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20221231173000 +0000" stop="20221231180000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Deixa Rolar: Pedro Hossi</title>
+	</programme>
+	<programme start="20221231180000 +0000" stop="20221231183000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20221231183000 +0000" stop="20221231190000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221231190000 +0000" stop="20221231195500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20221231195500 +0000" stop="20221231214000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Especial: Ronaldo a IV Bota de Ouro</title>
+	</programme>
+	<programme start="20221231214000 +0000" stop="20221231220000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">72 Horas Antes: Vanessa Fernandes</title>
+	</programme>
+	<programme start="20221231220000 +0000" stop="20221231225500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola De Sábado</title>
+	</programme>
+	<programme start="20221231225500 +0000" stop="20221231230500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231230500 +0000" stop="20221231235500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Danças de Salão Taça do Mundo</title>
+	</programme>
+	<programme start="20221231235500 +0000" stop="20230101000000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Countdown 2022/23</title>
+	</programme>
+	<programme start="20230101000000 +0000" stop="20230101002500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20230101002500 +0000" stop="20230101005500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230101005500 +0000" stop="20230101014000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Poquer - Aposta Mundial</title>
+	</programme>
+	<programme start="20230101014000 +0000" stop="20230101023500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola De Sábado</title>
+	</programme>
+	<programme start="20230101023500 +0000" stop="20230101035500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Troféu Mongólia</title>
+	</programme>
+	<programme start="20230101035500 +0000" stop="20230101042500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230101042500 +0000" stop="20230101045000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20230101045000 +0000" stop="20230101052000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20230101052000 +0000" stop="20230101054000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Memórias</title>
+	</programme>
+	<programme start="20230101054000 +0000" stop="20230101055500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Desporto Motorizado</title>
+	</programme>
+	<programme start="20230101055500 +0000" stop="20230101060500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Fairplay</title>
+	</programme>
+	<programme start="20230101060500 +0000" stop="20230101063500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Jogar Em Casa: Manuel Cajuda</title>
+	</programme>
+	<programme start="20230101063500 +0000" stop="20230101070000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20230101070000 +0000" stop="20230101073000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230101073000 +0000" stop="20230101080000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">World Sailing Cup</title>
+	</programme>
+	<programme start="20230101080000 +0000" stop="20230101083000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230101083000 +0000" stop="20230101084500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Custom Series</title>
+	</programme>
+	<programme start="20230101084500 +0000" stop="20230101091500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Memórias: Magdeburgo x Sporting</title>
+	</programme>
+	<programme start="20230101091500 +0000" stop="20230101094500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20230101094500 +0000" stop="20230101100000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine BTT-TV</title>
+	</programme>
+	<programme start="20230101100000 +0000" stop="20230101103000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20230101103000 +0000" stop="20230101110000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Magazine TT</title>
+	</programme>
+	<programme start="20230101110000 +0000" stop="20230101113000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Compacto Desportivo: Trail Costa Vicentina</title>
+	</programme>
+	<programme start="20230101113000 +0000" stop="20230101120000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Deixa Rolar: Pedro Hossi</title>
+	</programme>
+	<programme start="20230101120000 +0000" stop="20230101123000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20230101123000 +0000" stop="20230101130000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20230101130000 +0000" stop="20230101133000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20230101133000 +0000" stop="20230101140000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20230101140000 +0000" stop="20230101143000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20230101143000 +0000" stop="20230101150000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20230101150000 +0000" stop="20230101162000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Momento ESPN: Dois Irmãos, Uma Guerra</title>
+	</programme>
+	<programme start="20230101162000 +0000" stop="20230101163500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Urban Being</title>
+	</programme>
+	<programme start="20230101163500 +0000" stop="20230101170000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20230101170000 +0000" stop="20230101173000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20230101173000 +0000" stop="20230101180000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20230101180000 +0000" stop="20230101183000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Especial: Danças de Salão Circuito Nacional</title>
+	</programme>
+	<programme start="20230101183000 +0000" stop="20230101190000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20230101190000 +0000" stop="20230101195500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20230101195500 +0000" stop="20230101204000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Documentario: Seleção Feminina com Fátima Lopes</title>
+	</programme>
+	<programme start="20230101204000 +0000" stop="20230101205000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Off</title>
+	</programme>
+	<programme start="20230101205000 +0000" stop="20230101213000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Documentario: Memórias de Eusébio</title>
+	</programme>
+	<programme start="20230101213000 +0000" stop="20230101220000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20230101220000 +0000" stop="20230101225500 +0000" channel="ABolaTV.pt">
+	<title lang="pt">A Bola De Domingo</title>
+	</programme>
+	<programme start="20230101225500 +0000" stop="20230101235000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Especial: Baja Intenacional do Dubai</title>
+	</programme>
+	<programme start="20230101235000 +0000" stop="20230102000000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Urban Being</title>
+	</programme>
+	<programme start="20230102000000 +0000" stop="20230102003000 +0000" channel="ABolaTV.pt">
+	<title lang="pt">Black Power</title>
+	</programme>
+
 RTP Africa
   <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
   <programme start="20221227000000 +0000" stop="20221228000000 +0000" channel="RTPAfrica.pt"><title lang="pt">RTP Africa</title></programme>
@@ -268,415 +795,415 @@ RTP Acores
   
 RTP Memoria 
 <!-- Quinta-Feira -->
-	<programme start="20221229070000 +0000" stop="20221229074300 +0000" channel="RTPMemoria.pt">
-		<title lang="pt">Vila Faia</title>
-		<desc lang="pt">Atual, controversa, e inquietante, vai voltar a apaixonar-se por Vila Faia</desc>
-	</programme>
-	<programme start="20221229074300 +0000" stop="20221229081500 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Palavras Cruzadas</title>
-	<desc lang="pt">Confronto entre famílias numa novela de qualidade.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/3287_35830_68863.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229081500 +0000" stop="20221229090000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Portugueses Pelo Mundo</title>
-	<desc lang="pt">Os seus testemunhos, as suas sugestões, as suas melhores dicas para, como eles, viver uma vida sem fronteiras!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/29913_34084_65526.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229090000 +0000" stop="20221229095400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O Conde d´Abranhos</title>
-	<desc lang="pt">A história privada de Alípio Abranhos e a sua ascensão social</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/1128_35892_98951.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229095400 +0000" stop="20221229104400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Só Visto!</title>
-	<desc lang="pt">Só Visto! Um magazine de atualidades original e criativo</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30838_34245_84393.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229104400 +0000" stop="20221229105800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">A Essência</title>
-	<desc lang="pt">A essência do vinho e da vinha</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32944_39979_66789.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229105800 +0000" stop="20221229113900 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Tempo Final</title>
-	<desc lang="pt">Seis histórias de crimes passionais, com muito suspense, realizadas por Leonel Vieira</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/26202_42184_41053.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229113900 +0000" stop="20221229114500 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O que é feito de si?</title>
-	<desc lang="pt">Recorde alguns dos rostos que fazem parte das nossas memórias</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/21420_37017_16804.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229114500 +0000" stop="20221229123000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Terra Mãe</title>
-	<desc lang="pt">Os dramas familiares e os amores proibidos são alguns dos ingredientes desta telenovela portuguesa</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/8675_34681_87336.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229123000 +0000" stop="20221229125900 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Insólitos</title>
-	<desc lang="pt">O romancista Abel Neves apresenta-nos 6 histórias insólitas...</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/9183_41458_61228.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229125900 +0000" stop="20221229135300 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Os Filhos do Rock - Making Of</title>
-	<desc lang="pt">Os bastidores da série premiada sobre o boom do rock em Portugal</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30539_34094_1397.png?w=384&h=216"/>
-	</programme>
-	<programme start="20221229135300 +0000" stop="20221229135800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Gramofone</title>
-	<desc lang="pt">Sindicato</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32217_37817_13325.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229135800 +0000" stop="20221229145200 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Donos Disto Tudo</title>
-	<desc lang="pt">Programa de rábulas variadas, com artistas de rir a valer.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33913_42873_80697.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229145200 +0000" stop="20221229150000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Tintim Por Tintim</title>
-	<desc lang="pt">Dar a conhecer de uma forma divertida, como alguns produtos de consumo são produzidos...</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/28748_40130_49800.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229150000 +0000" stop="20221229154800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Bem-vindos a Beirais</title>
-	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229154800 +0000" stop="20221229155800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Guarda-Factos Micro</title>
-	<desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229155800 +0000" stop="20221229165300 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O Crime...</title>
-	<desc lang="pt">Para realizar um sonho, por vezes, é necessário ultrapassar obstáculos incalculáveis</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/9177_67442_76108.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229165300 +0000" stop="20221229170000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Guarda-Factos Micro</title>
-	<desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229170000 +0000" stop="20221229173500 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Na Paz dos Anjos</title>
-	<desc lang="pt">Humor e boa disposição numa telenovela muito divertida, escrita por José Fanha e Jorge Paixão da Costa</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/7755_40379_30495.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229173500 +0000" stop="20221229181800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Sinais de Vida</title>
-	<desc lang="pt">"Sinais de Vida" leva até sua casa um grande elenco, drama e muita emoção para toda a família!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/29712_50842_46985.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229181800 +0000" stop="20221229183500 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">#Hashtag</title>
-	<desc lang="pt">Bem-vindo ao planeta dos jovens nas redes sociais</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32451_38505_3016.png?w=384&h=216"/>
-	</programme>
-	<programme start="20221229183500 +0000" stop="20221229192700 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Herman Enciclopédia</title>
-	<desc lang="pt">O Humor enciclopédico de Herman José e companhia!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32741_39201_74328.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229192700 +0000" stop="20221229200100 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Sim, Chef!</title>
-	<desc lang="pt">"Sim, Chef!", uma comédia deliciosa e um verdadeiro banquete de histórias, para deleite de todos</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/34509_44987_93135.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229200100 +0000" stop="20221229205800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Vejam Bem</title>
-	<desc lang="pt">Fernando Tordo - Chegam Palavras</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36325_51497_93760.png?w=384&h=216"/>
-	</programme>
-	<programme start="20221229205800 +0000" stop="20221229214800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Bem-vindos a Beirais</title>
-	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229214800 +0000" stop="20221229223900 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O Barco do Amor</title>
-	<desc lang="pt">Não perca a viagem no Barco do Amor</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229223900 +0000" stop="20221229232800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Um Anjo na Terra</title>
-	<desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221229232800 +0000" stop="20221230001100 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Walker, o Ranger do Texas</title>
-	<desc lang="pt">Chuck Norris é o Ranger do Texas</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230001100 +0000" stop="20221230010200 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O Barco do Amor</title>
-	<desc lang="pt">Não perca a viagem no Barco do Amor</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230010200 +0000" stop="20221230015000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Um Anjo na Terra</title>
-	<desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230015000 +0000" stop="20221230023400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Walker, o Ranger do Texas</title>
-	<desc lang="pt">Chuck Norris é o Ranger do Texas</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230023400 +0000" stop="20221230034000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">5 Para a Meia-Noite</title>
-	<desc lang="pt">A 7ª temporada do "5 Para a Meia-Noite"</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/24630_67095_45180.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230034000 +0000" stop="20221230043400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O Conde d´Abranhos</title>
-	<desc lang="pt">A história privada de Alípio Abranhos e a sua ascensão social</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/1128_35892_98951.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230043400 +0000" stop="20221230051500 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Quebra-Cabeças</title>
-	<desc lang="pt">Divirta-se, descubra letra a letra e conquiste muitos euros!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/1102_55290_75584.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230051500 +0000" stop="20221230060200 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Bem-vindos a Beirais</title>
-	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230060200 +0000" stop="20221230062900 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Estamos Juntos</title>
-	<desc lang="pt">Programa focado na identidade cultural do universo lusófono, separado por fronteiras e oceanos mas ligados pela arte</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/43225_67398_48367.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230062900 +0000" stop="20221230063500 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Pessa À Peça</title>
-	<desc lang="pt">Amostras interessantes do trabalho jornalístico do irreverente Fernando Pessa</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/43316_67544_87413.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230063500 +0000" stop="20221230065600 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">SMS - Ser Mais Sabedor</title>
-	<desc lang="pt">Atenção alunos! Vamos fazer a chamada... porque saber é divertido!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/15201_43351_36548.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230065600 +0000" stop="20221230072600 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Poemas Pintados</title>
-	<desc lang="pt">Poemas desenhados por crianças que foram tranformados em desenhos animados</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/14082_43183_85457.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230070000 +0000" stop="20221230074800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Vila Faia</title>
-	<desc lang="pt">Atual, controversa, e inquietante, vai voltar a apaixonar-se por Vila Faia</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/23115_55261_76849.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230074800 +0000" stop="20221230081400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Palavras Cruzadas</title>
-	<desc lang="pt">Confronto entre famílias numa novela de qualidade.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/3287_35830_68863.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230081400 +0000" stop="20221230090000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Portugueses Pelo Mundo</title>
-	<desc lang="pt">Os seus testemunhos, as suas sugestões, as suas melhores dicas para, como eles, viver uma vida sem fronteiras!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/29913_34084_65526.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230090000 +0000" stop="20221230092100 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Os Melhores Anos</title>
-	<desc lang="pt">Os problemas inerentes à juventude...</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230092100 +0000" stop="20221230094400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Os Melhores Anos</title>
-	<desc lang="pt">Os problemas inerentes à juventude...</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230094400 +0000" stop="20221230095200 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Pessa À Peça</title>
-	<desc lang="pt">Amostras interessantes do trabalho jornalístico do irreverente Fernando Pessa</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/43316_67544_87413.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230095200 +0000" stop="20221230104500 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Só Visto!</title>
-	<desc lang="pt">Só Visto! Um magazine de atualidades original e criativo</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30838_34245_84393.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230104500 +0000" stop="20221230110000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">A Essência</title>
-	<desc lang="pt">A essência do vinho e da vinha</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32944_39979_66789.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230110000 +0000" stop="20221230114600 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Tempo Final</title>
-	<desc lang="pt">Seis histórias de crimes passionais, com muito suspense, realizadas por Leonel Vieira</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/26202_42184_41053.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230114600 +0000" stop="20221230123100 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Terra Mãe</title>
-	<desc lang="pt">Os dramas familiares e os amores proibidos são alguns dos ingredientes desta telenovela portuguesa</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/8675_34681_87336.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230123100 +0000" stop="20221230125300 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Insólitos</title>
-	<desc lang="pt">O romancista Abel Neves apresenta-nos 6 histórias insólitas...</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/9183_41458_61228.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230125300 +0000" stop="20221230130000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Guarda-Factos Micro</title>
-	<desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230130000 +0000" stop="20221230140000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Os Filhos do Rock - Making Of</title>
-	<desc lang="pt">Os bastidores da série premiada sobre o boom do rock em Portugal</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30539_34094_1397.png?w=384&h=216"/>
-	</programme>
-	<programme start="20221230140000 +0000" stop="20221230145300 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Donos Disto Tudo</title>
-	<desc lang="pt">Programa de rábulas variadas, com artistas de rir a valer.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33913_42873_80697.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230145300 +0000" stop="20221230150000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Tintim Por Tintim</title>
-	<desc lang="pt">Dar a conhecer de uma forma divertida, como alguns produtos de consumo são produzidos...</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/28748_40130_49800.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230150000 +0000" stop="20221230153600 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Bem-vindos a Beirais</title>
-	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230153600 +0000" stop="20221230160000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Nicolau no País das Maravilhas</title>
-	<desc lang="pt">O programa de humor que deu a conhecer o Sr. Feliz (Nicolau Breyner) e o Sr. Contente (Herman José)</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/26629_43450_13072.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230160000 +0000" stop="20221230165300 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O Crime...</title>
-	<desc lang="pt">Para realizar um sonho, por vezes, é necessário ultrapassar obstáculos incalculáveis</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/9177_67442_76108.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230165300 +0000" stop="20221230170200 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Entrevista Histórica com Herman José</title>
-	<desc lang="pt">A História segundo Herman José</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/20695_39561_17698.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230170200 +0000" stop="20221230173400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Na Paz dos Anjos</title>
-	<desc lang="pt">Humor e boa disposição numa telenovela muito divertida, escrita por José Fanha e Jorge Paixão da Costa</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/7755_40379_30495.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230173400 +0000" stop="20221230181800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Sinais de Vida</title>
-	<desc lang="pt">"Sinais de Vida" leva até sua casa um grande elenco, drama e muita emoção para toda a família!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/29712_50842_46985.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230181800 +0000" stop="20221230183400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">#Hashtag</title>
-	<desc lang="pt">Bem-vindo ao planeta dos jovens nas redes sociais</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32451_38505_3016.png?w=384&h=216"/>
-	</programme>
-	<programme start="20221230183400 +0000" stop="20221230192600 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Herman Enciclopédia</title>
-	<desc lang="pt">O Humor enciclopédico de Herman José e companhia!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32741_39201_74328.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230192600 +0000" stop="20221230200000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Guarda-Factos</title>
-	<desc lang="pt">Crónica Mensal sobre acontecimentos que marcaram o país e o mundo</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230200000 +0000" stop="20221230204900 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Vejam Bem</title>
-	<desc lang="pt">António Manuel Ribeiro - Cavalos de Corrida</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36325_51497_93760.png?w=384&h=216"/>
-	</programme>
-	<programme start="20221230204900 +0000" stop="20221230205400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Gramofone</title>
-	<desc lang="pt">UHF</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/32217_37817_13325.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230205400 +0000" stop="20221230210000 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Dora e Dário</title>
-	<desc lang="pt">Os cromos de Ana Bola e Víctor de Sousa no seu melhor</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/20693_43269_59989.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230210000 +0000" stop="20221230213900 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Bem-vindos a Beirais</title>
-	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230213900 +0000" stop="20221230214500 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Retrocoisa</title>
-	<desc lang="pt">As bizarrias e disparates das televisões de todo o mundo, por Fernando Alvim</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/38282_56477_6946.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230214500 +0000" stop="20221230223800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O Barco do Amor</title>
-	<desc lang="pt">Não perca a viagem no Barco do Amor</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230223800 +0000" stop="20221230232800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Um Anjo na Terra</title>
-	<desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221230232800 +0000" stop="20221231001300 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Walker, o Ranger do Texas</title>
-	<desc lang="pt">Chuck Norris é o Ranger do Texas</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231001300 +0000" stop="20221231010400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">O Barco do Amor</title>
-	<desc lang="pt">Não perca a viagem no Barco do Amor</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231010400 +0000" stop="20221231015400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Um Anjo na Terra</title>
-	<desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231015400 +0000" stop="20221231023800 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Walker, o Ranger do Texas</title>
-	<desc lang="pt">Chuck Norris é o Ranger do Texas</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231023800 +0000" stop="20221231034300 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">5 Para a Meia-Noite</title>
-	<desc lang="pt">A 7ª temporada do "5 Para a Meia-Noite"</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/24630_67095_45180.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231034300 +0000" stop="20221231040400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Os Melhores Anos</title>
-	<desc lang="pt">Os problemas inerentes à juventude...</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231040400 +0000" stop="20221231042700 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Os Melhores Anos</title>
-	<desc lang="pt">Os problemas inerentes à juventude...</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231042700 +0000" stop="20221231043600 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Entrevista Histórica com Herman José</title>
-	<desc lang="pt">A História segundo Herman José</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/20695_39561_17698.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231043600 +0000" stop="20221231051600 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Quebra-Cabeças</title>
-	<desc lang="pt">Divirta-se, descubra letra a letra e conquiste muitos euros!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/1102_55290_75584.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231051600 +0000" stop="20221231060600 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Bem-vindos a Beirais</title>
-	<desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231060600 +0000" stop="20221231063400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">Estamos Juntos</title>
-	<desc lang="pt">Programa focado na identidade cultural do universo lusófono, separado por fronteiras e oceanos mas ligados pela arte</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/43225_67398_48367.jpg?w=384&h=216"/>
-	</programme>
-	<programme start="20221231063400 +0000" stop="20221231070400 +0000" channel="RTPMemoria.pt">
-	<title lang="pt">SMS - Ser Mais Sabedor</title>
-	<desc lang="pt">Atenção alunos! Vamos fazer a chamada... porque saber é divertido!</desc>
-	<icon src="https://cdn-images.rtp.pt/EPG/imagens/15201_43351_36548.jpg?w=384&h=216"/>
-	</programme>
+	<!-- <programme start="20221229070000 +0000" stop="20221229074300 +0000" channel="RTPMemoria.pt"> -->
+		<!-- <title lang="pt">Vila Faia</title> -->
+		<!-- <desc lang="pt">Atual, controversa, e inquietante, vai voltar a apaixonar-se por Vila Faia</desc> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229074300 +0000" stop="20221229081500 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Palavras Cruzadas</title> -->
+	<!-- <desc lang="pt">Confronto entre famílias numa novela de qualidade.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/3287_35830_68863.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229081500 +0000" stop="20221229090000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Portugueses Pelo Mundo</title> -->
+	<!-- <desc lang="pt">Os seus testemunhos, as suas sugestões, as suas melhores dicas para, como eles, viver uma vida sem fronteiras!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/29913_34084_65526.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229090000 +0000" stop="20221229095400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O Conde d´Abranhos</title> -->
+	<!-- <desc lang="pt">A história privada de Alípio Abranhos e a sua ascensão social</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/1128_35892_98951.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229095400 +0000" stop="20221229104400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Só Visto!</title> -->
+	<!-- <desc lang="pt">Só Visto! Um magazine de atualidades original e criativo</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30838_34245_84393.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229104400 +0000" stop="20221229105800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">A Essência</title> -->
+	<!-- <desc lang="pt">A essência do vinho e da vinha</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/32944_39979_66789.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229105800 +0000" stop="20221229113900 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Tempo Final</title> -->
+	<!-- <desc lang="pt">Seis histórias de crimes passionais, com muito suspense, realizadas por Leonel Vieira</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/26202_42184_41053.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229113900 +0000" stop="20221229114500 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O que é feito de si?</title> -->
+	<!-- <desc lang="pt">Recorde alguns dos rostos que fazem parte das nossas memórias</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/21420_37017_16804.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229114500 +0000" stop="20221229123000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Terra Mãe</title> -->
+	<!-- <desc lang="pt">Os dramas familiares e os amores proibidos são alguns dos ingredientes desta telenovela portuguesa</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/8675_34681_87336.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229123000 +0000" stop="20221229125900 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Insólitos</title> -->
+	<!-- <desc lang="pt">O romancista Abel Neves apresenta-nos 6 histórias insólitas...</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/9183_41458_61228.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229125900 +0000" stop="20221229135300 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Os Filhos do Rock - Making Of</title> -->
+	<!-- <desc lang="pt">Os bastidores da série premiada sobre o boom do rock em Portugal</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30539_34094_1397.png?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229135300 +0000" stop="20221229135800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Gramofone</title> -->
+	<!-- <desc lang="pt">Sindicato</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/32217_37817_13325.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229135800 +0000" stop="20221229145200 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Donos Disto Tudo</title> -->
+	<!-- <desc lang="pt">Programa de rábulas variadas, com artistas de rir a valer.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/33913_42873_80697.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229145200 +0000" stop="20221229150000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Tintim Por Tintim</title> -->
+	<!-- <desc lang="pt">Dar a conhecer de uma forma divertida, como alguns produtos de consumo são produzidos...</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/28748_40130_49800.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229150000 +0000" stop="20221229154800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Bem-vindos a Beirais</title> -->
+	<!-- <desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229154800 +0000" stop="20221229155800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Guarda-Factos Micro</title> -->
+	<!-- <desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229155800 +0000" stop="20221229165300 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O Crime...</title> -->
+	<!-- <desc lang="pt">Para realizar um sonho, por vezes, é necessário ultrapassar obstáculos incalculáveis</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/9177_67442_76108.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229165300 +0000" stop="20221229170000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Guarda-Factos Micro</title> -->
+	<!-- <desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229170000 +0000" stop="20221229173500 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Na Paz dos Anjos</title> -->
+	<!-- <desc lang="pt">Humor e boa disposição numa telenovela muito divertida, escrita por José Fanha e Jorge Paixão da Costa</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/7755_40379_30495.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229173500 +0000" stop="20221229181800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Sinais de Vida</title> -->
+	<!-- <desc lang="pt">"Sinais de Vida" leva até sua casa um grande elenco, drama e muita emoção para toda a família!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/29712_50842_46985.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229181800 +0000" stop="20221229183500 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">#Hashtag</title> -->
+	<!-- <desc lang="pt">Bem-vindo ao planeta dos jovens nas redes sociais</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/32451_38505_3016.png?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229183500 +0000" stop="20221229192700 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Herman Enciclopédia</title> -->
+	<!-- <desc lang="pt">O Humor enciclopédico de Herman José e companhia!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/32741_39201_74328.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229192700 +0000" stop="20221229200100 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Sim, Chef!</title> -->
+	<!-- <desc lang="pt">"Sim, Chef!", uma comédia deliciosa e um verdadeiro banquete de histórias, para deleite de todos</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/34509_44987_93135.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229200100 +0000" stop="20221229205800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Vejam Bem</title> -->
+	<!-- <desc lang="pt">Fernando Tordo - Chegam Palavras</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/36325_51497_93760.png?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229205800 +0000" stop="20221229214800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Bem-vindos a Beirais</title> -->
+	<!-- <desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229214800 +0000" stop="20221229223900 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O Barco do Amor</title> -->
+	<!-- <desc lang="pt">Não perca a viagem no Barco do Amor</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229223900 +0000" stop="20221229232800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Um Anjo na Terra</title> -->
+	<!-- <desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229232800 +0000" stop="20221230001100 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Walker, o Ranger do Texas</title> -->
+	<!-- <desc lang="pt">Chuck Norris é o Ranger do Texas</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230001100 +0000" stop="20221230010200 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O Barco do Amor</title> -->
+	<!-- <desc lang="pt">Não perca a viagem no Barco do Amor</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230010200 +0000" stop="20221230015000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Um Anjo na Terra</title> -->
+	<!-- <desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230015000 +0000" stop="20221230023400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Walker, o Ranger do Texas</title> -->
+	<!-- <desc lang="pt">Chuck Norris é o Ranger do Texas</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230023400 +0000" stop="20221230034000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">5 Para a Meia-Noite</title> -->
+	<!-- <desc lang="pt">A 7ª temporada do "5 Para a Meia-Noite"</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/24630_67095_45180.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230034000 +0000" stop="20221230043400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O Conde d´Abranhos</title> -->
+	<!-- <desc lang="pt">A história privada de Alípio Abranhos e a sua ascensão social</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/1128_35892_98951.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230043400 +0000" stop="20221230051500 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Quebra-Cabeças</title> -->
+	<!-- <desc lang="pt">Divirta-se, descubra letra a letra e conquiste muitos euros!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/1102_55290_75584.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230051500 +0000" stop="20221230060200 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Bem-vindos a Beirais</title> -->
+	<!-- <desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230060200 +0000" stop="20221230062900 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Estamos Juntos</title> -->
+	<!-- <desc lang="pt">Programa focado na identidade cultural do universo lusófono, separado por fronteiras e oceanos mas ligados pela arte</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/43225_67398_48367.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230062900 +0000" stop="20221230063500 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Pessa À Peça</title> -->
+	<!-- <desc lang="pt">Amostras interessantes do trabalho jornalístico do irreverente Fernando Pessa</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/43316_67544_87413.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230063500 +0000" stop="20221230065600 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">SMS - Ser Mais Sabedor</title> -->
+	<!-- <desc lang="pt">Atenção alunos! Vamos fazer a chamada... porque saber é divertido!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/15201_43351_36548.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230065600 +0000" stop="20221230072600 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Poemas Pintados</title> -->
+	<!-- <desc lang="pt">Poemas desenhados por crianças que foram tranformados em desenhos animados</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/14082_43183_85457.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230070000 +0000" stop="20221230074800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Vila Faia</title> -->
+	<!-- <desc lang="pt">Atual, controversa, e inquietante, vai voltar a apaixonar-se por Vila Faia</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/23115_55261_76849.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230074800 +0000" stop="20221230081400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Palavras Cruzadas</title> -->
+	<!-- <desc lang="pt">Confronto entre famílias numa novela de qualidade.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/3287_35830_68863.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230081400 +0000" stop="20221230090000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Portugueses Pelo Mundo</title> -->
+	<!-- <desc lang="pt">Os seus testemunhos, as suas sugestões, as suas melhores dicas para, como eles, viver uma vida sem fronteiras!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/29913_34084_65526.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230090000 +0000" stop="20221230092100 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Os Melhores Anos</title> -->
+	<!-- <desc lang="pt">Os problemas inerentes à juventude...</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230092100 +0000" stop="20221230094400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Os Melhores Anos</title> -->
+	<!-- <desc lang="pt">Os problemas inerentes à juventude...</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230094400 +0000" stop="20221230095200 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Pessa À Peça</title> -->
+	<!-- <desc lang="pt">Amostras interessantes do trabalho jornalístico do irreverente Fernando Pessa</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/43316_67544_87413.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230095200 +0000" stop="20221230104500 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Só Visto!</title> -->
+	<!-- <desc lang="pt">Só Visto! Um magazine de atualidades original e criativo</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30838_34245_84393.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230104500 +0000" stop="20221230110000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">A Essência</title> -->
+	<!-- <desc lang="pt">A essência do vinho e da vinha</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/32944_39979_66789.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230110000 +0000" stop="20221230114600 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Tempo Final</title> -->
+	<!-- <desc lang="pt">Seis histórias de crimes passionais, com muito suspense, realizadas por Leonel Vieira</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/26202_42184_41053.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230114600 +0000" stop="20221230123100 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Terra Mãe</title> -->
+	<!-- <desc lang="pt">Os dramas familiares e os amores proibidos são alguns dos ingredientes desta telenovela portuguesa</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/8675_34681_87336.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230123100 +0000" stop="20221230125300 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Insólitos</title> -->
+	<!-- <desc lang="pt">O romancista Abel Neves apresenta-nos 6 histórias insólitas...</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/9183_41458_61228.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230125300 +0000" stop="20221230130000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Guarda-Factos Micro</title> -->
+	<!-- <desc lang="pt">Micro programa sobre efemérides que marcaram o país e o mundo</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230130000 +0000" stop="20221230140000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Os Filhos do Rock - Making Of</title> -->
+	<!-- <desc lang="pt">Os bastidores da série premiada sobre o boom do rock em Portugal</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30539_34094_1397.png?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230140000 +0000" stop="20221230145300 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Donos Disto Tudo</title> -->
+	<!-- <desc lang="pt">Programa de rábulas variadas, com artistas de rir a valer.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/33913_42873_80697.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230145300 +0000" stop="20221230150000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Tintim Por Tintim</title> -->
+	<!-- <desc lang="pt">Dar a conhecer de uma forma divertida, como alguns produtos de consumo são produzidos...</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/28748_40130_49800.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230150000 +0000" stop="20221230153600 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Bem-vindos a Beirais</title> -->
+	<!-- <desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230153600 +0000" stop="20221230160000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Nicolau no País das Maravilhas</title> -->
+	<!-- <desc lang="pt">O programa de humor que deu a conhecer o Sr. Feliz (Nicolau Breyner) e o Sr. Contente (Herman José)</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/26629_43450_13072.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230160000 +0000" stop="20221230165300 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O Crime...</title> -->
+	<!-- <desc lang="pt">Para realizar um sonho, por vezes, é necessário ultrapassar obstáculos incalculáveis</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/9177_67442_76108.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230165300 +0000" stop="20221230170200 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Entrevista Histórica com Herman José</title> -->
+	<!-- <desc lang="pt">A História segundo Herman José</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/20695_39561_17698.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230170200 +0000" stop="20221230173400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Na Paz dos Anjos</title> -->
+	<!-- <desc lang="pt">Humor e boa disposição numa telenovela muito divertida, escrita por José Fanha e Jorge Paixão da Costa</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/7755_40379_30495.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230173400 +0000" stop="20221230181800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Sinais de Vida</title> -->
+	<!-- <desc lang="pt">"Sinais de Vida" leva até sua casa um grande elenco, drama e muita emoção para toda a família!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/29712_50842_46985.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230181800 +0000" stop="20221230183400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">#Hashtag</title> -->
+	<!-- <desc lang="pt">Bem-vindo ao planeta dos jovens nas redes sociais</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/32451_38505_3016.png?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230183400 +0000" stop="20221230192600 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Herman Enciclopédia</title> -->
+	<!-- <desc lang="pt">O Humor enciclopédico de Herman José e companhia!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/32741_39201_74328.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230192600 +0000" stop="20221230200000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Guarda-Factos</title> -->
+	<!-- <desc lang="pt">Crónica Mensal sobre acontecimentos que marcaram o país e o mundo</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/33700_42373_92421.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230200000 +0000" stop="20221230204900 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Vejam Bem</title> -->
+	<!-- <desc lang="pt">António Manuel Ribeiro - Cavalos de Corrida</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/36325_51497_93760.png?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230204900 +0000" stop="20221230205400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Gramofone</title> -->
+	<!-- <desc lang="pt">UHF</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/32217_37817_13325.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230205400 +0000" stop="20221230210000 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Dora e Dário</title> -->
+	<!-- <desc lang="pt">Os cromos de Ana Bola e Víctor de Sousa no seu melhor</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/20693_43269_59989.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230210000 +0000" stop="20221230213900 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Bem-vindos a Beirais</title> -->
+	<!-- <desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230213900 +0000" stop="20221230214500 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Retrocoisa</title> -->
+	<!-- <desc lang="pt">As bizarrias e disparates das televisões de todo o mundo, por Fernando Alvim</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/38282_56477_6946.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230214500 +0000" stop="20221230223800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O Barco do Amor</title> -->
+	<!-- <desc lang="pt">Não perca a viagem no Barco do Amor</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230223800 +0000" stop="20221230232800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Um Anjo na Terra</title> -->
+	<!-- <desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230232800 +0000" stop="20221231001300 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Walker, o Ranger do Texas</title> -->
+	<!-- <desc lang="pt">Chuck Norris é o Ranger do Texas</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231001300 +0000" stop="20221231010400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">O Barco do Amor</title> -->
+	<!-- <desc lang="pt">Não perca a viagem no Barco do Amor</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/42104_64926_60529.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231010400 +0000" stop="20221231015400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Um Anjo na Terra</title> -->
+	<!-- <desc lang="pt">Série inesquecível interpretada por Michael Landon, um anjo enviado à Terra</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/42725_66280_69619.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231015400 +0000" stop="20221231023800 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Walker, o Ranger do Texas</title> -->
+	<!-- <desc lang="pt">Chuck Norris é o Ranger do Texas</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/41325_63477_48814.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231023800 +0000" stop="20221231034300 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">5 Para a Meia-Noite</title> -->
+	<!-- <desc lang="pt">A 7ª temporada do "5 Para a Meia-Noite"</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/24630_67095_45180.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231034300 +0000" stop="20221231040400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Os Melhores Anos</title> -->
+	<!-- <desc lang="pt">Os problemas inerentes à juventude...</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231040400 +0000" stop="20221231042700 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Os Melhores Anos</title> -->
+	<!-- <desc lang="pt">Os problemas inerentes à juventude...</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/36723_52528_282.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231042700 +0000" stop="20221231043600 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Entrevista Histórica com Herman José</title> -->
+	<!-- <desc lang="pt">A História segundo Herman José</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/20695_39561_17698.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231043600 +0000" stop="20221231051600 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Quebra-Cabeças</title> -->
+	<!-- <desc lang="pt">Divirta-se, descubra letra a letra e conquiste muitos euros!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/1102_55290_75584.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231051600 +0000" stop="20221231060600 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Bem-vindos a Beirais</title> -->
+	<!-- <desc lang="pt">Quando não podes voltar a falhar, o sucesso é o único caminho possível.</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/30832_34573_77367.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231060600 +0000" stop="20221231063400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">Estamos Juntos</title> -->
+	<!-- <desc lang="pt">Programa focado na identidade cultural do universo lusófono, separado por fronteiras e oceanos mas ligados pela arte</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/43225_67398_48367.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231063400 +0000" stop="20221231070400 +0000" channel="RTPMemoria.pt"> -->
+	<!-- <title lang="pt">SMS - Ser Mais Sabedor</title> -->
+	<!-- <desc lang="pt">Atenção alunos! Vamos fazer a chamada... porque saber é divertido!</desc> -->
+	<!-- <icon src="https://cdn-images.rtp.pt/EPG/imagens/15201_43351_36548.jpg?w=384&h=216"/> -->
+	<!-- </programme> -->
 
   
 RTP Madeira
