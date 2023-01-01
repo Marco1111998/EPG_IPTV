@@ -3420,9 +3420,6 @@ SIC Caras
 	<programme start="20221231231400 +0000" stop="20221231235900 +0000" channel="SICCaras.pt">
 		<title lang="pt">Epic Celebrity Fails</title>
 	</programme>
-	<programme start="20221231235900 +0000" stop="20230101030900 +0000" channel="SICCaras.pt">
-		<title lang="pt">The 74Th Emmy Awards 2022.0</title>
-	</programme>
 	
 <!-- Domingo -->
 	<programme start="20230101030900 +0000" stop="20230101035200 +0000" channel="SICCaras.pt">
@@ -4055,9 +4052,9 @@ SIC RADICAL
 	<programme start="20221231213200 +0000" stop="20221231222100 +0000" channel="SICRadical.pt">
 		<title lang="pt">Arte De Tentar</title>
 	</programme>
-	<programme start="20221231222100 +0000" stop="20230101010200 +0000" channel="SICRadical.pt">
-		<title lang="pt">Terra Nossa</title>
-	</programme>
+	<!-- <programme start="20221231222100 +0000" stop="20230101010200 +0000" channel="SICRadical.pt"> -->
+		<!-- <title lang="pt">Terra Nossa</title> -->
+	<!-- </programme> -->
 
 <!-- Domingo -->
 	<programme start="20230101010200 +0000" stop="20230101014100 +0000" channel="SICRadical.pt">
