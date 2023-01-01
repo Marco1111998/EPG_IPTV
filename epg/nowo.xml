@@ -2053,6 +2053,284 @@ Globo Portugal
 	<programme start="20230101203000 +0000" stop="20230102145000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
 
 
+Canal 11
+<!-- Segunda-Feira -->
+	<programme start="20230102000000 +0000" stop="20230102010000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+
+<!-- Quarta-Feira -->
+	<programme start="20230104230000 +0000" stop="20230105010000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	
+<!-- Quinta-Feira -->
+	<programme start="20230105010000 +0000" stop="20230105013000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230105013000 +0000" stop="20230105033000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20230105033000 +0000" stop="20230105040000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20230105040000 +0000" stop="20230105043000 +0000" channel="Canal11.pt">
+		<title lang="pt">Maquina Do Tempo</title>
+	</programme>
+	<programme start="20230105043000 +0000" stop="20230105050000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230105050000 +0000" stop="20230105070000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20230105070000 +0000" stop="20230105072500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230105072500 +0000" stop="20230105092500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20230105092500 +0000" stop="20230105110000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230105110000 +0000" stop="20230105112500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230105112500 +0000" stop="20230105130000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230105130000 +0000" stop="20230105133500 +0000" channel="Canal11.pt">
+		<title lang="pt">Máquina Do Tempo</title>
+	</programme>
+	<programme start="20230105133500 +0000" stop="20230105140000 +0000" channel="Canal11.pt">
+		<title lang="pt">Cândido On Tour</title>
+	</programme>
+	<programme start="20230105140000 +0000" stop="20230105145500 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20230105145500 +0000" stop="20230105163000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230105163000 +0000" stop="20230105165500 +0000" channel="Canal11.pt">
+		<title lang="pt">11 Na Hora</title>
+	</programme>
+	<programme start="20230105165500 +0000" stop="20230105183000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230105183000 +0000" stop="20230105200000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230105200000 +0000" stop="20230105204000 +0000" channel="Canal11.pt">
+		<title lang="pt">11 Na Hora</title>
+	</programme>
+	<programme start="20230105204000 +0000" stop="20230105224500 +0000" channel="Canal11.pt">
+		<title lang="pt">Ferreiras x Moncarapachense</title>
+	</programme>
+	<programme start="20230105224500 +0000" stop="20230105230000 +0000" channel="Canal11.pt">
+		<title lang="pt">Liga BPI - Compacto</title>
+	</programme>
+	<programme start="20230105230000 +0000" stop="20230106010000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+
+<!-- Sexta-Feira -->
+	<programme start="20230106010000 +0000" stop="20230106013000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230106013000 +0000" stop="20230106033000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20230106033000 +0000" stop="20230106040000 +0000" channel="Canal11.pt">
+		<title lang="pt">Primeira Linha</title>
+	</programme>
+	<programme start="20230106040000 +0000" stop="20230106050000 +0000" channel="Canal11.pt">
+		<title lang="pt">Tempo Útil</title>
+	</programme>
+	<programme start="20230106050000 +0000" stop="20230106070000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20230106070000 +0000" stop="20230106072500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230106072500 +0000" stop="20230106092500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20230106092500 +0000" stop="20230106110000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230106110000 +0000" stop="20230106112500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230106112500 +0000" stop="20230106130000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230106130000 +0000" stop="20230106133000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20230106133000 +0000" stop="20230106134500 +0000" channel="Canal11.pt">
+		<title lang="pt">Amor A Camisola</title>
+	</programme>
+	<programme start="20230106134500 +0000" stop="20230106141500 +0000" channel="Canal11.pt">
+		<title lang="pt">Máquina Do Tempo</title>
+	</programme>
+	<programme start="20230106141500 +0000" stop="20230106154500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230106154500 +0000" stop="20230106170000 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Sexta</title>
+	</programme>
+	<programme start="20230106170000 +0000" stop="20230106183000 +0000" channel="Canal11.pt">
+	<title lang="pt">Futsal Femenino</title>
+	</programme>
+	<programme start="20230106183000 +0000" stop="20230106190000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230106190000 +0000" stop="20230106202500 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Sexta</title>
+	</programme>
+	<programme start="20230106202500 +0000" stop="20230106220000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal: Jorge Antunes x Caxinas</title>
+	</programme>
+	<programme start="20230106220000 +0000" stop="20230106223000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20230106223000 +0000" stop="20230106230000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230106230000 +0000" stop="20221231010000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+
+<!-- Sabado -->
+	<programme start="20221231010000 +0000" stop="20221231013000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231013000 +0000" stop="20221231033000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221231033000 +0000" stop="20221231043000 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20221231043000 +0000" stop="20221231050000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231050000 +0000" stop="20221231070000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221231070000 +0000" stop="20221231080000 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20221231080000 +0000" stop="20221231083000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20221231083000 +0000" stop="20221231090000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231090000 +0000" stop="20221231110000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Total</title>
+	</programme>
+	<programme start="20221231110000 +0000" stop="20221231123000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futsal: Jorge Antunes x Caxinas</title>
+	</programme>
+	<programme start="20221231123000 +0000" stop="20221231133000 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20221231133000 +0000" stop="20221231143000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20221231143000 +0000" stop="20221231150000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231150000 +0000" stop="20221231180000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal x Brasil</title>
+	</programme>
+	<programme start="20221231180000 +0000" stop="20221231190000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20221231190000 +0000" stop="20221231210000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Femenino</title>
+	</programme>
+	<programme start="20221231210000 +0000" stop="20221231220000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20221231220000 +0000" stop="20221231230500 +0000" channel="Canal11.pt">
+		<title lang="pt">Cândido On Tour</title>
+	</programme>
+	<programme start="20221231230500 +0000" stop="20230101000500 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	
+<!-- Domingo -->
+	<programme start="20230101000500 +0000" stop="20230101010500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101010500 +0000" stop="20230101020500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101020500 +0000" stop="20230101031000 +0000" channel="Canal11.pt">
+		<title lang="pt">Cândido On Tour</title>
+	</programme>
+	<programme start="20230101031000 +0000" stop="20230101041000 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20230101041000 +0000" stop="20230101051000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101051000 +0000" stop="20230101061000 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20230101061000 +0000" stop="20230101064000 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal No Mundo</title>
+	</programme>
+	<programme start="20230101064000 +0000" stop="20230101070000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101070000 +0000" stop="20230101080000 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20230101080000 +0000" stop="20230101082500 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101082500 +0000" stop="20230101092500 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20230101092500 +0000" stop="20230101102500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101102500 +0000" stop="20230101110000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101110000 +0000" stop="20230101115500 +0000" channel="Canal11.pt">
+		<title lang="pt">Super Mister Quiz</title>
+	</programme>
+	<programme start="20230101115500 +0000" stop="20230101130000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101130000 +0000" stop="20230101140000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101140000 +0000" stop="20230101162500 +0000" channel="Canal11.pt">
+		<title lang="pt">Portugal x Brasil</title>
+	</programme>
+	<programme start="20230101162500 +0000" stop="20230101165000 +0000" channel="Canal11.pt">
+		<title lang="pt">O Meu Clube</title>
+	</programme>
+	<programme start="20230101165000 +0000" stop="20230101175000 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol À Desgarrada</title>
+	</programme>
+	<programme start="20230101175000 +0000" stop="20230101202500 +0000" channel="Canal11.pt">
+		<title lang="pt">Futebol Femenino</title>
+	</programme>
+	<programme start="20230101202500 +0000" stop="20230101212500 +0000" channel="Canal11.pt">
+		<title lang="pt">Sagrado Balneário</title>
+	</programme>
+	<programme start="20230101212500 +0000" stop="20230101223000 +0000" channel="Canal11.pt">
+		<title lang="pt">Cândido On Tour</title>
+	</programme>
+	<programme start="20230101223000 +0000" stop="20230102000000 +0000" channel="Canal11.pt">
+		<title lang="pt">Original 11</title>
+	</programme>
+	
+	
 TVI FICCAO
 <!-- Segunda-Feira -->
 	<programme start="20230102003600 +0000" stop="20230102011100 +0000" channel="TVIFiccao.pt"><title lang="pt">À Conversa Com Ana Rita Clara</title></programme>
