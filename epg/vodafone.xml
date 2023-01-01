@@ -429,338 +429,338 @@ Afro Music
 	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="AfroMusicChannel.pt"><title lang="pt">Afro Music</title></programme>	
 
 
-	<programme start="20221228234000 +0000" stop="20221229000400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição</title>
-	</programme>
+	<!-- <programme start="20221228234000 +0000" stop="20221229000400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição</title> -->
+	<!-- </programme> -->
 
-<!-- Quinta-Feira -->
-	<programme start="20221229000400 +0000" stop="20221229012200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221229012200 +0000" stop="20221229021100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221229021100 +0000" stop="20221229024100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
-	</programme>
-	<programme start="20221229024100 +0000" stop="20221229033000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">A Sentada</title>
-	</programme>
-	<programme start="20221229033000 +0000" stop="20221229042500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias de Rudolph</title>
-	</programme>
-	<programme start="20221229042500 +0000" stop="20221229044900 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Papa-Quilómetros</title>
-	</programme>
-	<programme start="20221229044900 +0000" stop="20221229051400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Doces do Ofício</title>
-	</programme>
-	<programme start="20221229051400 +0000" stop="20221229060000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Chef de Raiz</title>
-	</programme>
-	<programme start="20221229060000 +0000" stop="20221229062000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Doces do Ofício</title>
-	</programme>
-	<programme start="20221229062000 +0000" stop="20221229071300 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias de Rudolph</title>
-	</programme>
-	<programme start="20221229071300 +0000" stop="20221229075800 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">A Sentada</title>
-	</programme>
-	<programme start="20221229075800 +0000" stop="20221229091400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221229091400 +0000" stop="20221229100300 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221229100300 +0000" stop="20221229102400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Cadernos da Filipa</title>
-	</programme>
-	<programme start="20221229102400 +0000" stop="20221229104700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição pelo Mundo</title>
-	</programme>
-	<programme start="20221229104700 +0000" stop="20221229124600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Mary Berry</title>
-	</programme>
-	<programme start="20221229124600 +0000" stop="20221229131400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
-	</programme>
-	<programme start="20221229131400 +0000" stop="20221229134200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221229134200 +0000" stop="20221229143700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221229143700 +0000" stop="20221229150000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">O da Joana</title>
-	</programme>
-	<programme start="20221229150000 +0000" stop="20221229152000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição pelo Mundo</title>
-	</programme>
-	<programme start="20221229152000 +0000" stop="20221229154000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição</title>
-	</programme>
-	<programme start="20221229154000 +0000" stop="20221229173900 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Mary Berry</title>
-	</programme>
-	<programme start="20221229173900 +0000" stop="20221229180500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias de Rudolph </title>
-	</programme>
-	<programme start="20221229180500 +0000" stop="20221229183000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Doces do Ofício</title>
-	</programme>
-	<programme start="20221229183000 +0000" stop="20221229185400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221229185400 +0000" stop="20221229191800 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Cadernos da Filipa</title>
-	</programme>
-	<programme start="20221229191800 +0000" stop="20221229194900 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
-	</programme>
-	<programme start="20221229194900 +0000" stop="20221229200800 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">O da Joana</title>
-	</programme>
-	<programme start="20221229200800 +0000" stop="20221229203500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221229203500 +0000" stop="20221229210200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221229210200 +0000" stop="20221229212200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição pelo Mundo</title>
-	</programme>
-	<programme start="20221229212200 +0000" stop="20221229214800 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição</title>
-	</programme>
-	<programme start="20221229214800 +0000" stop="20221229223300 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title>
-	</programme>
-	<programme start="20221229223300 +0000" stop="20221229233200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Mary Berry</title>
-	</programme>
-	<programme start="20221229233200 +0000" stop="20221230001500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição</title>
-	</programme>
+<!-- <!-- Quinta-Feira --> -->
+	<!-- <programme start="20221229000400 +0000" stop="20221229012200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229012200 +0000" stop="20221229021100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229021100 +0000" stop="20221229024100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Filipa Gomes Cozinha com Twist</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229024100 +0000" stop="20221229033000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">A Sentada</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229033000 +0000" stop="20221229042500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias de Rudolph</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229042500 +0000" stop="20221229044900 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Papa-Quilómetros</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229044900 +0000" stop="20221229051400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Doces do Ofício</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229051400 +0000" stop="20221229060000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Chef de Raiz</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229060000 +0000" stop="20221229062000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Doces do Ofício</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229062000 +0000" stop="20221229071300 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias de Rudolph</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229071300 +0000" stop="20221229075800 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">A Sentada</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229075800 +0000" stop="20221229091400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229091400 +0000" stop="20221229100300 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229100300 +0000" stop="20221229102400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Cadernos da Filipa</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229102400 +0000" stop="20221229104700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição pelo Mundo</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229104700 +0000" stop="20221229124600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Mary Berry</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229124600 +0000" stop="20221229131400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Filipa Gomes Cozinha com Twist</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229131400 +0000" stop="20221229134200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229134200 +0000" stop="20221229143700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229143700 +0000" stop="20221229150000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">O da Joana</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229150000 +0000" stop="20221229152000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição pelo Mundo</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229152000 +0000" stop="20221229154000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229154000 +0000" stop="20221229173900 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Mary Berry</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229173900 +0000" stop="20221229180500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias de Rudolph </title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229180500 +0000" stop="20221229183000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Doces do Ofício</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229183000 +0000" stop="20221229185400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229185400 +0000" stop="20221229191800 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Cadernos da Filipa</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229191800 +0000" stop="20221229194900 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Filipa Gomes Cozinha com Twist</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229194900 +0000" stop="20221229200800 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">O da Joana</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229200800 +0000" stop="20221229203500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229203500 +0000" stop="20221229210200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229210200 +0000" stop="20221229212200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição pelo Mundo</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229212200 +0000" stop="20221229214800 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229214800 +0000" stop="20221229223300 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229223300 +0000" stop="20221229233200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Mary Berry</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221229233200 +0000" stop="20221230001500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição</title> -->
+	<!-- </programme> -->
 
-<!-- Sexta-Feira -->
-	<programme start="20221230001500 +0000" stop="20221230013000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221230013000 +0000" stop="20221230021800 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221230021800 +0000" stop="20221230024800 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
-	</programme>
-	<programme start="20221230024800 +0000" stop="20221230033500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">A Sentada</title>
-	</programme>
-	<programme start="20221230033500 +0000" stop="20221230042700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias de Rudolph</title>
-	</programme>
-	<programme start="20221230042700 +0000" stop="20221230045100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Naturalmente</title>
-	</programme>
-	<programme start="20221230045100 +0000" stop="20221230051600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Doces do Ofício/title>
-	</programme>
-	<programme start="20221230051600 +0000" stop="20221230060000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Chef de Raiz</title>
-	</programme>
-	<programme start="20221230060000 +0000" stop="20221230060500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Naturalmente</title>
-	</programme>
-	<programme start="20221230060500 +0000" stop="20221230062200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Doces do Ofício</title>
-	</programme>
-	<programme start="20221230062200 +0000" stop="20221230071600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias de Rudolph</title>
-	</programme>
-	<programme start="20221230071600 +0000" stop="20221230081000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">A Sentada</title>
-	</programme>
-	<programme start="20221230081000 +0000" stop="20221230092700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221230092700 +0000" stop="20221230101700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221230101700 +0000" stop="20221230103800 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Cadernos da Filipa</title>
-	</programme>
-	<programme start="20221230103800 +0000" stop="20221230110000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição pelo Mundo</title>
-	</programme>
-	<programme start="20221230110000 +0000" stop="20221230114400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title>
-	</programme>
-	<programme start="20221230114400 +0000" stop="20221230124400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Mary Berry's</title>
-	</programme>
-	<programme start="20221230124400 +0000" stop="20221230130900 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Filipa Gomes Cozinha com Twist/title>
-	</programme>
-	<programme start="20221230130900 +0000" stop="20221230133600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221230133600 +0000" stop="20221230143400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221230143400 +0000" stop="20221230150000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">O da Joana</title>
-	</programme>
-	<programme start="20221230150000 +0000" stop="20221230152100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição pelo Mundo</title>
-	</programme>
-	<programme start="20221230152100 +0000" stop="20221230154300 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição</title>
-	</programme>
-	<programme start="20221230154300 +0000" stop="20221230174200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Mary Berry</title>
-	</programme>
-	<programme start="20221230174200 +0000" stop="20221230180900 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias de Rudolph</title>
-	</programme>
-	<programme start="20221230180900 +0000" stop="20221230183500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Doces do Ofício</title>
-	</programme>
-	<programme start="20221230183500 +0000" stop="20221230185600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221230185600 +0000" stop="20221230192000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Cadernos da Filipa</title>
-	</programme>
-	<programme start="20221230192000 +0000" stop="20221230195100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
-	</programme>
-	<programme start="20221230195100 +0000" stop="20221230200600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">O da Joana</title>
-	</programme>
-	<programme start="20221230200600 +0000" stop="20221230210000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">A Sentada</title>
-	</programme>
-	<programme start="20221230210000 +0000" stop="20221230212100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição</title>
-	</programme>
-	<programme start="20221230214600 +0000" stop="20221230223300 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title>
-	</programme>
-	<programme start="20221230223300 +0000" stop="20221230233400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Mary Berry</title>
-	</programme>
-	<programme start="20221230233400 +0000" stop="20221231001700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição</title>
-	</programme>
+<!-- <!-- Sexta-Feira --> -->
+	<!-- <programme start="20221230001500 +0000" stop="20221230013000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230013000 +0000" stop="20221230021800 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230021800 +0000" stop="20221230024800 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Filipa Gomes Cozinha com Twist</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230024800 +0000" stop="20221230033500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">A Sentada</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230033500 +0000" stop="20221230042700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias de Rudolph</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230042700 +0000" stop="20221230045100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Naturalmente</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230045100 +0000" stop="20221230051600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Doces do Ofício/title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230051600 +0000" stop="20221230060000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Chef de Raiz</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230060000 +0000" stop="20221230060500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Naturalmente</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230060500 +0000" stop="20221230062200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Doces do Ofício</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230062200 +0000" stop="20221230071600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias de Rudolph</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230071600 +0000" stop="20221230081000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">A Sentada</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230081000 +0000" stop="20221230092700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230092700 +0000" stop="20221230101700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230101700 +0000" stop="20221230103800 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Cadernos da Filipa</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230103800 +0000" stop="20221230110000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição pelo Mundo</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230110000 +0000" stop="20221230114400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230114400 +0000" stop="20221230124400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Mary Berry's</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230124400 +0000" stop="20221230130900 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Filipa Gomes Cozinha com Twist/title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230130900 +0000" stop="20221230133600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230133600 +0000" stop="20221230143400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230143400 +0000" stop="20221230150000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">O da Joana</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230150000 +0000" stop="20221230152100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição pelo Mundo</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230152100 +0000" stop="20221230154300 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230154300 +0000" stop="20221230174200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Mary Berry</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230174200 +0000" stop="20221230180900 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias de Rudolph</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230180900 +0000" stop="20221230183500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Doces do Ofício</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230183500 +0000" stop="20221230185600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230185600 +0000" stop="20221230192000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Cadernos da Filipa</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230192000 +0000" stop="20221230195100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Filipa Gomes Cozinha com Twist</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230195100 +0000" stop="20221230200600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">O da Joana</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230200600 +0000" stop="20221230210000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">A Sentada</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230210000 +0000" stop="20221230212100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230214600 +0000" stop="20221230223300 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Jamie Oliver: Receitas Saudáveis Para Toda a Família</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230223300 +0000" stop="20221230233400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Mary Berry</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221230233400 +0000" stop="20221231001700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição</title> -->
+	<!-- </programme> -->
 
-<!-- Sabado -->
-	<programme start="20221231001700 +0000" stop="20221231013500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221231013500 +0000" stop="20221231022600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221231022600 +0000" stop="20221231025400 +0000" channel="24KitchenPortugal.pt">
-	<title lang="pt">Filipa Gomes Cozinha com Twist T1 - Ep. 11</title>
-	</programme>
-	<programme start="20221231025400 +0000" stop="20221231034600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">A Sentada</title>
-	</programme>
-	<programme start="20221231034600 +0000" stop="20221231043900 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias de Rudolph</title>
-	</programme>
-	<programme start="20221231043900 +0000" stop="20221231050400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Naturalmente</title>
-	</programme>
-	<programme start="20221231050400 +0000" stop="20221231052900 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Doces do Ofício</title>
-	</programme>
-	<programme start="20221231052900 +0000" stop="20221231060000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Chef de Raiz</title>
-	</programme>
-	<programme start="20221231060000 +0000" stop="20221231080100 +0000" channel="24KitchenPortugal.pt">
-	<title lang="pt">A Sentada</title>
-	</programme>
-	<programme start="20221231080100 +0000" stop="20221231100600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Doces do Ofício</title>
-	</programme>
-	<programme start="20221231100600 +0000" stop="20221231122500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221231122500 +0000" stop="20221231142700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Cadernos da Filipa</title>
-	</programme>
-	<programme start="20221231142700 +0000" stop="20221231160000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">O da Joana</title>
-	</programme>
-	<programme start="20221231160000 +0000" stop="20221231162100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20221231162100 +0000" stop="20221231165400 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Filipa Gomes Cozinha com Twist</title>
-	</programme>
-	<programme start="20221231165400 +0000" stop="20221231172100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221231172100 +0000" stop="20221231182100 +0000" channel="24KitchenPortugal.pt">
-	<title lang="pt">Mary Berry</title>
-	</programme>
-	<programme start="20221231182100 +0000" stop="20221231192100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Nadiya</title>
-	</programme>
-	<programme start="20221231192100 +0000" stop="20221231214700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20221231214700 +0000" stop="20230101000200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias de Rudolph</title>
-	</programme>
+<!-- <!-- Sabado --> -->
+	<!-- <programme start="20221231001700 +0000" stop="20221231013500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231013500 +0000" stop="20221231022600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231022600 +0000" stop="20221231025400 +0000" channel="24KitchenPortugal.pt"> -->
+	<!-- <title lang="pt">Filipa Gomes Cozinha com Twist T1 - Ep. 11</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231025400 +0000" stop="20221231034600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">A Sentada</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231034600 +0000" stop="20221231043900 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias de Rudolph</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231043900 +0000" stop="20221231050400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Naturalmente</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231050400 +0000" stop="20221231052900 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Doces do Ofício</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231052900 +0000" stop="20221231060000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Chef de Raiz</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231060000 +0000" stop="20221231080100 +0000" channel="24KitchenPortugal.pt"> -->
+	<!-- <title lang="pt">A Sentada</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231080100 +0000" stop="20221231100600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Doces do Ofício</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231100600 +0000" stop="20221231122500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231122500 +0000" stop="20221231142700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Cadernos da Filipa</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231142700 +0000" stop="20221231160000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">O da Joana</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231160000 +0000" stop="20221231162100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231162100 +0000" stop="20221231165400 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Filipa Gomes Cozinha com Twist</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231165400 +0000" stop="20221231172100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231172100 +0000" stop="20221231182100 +0000" channel="24KitchenPortugal.pt"> -->
+	<!-- <title lang="pt">Mary Berry</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231182100 +0000" stop="20221231192100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Nadiya</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231192100 +0000" stop="20221231214700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20221231214700 +0000" stop="20230101000200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias de Rudolph</title> -->
+	<!-- </programme> -->
 
-<!-- Domingo -->
-	<programme start="20230101000200 +0000" stop="20230101014300 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição</title>
-	</programme>
-	<programme start="20230101014300 +0000" stop="20230101035200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato do Dia</title>
-	</programme>
-	<programme start="20230101035200 +0000" stop="20230101054600 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos da Tia Cátia</title>
-	</programme>
-	<programme start="20230101054600 +0000" stop="20230101060900 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Chef de Raiz</title>
-	</programme>
-	<programme start="20230101060900 +0000" stop="20230101075100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Naturalmente</title>
-	</programme>
-	<programme start="20230101075100 +0000" stop="20230101095700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato Do Dia</title>
-	</programme>
-	<programme start="20230101095700 +0000" stop="20230101122500 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Os Segredos Da Tia Cátia</title>
-	</programme>
-	<programme start="20230101122500 +0000" stop="20230101143000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">O Da Joana</title>
-	</programme>
-	<programme start="20230101143000 +0000" stop="20230101160000 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Cadernos Da Filipa</title>
-	</programme>
-	<programme start="20230101160000 +0000" stop="20230101165200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">A Sentada</title>
-	</programme>
-	<programme start="20230101165200 +0000" stop="20230101172200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Prato Do Dia</title>
-	</programme>
-	<programme start="20230101172200 +0000" stop="20230101182100 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">O Banquete De Mary Berry</title>
-	</programme>
-	<programme start="20230101182100 +0000" stop="20230101200800 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Comtradição Pelo Mundo</title>
-	</programme>
-	<programme start="20230101200800 +0000" stop="20230101222200 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">As Doces Iguarias De Rudolph</title>
-	</programme>
-	<programme start="20230101222200 +0000" stop="20230102001700 +0000" channel="24KitchenPortugal.pt">
-		<title lang="pt">Filipa Gomes Cozinha Com Twist</title>
-	</programme>
+<!-- <!-- Domingo --> -->
+	<!-- <programme start="20230101000200 +0000" stop="20230101014300 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101014300 +0000" stop="20230101035200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101035200 +0000" stop="20230101054600 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101054600 +0000" stop="20230101060900 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Chef de Raiz</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101060900 +0000" stop="20230101075100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Naturalmente</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101075100 +0000" stop="20230101095700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato Do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101095700 +0000" stop="20230101122500 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Os Segredos Da Tia Cátia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101122500 +0000" stop="20230101143000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">O Da Joana</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101143000 +0000" stop="20230101160000 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Cadernos Da Filipa</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101160000 +0000" stop="20230101165200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">A Sentada</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101165200 +0000" stop="20230101172200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Prato Do Dia</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101172200 +0000" stop="20230101182100 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">O Banquete De Mary Berry</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101182100 +0000" stop="20230101200800 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Comtradição Pelo Mundo</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101200800 +0000" stop="20230101222200 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">As Doces Iguarias De Rudolph</title> -->
+	<!-- </programme> -->
+	<!-- <programme start="20230101222200 +0000" stop="20230102001700 +0000" channel="24KitchenPortugal.pt"> -->
+		<!-- <title lang="pt">Filipa Gomes Cozinha Com Twist</title> -->
+	<!-- </programme> -->
 	
 Trace Toca
 	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="TraceToca.fr"><title lang="pt">Trace Toca</title></programme>
