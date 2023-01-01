@@ -2330,6 +2330,542 @@ Canal 11
 		<title lang="pt">Original 11</title>
 	</programme>
 	
+
+A Bola TV
+<!-- Segunda-Feira -->
+	<programme start="20230102000000 +0000" stop="20230102003000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Black Power</title>
+	</programme>
+
+<!-- Quarta-Feira -->
+	<programme start="20230104220000 +0000" stop="20230105001500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Noite</title>
+	</programme>
+
+<!-- Quinta-Feira -->
+	<programme start="20230105001500 +0000" stop="20230105004500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20230105004500 +0000" stop="20230105011500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20230105011500 +0000" stop="20230105014500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230105014500 +0000" stop="20230105015000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20230105015000 +0000" stop="20230105040500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20230105040500 +0000" stop="20230105043500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230105043500 +0000" stop="20230105050000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Jogar Em Casa</title>
+	</programme>
+	<programme start="20230105050000 +0000" stop="20230105053000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Diamantes Na Areia</title>
+	</programme>
+	<programme start="20230105053000 +0000" stop="20230105060000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20230105060000 +0000" stop="20230105062500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Against All Odds</title>
+	</programme>
+	<programme start="20230105062500 +0000" stop="20230105070000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Magazine TT</title>
+	</programme>
+	<programme start="20230105070000 +0000" stop="20230105073000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230105073000 +0000" stop="20230105080000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20230105080000 +0000" stop="20230105083000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230105083000 +0000" stop="20230105090000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20230105090000 +0000" stop="20230105091500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Fairplay</title>
+	</programme>
+	<programme start="20230105091500 +0000" stop="20230105093000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Custom Series</title>
+	</programme>
+	<programme start="20230105093000 +0000" stop="20230105100000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Desporto Motorizado</title>
+	</programme>
+	<programme start="20230105100000 +0000" stop="20230105103000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20230105103000 +0000" stop="20230105110000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">World Sailing Cup</title>
+	</programme>
+	<programme start="20230105110000 +0000" stop="20230105113000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20230105113000 +0000" stop="20230105120000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Playbola</title>
+	</programme>
+	<programme start="20230105120000 +0000" stop="20230105123000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20230105123000 +0000" stop="20230105130000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Deixa Rolar</title>
+	</programme>
+	<programme start="20230105130000 +0000" stop="20230105133000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20230105133000 +0000" stop="20230105140000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Ride</title>
+	</programme>
+	<programme start="20230105140000 +0000" stop="20230105143000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20230105143000 +0000" stop="20230105164500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20230105164500 +0000" stop="20230105170000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Magazine FMP</title>
+	</programme>
+	<programme start="20230105170000 +0000" stop="20230105173000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20230105173000 +0000" stop="20230105180000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20230105180000 +0000" stop="20230105183000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20230105183000 +0000" stop="20230105190000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Entrevista</title>
+	</programme>
+	<programme start="20230105190000 +0000" stop="20230105195500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20230105195500 +0000" stop="20230105203000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 8</title>
+	</programme>
+	<programme start="20230105203000 +0000" stop="20230105210000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Jogar Em Casa</title>
+	</programme>
+	<programme start="20230105210000 +0000" stop="20230105213000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20230105213000 +0000" stop="20230105220000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20230105220000 +0000" stop="20230106001500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	
+<!-- Sexta-Feira -->
+	<programme start="20230106001500 +0000" stop="20230106004500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Entrevista</title>
+	</programme>
+	<programme start="20230106004500 +0000" stop="20230106011500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20230106011500 +0000" stop="20230106014500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230106014500 +0000" stop="20230106015000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20230106015000 +0000" stop="20230106040500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Quinta Da Bola</title>
+	</programme>
+	<programme start="20230106040500 +0000" stop="20230106043500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230106043500 +0000" stop="20230106050500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20230106050500 +0000" stop="20230106055000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Poquer - Aposta Mundial</title>
+	</programme>
+	<programme start="20230106055000 +0000" stop="20230106055500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20230106055500 +0000" stop="20230106062500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Jogar Em Casa</title>
+	</programme>
+	<programme start="20230106062500 +0000" stop="20230106065500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Ride</title>
+	</programme>
+	<programme start="20230106065500 +0000" stop="20230106070000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20230106070000 +0000" stop="20230106073000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230106073000 +0000" stop="20230106080000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Ultra-Trail Circuito Mundial</title>
+	</programme>
+	<programme start="20230106080000 +0000" stop="20230106083000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230106083000 +0000" stop="20230106090000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Magazine TT</title>
+	</programme>
+	<programme start="20230106090000 +0000" stop="20230106091500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Magazine Aventura</title>
+	</programme>
+	<programme start="20230106091500 +0000" stop="20230106093000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Urban Being</title>
+	</programme>
+	<programme start="20230106093000 +0000" stop="20230106100000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20230106100000 +0000" stop="20230106103000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20230106103000 +0000" stop="20230106110000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Playbola</title>
+	</programme>
+	<programme start="20230106110000 +0000" stop="20230106113000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Against All Odds</title>
+	</programme>
+	<programme start="20230106113000 +0000" stop="20230106120000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Mundial Timbersports</title>
+	</programme>
+	<programme start="20230106120000 +0000" stop="20230106123000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20230106123000 +0000" stop="20230106130000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20230106130000 +0000" stop="20230106133000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20230106133000 +0000" stop="20230106140000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20230106140000 +0000" stop="20230106143000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20230106143000 +0000" stop="20230106150000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20230106150000 +0000" stop="20230106164500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Basquetebol: Sporting x Póvoa</title>
+	</programme>
+	<programme start="20230106164500 +0000" stop="20230106165000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20230106165000 +0000" stop="20230106170000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Roda De Bola</title>
+	</programme>
+	<programme start="20230106170000 +0000" stop="20230106173000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20230106173000 +0000" stop="20230106180000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20230106180000 +0000" stop="20230106184500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Jogo Económico</title>
+	</programme>
+	<programme start="20230106184500 +0000" stop="20230106200000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20230106200000 +0000" stop="20230106203000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Revista De Imprensa Internacional</title>
+	</programme>
+	<programme start="20230106203000 +0000" stop="20230106211500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 8</title>
+	</programme>
+	<programme start="20230106211500 +0000" stop="20230106231500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Jogo Ao Minuto: SC Braga x Benfica</title>
+	</programme>
+	<programme start="20230106231500 +0000" stop="20221231003000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Noite</title>
+	</programme>
+
+<!-- Sabado -->
+	<programme start="20221231003000 +0000" stop="20221231010000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Jogar Em Casa</title>
+	</programme>
+	<programme start="20221231010000 +0000" stop="20221231012500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20221231012500 +0000" stop="20221231015000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20221231015000 +0000" stop="20221231022000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221231022000 +0000" stop="20221231022500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231022500 +0000" stop="20221231034000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Noite</title>
+	</programme>
+	<programme start="20221231034000 +0000" stop="20221231041000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221231041000 +0000" stop="20221231043500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221231043500 +0000" stop="20221231050500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Deixa Rolar</title>
+	</programme>
+	<programme start="20221231050500 +0000" stop="20221231053000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20221231053000 +0000" stop="20221231055500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221231055500 +0000" stop="20221231061000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Fairplay</title>
+	</programme>
+	<programme start="20221231061000 +0000" stop="20221231063500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">World Sailing Cup</title>
+	</programme>
+	<programme start="20221231063500 +0000" stop="20221231070000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Against All Odds</title>
+	</programme>
+	<programme start="20221231070000 +0000" stop="20221231073000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221231073000 +0000" stop="20221231080000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20221231080000 +0000" stop="20221231083000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20221231083000 +0000" stop="20221231084500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Custom Series</title>
+	</programme>
+	<programme start="20221231084500 +0000" stop="20221231091500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Memórias: Portugal Camp. Euripeu de Juniores</title>
+	</programme>
+	<programme start="20221231091500 +0000" stop="20221231094500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Ride</title>
+	</programme>
+	<programme start="20221231094500 +0000" stop="20221231100000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Magazine FMP</title>
+	</programme>
+	<programme start="20221231100000 +0000" stop="20221231103000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20221231103000 +0000" stop="20221231110000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20221231110000 +0000" stop="20221231113000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Comboio Dos Duros</title>
+	</programme>
+	<programme start="20221231113000 +0000" stop="20221231113500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231113500 +0000" stop="20221231120000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20221231120000 +0000" stop="20221231123000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20221231123000 +0000" stop="20221231130000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Diamantes Na Areia</title>
+	</programme>
+	<programme start="20221231130000 +0000" stop="20221231133000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20221231133000 +0000" stop="20221231140000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Compacto Desportivo</title>
+	</programme>
+	<programme start="20221231140000 +0000" stop="20221231143000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20221231143000 +0000" stop="20221231150000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Jogar Em Casa</title>
+	</programme>
+	<programme start="20221231150000 +0000" stop="20221231155500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Especial: Danças de Salão Taça do Mundo</title>
+	</programme>
+	<programme start="20221231155500 +0000" stop="20221231160000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231160000 +0000" stop="20221231163000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20221231163000 +0000" stop="20221231163500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231163500 +0000" stop="20221231170000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20221231170000 +0000" stop="20221231173000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20221231173000 +0000" stop="20221231180000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Deixa Rolar: Pedro Hossi</title>
+	</programme>
+	<programme start="20221231180000 +0000" stop="20221231183000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20221231183000 +0000" stop="20221231190000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20221231190000 +0000" stop="20221231195500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20221231195500 +0000" stop="20221231214000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Especial</title>
+	</programme>
+	<programme start="20221231214000 +0000" stop="20221231220000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">72 Horas Antes</title>
+	</programme>
+	<programme start="20221231220000 +0000" stop="20221231225500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola De Sábado</title>
+	</programme>
+	<programme start="20221231225500 +0000" stop="20221231230500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20221231230500 +0000" stop="20221231235500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Danças de Salão Taça do Mundo</title>
+	</programme>
+	<programme start="20221231235500 +0000" stop="20230101000000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Countdown</title>
+	</programme>
+	
+<!-- Domingo -->
+	<programme start="20230101000000 +0000" stop="20230101002500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20230101002500 +0000" stop="20230101005500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230101005500 +0000" stop="20230101014000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Poquer - Aposta Mundial</title>
+	</programme>
+	<programme start="20230101014000 +0000" stop="20230101023500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola De Sábado</title>
+	</programme>
+	<programme start="20230101023500 +0000" stop="20230101035500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Troféu Mongólia</title>
+	</programme>
+	<programme start="20230101035500 +0000" stop="20230101042500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230101042500 +0000" stop="20230101045000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Isto É Futebol</title>
+	</programme>
+	<programme start="20230101045000 +0000" stop="20230101052000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20230101052000 +0000" stop="20230101054000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Memórias</title>
+	</programme>
+	<programme start="20230101054000 +0000" stop="20230101055500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Desporto Motorizado</title>
+	</programme>
+	<programme start="20230101055500 +0000" stop="20230101060500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Fairplay</title>
+	</programme>
+	<programme start="20230101060500 +0000" stop="20230101063500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Jogar Em Casa</title>
+	</programme>
+	<programme start="20230101063500 +0000" stop="20230101070000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20230101070000 +0000" stop="20230101073000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230101073000 +0000" stop="20230101080000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">World Sailing Cup</title>
+	</programme>
+	<programme start="20230101080000 +0000" stop="20230101083000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Remate Final</title>
+	</programme>
+	<programme start="20230101083000 +0000" stop="20230101084500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Custom Series</title>
+	</programme>
+	<programme start="20230101084500 +0000" stop="20230101091500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Memórias</title>
+	</programme>
+	<programme start="20230101091500 +0000" stop="20230101094500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Black Power</title>
+	</programme>
+	<programme start="20230101094500 +0000" stop="20230101100000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Magazine BTT-TV</title>
+	</programme>
+	<programme start="20230101100000 +0000" stop="20230101103000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 10</title>
+	</programme>
+	<programme start="20230101103000 +0000" stop="20230101110000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Magazine TT</title>
+	</programme>
+	<programme start="20230101110000 +0000" stop="20230101113000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Compacto Desportivo</title>
+	</programme>
+	<programme start="20230101113000 +0000" stop="20230101120000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Deixa Rolar</title>
+	</programme>
+	<programme start="20230101120000 +0000" stop="20230101123000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Do Meio Dia</title>
+	</programme>
+	<programme start="20230101123000 +0000" stop="20230101130000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20230101130000 +0000" stop="20230101133000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Uma</title>
+	</programme>
+	<programme start="20230101133000 +0000" stop="20230101140000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20230101140000 +0000" stop="20230101143000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 2</title>
+	</programme>
+	<programme start="20230101143000 +0000" stop="20230101150000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20230101150000 +0000" stop="20230101162000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Momento ESPN: Dois Irmãos, Uma Guerra</title>
+	</programme>
+	<programme start="20230101162000 +0000" stop="20230101163500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Urban Being</title>
+	</programme>
+	<programme start="20230101163500 +0000" stop="20230101170000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Bastidores F1</title>
+	</programme>
+	<programme start="20230101170000 +0000" stop="20230101173000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Da Tarde</title>
+	</programme>
+	<programme start="20230101173000 +0000" stop="20230101180000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Grelha</title>
+	</programme>
+	<programme start="20230101180000 +0000" stop="20230101183000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Especial</title>
+	</programme>
+	<programme start="20230101183000 +0000" stop="20230101190000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Motores</title>
+	</programme>
+	<programme start="20230101190000 +0000" stop="20230101195500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola Das 7</title>
+	</programme>
+	<programme start="20230101195500 +0000" stop="20230101204000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Documentario</title>
+	</programme>
+	<programme start="20230101204000 +0000" stop="20230101205000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Off</title>
+	</programme>
+	<programme start="20230101205000 +0000" stop="20230101213000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Documentario</title>
+	</programme>
+	<programme start="20230101213000 +0000" stop="20230101220000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Lendas Dos Mundiais</title>
+	</programme>
+	<programme start="20230101220000 +0000" stop="20230101225500 +0000" channel="ABolaTV.pt">
+		<title lang="pt">A Bola De Domingo</title>
+	</programme>
+	<programme start="20230101225500 +0000" stop="20230101235000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Especial</title>
+	</programme>
+	<programme start="20230101235000 +0000" stop="20230102000000 +0000" channel="ABolaTV.pt">
+		<title lang="pt">Urban Being</title>
+	</programme>	
+	
 	
 TVI FICCAO
 <!-- Segunda-Feira -->
@@ -2650,6 +3186,9 @@ TVI AFRICA
 	<programme start="20230101213000 +0000" stop="20230101223000 +0000" channel="TVIAfrica.pt"><title lang="pt">Conta-me</title></programme>
 	<programme start="20230101223000 +0000" stop="20230102231500 +0000" channel="TVIAfrica.pt"><title lang="pt">Conta-me como és</title></programme>
 	<programme start="20230101231500 +0000" stop="20230102000000 +0000" channel="TVIAfrica.pt"><title lang="pt">A Única Mulher</title></programme>
+
+
+
 
 
 Porto Canal
