@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20221229">
+<?xml version="1.0" encoding="UTF-8" ?>
 
-<tv>
+<tv date="20221229">
+	
 	<channel id="Eleven1.pt">
 		<display-name lang="pt">ELEVEN 1</display-name>
 		<icon src="https://i.imgur.com/STN37zd.png" />
