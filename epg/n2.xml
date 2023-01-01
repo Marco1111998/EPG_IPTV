@@ -211,9 +211,6 @@ SIC Mulher
 	<programme start="20221231211600 +0000" stop="20221231225300 +0000" channel="SICMulher.pt">
 		<title lang="pt">Night Before</title>
 	</programme>
-	<programme start="20221231225300 +0000" stop="20230101002600 +0000" channel="SICMulher.pt">
-		<title lang="pt">Britains's Got Talent</title>
-	</programme>
 	
 <!-- Domingo -->
 	<programme start="20230101002600 +0000" stop="20230101014800 +0000" channel="SICMulher.pt">
