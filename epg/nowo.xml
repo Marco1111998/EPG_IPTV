@@ -745,8 +745,12 @@ SIC
 	</programme>
 
 <!-- Sábado -->
-	<programme start="20221231010000 +0000" stop="20221231033000 +0000" channel="SIC.pt"><title lang="pt">Quem Quer Namorar Com O Agricultor?</title></programme>
-	<programme start="20221231033000 +0000" stop="20221231041500 +0000" channel="SIC.pt"><title lang="pt">Linha Aberta</title></programme>
+	<programme start="20221231010000 +0000" stop="20221231033000 +0000" channel="SIC.pt">
+		<title lang="pt">Quem Quer Namorar Com O Agricultor?</title>
+	</programme>
+	<programme start="20221231033000 +0000" stop="20221231041500 +0000" channel="SIC.pt">
+		<title lang="pt">Linha Aberta</title>
+	</programme>
 	<programme start="20221231041500 +0000" stop="20221231053000 +0000" channel="SIC.pt"><title lang="pt">Televendas</title></programme>
 	<programme start="20221231053000 +0000" stop="20221231060000 +0000" channel="SIC.pt"><title lang="pt">Camilo, O Presidente</title></programme>
 	<programme start="20221231060000 +0000" stop="20221231064500 +0000" channel="SIC.pt"><title lang="pt">Etnias</title></programme>
@@ -789,8 +793,8 @@ TVI
 	<programme start="20230102054500 +0000" stop="20230102060500 +0000" channel="TVI.pt"><title lang="pt">Os Batanetes</title></programme>
 	<programme start="20230102060500 +0000" stop="20230102063000 +0000" channel="TVI.pt"><title lang="pt">O Rei Juliano</title></programme>
 	<programme start="20230102063000 +0000" stop="20230102070000 +0000" channel="TVI.pt"><title lang="pt">Diário Da Manhã</title></programme>
-	<programme start="20230102070000 +0000" stop="20230102171000 +0000" channel="TVI.pt"><title lang="pt">Esta Manhã</title></programme>
-	<programme start="20230102171000 +0000" stop="20230102125800 +0000" channel="TVI.pt"><title lang="pt">Dois às 10</title></programme>
+	<programme start="20230102070000 +0000" stop="20230102101000 +0000" channel="TVI.pt"><title lang="pt">Esta Manhã</title></programme>
+	<programme start="20230102101000 +0000" stop="20230102125800 +0000" channel="TVI.pt"><title lang="pt">Dois às 10</title></programme>
 	<programme start="20230102125800 +0000" stop="20230102145500 +0000" channel="TVI.pt"><title lang="pt">Jornal Da Uma</title></programme>
 	<programme start="20230102145500 +0000" stop="20230102161000 +0000" channel="TVI.pt"><title lang="pt">A Única Mulher</title></programme>
 	<programme start="20230102161000 +0000" stop="20230102190000 +0000" channel="TVI.pt"><title lang="pt">Goucha</title></programme>
@@ -1690,12 +1694,12 @@ CNN PORTUGAL
 	<programme start="20230101160000 +0000" stop="20230101161500 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Domingo</title></programme>
 	<programme start="20230101161500 +0000" stop="20230101170000 +0000" channel="CNNPortugal.pt"><title lang="pt">GPS - Fareed Zakaria</title></programme>
 	<programme start="20230101170000 +0000" stop="20230101200500 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Domingo</title></programme>
-	<programme start="20230101200500 +0000" stop="20230101217000 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Em Jogo</title></programme>
-	<programme start="20230101217000 +0000" stop="20230102130000 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Domingo</title></programme>
-	<programme start="20230102130000 +0000" stop="20230102140000 +0000" channel="CNNPortugal.pt"><title lang="pt">Os Opositores de Putin</title></programme>
-	<programme start="20230102140000 +0000" stop="20230102141500 +0000" channel="CNNPortugal.pt"><title lang="pt">Notícias CNN</title></programme>
-	<programme start="20230102141500 +0000" stop="20230102145000 +0000" channel="CNNPortugal.pt"><title lang="pt">O Princípio Da Incerteza</title></programme>
-	<programme start="20230102145000 +0000" stop="20230102020000 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Meia Noite</title></programme>
+	<programme start="20230101200500 +0000" stop="20230101213000 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Em Jogo</title></programme>
+	<programme start="20230101213000 +0000" stop="20230102000000 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Domingo</title></programme>
+	<programme start="20230102000000 +0000" stop="20230102010000 +0000" channel="CNNPortugal.pt"><title lang="pt">Os Opositores de Putin</title></programme>
+	<programme start="20230102010000 +0000" stop="20230102011500 +0000" channel="CNNPortugal.pt"><title lang="pt">Notícias CNN</title></programme>
+	<programme start="20230102011500 +0000" stop="20230102015000 +0000" channel="CNNPortugal.pt"><title lang="pt">O Princípio Da Incerteza</title></programme>
+	<programme start="20230102015000 +0000" stop="20230102020000 +0000" channel="CNNPortugal.pt"><title lang="pt">CNN Meia Noite</title></programme>
 
 
 CMTV
@@ -2050,7 +2054,7 @@ Globo Portugal
 	<programme start="20230101093000 +0000" stop="20230101150000 +0000" channel="RedeGlobo.br"><title lang="pt">Ti-Ti-Ti</title></programme>
 	<programme start="20230101150000 +0000" stop="20230101200000 +0000" channel="RedeGlobo.br"><title lang="pt">Cara e Coragem</title></programme>
 	<programme start="20230101200000 +0000" stop="20230101203000 +0000" channel="RedeGlobo.br"><title lang="pt">Tô De Graça</title></programme>
-	<programme start="20230101203000 +0000" stop="20230102145000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
+	<programme start="20230101203000 +0000" stop="20230102235000 +0000" channel="RedeGlobo.br"><title lang="pt">Verdades Secretas</title></programme>
 
 
 Canal 11
@@ -3184,7 +3188,7 @@ TVI AFRICA
 	<programme start="20230101190000 +0000" stop="20230101200000 +0000" channel="TVIAfrica.pt"><title lang="pt">Querido, Mudei a Casa!</title></programme>
 	<programme start="20230101200000 +0000" stop="20230101213000 +0000" channel="TVIAfrica.pt"><title lang="pt">Jornal das 8</title></programme>
 	<programme start="20230101213000 +0000" stop="20230101223000 +0000" channel="TVIAfrica.pt"><title lang="pt">Conta-me</title></programme>
-	<programme start="20230101223000 +0000" stop="20230102231500 +0000" channel="TVIAfrica.pt"><title lang="pt">Conta-me como és</title></programme>
+	<programme start="20230101223000 +0000" stop="20230101231500 +0000" channel="TVIAfrica.pt"><title lang="pt">Conta-me como és</title></programme>
 	<programme start="20230101231500 +0000" stop="20230102000000 +0000" channel="TVIAfrica.pt"><title lang="pt">A Única Mulher</title></programme>
 
 
