@@ -469,6 +469,16 @@ Trace Brazuca
 	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="TraceBrazuca.fr"><title lang="pt">Trace Brazuca</title></programme>
 
 
+Kuriakos TV
+  <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221227000000 +0000" stop="20230104000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="KuriakosTV.pt"><title lang="pt">Kuriakos TV</title></programme>
+  
+  
 MTV Portugal
 	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
 	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="MTVPortugal.pt"><title lang="pt">MTV Portugal</title></programme>
@@ -500,13 +510,13 @@ Casa e Cozinha
 
 
 E! ENTERTAINMENT
-	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
-	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
-	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
-	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
-	<programme start="20230106000000 +0000" stop="20230107000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
-	<programme start="20230107000000 +0000" stop="20230101000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
-	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="E!.pt"><title lang="pt">E! ENTERTAINMENT</title></programme>
+	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="E!.pt"><title lang="pt">E! Entertainment</title></programme>
+	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="E!.pt"><title lang="pt">E! Entertainment</title></programme>
+	<programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="E!.pt"><title lang="pt">E! Entertainment</title></programme>
+	<programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="E!.pt"><title lang="pt">E! Entertainment</title></programme>
+	<programme start="20230106000000 +0000" stop="20230107000000 +0000" channel="E!.pt"><title lang="pt">E! Entertainment</title></programme>
+	<programme start="20230107000000 +0000" stop="20230101000000 +0000" channel="E!.pt"><title lang="pt">E! Entertainment</title></programme>
+	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="E!.pt"><title lang="pt">E! Entertainment</title></programme>
 
 
 Dog TV
@@ -537,8 +547,18 @@ Caca e Pesca
 	<programme start="20230106000000 +0000" stop="20230107000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
 	<programme start="20230107000000 +0000" stop="20230101000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
 	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="CazayPesca.es"><title lang="pt">Caza e Pesca</title></programme>
-
-
+	
+	
+Galicia TV
+    <programme start="20221226000000 +0000" stop="20221227000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+    <programme start="20221227000000 +0000" stop="20230104000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+    <programme start="20230104000000 +0000" stop="20230105000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+    <programme start="20230105000000 +0000" stop="20230106000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+    <programme start="20230106000000 +0000" stop="20221231000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+    <programme start="20221231000000 +0000" stop="20230101000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>
+    <programme start="20230101000000 +0000" stop="20221226000000 +0000" channel="GaliciaTVEuropa.es"><title lang="pt">Galicia TV</title></programme>	
+	
+	
 HOT
 	<programme start="20230102000000 +0000" stop="20230103000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
 	<programme start="20230103000000 +0000" stop="20230104000000 +0000" channel="Hot.pt"><title lang="pt">HOT</title></programme>
@@ -587,7 +607,6 @@ PENTHOUSE GOLD
 	<programme start="20230106000000 +0000" stop="20230107000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
 	<programme start="20230107000000 +0000" stop="20230101000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
 	<programme start="20230101000000 +0000" stop="20230102000000 +0000" channel="PenthouseGold.us"><title lang="pt">PENTHOUSE GOLD</title></programme>
-
 
 
 RTP Africa
