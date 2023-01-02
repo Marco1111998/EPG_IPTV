@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv>
+  
+
+  <channel id="NosStudios.pt">
+	<display-name>NOS STUDIOS</display-name>
+  </channel>
+  <channel id="FoxPortugal.pt">
+    <display-name lang="pt">FOX</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="AXNPortugal.pt">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="SyfyPortugal.pt">
+    <display-name lang="pt">SYFY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/syfy.png" />
+  </channel>
+  <channel id="Dizi.nl">
+	<display-name>DIZI</display-name>
+	<icon src="https://www.meo.pt/PublishingImages/canais/dizi-channel.png"/>
+  </channel>  
+  <channel id="FoxLifePortugal.pt">
+    <display-name lang="pt">FOX LIFE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-life.png" />
+  </channel>
+  <channel id="FoxCrimePortugal.pt">
+    <display-name lang="pt">FOX CRIME</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-crime.png" />
+  </channel>
+  <channel id="AxnWhite.us">
+    <display-name lang="pt">AXN WHITE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
+  </channel>
+  <channel id="FoxComedyPortugal.pt">
+    <display-name lang="pt">FOX COMEDY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-comedy.png" />
+  </channel>
+  
+  <channel id="AMCPortugal.pt">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/amc.png" />
+  </channel>
+  <channel id="AxnMovies.pt">
+    <display-name lang="pt">AXN MOVIES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-movies.png" />
+  </channel>
+  <channel id="FoxMovies.pt">
+    <display-name lang="pt">FOX MOVIES</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-movies.png" />
+  </channel>
+  <channel id="CineMundo.pt">
+    <display-name lang="pt">Cinemundo</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/Cinemundo.png" />
+  </channel>
+  <channel id="CanalHollywoodPortugal.pt">
+    <display-name lang="pt">CANAL HOLLYWOOD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/hollywood.png" />
+  </channel>
+  <channel id="TVCineTop.pt">
+    <display-name lang="pt">TVCINE TOP</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-top.png" />
+  </channel>
+  <channel id="TVCineEdition.pt">
+    <display-name lang="pt">TVCINE EDITION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-edition.png" />
+  </channel>
+  <channel id="TVCineEmotion.pt">
+    <display-name lang="pt">TVCINE EMOTION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-emotion.png" />
+  </channel>
+  <channel id="TVCineAction.pt">
+    <display-name lang="pt">TVCINE ACTION</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-action.png" />
+  </channel>  
+
+
+    <programme start="20230102182400 +0000" stop="20230102194900 +0000" channel="NosStudios.pt"><title lang="pt">Antigang</title></programme>
+    <programme start="20230102194900 +0000" stop="20230102211400 +0000" channel="NosStudios.pt"><title lang="pt">Best Of The Best III: No Turning Back</title></programme>
+    <programme start="20230102211400 +0000" stop="20230102225700 +0000" channel="NosStudios.pt"><title lang="pt">Pancadaria Chinesa</title></programme>
+    <programme start="20230102225700 +0000" stop="20230103004100 +0000" channel="NosStudios.pt"><title lang="pt">Relações Proíbidas</title></programme>
+
+    <programme start="2023010300 +0000" stop="2023010300 +0000" channel="NosStudios.pt"><title lang="pt"></title></programme>
+    <programme start="20230103004100 +0000" stop="20230103021500 +0000" channel="NosStudios.pt"><title lang="pt">Um Método Perigoso</title></programme>
+    <programme start="20230103021500 +0000" stop="20230103040400 +0000" channel="NosStudios.pt"><title lang="pt">Notas de Amor</title></programme>
+    <programme start="20230103040400 +0000" stop="20230103062100 +0000" channel="NosStudios.pt"><title lang="pt">O Fim da Inocência</title></programme>
+
+
+    <programme start="20230102175000 +0000" stop="20230102192500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Jockey</title>
+	</programme>
+	<programme start="20230102192500 +0000" stop="20230102213000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">A Lenda Do Cavaleiro Verde</title>
+	</programme>
+	<programme start="20230102213000 +0000" stop="20230102231000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Sem Hora Marcada</title>
+	</programme>
+	<programme start="20230102231000 +0000" stop="20230103004500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Atividade Paranormal - Parentes Diretos</title>
+	</programme>
+	
+	
+	<programme start="20230103004500 +0000" stop="20230103022000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">A Ex da Porta ao Lado</title>
+	</programme>
+	<programme start="20230103022000 +0000" stop="20230103035000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Vampiros Do Inferno</title>
+	</programme>
+	<programme start="20230103035000 +0000" stop="20230103054500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">O Manual da Boa Esposa</title>
+	</programme>
+	<programme start="20230103054500 +0000" stop="20230103072000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Jane Por Charlotte</title>
+	</programme>
+	<programme start="20230103072000 +0000" stop="20230103085000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Khumba (VP)</title>
+	</programme>
+	<programme start="20230103085000 +0000" stop="20230103103000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">A Comissão Dos Deuses</title>
+	</programme>
+	<programme start="20230103103000 +0000" stop="20230103123500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">O Bando De Ned Kelly</title>
+	</programme>
+	<programme start="20230103123500 +0000" stop="20230103141500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Irregular</title>
+	</programme>
+	<programme start="20230103141500 +0000" stop="20230103155500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">O Diabo Tem Um Nome</title>
+	</programme>
+	<programme start="20230103155500 +0000" stop="20230103173500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Tesla</title>
+	</programme>
+	<programme start="20230103173500 +0000" stop="20230103193500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">O Bom Patrão</title>
+	</programme>
+	<programme start="20230103193500 +0000" stop="20230103213000 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Marry Me - Fica Comigo</title>
+	</programme>
+	<programme start="20230103213000 +0000" stop="20230103231500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Chaos Walking - O Ruído</title>
+	</programme>
+	<programme start="20230103231500 +0000" stop="20230104005500 +0000" channel="TVCineTop.pt">
+		<title lang="pt">Ted Bundy - Na Mente De Um Assassino</title>
+	</programme>	
+
+
+
+
+</tv>
