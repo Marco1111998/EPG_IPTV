@@ -1,22 +1,679 @@
 #EXTM3U x-tvg-url="https://github.com/Marco1110/M3U_PT_EPG/raw/main/epg/epg-vodafone.xml.gz"
 
+#EXTINF:-1 group-title="TV",RTP 1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1404
+#EXTINF:-1 group-title="TV",RTP 1
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51914
+#EXTINF:-1 group-title="TV",RTP 1 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51839
+#EXTINF:-1 group-title="TV",RTP 1 
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9545
+#EXTINF:-1 group-title="TV",RTP 1
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25064.ts
+#EXTINF:-1 group-title="TV",RTP 2 
+http://fortv.cc:8080/blade123/blade123/78493
+#EXTINF:-1 group-title="TV",RTP 2
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1406
+#EXTINF:-1 group-title="TV",RTP 2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51920
+#EXTINF:-1 group-title="TV",RTP 2 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51840
+#EXTINF:-1 group-title="TV",RTP 2
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9546
+#EXTINF:-1 group-title="TV",RTP 2
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25065.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt",RTP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC
+https://sic.live.impresa.pt/sic540p.m3u8
+#EXTINF:-1 group-title="TV",SIC
+http://fortv.cc:8080/blade123/blade123/78501
+#EXTINF:-1 group-title="TV",SIC
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1408
+#EXTINF:-1 group-title="TV",SIC
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51915
+#EXTINF:-1 group-title="TV",SIC 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51841
+#EXTINF:-1 group-title="TV",SIC
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25073.ts
+
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjMgOTo5OjQxIFBNJmhhc2hfdmFsdWU9UGR3aFV1V1MrRTU1eHpWM1BJYmEzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4NjNjZWFkLWFmYmEtNGRlYS04ODVjLTU1M2M5MjlmNGUyZA==/
+
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+https://sicnot.live.impresa.pt/sicnot540p.m3u8
+#EXTINF:-1 group-title="TV",SIC NOTICIAS 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1416
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51921
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51843
+#EXTINF:-1 group-title="TV",SIC NOTICIAS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25078.ts
+#EXTINF:-1 group-title="TV",RTP 3
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1418
+#EXTINF:-1 group-title="TV",RTP 3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51896
+#EXTINF:-1 group-title="TV",RTP 3
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9547
+#EXTINF:-1 group-title="TV",RTP 3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25066.ts
+#EXTINF:-1 group-title="TV",RTP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjMgOTo5OjQxIFBNJmhhc2hfdmFsdWU9TVJLK1dUd2syaWJoeksxT0krQisyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEyOWJkMWZlLTM1MzYtNDFjMS1hZGU2LTE4NjgyMzY5ZmRjYQ==/
 
+#EXTINF:-1 group-title="TV",CMTV
+http://fortv.cc:8080/blade123/blade123/78441
+#EXTINF:-1 group-title="TV",CMTV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1412
+#EXTINF:-1 group-title="TV",CMTV
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51917
+#EXTINF:-1 group-title="TV",CMTV 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51844
+#EXTINF:-1 group-title="TV",CMTV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25017.ts
+#EXTINF:-1 group-title="TV",GLOBO
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51923
+#EXTINF:-1 group-title="TV",GLOBO
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51846
+#EXTINF:-1 group-title="TV",GLOBO
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25038.ts
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1481
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51941
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51852
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/29668.ts
+#EXTINF:-1 group-title="TV",SPORT TV +
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
+#EXTINF:-1 group-title="TV",CANAL 11
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1480
+#EXTINF:-1 group-title="TV",CANAL 11
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51911
+#EXTINF:-1 group-title="TV",CANAL 11
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51850
+#EXTINF:-1 group-title="TV",CANAL 11
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25004.ts
+#EXTINF:-1 group-title="TV",CANAL 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="TV",CANAL Q
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1430
+#EXTINF:-1 group-title="TV",CANAL Q
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25006.ts
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1420
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51940
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51876
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51876
+#EXTINF:-1 group-title="TV",A BOLA TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24987.ts
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1421
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51944
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51849
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51849
+#EXTINF:-1 group-title="TV",TVI FICCAO
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25087.ts
+#EXTINF:-1 group-title="TV",TVI FICCAO
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 group-title="TV",TVI AFRICA
+https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5910
+#EXTINF:-1 group-title="TV",SIC CARAS 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51902
+#EXTINF:-1 group-title="TV",SIC CARAS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25074.ts
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1427
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51961
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51847
+#EXTINF:-1 group-title="TV",SIC MULHER
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25077.ts
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1429
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51848
+#EXTINF:-1 group-title="TV",SIC RADICAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25079.ts
+#EXTINF:-1 group-title="TV",PORTO CANAL
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1419
+#EXTINF:-1 group-title="TV",PORTO CANAL 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51883
+#EXTINF:-1 group-title="TV",PORTO CANAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25062.ts
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1423
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51953
+#EXTINF:-1 group-title="TV",TVI REALITY 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51905
+#EXTINF:-1 group-title="TV",TVI REALITY
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25088.ts
+#EXTINF:-1 group-title="TV",TVI REALITY
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 group-title="TV",CANAL NOS 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278550
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1454
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51929
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25057.ts
+#EXTINF:-1 group-title="TV",NOS STUDIOS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25057.ts
+#EXTINF:-1 group-title="TV",BIGGS
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1439
+#EXTINF:-1 group-title="TV",BIGGS 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51904
+#EXTINF:-1 group-title="TV",BIGGS 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51904
+#EXTINF:-1 group-title="TV",BIGGS
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24998.ts
+#EXTINF:-1 group-title="TV",SIC K
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/4021
+#EXTINF:-1 group-title="TV",SIC K 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51903
+#EXTINF:-1 group-title="TV",SIC K 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51903
+#EXTINF:-1 group-title="TV",SIC K
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25075.ts
+#EXTINF:-1 group-title="TV",NICK JR
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/9693
+#EXTINF:-1 group-title="TV",NICK JR
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25055.ts
+#EXTINF:-1 group-title="TV",BOOMERANG
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/24529
+#EXTINF:-1 group-title="TV",BOOMERANG
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/516343.ts
+#EXTINF:-1 group-title="TV",PANDA KIDS
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290678
+#EXTINF:-1 group-title="TV",PANDA KIDS
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/516332.ts
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1436
+#EXTINF:-1 group-title="TV",NICKELODEON 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51899
+#EXTINF:-1 group-title="TV",NICKELODEON 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51899
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9567
+#EXTINF:-1 group-title="TV",NICKELODEON
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25056.ts
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://fortv.cc:8080/blade123/blade123/78446
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1438
+#EXTINF:-1 group-title="TV",CANAL PANDA 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51900
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9565
+#EXTINF:-1 group-title="TV",CANAL PANDA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25005.ts
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1435
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51895
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51895
+#EXTINF:-1 group-title="TV",DISNEY JUNIOR
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25022.ts
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1434
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/226084
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51893
+#EXTINF:-1 group-title="TV",DISNEY CHANNEL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25021.ts
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1440
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51898
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51898
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9566
+#EXTINF:-1 group-title="TV",CARTOON NETWORK
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24985.ts
+#EXTINF:-1 group-title="TV",FOX
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1461
+#EXTINF:-1 group-title="TV",FOX
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51937
+#EXTINF:-1 group-title="TV",FOX
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51875
+#EXTINF:-1 group-title="TV",FOX
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25031.ts
+#EXTINF:-1 group-title="TV",AXN
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1469
+#EXTINF:-1 group-title="TV",AXN
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51933
+#EXTINF:-1 group-title="TV",AXN
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9559
+#EXTINF:-1 group-title="TV",AXN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24991.ts
+#EXTINF:-1 group-title="TV",AMC
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1473
+#EXTINF:-1 group-title="TV",AMC
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51930
+#EXTINF:-1 group-title="TV",AMC 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51888
+#EXTINF:-1 group-title="TV",AMC
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24989.ts
+#EXTINF:-1 group-title="TV",SYFY 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1475
+#EXTINF:-1 group-title="TV",SYFY
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51955
+#EXTINF:-1 group-title="TV",SYFY
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51932
+#EXTINF:-1 group-title="TV",SYFY 
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9558
+#EXTINF:-1 group-title="TV",SYFY
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25080.ts
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1459
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51873
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51938
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9555
+#EXTINF:-1 group-title="TV",FOX LIFE
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25034.ts
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1463
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51874
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51939
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9557
+#EXTINF:-1 group-title="TV",FOX CRIME
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25033.ts
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1467
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51934
+#EXTINF:-1 group-title="TV",AXN WHITE
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24994.ts
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1471
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278653
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51935
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24992.ts
+#EXTINF:-1 group-title="TV",AXN MOVIES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24993.ts
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1457
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51936
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9556
+#EXTINF:-1 group-title="TV",FOX MOVIES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25035.ts
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1465
+#EXTINF:-1 group-title="TV",FOX COMEDY 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51890
+#EXTINF:-1 group-title="TV",FOX COMEDY
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25032.ts
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1477
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51931
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25016.ts
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1455
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51959
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9560
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25041.ts
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1446
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51925
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9562
+#EXTINF:-1 group-title="TV",TVCINE TOP
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25012.ts
+#EXTINF:-1 group-title="TV",TVCINE EDITION 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/82254
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51926
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9563
+#EXTINF:-1 group-title="TV",TVCINE EDITION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25013.ts
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1448
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51927
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51865
+#EXTINF:-1 group-title="TV",TVCINE EMOTION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25014.ts
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1452
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51928
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9564
+#EXTINF:-1 group-title="TV",TVCINE ACTION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25009.ts
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1499
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51908
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51962
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51858
+#EXTINF:-1 group-title="TV",ELEVEN 1
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25024.ts
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1503
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51909
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51963
+#EXTINF:-1 group-title="TV",ELEVEN 2 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51859
+#EXTINF:-1 group-title="TV",ELEVEN 2
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25025.ts
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1506
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51919
+#EXTINF:-1 group-title="TV",ELEVEN 3 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51860
+#EXTINF:-1 group-title="TV",ELEVEN 3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25026.ts
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1509
+#EXTINF:-1 group-title="TV",ELEVEN 4 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51861
+#EXTINF:-1 group-title="TV",ELEVEN 4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25027.ts
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1512
+#EXTINF:-1 group-title="TV",ELEVEN 5 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51862
+#EXTINF:-1 group-title="TV",ELEVEN 5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25028.ts
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1515
+#EXTINF:-1 group-title="TV",ELEVEN 6
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24983.ts
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1483
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51910
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51957
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51957
+#EXTINF:-1 group-title="TV",SPORT TV 1
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24984.ts
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1486
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51913
+#EXTINF:-1 group-title="TV",SPORT TV 2
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24982.ts
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1489
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51918
+#EXTINF:-1 group-title="TV",SPORT TV 3 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51855
+#EXTINF:-1 group-title="TV",SPORT TV 3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24980.ts
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1492
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51942
+#EXTINF:-1 group-title="TV",SPORT TV 4 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51856
+#EXTINF:-1 group-title="TV",SPORT TV 4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24979.ts
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1495
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51943
+#EXTINF:-1 group-title="TV",SPORT TV 5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24978.ts
+#EXTINF:-1 group-title="TV",SPORT TV 6
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/281487
+#EXTINF:-1 group-title="TV",SPORT TV 6
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/29669.ts
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1497
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51912
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51958
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51956
+#EXTINF:-1 group-title="TV",BENFICA TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25000.ts
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1519
+#EXTINF:-1 group-title="TV",SPORTING TV
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51954
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1517
+#EXTINF:-1 group-title="TV",EUROSPORT 1
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51946
+#EXTINF:-1 group-title="TV",EUROSPORT 2
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1518
+#EXTINF:-1 group-title="TV",TLC
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1479
+#EXTINF:-1 group-title="TV",TLC
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25081.ts
+#EXTINF:-1 group-title="TV",SAUDE +
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/81973
+#EXTINF:-1 group-title="TV",MTV 00S
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25089.ts
+#EXTINF:-1 group-title="TV",MCM TOP
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25047.ts
+#EXTINF:-1 group-title="TV",MCM POP
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25046.ts
+#EXTINF:-1 group-title="TV",AFRO MUSIC 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1536
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/2025
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24986.ts
+#EXTINF:-1 group-title="TV",TRACE URBAN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25083.ts
+#EXTINF:-1 group-title="TV",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1424
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25068.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpaf.tv.vodafone.pt",RTP AFRICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/2055
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9550
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25067.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP ACORES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278558
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9548
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25069.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpmad.tv.vodafone.pt",RTP MADEIRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1425
+#EXTINF:-1 group-title="TV",RTP MEMORIA 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51901
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9549
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25070.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP MEMORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",CACAVISION 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/13956
+#EXTINF:-1 group-title="TV",CACAVISION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25002.ts
+#EXTINF:-1 group-title="TV",CACAVISION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25003.ts
+#EXTINF:-1 group-title="TV",CACA E PESCA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25001.ts
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/9697
+#EXTINF:-1 group-title="TV",KURIAKOS TV 
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25045.ts
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1534
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25049.ts
+#EXTINF:-1 group-title="TV",CASA E COZINHA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/6097
+#EXTINF:-1 group-title="TV",CASA E COZINHA
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51947
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1526
+#EXTINF:-1 group-title="TV",E! ENTERTAINMENT
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25023.ts
+#EXTINF:-1 group-title="TV",RTP INTERNACIONAL
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/74097
+#EXTINF:-1 group-title="TV" tvg-id="RTPInternacionalEuropa.pt" tvg-logo="https://cdn.mitvstatic.com/channels/br_rtpi-brasil_m.png",RTP INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",SIC INTERNACIONAL
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/417579
+#EXTINF:-1 group-title="TV",SIC INTERNACIONAL
+http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/416788
+#EXTINF:-1 group-title="TV",SIC INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjMgOTo5OjQyIFBNJmhhc2hfdmFsdWU9RWFmNW9WaERMWmVIRkVNRlBHeklPQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNmMTVmZDZiLWIxYTQtNDgyZS1iNmVjLTY2ZDRlYjZjMWMxNw==/
 
+#EXTINF:-1 group-title="TV",TPA INTERNACIONAL
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
+#EXTINF:-1 group-title="TV",MEO VIDEOCLUBE
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/265255
+#EXTINF:-1 group-title="TV",HOT 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/15844
+#EXTINF:-1 group-title="TV",HOT
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20543.ts
+#EXTINF:-1 group-title="TV",DORCEL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20481.ts
+#EXTINF:-1 group-title="TV",DORCEL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20482.ts
+#EXTINF:-1 group-title="TV",VENUS TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3258
+#EXTINF:-1 group-title="TV",VENUS TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20645.ts
+#EXTINF:-1 group-title="TV",VIVID RED
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/3989
+#EXTINF:-1 group-title="TV",VIVID RED
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20646.ts
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/14222
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/290309
+#EXTINF:-1 group-title="TV",PLAYBOY TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20539.ts
+#EXTINF:-1 group-title="TV",HUSTLER TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/6028
+#EXTINF:-1 group-title="TV",HUSTLER TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20647.ts
+#EXTINF:-1 group-title="TV",BRAZZERS TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20548.ts
+#EXTINF:-1 group-title="TV",BRAZZERS TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20549.ts
+#EXTINF:-1 group-title="TV",BRAZZERS TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20533.ts
+#EXTINF:-1 group-title="TV",PENTHOUSE GOLD
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/32056
+#EXTINF:-1 group-title="TV",PENTHOUSE GOLD
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/20651.ts
 
-#EXTINF:-1 group-title="TV" tvg-id="SIC INTERNACIONAL" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2018/10/sic-internacional-logotipo-2019.png",SIC INTERNACIONAL
-#EXTVLCOPT:network-caching=1000
-http://live.impresa.pt/live/sicint/sicint.m3u8
+# Radios
+
+#EXTINF:-1 group-title="Radios" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",RADIO TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 group-title="Radios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png",RADIO RENASCENCA
+https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:-1 group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png",ANTENA 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png",ANTENA 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png",ANTENA 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_horiz_RGB.png",RDP AFRICA
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_horiz_RGB.png",RDP INTERNACIONAL
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png",Radio Cidade FM
+https://mcrwowza4.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Radio Mega Hits
+https://21313.live.streamtheworld.com/MEGA_HITSAAC
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Radio Comercial
+https://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrfm7695d64b.png",Radio RFM
+https://21313.live.streamtheworld.com/RFMAAC
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-smooth-fm_0.png",Radio Smooth FM
+http://mcrwowza5.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",Radio Vodafone FM
+http://mcrwowza4.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M80_Radio.svg/1200px-M80_Radio.svg.png",Radio M80
+http://mcrwowza6.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Radio Regional
+http://streaming.radioregional.pt:8002
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://i.imgur.com/0vmzhdz.png",Radio Regional
+http://streaming.radioregional.pt:8000
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",Nove3Cinco
+http://centova.radios.pt:9522/;
+#EXTINF:-1 radio="true" group-title="Radios" tvg-logo="https://brand.observador.pt/assets/img/proibicoes-03-radio.png",RADIO OBSERVADOR
+https://stream.observador.pt/aac_hifi.m3u8
