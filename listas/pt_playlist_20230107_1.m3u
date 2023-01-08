@@ -1,0 +1,68 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml.gz, https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml.gz,         https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz, https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml.gz"
+
+#EXTINF:-1 group-title="SP" tvg-id="GaliciaTVEuropa.es",TV GALICIA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5616.ts
+#EXTINF:-1 group-title="SP" tvg-id="GaliciaTVEuropa.es",TV GALICIA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5742.ts
+#EXTINF:-1 group-title="SP" tvg-id="BoingSpain.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Boing_2020.png",BOING
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5565.ts
+#EXTINF:-1 group-title="SP" tvg-id="NickJrSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=322",NICK JR
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5720.ts
+#EXTINF:-1 group-title="SP" tvg-id="ClanTVE.es",CLAN TVE
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5580.ts
+#EXTINF:-1 group-title="SP" tvg-id="NickelodeonSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=41",NICKELODEON
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5721.ts
+#EXTINF:-1 group-title="SP" tvg-id="CanalPandaSpain.pt" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=2823",CANAL PANDA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5574.ts
+#EXTINF:-1 group-title="SP" tvg-id="CanalPandaSpain.pt" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=2823",CANAL PANDA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5726.ts
+#EXTINF:-1 group-title="SP" tvg-id="DisneyJuniorSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=1197",DISNEY JUNIOR
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5597.ts
+#EXTINF:-1 group-title="SP" tvg-id="DisneyChannelSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=19",DISNEY CHANNEL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5596.ts
+#EXTINF:-1 group-title="SP" tvg-id="FoxSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=177",FOX
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9301
+#EXTINF:-1 group-title="SP" tvg-id="FoxSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=177",FOX
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5612.ts
+#EXTINF:-1 group-title="SP" tvg-id="AXNSpain.es" tvg-logo="",AXN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5557.ts
+#EXTINF:-1 group-title="SP" tvg-id="AMCSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=2501",AMC
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5553.ts
+#EXTINF:-1 group-title="SP" tvg-id="SyfySpain.us" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=73",SYFY
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5732.ts
+#EXTINF:-1 group-title="SP" tvg-id="FoxLifeSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=178",FOX LIFE
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9750
+#EXTINF:-1 group-title="SP" tvg-id="FoxLifeSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=178",FOX LIFE
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5613.ts
+#EXTINF:-1 group-title="SP" tvg-id="AXNWhite.us" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=1574",AXN WHITE
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5558.ts
+#EXTINF:-1 group-title="SP" tvg-id="ComedyCentralSpain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png",COMEDY CENTRAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/5584.ts
+#EXTINF:-1 group-title="SP" tvg-id="CanalHollywoodSpain.es" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=1688",CANAL HOLLYWOOD
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50466
+#EXTINF:-1 group-title="SP" tvg-id="MTVSpain.es" tvg-logo="",MTV ESPAÑA
+http://red.ipfox.org:8080/osama2022/osama2023/47342
+
+
+#EXTINF:-1 group-title="DE" tvg-id="vox.de" tvg-logo="http://worldiptv.xyz/chlogos/Vox.de.png",VOX
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/5887
+#EXTINF:-1 group-title="DE" tvg-id="vox.de" tvg-logo="http://worldiptv.xyz/chlogos/Vox.de.png",VOX
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/191
+#EXTINF:-1 group-title="DE" tvg-id="SuperRTLGermany.de" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/dark/ios/small/retina/145340.png",SUPER RTL
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/190
+#EXTINF:-1,BOOMERANG
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/29395.ts
+#EXTINF:-1,NICKELODEON
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/225
+#EXTINF:-1,DISNEY JUNIOR
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/243
+#EXTINF:-1,DISNEY JUNIOR
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/29409.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/244
+#EXTINF:-1,DISNEY CHANNEL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/29407.ts
+#EXTINF:-1,CARTOON NETWORK
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/7540
+#EXTINF:-1,CARTOON NETWORK
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/29397.ts
