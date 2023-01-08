@@ -38,7 +38,7 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51841
 #EXTINF:-1 group-title="TV",SIC
 http://satline.xyz:8080/live/7381662208002780/5261662208002780/25073.ts
 
-#EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#EXTINF:-1 group-title="TV",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjMgOTo5OjQxIFBNJmhhc2hfdmFsdWU9UGR3aFV1V1MrRTU1eHpWM1BJYmEzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4NjNjZWFkLWFmYmEtNGRlYS04ODVjLTU1M2M5MjlmNGUyZA==/
@@ -65,7 +65,7 @@ http://satline.xyz:8080/live/7381662208002780/5261662208002780/25066.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#EXTINF:-1 group-title="TV",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjMgOTo5OjQxIFBNJmhhc2hfdmFsdWU9TVJLK1dUd2syaWJoeksxT0krQisyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEyOWJkMWZlLTM1MzYtNDFjMS1hZGU2LTE4NjgyMzY5ZmRjYQ==/
@@ -593,7 +593,7 @@ http://1.qqtv.nl:8080/mama_maia2@hotmail.com/72424694/416788
 #EXTVLCOPT:network-caching=1000
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
+#EXTINF:-1 group-title="TV",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjMgOTo5OjQyIFBNJmhhc2hfdmFsdWU9RWFmNW9WaERMWmVIRkVNRlBHeklPQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNmMTVmZDZiLWIxYTQtNDgyZS1iNmVjLTY2ZDRlYjZjMWMxNw==/
