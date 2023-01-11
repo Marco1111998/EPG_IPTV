@@ -41,7 +41,7 @@ http://satline.xyz:8080/live/7381662208002780/5261662208002780/25073.ts
 #EXTINF:-1 group-title="TV",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDk6MTQ6NCBBTSZoYXNoX3ZhbHVlPXA5cVRnSVN2UjZlT3h4ZXF1U2pPNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hY2VhMDA5Zi1mMDRmLTQ3N2ItOTA4ZC1hYWRmNTYyYWM3N2Q=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDEwOjE1OjM0IEFNJmhhc2hfdmFsdWU9L2dqWEQzU3JrTGwyVDlURGFjMWhPdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTlhNTIxYjRlLTAxZTQtNDZmNy1hNzM2LWIxNjc1YjdkNzhiMw==/
 
 #EXTINF:-1 group-title="TV",SIC NOTICIAS
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
@@ -68,7 +68,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDk6MTQ6NSBBTSZoYXNoX3ZhbHVlPXA1WXVBYlpOQy9PUk8rZmtvY3B4dkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mMGZkODQ1Yy0zZTg3LTQwZGUtYTY3Mi04NDQwYTdlMGExZTk=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDEwOjE1OjM0IEFNJmhhc2hfdmFsdWU9MXBEZ0l0S3lYTkNSWW8vVDRybDhxZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQwOGYyM2E3LTIwZGEtNDhmZC1hY2ViLWY3ZjFhYjA1YzY1OA==/
 
 #EXTINF:-1 group-title="TV",CMTV
 http://fortv.cc:8080/blade123/blade123/78441
@@ -596,7 +596,7 @@ http://live.impresa.pt/live/sicint/sicint.m3u8
 #EXTINF:-1 group-title="TV",TVI Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDk6MTQ6NiBBTSZoYXNoX3ZhbHVlPW82K3lGM2phbU1PbmV6eUtlUDlkS1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wOWNiMmE5Mi03MDlkLTRhMzctOTI4NC1iODVlYmNjNjQ5YTY=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIzIDEwOjE1OjM1IEFNJmhhc2hfdmFsdWU9cTREZWJ3NFJYOHFUdDJLWjJSVGtZUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRlODU3YjFjLWE0MjItNGMyZS1iYTZiLWVmZjFlYThmYjJkNA==/
 
 #EXTINF:-1 group-title="TV",TPA INTERNACIONAL
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
